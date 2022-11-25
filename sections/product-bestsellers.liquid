@@ -1,0 +1,98 @@
+{{ 'component-card.css' | asset_url | stylesheet_tag }}
+{{ 'component-price.css' | asset_url | stylesheet_tag }}
+{{ 'section-bestsellers.css' | asset_url | stylesheet_tag }}
+
+<div class="page-width bestsellers">
+  <div class="bestsellers--inner">
+    <h2 class="bestsellers-header">{{ section.settings.heading }}</h2>
+    <ul class="list-unstyled bestsellers-usp">
+      {%- for block in section.blocks -%}
+        {%- case block.type -%}
+          {%- when 'usp' -%}
+            <li>
+              {%- render 'global-icon' icon: 'checkmark' -%}
+              {{ block.settings.usp }}
+            </li>
+        {%- endcase -%}
+      {%- endfor -%}  
+    </ul>
+    <ul class="list-unstyled grid product-grid contains-card contains-card--standard grid--5-col-desktop grid--2-col-tablet-down">
+      {%- for block in section.blocks -%}
+      {%- case block.type -%}
+      {%- when 'product_selection' -%}
+        {%- assign product = block.settings.product -%}
+          <li class="grid__item">
+            {% render 'card-product',
+              card_product: product,
+              show_quick_add: block.settings.enable_quick_add
+            %}
+          </li>
+        {%- endcase -%}
+        
+      {%- endfor -%}
+    </ul>
+    </div>
+  </div>  
+{% schema %}
+{
+  "name": "Product bestsellers",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Intro header",
+      "default": "UNSERE BESTSELLER"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Intro text"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "usp",
+      "name": "Usp",
+      "settings": [
+        {
+          "type": "text",
+          "id": "usp",
+          "label": "Usp"
+        }
+      ]
+    },
+    {
+      "type": "product_selection",
+      "name": "Select product",
+      "settings": [
+        {
+          "type": "product",
+          "id": "product",
+          "label": "Select product"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_quick_add",
+          "default": true,
+          "label": "t:sections.featured-collection.settings.enable_quick_buy.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Product bestsellers",
+      "blocks": [
+        {
+          "type": "usp"
+        },
+        {
+          "type": "product_selection"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

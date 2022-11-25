@@ -1,0 +1,202 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "b13d9793-c1e1-4a9e-b5fa-00fed1c5123e": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "5860303b-bd94-4b42-b3a3-de28689f954c": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        }
+      },
+      "block_order": [
+        "b13d9793-c1e1-4a9e-b5fa-00fed1c5123e",
+        "5860303b-bd94-4b42-b3a3-de28689f954c"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Rosen",
+        "featured_product_one": "rosenstrauch-rot",
+        "featured_product_two": "rosenstrauch-weiss",
+        "featured_product_three": "rosenstrauch-gelb",
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    },
+    "65e6bb14-9d81-47ff-894a-fb634c9b2619": {
+      "type": "services",
+      "blocks": {
+        "template--15760788390068__65e6bb14-9d81-47ff-894a-fb634c9b2619-1666858280be667ffe-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "71b881f3-5175-4a32-a4a5-0db25cb5a1e2": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "febf000e-a169-4e2c-b5e2-dd549d2d7f16": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "9dbe42b9-12b1-40e3-a6c2-f2aa1b758228": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788390068__65e6bb14-9d81-47ff-894a-fb634c9b2619-1666858280be667ffe-0",
+        "71b881f3-5175-4a32-a4a5-0db25cb5a1e2",
+        "febf000e-a169-4e2c-b5e2-dd549d2d7f16",
+        "9dbe42b9-12b1-40e3-a6c2-f2aa1b758228"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "product-grid",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
+    "65e6bb14-9d81-47ff-894a-fb634c9b2619"
+  ]
+}

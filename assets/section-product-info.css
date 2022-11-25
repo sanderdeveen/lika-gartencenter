@@ -1,0 +1,63 @@
+.product-information-section .product-information {
+  position: relative;
+}
+.product-information {
+  background-color: #FFF;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #2E463B;
+}
+
+@media screen and (min-width: 768px) {
+  .product-information {
+    margin: 4rem 1rem 1rem 1rem;
+    padding: 3.5rem 1rem 1rem 1rem;
+  }
+}
+
+.product-information img {
+  border-radius: 0.4rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .product-information img {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .product-information {
+    background-color: #f2f0ef;
+    margin: 7rem 1rem 3.2rem 1rem;
+    padding: 3.6rem;
+    display: flex;
+    gap: 1.6rem;
+  }
+
+  .product-information--information p {
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 1350px) {
+  .product-information {
+    margin: 5rem auto 3rem auto;
+  }
+}
+
+.product-information--button {
+  margin-top: 0.8rem;
+  padding: 1.2rem;
+  font-size: 1.4rem;
+  min-height: 3.8rem;
+}
+
+@media screen and (min-width: 1300px) {
+  .product-information--button {
+    padding: 0 1.6rem;
+  }
+}
+
+.product-information--button:hover {
+  background-color: #2E463B;
+}

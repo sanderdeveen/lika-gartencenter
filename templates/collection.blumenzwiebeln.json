@@ -1,0 +1,319 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Blumenzwiebeln<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9633a02d-f82f-45ef-b452-1871684ebec0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15860528578740__9633a02d-f82f-45ef-b452-1871684ebec0-16679997530cffb8c2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wo kann man Blumenzwiebeln pflanzen?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15860528578740__9633a02d-f82f-45ef-b452-1871684ebec0-16679997530cffb8c2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Blumenzwiebel können in jedem Garten gepflanzt werden und sind für fast jeden Boden geeignet. Eine Ausnahme sind allerdings extrem nasse Böden, Sandböden und ein schwerer Lehmboden. Gerade im Winter sollten Sie unbedingt darauf achten, dass eine gute Wasserabfuhr im Boden gegeben ist. Denn Wasser, was sich als Pfützen auf dem Blumenbeet sammelt, zerstört die Blumenzwiebeln.<\/p><p>Auch zu trockener Boden ist kein geeigneter Untergrund für die Zwiebelblumen. So spendet ein Sandboden den Blumen nicht die lebensnotwendigen Nährstoffe. Sie können jedoch dem Sandboden ein wenig Kompost beimischen. Das Gleiche gilt für einen schweren Lehmboden. Auch dieser kann mit Hilfe von Kompost, in Kombination mit ein wenig Sand, aufgelockert werden.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860528578740__9633a02d-f82f-45ef-b452-1871684ebec0-16679997530cffb8c2-0",
+        "template--15860528578740__9633a02d-f82f-45ef-b452-1871684ebec0-16679997530cffb8c2-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blumenzwiebel-garten.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a6979276-a3ab-4014-b735-89de9e16a16d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die meisten Zwiebelblumen bevorzugen die Sonne. Jedoch gibt es bei den verschiedenen Blumensorten ebenfalls Unterschiede. So gedeihen zum Beispiel einige Narzissen- und Tulpenarten am besten im Halbschatten, während einige Lilien und Alpenveilchen ganz auf die Sonne verzichten können. Überlegen Sie sich daher genau, welche Blumenzwiebel Sie an welchen Ort pflanzen möchten. Lassen Sie sich in einem Gartencenter ausführlich über die Vorlieben der einzelnen Blumenzwiebeln beraten.<\/p><p><\/p><p>Tipp: Besonders schön und natürlich wirken Frühblüher, wenn sie in kleineren Gruppen gepflanzt werden.<\/p>"
+          }
+        },
+        "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-5": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "9165613a-6229-4129-bb73-9c6b02ea946c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wie pflanzt man Blumenzwiebeln?<\/p>"
+          }
+        },
+        "a9546837-f803-4f25-a16d-8c417a30130c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie alle Vorbereitungen getroffen und sich für die passenden Blumen entschieden haben, können Sie nun mit dem Pflanzen der Blumenzwiebeln beginnen. Das wichtigste ist, dass die Pflanzenlöcher tief genug ausgehoben sind. Als Faustregel gilt bei den Zwiebelblumen: zwei- dreimal so tief, wie die Zwiebel hoch ist. Graben Sie lieber zu tief als zu flach, sonst bekommt die Zwiebel nicht genug Nährstoffe und kann nicht wachsen. In der Regel können Sie auch der Pflanzanleitung entnehmen, wie tief Sie die Löcher ausheben müssen. Fast alle Zwiebelblumen werden in einem sogenannten Horst gepflanzt. Ein Horst ist eine Gruppe aus Zwiebelblumen von etwa 5-15 Stück. Je üppiger Sie eine Stelle bepflanzen, desto schöner wird sie im Frühjahr oder Sommer blühen. Die im Frühling blühenden Blumen müssen im Herbst gepflanzt werden und überstehen sogar harte Winter mit viel Bodenfrost. Jedoch können Sie das Wachstum ein wenig schützen, indem Sie bei strengem Frost die bepflanzten Stellen mit ein wenig Kompost, Stroh oder Tannenzweigen abdecken.<\/p>"
+          }
+        },
+        "3e00c7e6-ef84-4af6-b847-ddb208a22933": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Was sind verwilderte Blumenzwiebeln?<\/p>"
+          }
+        },
+        "7dd509a9-bc89-469f-8ea0-5b7a00ff409d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt einige Zwiebelsorten, die ausdrücklich zum Verwildern geeignet sind. Verwildern heißt in diesem Zusammenhang nichts anderes dass Blumen, die im Boden bleiben, sich eigenständig vermehren und dadurch jedes Jahr wieder austreiben und blühen. Sobald die Blätter der Zwiebelblume vergilbt sind, können Sie diese kurz schneiden oder einfach abmähen und im nächsten Jahr blüht die Blume von neuem. Am besten säen Sie die zu verwildernde Blumen immer in zufälliger Anordnung, damit die Blumen später den flächendeckenden Effekt behalten.<\/p>"
+          }
+        },
+        "5879e9e6-be19-4089-ba65-f42732f1951a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wann sollte man Blumenzwiebeln setzten?<\/p>"
+          }
+        },
+        "8a68ca25-8d7d-48fb-906d-8c5410442be3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In der Regel ist der richtige Zeitpunkt zwischen September und November. Da die meisten Zwiebelblumen auch einen harten Winter mit viel Bodenfrost überstehen, bilden sie bereits im Herbst Schutzstoffe und Wurzeln gegen die Kälte. Daher sollten Sie die Zwiebeln nicht so spät setzten. Es gibt aber auch einige Arten, die man im Herbst ausgraben und zur Überwinterung frostfrei lagern muss. Zu diesen Zwiebelsorten gehören zum Beispiel Dahlien und Cannas.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-1",
+        "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-5",
+        "9165613a-6229-4129-bb73-9c6b02ea946c",
+        "a9546837-f803-4f25-a16d-8c417a30130c",
+        "3e00c7e6-ef84-4af6-b847-ddb208a22933",
+        "7dd509a9-bc89-469f-8ea0-5b7a00ff409d",
+        "5879e9e6-be19-4089-ba65-f42732f1951a",
+        "8a68ca25-8d7d-48fb-906d-8c5410442be3"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "9633a02d-f82f-45ef-b452-1871684ebec0",
+    "a6979276-a3ab-4014-b735-89de9e16a16d",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

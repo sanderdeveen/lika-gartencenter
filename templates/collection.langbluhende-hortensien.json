@@ -1,0 +1,322 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus langblühende Hortensien",
+        "featured_product_one": "bauernhortensie-magical-sapphire",
+        "featured_product_two": "bauernhortensie-magical-noblesse",
+        "featured_product_three": "bauernhortensie-magical-amethyst",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Langblühende Hortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b83a92d9-3de6-4c51-81e9-b93c30d83682": {
+      "type": "faq",
+      "blocks": {
+        "template--15870028808372__b83a92d9-3de6-4c51-81e9-b93c30d83682-16692034678ebb46c8-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Hortensien blühen am längsten?",
+            "custom_liquid_1": "",
+            "content": "<p>Die am längsten blühenden Hortensien in unserem Sortiment sind die Hortensien der Sorte „Magical Four Seasons“. Diese außergewöhnliche Variante blüht bis zu sechs Monate am Stück.<\/p><p>Außerdem wechseln diese „magischen“ Hortensien im Laufe der Zeit wie von Zauberhand ihre Farbe. Je nach Sorte verfärben sich die Blüten weiß, grün, rosa oder violett.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "76dcead7-ebc9-4216-ae98-51fa6a1255f9": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Hortensien blühen jedes Jahr?",
+            "custom_liquid_1": "",
+            "content": "<p>Grundsätzlich blühen alle Hortensien jedes Jahr. Die Dauer der Blütezeit hängt jedoch von der Art und Sorte der Hortensie ab. Außerdem gibt es Hortensien, die an alten Trieben blühen und andere, die an diesjährigen Trieben Knospen bilden.<\/p><p>Hortensien, die am mehrjärigen Holz (den alten Trieben) blühen, bilden nur an den verholzten Trieben aus dem Vorjahr neue Blütenknospen. Wenn man alle diese Triebe im Frühjahr zurückschneidet, wird die Pflanze in diesem Jahr nicht mehr blühen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028808372__b83a92d9-3de6-4c51-81e9-b93c30d83682-16692034678ebb46c8-0",
+        "76dcead7-ebc9-4216-ae98-51fa6a1255f9"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu langblühenden Hortensien"
+      }
+    },
+    "0cbc5f41-0515-4498-9bcb-93376bf77052": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870028808372__0cbc5f41-0515-4498-9bcb-93376bf77052-1669203549b6aa960f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ein Blütenmeer in Ihrem Garten<\/p>"
+          }
+        },
+        "template--15870028808372__0cbc5f41-0515-4498-9bcb-93376bf77052-1669203549b6aa960f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mit langblühenden Hortensien lässt sich Ihr Garten in ein regelrechtes Blütenmeer verwandeln. Sie können Ihre langblühende Hortensie in ein Beet, einen Kübel oder Topf pflanzen. Ganz wie sie möchten! Unsere langblühenden Hortensien haben kugelförmige Blüten und sind winterhart.<\/p>"
+          }
+        },
+        "template--15870028808372__0cbc5f41-0515-4498-9bcb-93376bf77052-1669203549b6aa960f-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/magical-hortensien-magical-sapphire.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "23247041-23a5-4051-9895-9c837ca145ec": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensienerde<\/p>"
+          }
+        },
+        "d3782649-7414-4916-915f-fb0ad6705d9a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien stellen gewisse Ansprüche an die Bodenqualität. Eine Voraussetzung ist, dass der Boden sauer ist. Hortensienerde bietet Moorbeetpflanzen alles, was sie zum Wachsen benötigen. Deshalb sollte beim Pflanzen von Hortensien unbedingt Hortensienerde verwendet werden. Verwöhnen Sie Ihre Hortensien außerdem zweimal im Jahr mit Hortensiendünger, damit sie alle Nährstoffe erhalten, die sie für ein gesundes Wachstum und schöne Blüten benötigen.<\/p>"
+          }
+        },
+        "d79db2bf-f4b1-407a-9283-4e71fea3c59b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Langblühende Hortensien richtig pflegen<\/p>"
+          }
+        },
+        "78168263-f7c1-4c5a-9ff9-c5eb27697e91": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Langblühende Hortensien sind (wie alle Hortensien) pflegeleichte Pflanzen, die keine komplizierte Pflege erfordern. Viel Wasser und zweimal im Jahr düngen ist alles, was die Hortensie braucht. Deshalb sollten Hortensien, insbesondere nach dem Ein- oder Umpflanzen, regelmäßig und reichlich gegossen werden.<\/p><p>Damit sich Ihre Hortensie optimal entwickeln kann, sollte sie in regelmäßigen Abständen zurückgeschnitten werden. Schneiden Sie jedes Jahr die verblühten Blüten ab und je nach Hortensienart die Zweige im Frühjahr teilweise oder vollständig zurück. Mehr zum Zurückschneiden von Hortensien erfahren Sie in unserem Blogartikel „Hortensien zurückschneiden – wann & wie?“.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028808372__0cbc5f41-0515-4498-9bcb-93376bf77052-1669203549b6aa960f-0",
+        "template--15870028808372__0cbc5f41-0515-4498-9bcb-93376bf77052-1669203549b6aa960f-1",
+        "template--15870028808372__0cbc5f41-0515-4498-9bcb-93376bf77052-1669203549b6aa960f-5",
+        "23247041-23a5-4051-9895-9c837ca145ec",
+        "d3782649-7414-4916-915f-fb0ad6705d9a",
+        "d79db2bf-f4b1-407a-9283-4e71fea3c59b",
+        "78168263-f7c1-4c5a-9ff9-c5eb27697e91"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "b83a92d9-3de6-4c51-81e9-b93c30d83682",
+    "0cbc5f41-0515-4498-9bcb-93376bf77052",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

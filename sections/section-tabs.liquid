@@ -1,0 +1,43 @@
+<div class="page-width section-tabs">
+  {%- for block in section.blocks -%}
+    {%- case block.type -%}
+      {%- when 'tab' -%}
+        {%- if block.settings.heading != blank -%}
+          <h2 id="tab-{{- forloop.index -}}">{{ block.settings.heading }}</h2>
+        {%- endif -%}
+        {%- if block.settings.text != blank -%}
+          {{ block.settings.text }}
+        {%- endif -%}
+    {%- endcase -%}
+  {%- endfor -%}
+</div>
+{% schema %}
+{
+  "name": "Section tabs",
+  "tag": "section",
+  "class": "section",
+  "blocks": [
+    {
+      "type": "tab",
+      "name": "Tab",
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Heading"
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "text"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Section tabs"
+    }
+  ]
+}
+{% endschema %}

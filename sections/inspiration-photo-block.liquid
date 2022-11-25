@@ -1,0 +1,101 @@
+<style>
+.section-inspiration-photo {
+  margin: 1rem;
+}
+.inspiration__image {
+  width: 100%;
+  height: auto;
+}
+.inspiration__item {
+  color: #7BBA59;
+  text-decoration: none;
+}
+.inspiration__item:hover {
+  text-decoration: underline;
+}
+.inspiration__item-text {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: -1rem 0.8rem;
+}
+.inspiration__item-figure {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+}
+@media screen and (min-width: 950px) {
+  .section-inspiration-photo {
+    margin: 1rem;
+  }
+}
+</style>
+
+<div class="page-width grid grid--1-col grid--2-col-tablet">
+  {%- for block in section.blocks -%}
+    {%- case block.type -%}
+      {%- when 'image' -%}
+        <a href="{{- block.settings.url -}}" class="grid__item inspiration__item">
+          <img class="inspiration__image border-radius"
+            srcset="{%- if block.settings.image.width >= 375 -%}{{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
+              {%- if block.settings.image.width >= 750 -%}{{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
+              {%- if block.settings.image.width >= 1100 -%}{{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
+              {%- if block.settings.image.width >= 1500 -%}{{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
+              {%- if block.settings.image.width >= 1780 -%}{{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
+              {%- if block.settings.image.width >= 2000 -%}{{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
+              {%- if block.settings.image.width >= 3000 -%}{{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
+              {%- if block.settings.image.width >= 3840 -%}{{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
+              "
+            sizes="100vw"
+            src="{{ block.settings.image | image_url: width: 1500 }}"
+            loading="lazy"
+            alt="{{ block.settings.image.alt | escape }}"
+            width="{{ block.settings.image.width }}"
+            height="{{ block.settings.image.width | divided_by: block.settings.image.aspect_ratio }}"
+          >
+          {%- if block.settings.text != blank -%}  
+            <div class="inspiration__item-text">
+              <span class="inspiration__item-figure"></span>
+              <span>{{ block.settings.text }}</span>
+            </div>
+          {%- endif -%}
+        </a>
+      {%- endcase -%}
+    {%- endfor -%}
+</div>
+{% schema %}
+{
+  "name": "Inspiration photo's",
+  "tag": "section",
+  "class": "section-inspiration-photo",
+  "blocks": [
+    {
+      "type": "image",
+      "name": "image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Text"
+        },
+        {
+          "type": "url",
+          "id": "url",
+          "label": "Url"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Inspirations photo block"
+    }
+  ]
+}
+{% endschema %}

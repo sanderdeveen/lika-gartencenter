@@ -1,0 +1,428 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Bauernhortensien",
+        "featured_product_one": "rispenhortensie-grandiflora",
+        "featured_product_two": "rispenhortensie-limelight",
+        "featured_product_three": "rispenhortensie-sundae-fraise",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Rispenhortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "683f7c6e-caba-4b1e-a59d-a80dc264c357": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870029496500__683f7c6e-caba-4b1e-a59d-a80dc264c357-16691102322add9f97-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Hydrangea paniculata ist eine üppig blühende Hortensienart, die obendrein sehr insektenfreundlich ist. Rispenhortensien gedeihen sowohl im Garten, als auch im Kübel oder Topf. Eine Besonderheit vieler Rispenhortensien ist, dass sich ihre Blütenfarbe während der Blütezeit immer weiter verändert. Diese Hortensienart ist winterhart.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870029496500__683f7c6e-caba-4b1e-a59d-a80dc264c357-16691102322add9f97-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "8162f5e0-7afe-4a7a-a445-d53cac3ddc22": {
+      "type": "faq",
+      "blocks": {
+        "template--15870029496500__8162f5e0-7afe-4a7a-a445-d53cac3ddc22-16691102152d92fcb1-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Bevorzugt die Rispenhortensie einen sonnigen oder schattigen Standort?",
+            "custom_liquid_1": "",
+            "content": "<p>Rispenhortensien fühlen sich an sonnigen oder halbschattigen Standorten am wohlsten. Unter Halbschatten versteht man, wenn der Standort etwa vier Stunden Sonne am Tag erhält und die restliche Zeit schattig ist. Obwohl die Rispenhortensie auch Sonne verträgt, ist ein halbschattiger Platz zu bevorzugen. Bei zu viel Sonne droht nämlich die Gefahr, dass die Blüten schneller vertrocknen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "23e21308-803d-4a99-8690-237af8defce1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie groß werden Rispenhortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Mit einer maximalen Höhe von 2 Metern ist die Rispenhortensie eine relativ große Hortensienart. Wenn Sie die Pflanze jedoch regelmäßig zurückschneiden, können Sie selbst bestimmen, wie groß Ihre Rispenhortensie wird.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "b1353a32-d686-4b20-abab-362a5ccbdcc3": {
+          "type": "faq",
+          "settings": {
+            "heading": "In welchem Monat schneidet man Rispenhortensien zurück?",
+            "custom_liquid_1": "",
+            "content": "<p>Rispenhortensien können am besten im Frühjahr, also im März oder April, zurückgeschnitten werden. Beim Rückschnitt werden alle Zweige auf etwa 10 cm über der Strauchbasis abgeschnitten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870029496500__8162f5e0-7afe-4a7a-a445-d53cac3ddc22-16691102152d92fcb1-0",
+        "23e21308-803d-4a99-8690-237af8defce1",
+        "b1353a32-d686-4b20-abab-362a5ccbdcc3"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Rispenhortensien"
+      }
+    },
+    "1f4fd3cc-c211-4034-a72b-62decb714fc6": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15870029496500__1f4fd3cc-c211-4034-a72b-62decb714fc6-16691102285d75570e-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Pflanzen direkt vom Züchter"
+          }
+        },
+        "d0c7ae55-39eb-4007-9d68-5c0113a8f5d6": {
+          "type": "usp",
+          "settings": {
+            "usp": "Fachkundige Beratung, auch nach dem Kauf"
+          }
+        },
+        "d6bbf4e9-bab2-4b67-88bb-ea49040f8f4d": {
+          "type": "usp",
+          "settings": {
+            "usp": "In ganz Deutschland bis an die Haustür geliefert"
+          }
+        },
+        "template--15870029496500__1f4fd3cc-c211-4034-a72b-62decb714fc6-16691102285d75570e-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-grandiflora"
+          }
+        },
+        "6a910085-839b-41ce-8ca3-8c7c031f2b67": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-limelight"
+          }
+        },
+        "f7145d25-d23d-461c-9264-50bfbb99680f": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-sundae-fraise"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870029496500__1f4fd3cc-c211-4034-a72b-62decb714fc6-16691102285d75570e-0",
+        "d0c7ae55-39eb-4007-9d68-5c0113a8f5d6",
+        "d6bbf4e9-bab2-4b67-88bb-ea49040f8f4d",
+        "template--15870029496500__1f4fd3cc-c211-4034-a72b-62decb714fc6-16691102285d75570e-1",
+        "6a910085-839b-41ce-8ca3-8c7c031f2b67",
+        "f7145d25-d23d-461c-9264-50bfbb99680f"
+      ],
+      "settings": {
+        "heading": "RISPENHORTENSIEN TOPSELLER",
+        "text": ""
+      }
+    },
+    "8d6f0284-db9e-48d3-b715-abacb5c2fe8b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870029496500__8d6f0284-db9e-48d3-b715-abacb5c2fe8b-16691102322add9f97-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verschiedene Rispenhortensien-Sorten<\/p>"
+          }
+        },
+        "template--15870029496500__8d6f0284-db9e-48d3-b715-abacb5c2fe8b-16691102322add9f97-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rispenhortensien sind in verschiedenen Sorten erhältlich. Die bekannteste Rispenhortensie ist die <a href=\"\/products\/rispenhortensie-grandiflora\" title=\"Rispenhortensie 'Grandiflora'\">Hydrangea paniculata ‘Grandiflora’<\/a>. Diese weiße Rispenhortensie besticht durch ihre großen, kegelförmigen Blüten, die sich im Herbst fast dunkelrot verfärben. Aufgrund der Größe und Schwere der Blüten können sich die Triebe der ‘Grandiflora’ nach unten neigen. Wer das nicht möchte, kann sich auch für die <a href=\"\/products\/rispenhortensie-limelight\" title=\"Rispenhortensie 'Limelight'\">Hydrangea paniculata ‘Limelight’<\/a> entscheiden. Diese Rispenhortensie zeichnet sich durch ihre kräftigeren Triebe und ihre schönen hellgrün-weißen („lime“) Blüten aus.<\/p>"
+          }
+        },
+        "656eed4d-c4fe-4212-92eb-09970562989c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rispenhortensie-grandiflora-blauer-himmel.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "940bffb4-7e6e-4436-8b2a-5e6d0a981de2": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rispenhortensien pflanzen<\/p>"
+          }
+        },
+        "fc87238c-298e-453a-af38-930aa1019c38": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien stellen gewisse Ansprüche an die Bodenqualität. Rispenhortensien bevorzugen saure Böden. Hortensienerde bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen. Deshalb sollte beim Pflanzen von Hortensien unbedingt Hortensienerde verwendet werden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach empfehlen wir Ihnen, Ihre Rispenhortensien mit speziellem Hortensiendünger zu verwöhnen. So bleiben Ihre Hortensien immer in Topform!<\/p>"
+          }
+        },
+        "ac44f9b2-55b2-4449-99e8-3d1c98b4a359": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rispenhortensien zurückschneiden<\/p>"
+          }
+        },
+        "99857fdc-9936-400c-92d1-2bf528e2e68d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Natürlich möchten Sie, dass sich Ihre Rispenhortensie optimal entwickelt und lange schön bleibt. Deshalb muss sie regelmäßig zurückgeschnitten werden. Aber wann und wie kann man Rispenhortensien am besten zurückschneiden? Rispenhortensien blühen, wie auch die Schneeballhortensien, am <strong>einjährigen Holz<\/strong>. Das bedeutet, dass sich die Blütenknospen an den diesjährigen Trieben bilden. Für ein optimales Ergebnis schneidet man Rispenhortensien deshalb im Frühjahr (März\/April) bis auf 10 cm über der Strauchbasis zurück. So können Sie noch im selben Jahr die reiche Blütenpracht Ihrer Rispenhortensie genießen!<\/p>"
+          }
+        },
+        "e8de5df3-7f2a-4434-8b23-72a94ded55ac": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rispenhortensien-zurueckschneiden.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "2f07f9e6-5e9b-4d07-90a3-178a7c220538": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alternativen zur Rispenhortensie<\/p>"
+          }
+        },
+        "0c326c0e-851b-40d1-95a7-ef21f7356898": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Neben den Rispenhortensien haben wir eine große Auswahl an Hortensien mit kugelförmigen Blüten in unserem Angebot. Entdecken Sie unsere <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensien<\/a> oder <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensien<\/a> und lassen Sie sich von den wunderschönen Farben überraschen!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870029496500__8d6f0284-db9e-48d3-b715-abacb5c2fe8b-16691102322add9f97-0",
+        "template--15870029496500__8d6f0284-db9e-48d3-b715-abacb5c2fe8b-16691102322add9f97-1",
+        "656eed4d-c4fe-4212-92eb-09970562989c",
+        "940bffb4-7e6e-4436-8b2a-5e6d0a981de2",
+        "fc87238c-298e-453a-af38-930aa1019c38",
+        "ac44f9b2-55b2-4449-99e8-3d1c98b4a359",
+        "99857fdc-9936-400c-92d1-2bf528e2e68d",
+        "e8de5df3-7f2a-4434-8b23-72a94ded55ac",
+        "2f07f9e6-5e9b-4d07-90a3-178a7c220538",
+        "0c326c0e-851b-40d1-95a7-ef21f7356898"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "683f7c6e-caba-4b1e-a59d-a80dc264c357",
+    "8162f5e0-7afe-4a7a-a445-d53cac3ddc22",
+    "1f4fd3cc-c211-4034-a72b-62decb714fc6",
+    "8d6f0284-db9e-48d3-b715-abacb5c2fe8b",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

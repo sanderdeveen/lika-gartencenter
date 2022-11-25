@@ -1,0 +1,468 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "e2979237-3615-4256-8aaf-d9261312564b": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Bambus",
+            "breadcrumb_link": "shopify:\/\/collections\/bambus"
+          }
+        }
+      },
+      "block_order": [
+        "e2979237-3615-4256-8aaf-d9261312564b",
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "c1e3742a-4f09-416a-9566-389609f157f4": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Der Bambus, der wie eine Buxuskugel wächst",
+        "image": "shopify:\/\/shop_images\/fargesia-moontears-bambus-boobux.jpg",
+        "content": "<p>Die kräftig wachsende Bambussorte 'Moontears' eignet sich hervorragend für den Formschnitt. Daher ist diese Sorte <strong>ein guter Ersatz für den Buchsbaum<\/strong>, der häufig vom Buchsbaumzünsler befallen wird. Bambus 'Moontears' hat große, volle Blätter und einen kompakten Wuchs. Rufa 'Moontears' kann auch als Hecke oder Bodendecker gepflanzt werden. Damit schaffen Sie Privatsphäre und zusätzliches Grün in Ihrem Garten!<\/p>",
+        "url": "shopify:\/\/products\/nicht-wuchernder-bambus-moontears",
+        "btn_text": "Sehen Sie sich den Bambus 'Moontears' Boobux an!"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Bambus für im Pflanzkübel<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0": {
+      "type": "faq",
+      "blocks": {
+        "template--15855049801908__eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0-16672115330f28d747-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Können Sie Bambus in ein Pflanzgefäß setzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Sie können einen Bambus in Kübel oder in Pflanzkästen setzen. Unsere Tipps zum Einpflanzen von Bambus in einen Kübel:<\/p>",
+            "custom_liquid_2": "<ol>\n<li>Wählen Sie einen stabilen Pflanzkübel. Die Wurzeln des Bambus sind sehr stark und können leicht durch einen Topf wachsen, der nicht stabil genug ist.<\/li>\n<li>Suchen Sie ein ausreichend großes Pflanzgefäß aus. Achten Sie darauf, dass der Topf doppelt so groß ist wie der Wurzelballen der Pflanze. Auf diese Weise hat Ihr Bambus genügend Platz zum Wachsen.<\/li>\n<li>Sorgen Sie für eine gute Drainage. Es ist wichtig, dass das Wasser gut abfließen kann. Wählen Sie also einen Pflanzkübel mit einem Loch oder mehreren Löchern im Boden.<\/li>\n<\/ol>"
+          }
+        },
+        "287fe68d-36fe-4202-a711-75ff72342883": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welcher Bambus eignet sich für Pflanzkübel?",
+            "custom_liquid_1": "",
+            "content": "<p>Unsere nicht wuchernden Fargesia-Sorten eignen sich am besten für die Pflanzung in Kübel.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a2c500cb-0516-4529-8005-630695f9bcd2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflegt man Bambus in einem Pflanzkübel? ",
+            "custom_liquid_1": "",
+            "content": "<p>Geben Sie Ihrer Bambuspflanze reichlich Wasser, nachdem Sie diese in den Pflanzkasten oder Pflanzkübel gesetzt haben. Auch nach der Pflanzung ist es wichtig, dass Sie Ihren Bambus reichlich gießen. Dadurch verhindern Sie, dass die Wurzeln im Kübel austrocknen. Ein Tröpfchen-Bewässerungssystem kann Sie dabei unterstützen, Ihre Pflanzen in regelmäßigen Abständen zu bewässern.<\/p><p>Außerdem ist es wichtig, dass Sie Ihren Bambus zweimal im Jahr zurückschneiden und düngen. Die Nährstoffversorgung stärkt die Pflanze und der regelmäßige Formschnitt garantiert eine gute Kondition der Pflanze.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0-16672115330f28d747-0",
+        "287fe68d-36fe-4202-a711-75ff72342883",
+        "a2c500cb-0516-4529-8005-630695f9bcd2"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen über Bambus in einen Pflanzkübel"
+      }
+    },
+    "8cf846dd-dba5-4b7e-87e0-e9899cddb318": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambus in Kübel pflanzen<\/p>"
+          }
+        },
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für eine Bambuspflanze in einem Kübel im Freien ist es wichtig, dass der Wurzelballen genügend Platz zum Wachsen hat. Wenn Sie einen Bambus in einen Kübel pflanzen möchten, verwenden Sie ein Pflanzgefäß, das doppelt so groß ist wie der Wurzelballen des Bambus. Der ideale Bambuskübel ist sehr robust, vor allem wenn Sie einen wuchernden Bambus auswählen. Nicht nur, weil die Wurzeln so kräftig sein können, dass sie sich durch den Kübel hindurcharbeiten können, sondern auch, um zu verhindern, dass der Pflanzkasten vom Wind umgeweht wird.<\/p><p>Darüber hinaus ist eine gute Drainage äußerst wichtig. Bambus kann Wasser gut vertragen. Allerdings ersticken die Wurzeln, wenn das Wasser nicht kontinuierlich abfließen kann. Letztendlich wird Ihr Bambus diese extrem feuchten Bedingungen nicht überleben. Streuen Sie ein COMPO BIO Granuplant Drainage- und Pflanzgranulat auf den Topfboden. Stellen Sie sicher, dass sich im Boden ein Abflussloch befindet, damit das Wasser gut ablaufen kann.<\/p><p>Wenn Sie einen guten, stabilen Pflanzkübel oder Pflanzkasten verwenden und dem Bambus ausreichend Wasser geben, entwickelt sich der Bambus in Pflanztöpfen fast immer gut. Die Bambusart Fargesia eignet sich am besten für einen Kübel. Es handelt sich um eine nicht wuchernde Bambusart mit einem kompakten Wurzelballen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-0",
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "10af9d86-6b3a-4cc7-9c08-3641a61042ae": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Bambus direkt vom Züchter"
+          }
+        },
+        "2bedcac0-b210-4446-8ebc-33110cb34e7f": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "5cc7299a-8518-49a7-a861-8c9ddc7b31a9": {
+          "type": "usp",
+          "settings": {
+            "usp": "Mehr als 5000 zufriedene Kunden"
+          }
+        },
+        "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "9bd20576-9d9e-43e3-a3d2-fd82f61747ac": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-obelisk"
+          }
+        },
+        "a5e64aa6-75af-41d6-b9c5-438dabf02420": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-moontears"
+          }
+        }
+      },
+      "block_order": [
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-0",
+        "2bedcac0-b210-4446-8ebc-33110cb34e7f",
+        "5cc7299a-8518-49a7-a861-8c9ddc7b31a9",
+        "e95a5d4c-925a-4fbd-8991-28851e1d94ee",
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1",
+        "9bd20576-9d9e-43e3-a3d2-fd82f61747ac",
+        "a5e64aa6-75af-41d6-b9c5-438dabf02420"
+      ],
+      "settings": {
+        "heading": "Topfbambus-Bestseller",
+        "text": "",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false
+      }
+    },
+    "3376df90-0178-4667-b2be-835718e15eb6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambuspflanzen auf Balkon, Terrasse oder Dachterrasse<\/p>"
+          }
+        },
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Setzen Sie sich auf Ihre Terrasse oder Ihren Balkon und genießen Sie das säuselnde Rauschen des Windes, der durch den Bambus weht. Bambus ist eine vielseitige Pflanze, die fast jedem Ort einen asiatischen Touch verleiht. Der Bambus kann alles! Dekorieren Sie damit Ihre Dachterrasse oder trennen Sie Garten und Terrasse voneinander ab. <\/p><p>Kübel-Bambus gedeiht sowohl in der <strong>Sonne als auch im Halbschatten<\/strong>. Allerdings bevorzugt der Bambus im Pflanztopf einen geschützten Platz. Vor allem in den Wintermonaten ist Bambus empfindlicher gegenüber Kälte und Wind, wodurch sich die Blätter verfärben können. Keine Sorge, im Frühjahr wird sich die Pflanze erholen und wieder wunderbar grün werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0",
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflege Ihres Kübel-Bambus<\/p>"
+          }
+        },
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei sehr starkem Frost wird ein Kübelbambus etwas schneller erfrieren als ein Bambus, der direkt in der Gartenerde wächst. Wenn die Wurzeln erfroren sind, kann die Pflanze kein Wasser aufnehmen und vertrocknet. Um die Pflanze vor extremer Kälte zu schützen, können Sie diese einpacken oder an einen geschützten Standort stellen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0",
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "96e274c4-76ab-4dd3-8b42-967b00903e41": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bambus in Pflanzkästen",
+        "image": "shopify:\/\/shop_images\/nicht-wuchernder-bambus-rufa-im-kubel_a29e48ba-f378-4cf7-99ec-e1216933cf7d.jpg",
+        "content": "<p>Bambus ist ausgesprochen wasserliebend. Denken Sie daran, wenn Sie Bambuskübel auf Ihrer Terrasse oder Ihrem Balkon platzieren. In Kübeln trocknet der Bambus schneller aus als im Freiland. <strong>Regelmäßige Wassergaben<\/strong> sind daher wichtig, damit Ihre Bambuspflanze nicht austrocknet. Eine getopfte Bambuspflanze ist eine gute Sache, benötigt aber ein wenig mehr Liebe und Aufmerksamkeit.<\/p>",
+        "url": "",
+        "btn_text": "Sehen Sie sich den Pflanzkübel Elho vivo mattiert lang weiß an"
+      }
+    },
+    "c29e64dc-f940-4c80-b171-bdeabf9be065": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15858386075828__c29e64dc-f940-4c80-b171-bdeabf9be065-1667570556650ab6b8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflanzerde für Ihren Kübelbambus<\/p>"
+          }
+        },
+        "template--15858386075828__c29e64dc-f940-4c80-b171-bdeabf9be065-1667570556650ab6b8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie den Bambus in einen Pflanzkasten oder einen Kübel pflanzen, ist es wichtig, eine gute Bambus-Pflanzerde mit Nährstoffen zu verwenden, wie z. B. <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde<\/a>. Diese Pflanzerde enthält zusätzliche Nährstoffe, die für den Kübelbambus im Freien sehr wichtig sind. Sie können diese auch mit normaler Blumenerde mischen.<\/p>"
+          }
+        },
+        "16303e12-5f56-481b-b478-10fe92439179": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Schnitt und Düngung des Kübelbambus <\/p>"
+          }
+        },
+        "65c36e24-13dc-4496-81a3-508471a563be": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um den Bambus gut zu pflegen, ist es wichtig, die Pflanze zweimal im Jahr zu schneiden und <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a> zu verwenden. Düngen Sie Ihren Bambus im zeitigen Frühjahr und im Sommer. Sie erhalten eine gesunde Pflanze, die prächtig wächst und auf den Winter vorbereitet ist, indem Sie ihr die notwendigen Nährstoffe geben. Bambus wächst schnell, daher ist es ratsam, ihn regelmäßig zurückzuschneiden. So bleibt die Pflanze in Form und schön kompakt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386075828__c29e64dc-f940-4c80-b171-bdeabf9be065-1667570556650ab6b8-0",
+        "template--15858386075828__c29e64dc-f940-4c80-b171-bdeabf9be065-1667570556650ab6b8-1",
+        "16303e12-5f56-481b-b478-10fe92439179",
+        "65c36e24-13dc-4496-81a3-508471a563be"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "c1e3742a-4f09-416a-9566-389609f157f4",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0",
+    "8cf846dd-dba5-4b7e-87e0-e9899cddb318",
+    "10af9d86-6b3a-4cc7-9c08-3641a61042ae",
+    "3376df90-0178-4667-b2be-835718e15eb6",
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997",
+    "96e274c4-76ab-4dd3-8b42-967b00903e41",
+    "c29e64dc-f940-4c80-b171-bdeabf9be065",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

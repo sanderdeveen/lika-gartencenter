@@ -1,0 +1,57 @@
+.bestsellers {
+  margin: 3.8rem 1rem 2rem 1rem;
+  border-radius: 0.4rem;
+  border: 2px solid #2E463B;
+  padding: 1rem 0.8rem;
+  position: relative;
+  background-color: #f2f0ef;
+}
+
+@media screen and (min-width: 750px) {
+  .bestsellers {
+    margin: 3.8rem auto 2rem auto;
+  }
+
+  .bestsellers-header {
+    transform: translateX(-50%);
+    left: 50%;
+    width: max-content;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .bestsellers {
+    margin: 6.8rem 1rem 5rem 1rem;
+  }
+}
+
+.bestsellers-usp {
+  display: flex;
+  flex-direction: column;
+  margin: 0.8rem 0;
+}
+
+@media screen and (min-width: 750px) {
+  .bestsellers-usp {
+    margin: 1.4rem 0 1rem 0;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: inherit;
+  }
+}
+
+.bestsellers-usp li {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.bestsellers-usp li .icon-checkmark {
+  color: #7BBA59;
+}
+@media screen and (min-width: 950px) {
+  .bestsellers--inner .product-grid {
+    justify-content: center;
+  }
+}

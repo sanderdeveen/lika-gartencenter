@@ -1,0 +1,334 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Bauernhortensien",
+        "featured_product_one": "schneeballhortensie-strong-annabelle",
+        "featured_product_two": "schneeballhortensie-invincibelle",
+        "featured_product_three": "schneeball-hortensie-annabelle",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Schneeballhortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "cd8215ea-4c5d-4a35-b51d-89b88ce4db36": {
+      "type": "faq",
+      "blocks": {
+        "template--15870029791412__cd8215ea-4c5d-4a35-b51d-89b88ce4db36-166902849409e06f6c-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie schneidet man Schneeballhortensien richtig zurück?",
+            "custom_liquid_1": "",
+            "content": "<p>Schneeballhortensien blühen am einjährigen Holz. Das bedeutet, dass sich an den neuen Trieben neue Blüten bilden. Damit die Schneeballhortensie nicht zu sehr in die Breite und Höhe wächst, werden im Frühjahr (März\/April) alle Zweige bis auf 10 cm über der Strauchbasis zurückgeschnitten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "cd5db540-8778-499d-afe6-5fe8b1a45bcf": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflanzt man Schneeballhortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Schneeballhortensien eignen sich sowohl für die Topfkultur als auch zum Einsetzen im Garten. Pflanzen Sie nicht mehr als 3 Hortensien pro Quadratmeter, um einen schönen, üppigen Strauch zu erhalten. Für das beste Ergebnis ist es ratsam, spezielle Hortensienerde zu verwenden. Hortensien gedeihen nämlich am besten in sauren Böden.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "381e54a8-6155-4549-8885-54bd5baa5339": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie hoch werden Schneeballhortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Schneeballhortensien werden bis zu 150 cm hoch. Die großen, kugelförmigen Blüten sind das Markenzeichen der Schneeballhortensie. Sie können einen Durchmesser von bis zu 20 cm – also fast Fußballgröße – erreichen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870029791412__cd8215ea-4c5d-4a35-b51d-89b88ce4db36-166902849409e06f6c-0",
+        "cd5db540-8778-499d-afe6-5fe8b1a45bcf",
+        "381e54a8-6155-4549-8885-54bd5baa5339"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Schneeballhortensien"
+      }
+    },
+    "ec5cbda5-69f2-4466-8d38-fe984a09bb1b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870029791412__ec5cbda5-69f2-4466-8d38-fe984a09bb1b-16691067789977479a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine der bekanntesten Hortensien ihrer Art ist die <a href=\"\/products\/schneeball-hortensie-annabelle\" title=\"Schneeballhortensie 'Annabelle'\">Schneeballhortensie ‘Annabelle’<\/a>, die sich durch ihre riesigen Blüten auszeichnet. Die weißen Kugeln sind oft so groß, dass sich die Zweige bis zum Boden neigen. Sie können nämlich einen Durchmesser von bis zu 20 cm erreichen. Um zu verhindern, dass sich die Zweige verbiegen oder sogar abbrechen, können Sie am besten eine Pflanzenstütze verwenden. Eine andere Möglichkeit wäre die gleichzeitige Bepflanzung mit „stützenden“ Heckenpflanzen, wie zum Beispiel einer <a href=\"\/products\/buchshecke\" title=\"Buchshecke\">Buchsbaumhecke<\/a>. Auf diese Weise kann sich die Hortensie an die Hecke „anlehnen“ und können die Stiele nicht so leicht umknicken. Eine natürliche Pflanzenstütze, sozusagen!Wer auf jegliche Stützhilfen verzichten möchte, kann sich auch für eine andere, kräftigere Variante der Schneeballhortensie entscheiden.<\/p><p>Die <a href=\"\/products\/schneeballhortensie-strong-annabelle\" title=\"Schneeballhortensie 'Strong Annabelle'\">Schneeballhortensie ‘Strong Annabelle’<\/a> ist die robustere Variante der Sorte ‘Annabelle’, mit dickeren, kräftigeren Stielen, schnellem Wachstum und noch größeren Blütenständen. Im Gegensatz zur günstigeren Ursprungsvariante lässt die ‘Strong Annabelle’ ihre Köpfe nicht so schnell hängen, sodass man die Blütenpracht noch länger genießen kann.<\/p>"
+          }
+        },
+        "902f113b-041e-47a8-a15c-dc2cde57165d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schneeballhortensie-annabelle-blumen-weiss.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "96237fb1-3832-44e3-982f-3ce8c232a164": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Schneeballhortensien zurückschneiden<\/p>"
+          }
+        },
+        "b52c6434-f7d4-4c87-af78-4fdcb8f27ccc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir empfehlen Ihnen, die alten Blütenstände knapp oberhalb der neuen Knospen abzuschneiden. Warten Sie mit dem Rückschnitt bis zum Frühjahr, damit Sie auch im Winter nicht auf Ihren Blickfang verzichten müssen. Schneiden Sie im Frühjahr alle überhängenden Zweige ab. Damit die Schneeballhortensie nicht zu groß wird, empfiehlt es sich, sie Ende März oder Anfang April bis auf 10 bis 30 cm über dem Boden zurückzuschneiden. An den neuen Trieben entstehen noch im selben Jahr neue Blüten.<\/p>"
+          }
+        },
+        "71760f30-b78e-46d6-bd9d-1bdc65fa6516": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schneeballhortensien-zurueckschneiden.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "a83498e2-4c47-4bee-ba2b-1a4e707231b0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Schneeballhortensien pflanzen<\/p>"
+          }
+        },
+        "e29aefb0-4950-4caa-9749-f3d305b89a4a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schneeballhortensien eignen sich sowohl für die Topfkultur als auch zum Einsetzen im Garten. Dabei sollte allerdings darauf geachtet werden, dass die richtige Erde verwendet wird. Hortensien stellen gewisse Ansprüche an die Bodenqualität. Eine Voraussetzung ist, dass der Boden sauer ist. Hortensienerde bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen. Deshalb sollte beim Pflanzen von Hortensien unbedingt Hortensienerde verwendet werden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach sollten Sie Ihre Schneeballhortensie zweimal im Jahr mit speziellem Hortensiendünger verwöhnen. So bleibt Ihre Hortensie immer in Topform!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870029791412__ec5cbda5-69f2-4466-8d38-fe984a09bb1b-16691067789977479a-1",
+        "902f113b-041e-47a8-a15c-dc2cde57165d",
+        "96237fb1-3832-44e3-982f-3ce8c232a164",
+        "b52c6434-f7d4-4c87-af78-4fdcb8f27ccc",
+        "71760f30-b78e-46d6-bd9d-1bdc65fa6516",
+        "a83498e2-4c47-4bee-ba2b-1a4e707231b0",
+        "e29aefb0-4950-4caa-9749-f3d305b89a4a"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "cd8215ea-4c5d-4a35-b51d-89b88ce4db36",
+    "ec5cbda5-69f2-4466-8d38-fe984a09bb1b",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

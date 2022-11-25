@@ -1,0 +1,393 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Weiße Hortensien",
+        "featured_product_one": "schneeball-hortensie-annabelle",
+        "featured_product_two": "bauernhortensie-weiss",
+        "featured_product_three": "rispenhortensie-grandiflora",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Weiße Hortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8667f0fc-130f-4021-b2df-cbc8137e3a6c": {
+      "type": "faq",
+      "blocks": {
+        "template--15870030053556__8667f0fc-130f-4021-b2df-cbc8137e3a6c-16691240679d71c4c9-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie sorge ich dafür, dass meine weiße Hortensie weiß bleibt?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Blüten weißer Hortensien bleiben immer weiß. Bei weißen Hortensien hat der pH-Wert des Bodens keinen Einfluss auf die Farbe der Blüten. Nur gegen Ende der Blütezeit färben sich die Blüten braun.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "dbfb145c-35aa-4d4a-a77e-f0c09ce8eb94": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann kann man weiße Hortensien am besten pflanzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien können am besten während ihrer Ruheperiode, also im Frühjahr oder Herbst, gepflanzt werden. Pflanzen Sie Ihre Hortensie im März\/April oder Oktober\/November und nur in der frostfreien Zeit, um eventuelle Frostschäden zu vermeiden.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "ce0ea4d3-dcc1-42eb-b965-73269a59b918": {
+          "type": "faq",
+          "settings": {
+            "heading": "Können weiße Hortensien im Schatten wachsen?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien fühlen sich an sonnigen und halbschattigen Standorten am wohlsten. Dennoch gibt es einige Sorten, die auch gut mit wenig Sonnenlicht zurechtkommen. Suchen Sie eine weiße Hortensie für einen schattigen Standort? Sehen Sie sich unsere <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensien<\/a> oder <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensien<\/a> an.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870030053556__8667f0fc-130f-4021-b2df-cbc8137e3a6c-16691240679d71c4c9-0",
+        "dbfb145c-35aa-4d4a-a77e-f0c09ce8eb94",
+        "ce0ea4d3-dcc1-42eb-b965-73269a59b918"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu weißen Hortensien"
+      }
+    },
+    "14931a48-ce16-4ac7-8bab-b3daecc4da5b": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15870030053556__14931a48-ce16-4ac7-8bab-b3daecc4da5b-1669124356f75062fd-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Pflanzen direkt vom Züchter"
+          }
+        },
+        "84aa0164-b377-4dfe-a4e7-9e9e80d5cdfc": {
+          "type": "usp",
+          "settings": {
+            "usp": "Fachkundige Beratung, auch nach dem Kauf"
+          }
+        },
+        "a401e819-957e-42c2-9e47-f01787333308": {
+          "type": "usp",
+          "settings": {
+            "usp": "In ganz Deutschland bis an die Haustür geliefert"
+          }
+        },
+        "template--15870030053556__14931a48-ce16-4ac7-8bab-b3daecc4da5b-1669124356f75062fd-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "schneeball-hortensie-annabelle"
+          }
+        },
+        "ba1e82bb-2cf9-4524-b19d-d6b6491ef6bf": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-weiss"
+          }
+        },
+        "9d03435b-950a-437d-b8b5-19a84ef8bccf": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-grandiflora"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870030053556__14931a48-ce16-4ac7-8bab-b3daecc4da5b-1669124356f75062fd-0",
+        "84aa0164-b377-4dfe-a4e7-9e9e80d5cdfc",
+        "a401e819-957e-42c2-9e47-f01787333308",
+        "template--15870030053556__14931a48-ce16-4ac7-8bab-b3daecc4da5b-1669124356f75062fd-1",
+        "ba1e82bb-2cf9-4524-b19d-d6b6491ef6bf",
+        "9d03435b-950a-437d-b8b5-19a84ef8bccf"
+      ],
+      "settings": {
+        "heading": "WEIẞE HORTENSIEN TOPSELLER",
+        "text": ""
+      }
+    },
+    "abf8c6a7-5f01-4ca2-a4e4-25fb1cc9a592": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870030053556__abf8c6a7-5f01-4ca2-a4e4-25fb1cc9a592-16691245108ef0c3da-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verschiedene Blütenformen<\/p>"
+          }
+        },
+        "template--15870030053556__abf8c6a7-5f01-4ca2-a4e4-25fb1cc9a592-16691245108ef0c3da-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien können verschiedene Blütenformen haben. Wenn Sie die klassische kugelförmige Form bevorzugen, empfehlen wir Ihnen die <a href=\"\/products\/schneeball-hortensie-annabelle\" title=\"Schneeballhortensie 'Annabelle'\">Schneeballhortensie ‘Annabelle’<\/a>, die <a href=\"\/products\/schneeballhortensie-strong-annabelle\" title=\"Schneeballhortensie 'Strong Annabelle'\">Schneeballhortensie 'Strong Annabelle‘<\/a> oder die weiße Hydrangea macrophylla, besser bekannt als <a href=\"\/products\/bauernhortensie-weiss\" title=\"Bauernhortensie weiß\">Bauernhortensie weiß<\/a>. Möchten Sie lieber etwas Auffälligeres in Ihrem Garten? Dann könnte Ihnen eine weiße Rispenhortensie mit ihren großen kegelförmigen Blütenrispen gefallen. Wie die <a href=\"\/products\/rispenhortensie-limelight\" title=\"Rispenhortensie 'Limelight'\">Hydrangea paniculata ‘Limelight’<\/a> oder die <a href=\"\/products\/rispenhortensie-grandiflora\" title=\"Rispenhortensie 'Grandiflora'\">Hydrangea paniculata 'Grandiflora'<\/a>. Diese beiden Sorten haben besonders kräftige Stiele, damit die schweren Blüten nicht umknicken. <\/p><p>Suchen Sie eine ganz besondere weiße Hortensie? Die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblättrige Hortensie<\/a> ist ein außergewöhnliches Exemplar, deren Blüten sich von weiß bis rosa verfärben. Diese Hortensie besticht nicht nur mit ihren Blüten, sondern auch mit ihren eichenblattförmigen Blättern. Eine andere Ausnahmeerscheinung ist die <a href=\"\/products\/kletterhortensie-petiolaris\" title=\"Kletterhortensie 'Petiolaris'\">Hydrangea anomala ‘Petiolaris’<\/a> – eine Kletterhortensie, die sich durch ihre besondere Wuchsform auszeichnet. Diese Hortensienart hat große schirmförmige Blütendolden und kann bis zu 20 Meter in die Höhe wachsen.<\/p>"
+          }
+        },
+        "487d81d2-548d-421a-8648-a40e70ff6949": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Weiße Hortensien pflanzen und umsetzen<\/p>"
+          }
+        },
+        "34809184-d5d0-448a-974e-bae5a4375d17": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Weiße Hortensien können sowohl in den Garten gepflanzt als auch im Topf oder Kübel kultiviert werden. Beim Einsetzen der Hortensie müssen allerdings einige Dinge beachtet werden, wie zum Beispiel der richtige Standort. Hortensien stehen am liebsten im Halbschatten. Ganz wichtig ist es auch, weiße Hortensien regelmäßig und reichlich zu gießen. Der botanische Name lautet nicht umsonst „Hydrangea“, abgeleitet vom Wort „hydro“, was soviel wie Wasser bedeutet. Eine praktische Schritt-für-Schritt-Anleitung zum Pflanzen und Umsetzen von weißen Hortensien finden Sie in unseren Blogbeiträgen Hortensien pflanzen und Hortensien umsetzen.<\/p>"
+          }
+        },
+        "199cb535-9d4a-4c22-bcda-afc444826986": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schneeballhortensie-annabelle-blumen-weiss.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "d6bffb1b-69ac-4a3f-93fb-98f9e1facae5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Weiße Hortensien richtig pflegen<\/p>"
+          }
+        },
+        "eb2a934c-738c-49a6-b91e-3a2fabfe6404": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Weiße Hortensien sind (wie alle Hortensienarten) äußerst robuste und pflegeleichte Pflanzen. Sie sind winterhart und haben so gut wie keine Krankheiten. Hortensien bevorzugen saure Böden. Der pH-Wert des Bodens hängt vom Kalkgehalt ab. Für den richtigen pH-Wert im Boden empfehlen wir Ihnen, beim Pflanzen von Hortensien spezielle Hortensienerde zu verwenden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach sollten Sie Ihre Hortensie zweimal im Jahr mit Hortensiendünger verwöhnen. So bleibt Ihre Hortensie immer in Topform!<\/p>"
+          }
+        },
+        "d4a49b63-9c83-4f25-98c6-226e5a9c30e7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Zurückschneiden<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870030053556__abf8c6a7-5f01-4ca2-a4e4-25fb1cc9a592-16691245108ef0c3da-0",
+        "template--15870030053556__abf8c6a7-5f01-4ca2-a4e4-25fb1cc9a592-16691245108ef0c3da-1",
+        "487d81d2-548d-421a-8648-a40e70ff6949",
+        "34809184-d5d0-448a-974e-bae5a4375d17",
+        "199cb535-9d4a-4c22-bcda-afc444826986",
+        "d6bffb1b-69ac-4a3f-93fb-98f9e1facae5",
+        "eb2a934c-738c-49a6-b91e-3a2fabfe6404",
+        "d4a49b63-9c83-4f25-98c6-226e5a9c30e7"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "8667f0fc-130f-4021-b2df-cbc8137e3a6c",
+    "14931a48-ce16-4ac7-8bab-b3daecc4da5b",
+    "abf8c6a7-5f01-4ca2-a4e4-25fb1cc9a592",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Bauernhortensien",
+        "featured_product_one": "bauernhortensie-blau",
+        "featured_product_two": "bauernhortensie-weiss",
+        "featured_product_three": "bauernhortensie-rosa",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Bauernhortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "568eb29a-7751-4fbd-9383-2ae2b327f2b4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870027497652__568eb29a-7751-4fbd-9383-2ae2b327f2b4-1669024257fc633b90-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Insbesondere in den Sommermonaten kann man sich an der üppigen Blütenpracht der Bauernhortensie erfreuen. Im Juli und August, oft auch schon früher, bezaubert die Bauernhortensie mit ihren großen, kugelförmigen Blütendolden. Und sogar im verblühten Zustand ist die Bauernhortensie eine wahre Schönheit. Dadurch scheint sie ewig lang zu blühen! Die nektarreichen Hortensienblüten ziehen außerdem zahlreiche Insekten an.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870027497652__568eb29a-7751-4fbd-9383-2ae2b327f2b4-1669024257fc633b90-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "4ef82b22-d814-49fa-a6f1-e57c731c10fe": {
+      "type": "faq",
+      "blocks": {
+        "template--15870027497652__4ef82b22-d814-49fa-a6f1-e57c731c10fe-166902440808d79b7e-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie hoch werden Bauernhortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Bauernhortensien werden bis zu 150 cm hoch und eignen sich dadurch auch ausgezeichnet als Kübelpflanze.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "b5185fcc-c158-463b-9aa7-05633332c46f": {
+          "type": "faq",
+          "settings": {
+            "heading": "Woran erkennt man die Bauernhortensie?",
+            "custom_liquid_1": "",
+            "content": "<p>Man erkennt die Bauernhortensie an ihren kugelförmigen Blütendolden, die in vielen verschiedenen Farben und Farbkombinationen (Rot, Blau, Rosa, Weiß) vertreten sind. Ein weiteres typisches Merkmal der Bauernhortensie ist, dass sie ausschließlich am vorjährigen Holz blüht. An den neuen, grünen Trieben bilden sich erst im darauffolgenden Jahr Blütenknospen aus.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "c5995b0d-733a-4e25-b4bf-3e8e297bbfda": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie schneidet man Bauernhortensien richtig zurück?",
+            "custom_liquid_1": "",
+            "content": "<p>Bei der Bauernhortensie schneidet man im Frühjahr die verblühten Blütenrispen ab. Wenn der Strauch verjüngt werden soll, schneidet man etwa ein Drittel der Zweige heraus und im nächsten Jahr ein weiteres Drittel. So können Sie Ihre Bauernhortensie schrittweise verjüngen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870027497652__4ef82b22-d814-49fa-a6f1-e57c731c10fe-166902440808d79b7e-0",
+        "b5185fcc-c158-463b-9aa7-05633332c46f",
+        "c5995b0d-733a-4e25-b4bf-3e8e297bbfda"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Bauernhortensien"
+      }
+    },
+    "950320ac-81a5-4689-bf7c-0d857c653290": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870027497652__950320ac-81a5-4689-bf7c-0d857c653290-1669024257fc633b90-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verschiedene Bauernhortensien-Sorten<\/p>"
+          }
+        },
+        "template--15870027497652__950320ac-81a5-4689-bf7c-0d857c653290-1669024257fc633b90-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bauernhortensien sind meist rosa, violett, blau oder rot, aber auch in Weiß erhältlich. Die <a href=\"\/products\/bauernhortensie-weiss\" title=\"Bauernhortensie weiß\">weiße Bauernhortensie<\/a> ist sogar eine der beliebtesten weißen Hortensienarten. Neben den einfarbigen Varianten haben wir auch mehrfarbige Sorten, wie zum Beispiel die <a href=\"\/products\/bauernhortensie-magical-amethyst\" title=\"Bauernhortensie 'Magical Amethyst'\">Hydrangea macrophylla ‘Magical Amethyst’<\/a> in unserem Angebot. Diese Bauernhortensie hat mehrfarbige Blüten, deren Farbe sich während der Blütezeit mehrmals ändert. Kurzum, es ist für jeden Geschmack etwas dabei!<\/p>"
+          }
+        },
+        "d9fad8c6-5935-4c1a-8a5e-e38e22c39415": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hortensie-blumen-violett-rot-rosa.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "fb161d0f-bd65-44b2-a663-c8d028fbedad": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bauernhortensien pflanzen<\/p>"
+          }
+        },
+        "74708dbb-f2d3-454f-9211-0b0078ea6ad2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bauernhortensien bevorzugen saure Böden. Hortensienerde ist eine speziell auf die Bedürfnisse von Moorbeetpflanzen abgestimmte Blumenerde und bestens zum Pflanzen von Bauernhortensien geeignet. Hortensienerde enthält außerdem genügend Nährstoffe für 100 Tage. Danach empfehlen wir Ihnen, Ihre Bauernhortensien zweimal im Jahr mit Hortensiendünger zu verwöhnen. Bauernhortensien gedeihen sowohl im Topf (Kübel) als auch im Garten.<\/p>"
+          }
+        },
+        "41251715-b6f2-47b1-99d7-763890f81b4b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie sich für eine blaue Bauernhortensie entschieden? Blaue Hortensien verfärben sich rosa, wenn der pH-Wert des Bodens nicht stimmt. Deshalb empfehlen wir Ihnen, zweimal im Jahr Compo Blaue Hortensien zu verwenden, damit die blauen Blütendolden ihre leuchtend blaue Farbe behalten.<\/p>"
+          }
+        },
+        "07c67625-63b5-4ea7-9bea-ca845083334d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bauernhortensien zurückschneiden<\/p>"
+          }
+        },
+        "3dc6d596-98c3-49c0-aba5-a02908b0ac9f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Damit Ihre Bauernhortensien möglichst lange schön bleiben, ist es wichtig, sie fachgerecht zurückzuschneiden. Bauernhortensien blühen an den verholzten Trieben des Vorjahres. Dabei ist es gut zu wissen, dass Hortensien, die am <strong>mehrjährigen Holz<\/strong> blühen, nicht unbedingt zurückgeschnitten werden müssen. Dennoch ist es wichtig, jedes Jahr die verblühten Dolden zu entfernen. Zurückgeschnitten werden Bauernhortensien eigentlich nur, wenn sie zu groß geworden sind oder wenn der Strauch verjüngt werden soll. Die beste Zeit dafür ist im März oder April. Beim Rückschnitt wird etwa ein Drittel der Zweige auf 10 cm über der Basis zurückgeschnitten. An den verbleibenden Trieben bilden sich im selben Jahr noch Blüten aus. Diese Zweige können dann im darauffolgenden Jahr zurückgeschnitten werden. So wird Ihre Bauernhortensie schrittweise verjüngt, während sie jedes Jahr aufs Neue blüht!<\/p>"
+          }
+        },
+        "45c354ab-fc5f-47f3-a58a-fe42234cabb0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bauernhortensien-zurueckschneiden.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "8cbf76ab-39a3-4ea5-b7cd-3774f409d739": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bauernhortensie kaufen<\/p>"
+          }
+        },
+        "6fd6e79d-6d4d-49be-bfbb-e7bab6d11a0a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie eine Bauernhortensie kaufen? Sehen Sie sich unser umfangreiches Angebot an und bestellen Sie bequem online. Oder entdecken Sie andere Hortensienarten, wie unsere <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensien<\/a> oder <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensien<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870027497652__950320ac-81a5-4689-bf7c-0d857c653290-1669024257fc633b90-0",
+        "template--15870027497652__950320ac-81a5-4689-bf7c-0d857c653290-1669024257fc633b90-1",
+        "d9fad8c6-5935-4c1a-8a5e-e38e22c39415",
+        "fb161d0f-bd65-44b2-a663-c8d028fbedad",
+        "74708dbb-f2d3-454f-9211-0b0078ea6ad2",
+        "41251715-b6f2-47b1-99d7-763890f81b4b",
+        "07c67625-63b5-4ea7-9bea-ca845083334d",
+        "3dc6d596-98c3-49c0-aba5-a02908b0ac9f",
+        "45c354ab-fc5f-47f3-a58a-fe42234cabb0",
+        "8cbf76ab-39a3-4ea5-b7cd-3774f409d739",
+        "6fd6e79d-6d4d-49be-bfbb-e7bab6d11a0a"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "79b1b6a6-bfb4-4695-a991-2fb6803ee889": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15870027497652__79b1b6a6-bfb4-4695-a991-2fb6803ee889-1669024250a0c23733-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schnelle Lieferung"
+          }
+        },
+        "45191864-bdb9-49d7-a08b-5f1900e4f3ea": {
+          "type": "usp",
+          "settings": {
+            "usp": "Jetzt bestellen, später bezahlen"
+          }
+        },
+        "9c4f0d74-b4b9-4d72-ae08-4bd3fe9ff2c9": {
+          "type": "usp",
+          "settings": {
+            "usp": "Pflanzen direkt vom Züchter"
+          }
+        },
+        "template--15870027497652__79b1b6a6-bfb4-4695-a991-2fb6803ee889-1669024250a0c23733-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-blau"
+          }
+        },
+        "f0804cff-a78b-41f2-9fb1-268b6a127c35": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-weiss"
+          }
+        },
+        "1026154b-373c-43c0-9ec8-6585fa5df455": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-rosa"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870027497652__79b1b6a6-bfb4-4695-a991-2fb6803ee889-1669024250a0c23733-0",
+        "45191864-bdb9-49d7-a08b-5f1900e4f3ea",
+        "9c4f0d74-b4b9-4d72-ae08-4bd3fe9ff2c9",
+        "template--15870027497652__79b1b6a6-bfb4-4695-a991-2fb6803ee889-1669024250a0c23733-1",
+        "f0804cff-a78b-41f2-9fb1-268b6a127c35",
+        "1026154b-373c-43c0-9ec8-6585fa5df455"
+      ],
+      "settings": {
+        "heading": "BAUERNHORTENSIE TOPSELLER",
+        "text": ""
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "568eb29a-7751-4fbd-9383-2ae2b327f2b4",
+    "4ef82b22-d814-49fa-a6f1-e57c731c10fe",
+    "950320ac-81a5-4689-bf7c-0d857c653290",
+    "79b1b6a6-bfb4-4695-a991-2fb6803ee889",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

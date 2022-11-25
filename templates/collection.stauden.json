@@ -1,0 +1,637 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Stauden",
+        "featured_product_one": "lavendel",
+        "featured_product_two": "katzenminze-walkers-low",
+        "featured_product_three": "storschnabel-rozanne",
+        "color_scheme": "background-1"
+      }
+    },
+    "d27be345-abf4-4622-9f44-4f32ed429856": {
+      "type": "populair-collections",
+      "blocks": {
+        "template--15860421329076__d27be345-abf4-4622-9f44-4f32ed429856-1667565293dd1ad3cf-0": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bluehstauden",
+            "image": "shopify:\/\/shop_images\/bluehstauden.jpg",
+            "header": "Blühstauden"
+          }
+        },
+        "54110713-4288-41b4-ba42-514d90ff895b": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/beetstauden",
+            "image": "shopify:\/\/shop_images\/beetstauden.jpg",
+            "header": "Beetstauden"
+          }
+        },
+        "9a432e05-46f5-429c-8899-60b9088fab64": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/schattenstauden",
+            "image": "shopify:\/\/shop_images\/schattenstauden.jpg",
+            "header": "Schattenstauden"
+          }
+        },
+        "ff7ffa61-0051-4bae-bd2d-b9cb67937196": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/sonnenstauden",
+            "image": "shopify:\/\/shop_images\/sonnenstauden.jpg",
+            "header": "Sonnenstauden"
+          }
+        },
+        "9be2d2af-88b4-4642-8887-fb0eb751d985": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bodendecker",
+            "image": "shopify:\/\/shop_images\/bodendecker.jpg",
+            "header": "Bodendecker"
+          }
+        },
+        "bfa0ee7a-12a8-4ad9-b9b0-ffc83477a367": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/ziergraeser",
+            "image": "shopify:\/\/shop_images\/stauden-ziergraeser.jpg",
+            "header": "Ziergräser"
+          }
+        },
+        "eedfd01b-8139-4689-8b4c-aea6e8eea74e": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/blattstauden",
+            "image": "shopify:\/\/shop_images\/blattstauden.jpg",
+            "header": "Blattstauden"
+          }
+        },
+        "5c6936cf-a25d-4def-be5d-48aafb6aa23f": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/gartenkraeuter",
+            "image": "shopify:\/\/shop_images\/gartenkrauter.jpg",
+            "header": "Gartenkräuter"
+          }
+        },
+        "dd3191e5-b99c-423e-b137-40088ee7c557": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/insektenfreundliche-stauden",
+            "image": "shopify:\/\/shop_images\/insektenfreundliche-stauden.jpg",
+            "header": "Insektenfreundliche Stauden"
+          }
+        },
+        "7c916e3c-5289-409d-9f94-2e40e5a3f71f": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/stauden-sets",
+            "image": "shopify:\/\/shop_images\/staudensets.jpg",
+            "header": "Stauden-Sets"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860421329076__d27be345-abf4-4622-9f44-4f32ed429856-1667565293dd1ad3cf-0",
+        "54110713-4288-41b4-ba42-514d90ff895b",
+        "9a432e05-46f5-429c-8899-60b9088fab64",
+        "ff7ffa61-0051-4bae-bd2d-b9cb67937196",
+        "9be2d2af-88b4-4642-8887-fb0eb751d985",
+        "bfa0ee7a-12a8-4ad9-b9b0-ffc83477a367",
+        "eedfd01b-8139-4689-8b4c-aea6e8eea74e",
+        "5c6936cf-a25d-4def-be5d-48aafb6aa23f",
+        "dd3191e5-b99c-423e-b137-40088ee7c557",
+        "7c916e3c-5289-409d-9f94-2e40e5a3f71f"
+      ],
+      "settings": {
+        "header": "",
+        "text": "",
+        "mobile_swipe": false
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Stauden<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5439115e-db18-4300-a952-82dcb451d4ef": {
+      "type": "faq",
+      "blocks": {
+        "template--15860421329076__5439115e-db18-4300-a952-82dcb451d4ef-1668597543b72bd913-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was sind Stauden?",
+            "custom_liquid_1": "",
+            "content": "<p>Stauden sind krautige Pflanzen, die nicht verholzen. Das bedeutet, dass sie auch keine Verzweigungen bilden. Und das ist auch eine der wichtigsten Eigenschaften der Stauden. Wegen der krautigen Ausprägung der Pflanzen sind sie etwas weniger widerstandsfähig gegen kalte Temperaturen. Die meisten Stauden sterben daher im Winter oberirdisch ab und ziehen sich für den „Winterschlaf“ unter die Erde zurück. <strong>Stauden sind winterharte, mehrjährige Pflanzen<\/strong>, die jedes Frühjahr wieder kommen und blühen. So werden Sie Jahr für Jahr von den schönen Blättern und der oft zunehmenden Blütenpracht überrascht sein. Denn täuschen Sie sich nicht: Eine scheinbar „tote“ oder „kleine“ Pflanze entwickelt sich durch die richtige Pflege und Aufmerksamkeit zu einem üppigen Blütenmeer. Stauden sind in allen Farben, Arten und Größen erhältlich.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "c77a568f-6aab-48c2-adc2-6c18f0d023c6": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Arten von Stauden gibt es?",
+            "custom_liquid_1": "<p>Es gibt eine große Vielfalt an Stauden. Um es Ihnen möglichst leicht zu machen, haben wir die verschiedenen Arten nachfolgend aufgelistet:<\/p>\n<ul>\n<li><a href=\"\/collections\/bluehstauden\">Blühstauden<\/a><\/li>\n<li><a href=\"\/collections\/beetstauden\">Beetstauden<\/a><\/li>\n<li><a href=\"\/collections\/schattenstauden\">Schattenstauden<\/a><\/li>\n<li><a href=\"\/collections\/sonnenstauden\">Sonnenstauden<\/a><\/li>\n<li><a href=\"\/collections\/ziergraeser\">Bodendecker<\/a><\/li>\n<li><a href=\"\/collections\/bodendecker\">Ziergräser<\/a><\/li>\n<li><a href=\"\/collections\/blattstauden\">Blattstauden<\/a><\/li>\n<li><a href=\"\/collections\/gartenkraeuter\">Gartenkräuter<\/a><\/li>\n<li><a href=\"\/collections\/insektenfreundliche-stauden\">Insektenfreundliche Stauden<\/a><\/li>\n<li><a href=\"\/collections\/stauden-sets\">Stauden-Sets<\/a><\/li>\n<\/ul>",
+            "content": "<p>Stauden sind sehr beliebt, wenn es darum geht, Farbe in den Garten zu bringen, gemischte Blumenbeete anzulegen und eine harmonische Größenstaffelung in den Gartenrabatten zu kreieren. All diese Merkmale bieten eine unendliche Vielfalt und unbegrenzte Möglichkeiten, mit denen Sie Ihren Garten ganz nach Ihren Wünschen gestalten können.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "cf1f8371-c771-44dc-9de5-1e8fffe1e890": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Stauden blühen den ganzen Sommer über?",
+            "custom_liquid_1": "",
+            "content": "<p>Der Sommer ist die Zeit für Aktivitäten im Freien. Wenn das Wetter schön ist, gibt es nichts Besseres, als Ihren Garten, Ihre Terrasse oder Ihren Balkon zu genießen. Viele Stauden blühen bereits im Frühjahr und bringen auch den ganzen Sommer über Blumen hervor, die Sie genießen können. In unserem Sortiment finden Sie eine große Auswahl an Stauden, die den ganzen Sommer über viel Farbe in Ihren Garten bringen.<\/p>",
+            "custom_liquid_2": "<strong>Top 5 der sommerblühenden Stauden:<\/strong>\n<ul>\n<li><a href=\"\/products\/lavendel\">Lavendel<\/a><\/li>\n<li><a href=\"\/products\/kleines-immergruen\">Kleines Immergrün<\/a><\/li>\n<li><a href=\"\/products\/geranium-rozanne\">Geranium 'Rozanne'<\/a><\/li>\n<li><a href=\"\/products\/mexikanische-salbei\">Mexikanische Salbei<\/a><\/li>\n<li><a href=\"\/products\/roter-sonnenhut\">Roter Sonnenhut<\/a><\/li>\n<\/ul>"
+          }
+        },
+        "4ffb42b0-4277-4fef-852b-59f3b2aa9f30": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Stauden sind für die volle Sonne geeignet?",
+            "custom_liquid_1": "<p>Bei der Entscheidung, welche Pflanzenart am besten für Ihren Garten geeignet ist, sollten Sie die Anzahl der Sonnenstunden am Pflanzenstandort berücksichtigen. Scheint die Sonne im Sommer pro Tag an diesem Platz 5 Stunden oder mehr? In diesem Fall sollten Sie <a href=\"\/collections\/sonnenstauden\">Stauden für vollsonnige Standorte wählen<\/a>.<\/p>\n<p>Auch für die Gartenplätzchen mit weniger Sonne gibt es zahlreiche Alternativen. Wählen Sie in diesem Fall <a href=\"\/collections\/schattenstauden\">Schattenstauden<\/a>.<\/p>",
+            "content": "",
+            "custom_liquid_2": "<strong>Die 5 besten Stauden für die volle Sonne:<\/strong>\n<ul>\n<li><a href=\"\/products\/lavendel\">Lavendel<\/a><\/li>\n<li><a href=\"\/products\/geranium-rozanne\">Geranium 'Rozanne'<\/a><\/li>\n<li><a href=\"\/products\/katzenminze\">Katzenminze<\/a><\/li>\n<li><a href=\"\/products\/roter-sonnenhut\">Roter Sonnenhut<\/a><\/li>\n<li><a href=\"\/products\/kleines-immergruen\">Kleines Immergrün<\/a><\/li>\n<\/ul>"
+          }
+        },
+        "93e18058-2dbe-4b5a-8672-0a499a93b16f": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann kann ich Stauden pflanzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Abgesehen vom Frost können Stauden das ganze Jahr über in Ihrem Garten, auf Ihrer Terrasse oder auf dem Balkon gepflanzt werden. Wenn Sie ein Beet in Ihrem Garten anlegen möchten, sollten Sie dies vorzugsweise im <strong>Frühjahr oder Herbst tun<\/strong>.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "d962cfb9-ebed-4b49-9a33-9297df79424d": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was ist der Unterschied zwischen Stauden und Sträuchern bzw. Büschen?",
+            "custom_liquid_1": "",
+            "content": "<p>Stauden, Sträucher und Büsche werden oftmals in eine Schublade gesteckt. Dennoch gibt es einen wesentlichen Unterschied. Stauden entwickeln krautige Stängel, die während der Ruhephase vollständig absterben. Sträucher haben holzige Triebe\/Zweige, die auch im Winter oberhalb des Bodens stehen bleiben und nicht vollständig absterben.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15860421329076__5439115e-db18-4300-a952-82dcb451d4ef-1668597543b72bd913-0",
+        "c77a568f-6aab-48c2-adc2-6c18f0d023c6",
+        "cf1f8371-c771-44dc-9de5-1e8fffe1e890",
+        "4ffb42b0-4277-4fef-852b-59f3b2aa9f30",
+        "93e18058-2dbe-4b5a-8672-0a499a93b16f",
+        "d962cfb9-ebed-4b49-9a33-9297df79424d"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Stauden"
+      }
+    },
+    "dc6123b7-3902-4cd3-a9b4-a702d7cc61f6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15860421329076__dc6123b7-3902-4cd3-a9b4-a702d7cc61f6-166861046592bf5f36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Der perfekte Standort für eine Staude<\/p>"
+          }
+        },
+        "template--15860421329076__dc6123b7-3902-4cd3-a9b4-a702d7cc61f6-166861046592bf5f36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um den perfekten Standort für Ihre Pflanze zu bestimmen, sollten Sie sich die natürlichen Eigenschaften der Pflanze ansehen. Woher stammt sie und welche natürlichen Bedingungen herrschen dort? Damit Pflanzen in Ihrem Garten gut gedeihen, ist es wichtig, für jede Pflanze den optimalen Standort zu finden.Viele Stauden lieben die Sonne, bilden oftmals schöne Blumen und sind daher auch für Schmetterlinge und Bienen attraktiv. Es gibt jedoch zahlreiche Alternativen, um mehr Atmosphäre und Farbe in Ihren schattigen Garten zu bringen. Es ist daher wichtig, dass Sie sich im Voraus genau anschauen, wie viel Sonne Ihr Garten hat. Wenn in den Sommermonaten mehr als 5 Stunden lang die Sonne auf die Pflanzen scheint, sprechen wir von „vollsonnig“. Wenn die Sonne 3 Stunden oder weniger auf Ihre Pflanzen scheint oder wenn sie lange Zeit indirekt der Sonne ausgesetzt sind, haben Sie es mit einem schattenreichen Garten zu tun. Ein schattiger Garten erfordert vielleicht ein wenig mehr Planung und Aufmerksamkeit, aber das Endergebnis ist nicht weniger schön.<\/p><p>Um Ihnen den Einstieg zu erleichtern, haben wir im Folgenden beliebte Stauden für Schatten, Halbschatten und Sonne aufgelistet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860421329076__dc6123b7-3902-4cd3-a9b4-a702d7cc61f6-166861046592bf5f36-0",
+        "template--15860421329076__dc6123b7-3902-4cd3-a9b4-a702d7cc61f6-166861046592bf5f36-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "7a699ac0-0898-4874-b6b3-f8070d296dbd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15860421329076__7a699ac0-0898-4874-b6b3-f8070d296dbd-166861046592bf5f36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Stauden, die perfekte Ergänzung für Ihren Garten<\/p>"
+          }
+        },
+        "template--15860421329076__7a699ac0-0898-4874-b6b3-f8070d296dbd-166861046592bf5f36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stauden sind üppige Blüher und vielseitig verwendbar. Sie eignen sich perfekt für die Gestaltung von Rabatten (Gartenbeete, die mit unterschiedlich hohen Pflanzen bestückt sind) oder als Bodendecker, indem größere Gruppen von gleichartigen Pflanzen zusammen gepflanzt werden. Aber Sie können damit auch Farbe auf Ihren Balkon oder Ihre Terrasse bringen, indem Sie diese in Blumentöpfe oder Kübel setzen.<\/p>"
+          }
+        },
+        "22bb11a0-cb20-4058-bb71-69ffa3ae7ffe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Stauden als Bodendecker<\/p>"
+          }
+        },
+        "6e8b618c-e846-4795-b4fc-68d519626b49": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stauden sind ideale Bodendecker. Wenn Sie sie als Bodendecker verwenden möchten, suchen Sie sich eine niedrig wachsende Sorte mit einer kriechenden Wuchsform aus. Bodendecker verhindern das Austrocknen des Bodens und hemmen das Wuchern des Unkrauts. Sie verbreiten sich schnell über unterirdische Triebe und schaffen im Handumdrehen eine bedeckte grüne Beetfläche. Um Unkraut auch im Winter zu bekämpfen, entscheiden Sie sich für eine immergrüne Sorte. Bodendecker lassen sich auch hervorragend zum Bepflanzen größerer Flächen in Ihrem Garten verwenden. Auf diese Weise können Sie im Handumdrehen einen pflegeleichten Garten mit viel Grün anlegen.<\/p><p>Um Ihnen den Einstieg zu erleichtern, haben wir im Folgenden die beliebten Bodendecker für Sie aufgelistet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860421329076__7a699ac0-0898-4874-b6b3-f8070d296dbd-166861046592bf5f36-0",
+        "template--15860421329076__7a699ac0-0898-4874-b6b3-f8070d296dbd-166861046592bf5f36-1",
+        "22bb11a0-cb20-4058-bb71-69ffa3ae7ffe",
+        "6e8b618c-e846-4795-b4fc-68d519626b49"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1ce4af2a-a032-453d-a01a-dc8d988bb83e": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Schattenstauden",
+        "text_first": "",
+        "product_1": "storschnabel-rozanne",
+        "product_2": "kleines-immergruen",
+        "product_3": "grossblattriger-irischer-efeu",
+        "button_text_first": "Mehr Schattenstauden",
+        "url_first": "shopify:\/\/collections\/schattenstauden",
+        "header_second": "",
+        "text_second": "",
+        "product_4": "",
+        "product_5": "",
+        "product_6": "",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "33852e8d-0a35-47f4-8a9b-a83cf197ae31": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15860421329076__33852e8d-0a35-47f4-8a9b-a83cf197ae31-166861046592bf5f36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Stauden als Magnet für Schmetterlinge und Bienen<\/p>"
+          }
+        },
+        "template--15860421329076__33852e8d-0a35-47f4-8a9b-a83cf197ae31-166861046592bf5f36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der blühfreudige Charakter der Stauden macht sie zu Bienen- und Schmetterlingsmagneten. An warmen Tagen sind sie meistens auf der Suche nach Nektar und fliegen dabei von Blüte zu Blüte. Eine lebendige Szenerie, die Ihren Garten tatsächlich zum Leben erweckt und auch sehr nützlich für die Bestäubung von Pflanzen ist. Wenn Sie einen Garten mit vielen Schmetterlingen haben möchten, dann suchen Sie sich nektarreiche Pflanzen aus. Nektarreiche Stauden entwickeln zahlreiche Blumen mit hohen Nektarwerten, die von Bienen und Schmetterlingen sehr bevorzugt werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860421329076__33852e8d-0a35-47f4-8a9b-a83cf197ae31-166861046592bf5f36-0",
+        "template--15860421329076__33852e8d-0a35-47f4-8a9b-a83cf197ae31-166861046592bf5f36-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "d482da3b-2bb8-4b05-85d5-fff2e4492f09": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15860421329076__d482da3b-2bb8-4b05-85d5-fff2e4492f09-166861046592bf5f36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Stauden gegen Schnecken<\/p>"
+          }
+        },
+        "template--15860421329076__d482da3b-2bb8-4b05-85d5-fff2e4492f09-166861046592bf5f36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dieses Problem kennen wir alle: Sie haben gerade schöne Pflanzen gepflanzt und im Handumdrehen werden sie von Schnecken angefressen. Wahrscheinlich haben Sie ein Paradies aus zarten Blättern angelegt, die von Schnecken sehr geschätzt werden. Wenn Sie viele Schnecken in Ihrem Garten haben, entscheiden Sie sich für Pflanzen mit dicken, harten, behaarten und\/oder duftenden Blättern. Schnecken mögen diese Pflanzen nicht und werden sie ignorieren.<\/p>"
+          }
+        },
+        "f615f4a2-fa92-404c-8db3-e5e40afd3d34": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Die jahreszeitlichen Entwicklungsphasen von Stauden<\/p>"
+          }
+        },
+        "0d118df2-7e69-4c9d-8992-9a46f8ef719a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stauden sind winterhart und dennoch sterben sie im Winter ab. Wie passiert das genau? Stauden haben einen sich wiederholenden Vegetationszyklus und blühen daher jedes Jahr an der gleichen Stelle. Die Blüte beginnt im Frühjahr und dauert bis in den Herbst hinein an (je nach Art). Danach sterben Stauden oberirdisch ab und warten auf den nächsten Frühling. Unsere Pflanzen werden das ganze Jahr über in verschiedenen Entwicklungsphasen geliefert. Seien Sie also nicht beunruhigt, wenn Ihre Pflanzen bei der Lieferung nicht blühen. Es dauert etwas, aber in kürzester Zeit bekommen Sie eine schöne blühende Pflanze.<\/p>"
+          }
+        },
+        "016f9d1c-f7ae-4f10-90f3-ec1806794398": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Phase „Winterruhe“:<\/p>"
+          }
+        },
+        "fe358034-375e-4e5e-945e-7402279d0aec": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In diesem Stadium stirbt der oberirdische Teil ab und die Pflanze zieht sich in den Boden zurück. Die in dieser Ruhephase gelieferten Pflanzen sehen für den Betrachter abgestorben aus, haben aber in der Erde eine kräftig ausgebildete Wurzel.<\/p>"
+          }
+        },
+        "60275b5d-9322-4722-ae3a-ea7c039133fe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phase-winterruhe.webp",
+            "image_width": 40,
+            "image_position": "margin-right: auto;"
+          }
+        },
+        "7d7a9f86-f98c-4738-9e70-ae0e63288848": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Phase „Austreibend“:<\/p>"
+          }
+        },
+        "5adaef26-06ea-4ac9-876d-df3c888ebd6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In diesem Stadium zeigt sich die Pflanze zum ersten Mal oberirdisch. Während dieser Wachstumsphase bildet die Pflanze die ersten Triebe. Die Blütenbildung befindet sich noch im Anfangsstadium.<\/p>"
+          }
+        },
+        "6dfc5ef9-9988-43b0-9034-4312640826f0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phase-austreibend.webp",
+            "image_width": 40,
+            "image_position": "margin-right: auto;"
+          }
+        },
+        "56de22cc-d14e-4fd9-9991-8b62bb370c4b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Phase „frisches Grün\/neue Triebe“:<\/p>"
+          }
+        },
+        "ebd9c347-bf4c-472f-be3c-153cb7d2a081": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In dieser Entwicklungsphase steht die Pflanze in voller Blüte. Das Wachstum ist langsamer, weil die Energie in die Bildung und Entwicklung der Blüten aufgewendet wird.<\/p>"
+          }
+        },
+        "74d4f399-dbcf-4047-a9f9-335dc1e9edc5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phase-frisches-gruen-neue-triebe.webp",
+            "image_width": 40,
+            "image_position": "margin-right: auto;"
+          }
+        },
+        "c7dd4dac-cbb7-4f89-a78f-37419d73a08d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Phase „Blühend“:<\/p>"
+          }
+        },
+        "ffc42896-1b78-44f9-96fa-7cffaf99be18": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In dieser Entwicklungsphase steht die Pflanze in voller Blüte. Das Wachstum ist langsamer, weil die Energie in die Bildung und Entwicklung der Blüten aufgewendet wird.<\/p>"
+          }
+        },
+        "facf5992-a439-4cd1-85ef-eb3c063b0fd4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phase-bluehend.webp",
+            "image_width": 40,
+            "image_position": "margin-right: auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860421329076__d482da3b-2bb8-4b05-85d5-fff2e4492f09-166861046592bf5f36-0",
+        "template--15860421329076__d482da3b-2bb8-4b05-85d5-fff2e4492f09-166861046592bf5f36-1",
+        "f615f4a2-fa92-404c-8db3-e5e40afd3d34",
+        "0d118df2-7e69-4c9d-8992-9a46f8ef719a",
+        "016f9d1c-f7ae-4f10-90f3-ec1806794398",
+        "fe358034-375e-4e5e-945e-7402279d0aec",
+        "60275b5d-9322-4722-ae3a-ea7c039133fe",
+        "7d7a9f86-f98c-4738-9e70-ae0e63288848",
+        "5adaef26-06ea-4ac9-876d-df3c888ebd6a",
+        "6dfc5ef9-9988-43b0-9034-4312640826f0",
+        "56de22cc-d14e-4fd9-9991-8b62bb370c4b",
+        "ebd9c347-bf4c-472f-be3c-153cb7d2a081",
+        "74d4f399-dbcf-4047-a9f9-335dc1e9edc5",
+        "c7dd4dac-cbb7-4f89-a78f-37419d73a08d",
+        "ffc42896-1b78-44f9-96fa-7cffaf99be18",
+        "facf5992-a439-4cd1-85ef-eb3c063b0fd4"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d27be345-abf4-4622-9f44-4f32ed429856",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "5439115e-db18-4300-a952-82dcb451d4ef",
+    "dc6123b7-3902-4cd3-a9b4-a702d7cc61f6",
+    "7a699ac0-0898-4874-b6b3-f8070d296dbd",
+    "1ce4af2a-a032-453d-a01a-dc8d988bb83e",
+    "33852e8d-0a35-47f4-8a9b-a83cf197ae31",
+    "d482da3b-2bb8-4b05-85d5-fff2e4492f09",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

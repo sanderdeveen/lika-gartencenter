@@ -1,0 +1,443 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "e2979237-3615-4256-8aaf-d9261312564b": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Bambus",
+            "breadcrumb_link": "shopify:\/\/collections\/bambus"
+          }
+        }
+      },
+      "block_order": [
+        "e2979237-3615-4256-8aaf-d9261312564b",
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "db61d173-2fa9-45ed-95aa-3edb4c4b8499": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15857517592756__db61d173-2fa9-45ed-95aa-3edb4c4b8499-16673105016a884d0f-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Beste Qualität aus Holland"
+          }
+        },
+        "24c73c6d-8995-42f1-89a4-f3f7e2c15195": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schonend verpackt"
+          }
+        },
+        "99d7771c-8cae-495c-a035-75e3feb8ad00": {
+          "type": "usp",
+          "settings": {
+            "usp": "Versand innerhalb von 2 Werktagen"
+          }
+        },
+        "9a9a486a-0a2d-48e5-aa3c-6392c5aba3da": {
+          "type": "usp",
+          "settings": {
+            "usp": "Fachkundige Beratung, auch nach dem Kauf"
+          }
+        },
+        "template--15857517592756__db61d173-2fa9-45ed-95aa-3edb4c4b8499-16673105016a884d0f-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "d5ab4b6f-012e-4484-be6a-cb3575997aad": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-nitida-winter-joy"
+          }
+        },
+        "3ad5944c-a092-4075-8236-3ddede4d252a": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-obelisk"
+          }
+        }
+      },
+      "block_order": [
+        "template--15857517592756__db61d173-2fa9-45ed-95aa-3edb4c4b8499-16673105016a884d0f-0",
+        "24c73c6d-8995-42f1-89a4-f3f7e2c15195",
+        "99d7771c-8cae-495c-a035-75e3feb8ad00",
+        "9a9a486a-0a2d-48e5-aa3c-6392c5aba3da",
+        "template--15857517592756__db61d173-2fa9-45ed-95aa-3edb4c4b8499-16673105016a884d0f-1",
+        "d5ab4b6f-012e-4484-be6a-cb3575997aad",
+        "3ad5944c-a092-4075-8236-3ddede4d252a"
+      ],
+      "settings": {
+        "heading": "Topseller aus Bambus im Garten",
+        "text": "",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Gartenbambus<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0": {
+      "type": "faq",
+      "blocks": {
+        "dfa14385-f6bc-40a3-bea9-0bb3737af3b3": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welcher Bambus kann in Rabatten verwendet werden?",
+            "custom_liquid_1": "<ul>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-rufa\">Nicht wuchernder Bambus 'Rufa'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-jiuzhaigou\">Nicht wuchernder Bambus 'Jiu'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-nitida-winter-joy\">Nicht wuchernder Bambus 'Winter Joy'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-obelisk\">Nicht wuchernder Bambus 'Obelisk'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-campbell\">Nicht wuchernder Bambus 'Campbell'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-pingwu\">Nicht wuchernder Bambus 'Pingwu'<\/a><\/li>\n<\/ul>",
+            "content": "",
+            "custom_liquid_2": ""
+          }
+        },
+        "39b1ff4b-4aa2-474e-8360-649221955eff": {
+          "type": "faq",
+          "settings": {
+            "heading": "Womit können Sie Bambus kombinieren?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus lässt sich gut mit fast allen anderen Gartenpflanzen kombinieren. Das fernöstliche Aussehen von Bambus kommt auch in Verbindung mit Gartenpflanzen und Bäumen zur Geltung, die alles akzentuieren. Denken Sie zum Beispiel an eine rote Azalee, einen japanischen Ahorn oder ein Schattenkraut.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a3fe3c12-777d-463c-ba12-1aafc199de44": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viele Bambuspflanzen pro laufenden Meter?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Anzahl der Bambuspflanzen, die Sie pro Laufmeter benötigen, hängt von der Topfgröße und der Höhe des Bambus ab. Im Folgenden finden Sie unsere Empfehlungen für die Anzahl der Bambuspflanzen pro laufenden Meter.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "dfa14385-f6bc-40a3-bea9-0bb3737af3b3",
+        "39b1ff4b-4aa2-474e-8360-649221955eff",
+        "a3fe3c12-777d-463c-ba12-1aafc199de44"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen über Bambus in Garten pflanzen"
+      }
+    },
+    "ac7094d3-70bc-4d73-8967-ae02f806f3c6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15857517592756__ac7094d3-70bc-4d73-8967-ae02f806f3c6-166731051129e874bd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Fernöstliches Ambiente mit Bambus in der Rabatte<\/p>"
+          }
+        },
+        "template--15857517592756__ac7094d3-70bc-4d73-8967-ae02f806f3c6-166731051129e874bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie Ihrem Garten ein fernöstliches Flair verleihen? Bambus ist hervorragend geeignet, um im Handumdrehen ein Ambiente in Ihren Garten zu bringen. Sie können Bambus mit verschiedenen Pflanzenarten kombinieren. Jede Kombination kreiert eine andere Stimmung. Sie können also endlos variieren! <br\/>Pflanzen Sie neben dem Bambus Blumenstauden für eine verspielte, romantische Ausstrahlung. Sie können Bambus auch mit anderen fernöstlichen Pflanzen kombinieren, um einen schönen japanischen Garten zu gestalten.<\/p>"
+          }
+        },
+        "798f1fb4-7977-412c-935c-da3f4d8ad923": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambus in Rabatten pflanzen<\/p>"
+          }
+        },
+        "98efb893-32ba-4aff-9153-c21b91f24d8c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie Bambus in Rabatten pflanzen? Verwenden Sie <a href=\"\/products\/compo-sana-qualitats-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde<\/a> für einen schnellen Start der Pflanzen, Hecken und Bäume. Um eine unerwünschte Ausbreitung zu verhindern, empfehlen wir Ihnen, <a href=\"\/collections\/nicht-wuchender-bambus\" title=\"Nicht wuchender Bambus\">nicht wuchernden Bambus<\/a> in Ihrer Rabatte zu verwenden. Sogar der nicht wuchernde Bambus wächst schnell und braucht viel Platz. Legen Sie daher ein Pflanzloch von einem Meter Breite an. So wird sichergestellt, dass Ihr Bambus genügend Platz hat, um neue Sprossen zu bilden und zu einem schönen, vollen Bambus heranzuwachsen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15857517592756__ac7094d3-70bc-4d73-8967-ae02f806f3c6-166731051129e874bd-0",
+        "template--15857517592756__ac7094d3-70bc-4d73-8967-ae02f806f3c6-166731051129e874bd-1",
+        "798f1fb4-7977-412c-935c-da3f4d8ad923",
+        "98efb893-32ba-4aff-9153-c21b91f24d8c"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "7a682fc1-880b-47a0-acad-839185edb1d4": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15858386043060__7a682fc1-880b-47a0-acad-839185edb1d4-1667571803fc46f52d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bambus-im-garten-pflanzen_ac6ac12c-dc72-49dc-a112-29828143d527.jpg",
+            "text": "Nicht wuchernder Bambus 'Jiu'",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-jiuzhaigou"
+          }
+        },
+        "4fc907b5-d6ee-4284-8abf-bc2360e65602": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fargesia-bambus-rufa-im-garten.jpg",
+            "text": "Nicht wuchernder Bambus 'Rufa'",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-rufa"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386043060__7a682fc1-880b-47a0-acad-839185edb1d4-1667571803fc46f52d-0",
+        "4fc907b5-d6ee-4284-8abf-bc2360e65602"
+      ],
+      "settings": {
+      }
+    },
+    "cbcab0cf-8b65-4a02-b71b-394c87991662": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflege und Rückschnitt des Bambus in Rabatten<\/p>"
+          }
+        },
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Bambuspflege ist nicht sehr schwierig, verlangt aber etwas Aufmerksamkeit. Bambus wächst sehr schnell. Daher sind Pflege und Rückschnitt von Bambus sehr wichtig, damit Ihre Pflanze gesund und kräftig bleibt. Schneiden Sie Ihren Bambus einmal im Jahr zurück und geben Sie zweimal jährlich <a href=\"\/products\/compo-bambus-ziergraser-langzeit-dunger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>.<\/p>"
+          }
+        },
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-3": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": ""
+          }
+        },
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-4": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": ""
+          }
+        },
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-5": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-0",
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-1",
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-3",
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-4",
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-5"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "db61d173-2fa9-45ed-95aa-3edb4c4b8499",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0",
+    "ac7094d3-70bc-4d73-8967-ae02f806f3c6",
+    "7a682fc1-880b-47a0-acad-839185edb1d4",
+    "cbcab0cf-8b65-4a02-b71b-394c87991662",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

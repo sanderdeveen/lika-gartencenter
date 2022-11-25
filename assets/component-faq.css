@@ -1,0 +1,52 @@
+.section-faq {
+    margin: 3rem 0;
+    background-color: #FFF;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+@media screen and (min-width: 1350px) {
+    .section-faq {
+        margin: 3rem auto;
+    }
+}
+.section-faq h3 {
+    margin: 1rem 0;
+}
+.section-faq-qa {
+    border: 1px solid rgb(209, 213, 219);
+    border-radius: 0.4rem;
+}
+.section-faq-qa img {
+    width: 100%;
+    height: auto;
+}
+.section-faq-qa .icon-chevron {
+    width: 1.6rem;
+}
+.section-faq-qa summary {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #000;
+}
+.section-faq-qa details {
+    border-bottom: 1px solid rgb(209, 213, 219);
+    padding: 1rem;
+    color: #4B5563;
+    font-size: 1.4rem;
+}
+.section-faq-qa details:last-child {
+    border-bottom: none;
+}
+
+.section-faq-qa details a {
+    color: #89B865;
+    text-decoration: none;
+}
+
+.section-faq-qa details a:hover {
+    text-decoration: underline;
+}
+
+.faq-custom_liquid {
+    margin: 1.4rem 0;
+}

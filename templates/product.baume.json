@@ -1,0 +1,446 @@
+{
+  "sections": {
+    "65e91970-5eae-43cf-92df-35c21b590f13": {
+      "type": "usp",
+      "blocks": {
+        "4836d7ea-1a5a-45a4-adac-4faf358b9997": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Lieferung in ganz Deutschland"
+          }
+        },
+        "a8282116-42b8-4ece-967e-2ef46554dcc7": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "68f8ffa3-6d91-4455-b001-5723519f7ba9": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "5f25180f-812c-43f9-ac5f-1ce856826002": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15819654398132__65e91970-5eae-43cf-92df-35c21b590f13-1665501165bc9077b0-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "",
+            "text": "<p>Bei Gartencenter.de bestellen Sie Gartenpflanzen, Zimmerpflanzen, Bäume und mehr mit schneller Lieferung nach Hause.<\/p>"
+          }
+        },
+        "0266b889-69f3-4009-b390-c0f04b5d9183": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "7fb9028f-bc17-427f-b438-c11e1e8e0ec1": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "heart",
+            "heading": "Bewertungen",
+            "text": "<p>Unsere Kunden bewerten uns durchschnittlich mit 8.8\/10<\/p>"
+          }
+        },
+        "aa267832-24e3-4b39-92ad-84700e3d8ebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Qualitätsgesichert",
+            "text": "<p>Wir arbeiten mit zertifizierten Lieferanten zusammen, um Ihnen eine gute Qualität zu garantieren.<\/p>"
+          }
+        },
+        "e5bea4dc-fe57-4759-a462-d873b576853d": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Sie können uns per E-Mail und Chat <a href=\"\/pages\/kontakt\" title=\"Kontakt\">kontaktieren<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4836d7ea-1a5a-45a4-adac-4faf358b9997",
+        "a8282116-42b8-4ece-967e-2ef46554dcc7",
+        "68f8ffa3-6d91-4455-b001-5723519f7ba9",
+        "5f25180f-812c-43f9-ac5f-1ce856826002",
+        "template--15819654398132__65e91970-5eae-43cf-92df-35c21b590f13-1665501165bc9077b0-0",
+        "0266b889-69f3-4009-b390-c0f04b5d9183",
+        "7fb9028f-bc17-427f-b438-c11e1e8e0ec1",
+        "aa267832-24e3-4b39-92ad-84700e3d8ebe",
+        "e5bea4dc-fe57-4759-a462-d873b576853d"
+      ],
+      "settings": {
+        "mobile-heading": "5.000+ Gartenprodukte mit schneller Lieferung"
+      }
+    },
+    "1663706352d2317f76": {
+      "type": "breadcrumbs",
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "eb681cf4-8eab-434c-a436-0d02fa13b994": {
+          "type": "buy_container",
+          "settings": {
+          }
+        },
+        "b4bfe856-7334-4403-ab98-2677808af3c2": {
+          "type": "product_usp",
+          "settings": {
+            "usp_fallback": ""
+          }
+        },
+        "8163d347-5758-40b3-b933-d668309c7187": {
+          "type": "product_pro_con",
+          "settings": {
+            "product_pro_con": "<p>{{ product.metafields.custom.pro_and_cons | metafield_tag }}<\/p>"
+          }
+        },
+        "a7cee4f8-ef42-4944-9e31-f751182c53c9": {
+          "type": "sub_header",
+          "settings": {
+            "sub-header": "{{ product.metafields.custom.product_name.value }}"
+          }
+        },
+        "61daa870-84d0-47a1-b954-cc078cfb77e1": {
+          "type": "product_description",
+          "settings": {
+          }
+        },
+        "04e367ae-716c-4adc-9cf6-9b1cb7c118c6": {
+          "type": "product_description_mob",
+          "settings": {
+          }
+        },
+        "96302498-9e61-4920-89ad-ac72a4333998": {
+          "type": "sub_header",
+          "settings": {
+            "sub-header": "Spezifikationen"
+          }
+        },
+        "8f80f518-f7e7-4bee-93f9-feed033658d3": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Winterhärte",
+            "specification_content": "<p>{{ product.metafields.custom.boom_winterhard.value }}<\/p>"
+          }
+        },
+        "fc57287d-604b-4ac5-9755-66ac3a2c08b9": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Bevorzugte Bodenart",
+            "specification_content": "<p>{{ product.metafields.custom.boom_bodemtype_voorkeur.value }}<\/p>"
+          }
+        },
+        "8e6fac83-2668-420a-89dc-c5312234a970": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Windempfindlichkeit",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_windgevoeligheid.value }}<\/p>"
+          }
+        },
+        "8089b71f-7db3-4473-aec3-702291db8a4c": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Bodenfeuchtigkeit",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_bodemvochtigheid.value }}<\/p>"
+          }
+        },
+        "cbae9003-633b-466b-af36-59d6bbff028a": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Standort",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_standplaats.value }}<\/p>"
+          }
+        },
+        "f40469ab-3910-4895-9f92-18643add4f29": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Blütezeit",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_bloeiperiode.value }}<\/p>"
+          }
+        },
+        "8fca105d-d853-4713-962a-e2904999b651": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Blütenstand",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_bloeiwijze.value }}<\/p>"
+          }
+        },
+        "98efc3d7-b122-4d4a-9b9a-e98f3f424c04": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Früchte",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_vruchtdragend.value }}<\/p>"
+          }
+        },
+        "30cbf8c1-687c-4b69-ad52-95a50dfb4c5d": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Schnittperiode",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_snoeiperiode.value }}<\/p>"
+          }
+        },
+        "469302a6-3acb-4631-a286-fce0f46d5f6b": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Schnittmethode",
+            "specification_content": "<p>{{ product.metafields.custom.specifactie_snoeimethode.value }}<\/p>"
+          }
+        },
+        "4ea9541b-f0a6-4136-af33-fc53fa8ec10d": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Gartentyp",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_tuintype.value }}<\/p>"
+          }
+        },
+        "c1354d15-24cf-455e-b823-9aac39259ade": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Blattfarbe",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_bladkleur.value }}<\/p>"
+          }
+        },
+        "ec6dff9e-4d38-4b34-a3ab-a4876e443530": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Immergrün",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_wintergroen.value }}<\/p>"
+          }
+        },
+        "acab63e6-f877-44a5-a388-f8ce60cf5d95": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Herbstfarbe",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_herfstkleur.value }}<\/p>"
+          }
+        },
+        "3945a779-aab6-4c74-ab6d-ddf223e7ef46": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Lieferung Sommer",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_zomerlevering.value }}<\/p>"
+          }
+        },
+        "6ca402ae-2f56-41d5-ad6b-968015951d48": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Lieferung Winter",
+            "specification_content": "<p>{{ product.metafields.custom.specificatie_winterlevering.value }}<\/p>"
+          }
+        },
+        "e1b06b4a-6b54-4356-bbc7-ca59aaba60e2": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Bestäubung",
+            "specification_content": "<p>{{ product.metafields.custom.bestuiving.value }}<\/p>"
+          }
+        },
+        "8ae31d8b-a815-45c3-adfd-001ab84b48aa": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Obsterntezeit",
+            "specification_content": "<p>{{ product.metafields.custom.oogsttijd.value }}<\/p>"
+          }
+        },
+        "317e813d-d8c0-4bbe-8e02-4404d73a21e2": {
+          "type": "product_specification",
+          "settings": {
+            "specification_name": "Obst schmecken",
+            "specification_content": "<p>{{ product.metafields.custom.fruitsmaak.value }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "caption",
+        "eb681cf4-8eab-434c-a436-0d02fa13b994",
+        "b4bfe856-7334-4403-ab98-2677808af3c2",
+        "8163d347-5758-40b3-b933-d668309c7187",
+        "a7cee4f8-ef42-4944-9e31-f751182c53c9",
+        "61daa870-84d0-47a1-b954-cc078cfb77e1",
+        "04e367ae-716c-4adc-9cf6-9b1cb7c118c6",
+        "96302498-9e61-4920-89ad-ac72a4333998",
+        "8f80f518-f7e7-4bee-93f9-feed033658d3",
+        "fc57287d-604b-4ac5-9755-66ac3a2c08b9",
+        "8e6fac83-2668-420a-89dc-c5312234a970",
+        "8089b71f-7db3-4473-aec3-702291db8a4c",
+        "cbae9003-633b-466b-af36-59d6bbff028a",
+        "f40469ab-3910-4895-9f92-18643add4f29",
+        "8fca105d-d853-4713-962a-e2904999b651",
+        "98efc3d7-b122-4d4a-9b9a-e98f3f424c04",
+        "30cbf8c1-687c-4b69-ad52-95a50dfb4c5d",
+        "469302a6-3acb-4631-a286-fce0f46d5f6b",
+        "4ea9541b-f0a6-4136-af33-fc53fa8ec10d",
+        "c1354d15-24cf-455e-b823-9aac39259ade",
+        "ec6dff9e-4d38-4b34-a3ab-a4876e443530",
+        "acab63e6-f877-44a5-a388-f8ce60cf5d95",
+        "3945a779-aab6-4c74-ab6d-ddf223e7ef46",
+        "6ca402ae-2f56-41d5-ad6b-968015951d48",
+        "e1b06b4a-6b54-4356-bbc7-ca59aaba60e2",
+        "8ae31d8b-a815-45c3-adfd-001ab84b48aa",
+        "317e813d-d8c0-4bbe-8e02-4404d73a21e2"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "gallery_layout": "thumbnail",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16657486568ae3931e": {
+      "type": "apps",
+      "blocks": {
+        "ad3cddf4-0326-4a6c-a6f8-7f007504a287": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "ff3e6eee-909d-4d21-8590-3144497b17fb": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "5a6eab54-cdc2-4bb4-8cda-b6083eb5800c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "e41dca08-9740-4908-abfe-8a80dcc47fe2": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "43cc4d92-dd2f-443b-a197-3ee7555e91f4": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "ad3cddf4-0326-4a6c-a6f8-7f007504a287",
+        "ff3e6eee-909d-4d21-8590-3144497b17fb",
+        "5a6eab54-cdc2-4bb4-8cda-b6083eb5800c",
+        "e41dca08-9740-4908-abfe-8a80dcc47fe2",
+        "43cc4d92-dd2f-443b-a197-3ee7555e91f4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "0880a792-a920-444a-a3f7-29195a766cdf": {
+      "type": "services",
+      "blocks": {
+        "template--15760788848820__0880a792-a920-444a-a3f7-29195a766cdf-16669404588ac2975e-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "778f06e4-47a0-4b4a-84f0-3cede3e3b6e5": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "9bdca97d-d2c1-4021-ac3d-5d2285c2cc3a": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "ab4391fb-f17b-4077-81b8-91c8229f5469": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788848820__0880a792-a920-444a-a3f7-29195a766cdf-16669404588ac2975e-0",
+        "778f06e4-47a0-4b4a-84f0-3cede3e3b6e5",
+        "9bdca97d-d2c1-4021-ac3d-5d2285c2cc3a",
+        "ab4391fb-f17b-4077-81b8-91c8229f5469"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
+    "c00090a8-1aaf-4e86-860d-758b05efc69d": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "65e91970-5eae-43cf-92df-35c21b590f13",
+    "1663706352d2317f76",
+    "main",
+    "product-recommendations",
+    "16657486568ae3931e",
+    "0880a792-a920-444a-a3f7-29195a766cdf",
+    "c00090a8-1aaf-4e86-860d-758b05efc69d"
+  ]
+}

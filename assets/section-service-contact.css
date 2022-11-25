@@ -1,0 +1,51 @@
+.service-contact--content {
+  color: #000;
+  text-align: center;
+}
+
+.service-contact--content strong {
+  color: #000;
+}
+
+.service-contact--inner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.service-contact--inner img {
+  height: 40rem;
+  width: auto;
+}
+
+.service-contact--services {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.service-contact {
+  border-radius: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  font-weight: 700;
+  padding: 1.6rem 3.2rem;
+  background-color: #2E463B;
+  color: #FFF;
+  text-decoration: none;
+  text-align: center;
+  align-items: center;
+}
+
+.service-contact .icon {
+  margin: 0 4rem;
+  width: 3.2rem;
+}
+
+.service-contact--phone {
+  background-color: #F29F40;
+}
+
+.service-contact--mail {
+  background-color: #7BBA59;
+}

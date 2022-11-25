@@ -1,0 +1,566 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "e2979237-3615-4256-8aaf-d9261312564b": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Bambus",
+            "breadcrumb_link": "shopify:\/\/collections\/bambus"
+          }
+        }
+      },
+      "block_order": [
+        "e2979237-3615-4256-8aaf-d9261312564b",
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "10af9d86-6b3a-4cc7-9c08-3641a61042ae": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Bambus direkt vom Züchter"
+          }
+        },
+        "2bedcac0-b210-4446-8ebc-33110cb34e7f": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "5cc7299a-8518-49a7-a861-8c9ddc7b31a9": {
+          "type": "usp",
+          "settings": {
+            "usp": "Mehr als 5000 zufriedene Kunden"
+          }
+        },
+        "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-pingwu"
+          }
+        },
+        "e5e92081-7fe1-48cb-b92e-16be7981c995": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-obelisk"
+          }
+        },
+        "558eb95a-f9bd-40b8-927e-2bae968b4c4e": {
+          "type": "product_selection",
+          "settings": {
+            "product": "wuchernder-japanischer-pfeilbambus"
+          }
+        }
+      },
+      "block_order": [
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-0",
+        "2bedcac0-b210-4446-8ebc-33110cb34e7f",
+        "5cc7299a-8518-49a7-a861-8c9ddc7b31a9",
+        "e95a5d4c-925a-4fbd-8991-28851e1d94ee",
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1",
+        "e5e92081-7fe1-48cb-b92e-16be7981c995",
+        "558eb95a-f9bd-40b8-927e-2bae968b4c4e"
+      ],
+      "settings": {
+        "heading": "Topseller aus Heckenbambus",
+        "text": "",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Bambuspflanzen als Hecke<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0": {
+      "type": "faq",
+      "blocks": {
+        "ea305cb6-1ba5-4d41-a83e-b29d7dda3e12": {
+          "type": "faq",
+          "settings": {
+            "heading": "Bambus als Gartenbegrenzung, welche Art eignet sich am besten für eine Hecke?",
+            "custom_liquid_1": "",
+            "content": "<p>Es ist vielleicht nicht das Erste, woran Sie denken. Aber eine Bambus-Reihenpflanzung ist eine gute und vor allem besondere Alternative zu einem grünen Gartenzaun. Im Folgenden finden Sie unsere Top 3 der Bambussorten für die Gartenbegrenzung:<\/p>",
+            "custom_liquid_2": "<ol>\n<li><a href='\/products\/nicht-wuchender-bambus-nitida-winter-joy'>Nicht wuchernder Bambus 'Winter Joy'<\/a><\/li>\n<li><a href='\/products\/nicht-wuchender-bambus-obelisk'>Nicht wuchernder Bambus 'Obelisk'<\/a><\/li>\n<li><a href='\/products\/nicht-wuchernder-bambus-pingwu'>Nicht wuchernder Bambus 'Pingwu'<\/a><\/li>\n<\/ol>"
+          }
+        },
+        "240c9834-aca1-4fb6-8536-55c7c8ef1cf1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viele Bambuspflanzen pro Laufmeter?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Anzahl der Pflanzen, die Sie pro Laufmeter benötigen, hängt von der Topfgröße ab. Im Folgenden finden Sie unsere Empfehlungen für die Anzahl der Bambuspflanzen pro Laufmeter.<\/p><p>Foto<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "29fe0b63-3d33-42b8-8c38-4d97a9dcd216": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Erde ist für meine Bambushecke geeignet?",
+            "custom_liquid_1": "",
+            "content": "<p>Wir empfehlen die Verwendung von <a href=\"\/products\/compo-sana-qualitats-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde <\/a>für die Pflanzung Ihrer Bambushecke. Diese Pflanzerde enthält alles, was Ihre Pflanzen für einen guten Start brauchen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "ea305cb6-1ba5-4d41-a83e-b29d7dda3e12",
+        "240c9834-aca1-4fb6-8536-55c7c8ef1cf1",
+        "29fe0b63-3d33-42b8-8c38-4d97a9dcd216"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen über Bambus als Hecke"
+      }
+    },
+    "3376df90-0178-4667-b2be-835718e15eb6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ein niedriger oder hoher Bambus als Hecke<\/p>"
+          }
+        },
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mit unserem schnell wachsenden Bambus als Hecke grenzen Sie Ihr Grundstück im Handumdrehen ab. Bambus wächst erfreulich schnell, sodass Sie schon bald Ergebnisse sehen werden. Und ehe Sie sich versehen, können Sie sich über eine schöne, dichte Hecke freuen. Bambuspflanzen sind in vielen verschiedenen Wuchshöhen erhältlich. Sie können damit Hecken von 1 m bis zu 5 m oder höher anlegen. Ideal, wenn Sie einen schönen grünen Gartenzaun oder eine niedrige Hecke wünschen.<\/p><p>Sie möchten sich lieber für einen <strong>Zaun<\/strong> entscheiden, vermissen aber trotzdem das zusätzliche Grün? Die Umzäunung und eine Bambuspflanzung lassen sich hervorragend kombinieren. Sie können Ihren Bambus beispielsweise entlang eines Zauns oder einer Mauer setzen.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0",
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 6
+      }
+    },
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Entscheiden Sie sich für eine schmale oder eine breite Hecke?<\/p>"
+          }
+        },
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie eine schmale Bambushecke wünschen, empfehlen wir Ihnen, eine aufrecht und kompakt wachsende Bambusart zu wählen. Für diejenigen, die eine dichtere Hecke bevorzugen, gibt es ebenfalls eine Vielzahl von Möglichkeiten. Schneiden Sie eine breite Hecke rechtzeitig zurück, damit der Bambus nicht zu sehr herunterhängt.<\/p><p>Denken Sie daran, dass Ihre Hecke im Winter weniger dicht sein kann. Bambus ist eigentlich winterhart. Allerdings könnte ein strenger Winter sowie starker Wind und Kälte dazu führen, dass die Blätter abfallen und sich verfärben. Keine Sorge, der Bambus erholt sich im Frühjahr gut und wird wieder schön dicht und grün werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0",
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 6,
+        "padding_bottom": 6
+      }
+    },
+    "1bfae006-89f6-4a35-8dcd-5447e6e878c4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verschiedene Farben von Heckenbambus<\/p>"
+          }
+        },
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Man könnte annehmen, dass Bambus gleich Bambus ist. Wenn Sie sich jedoch mit den verschiedenen Bambusarten befassen, werden Sie feststellen, dass es in der Tat zahlreiche Unterschiede in Bezug auf Farbe, Höhe und andere äußere Merkmale gibt. Eine der bemerkenswertesten Bambusarten ist sicherlich Phyllostachys nigra. Dieser <strong>wuchernde Schwarzrohrbambus<\/strong> fällt durch seine schwarzen Halme sofort ins Auge und ist damit ein echter Blickfang in Ihrem Garten. Mit dieser besonderen Pflanze können Sie im Handumdrehen eine außergewöhnliche Bambushecke mit schwarzen Halmen anlegen.<\/p><p>Die 'Jiu' unterscheidet sich auch ein wenig von anderen <a href=\"\/collections\/heckenpflanzen\" title=\"Heckenpflanzen\">Heckenpflanzen<\/a>. Wegen der auffallend roten Halme trägt der Fargesia 'Jiuzhaigou' auch den Trivialnamen Roter Bambus. Auch diese Art ist etwas anders als der 'normale' immergrüne Heckenbambus.<\/p>"
+          }
+        },
+        "693b1d58-450b-4b59-938f-96efb1d51392": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Einige verschiedene Bambusarten für Hecken<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-0",
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-1",
+        "693b1d58-450b-4b59-938f-96efb1d51392"
+      ],
+      "settings": {
+        "padding_top": 6,
+        "padding_bottom": 6
+      }
+    },
+    "4ff6ed29-ad1c-410e-912d-d80e8af14e67": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15857654759604__4ff6ed29-ad1c-410e-912d-d80e8af14e67-16673159776f9e0277-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicht-wuchernder-bambus-campbell-fur-hecken.jpg",
+            "text": "Nicht wuchernder Bambus 'Campbell'",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-campbell"
+          }
+        },
+        "68559da6-1c1a-4726-a937-1f7c0d246705": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heckenbambus-von-jiuzhaigou-bambus-garten.jpg",
+            "text": "Nicht wuchernder Bambus 'Jiu'",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-jiuzhaigou"
+          }
+        },
+        "ef3ecba7-0e22-4742-a0a5-5e5d72162953": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wuchernder-riesenbambus-bissetii-hecke.jpg",
+            "text": "Wuchernder Riesenbambus",
+            "url": "shopify:\/\/products\/wuchernder-riesenbambus"
+          }
+        },
+        "54c2cec1-02e0-4e4c-8ed6-a985c9839444": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wuchernder-japanischer-pfeilbambus-hecke-neu.jpg",
+            "text": "Wuchernder Japanischer Bambus",
+            "url": "shopify:\/\/products\/wuchernder-japanischer-pfeilbambus"
+          }
+        }
+      },
+      "block_order": [
+        "template--15857654759604__4ff6ed29-ad1c-410e-912d-d80e8af14e67-16673159776f9e0277-0",
+        "68559da6-1c1a-4726-a937-1f7c0d246705",
+        "ef3ecba7-0e22-4742-a0a5-5e5d72162953",
+        "54c2cec1-02e0-4e4c-8ed6-a985c9839444"
+      ],
+      "settings": {
+      }
+    },
+    "71092ec2-5061-4f2e-a87b-cc1472926975": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Einen Bambus als Hecke pflanzen<\/p>"
+          }
+        },
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um eine Bambushecke zu pflanzen, benötigen Sie ausreichend Platz. Legen Sie einen Pflanzbereich von etwa einem Meter Breite an. Das gibt dem Bambus ausreichend Platz, um neue Sprossen zu bilden und weiter zu wachsen. Nicht wuchernder Bambus <a href=\"\/products\/nicht-wuchender-bambus-nitida-winter-joy\" title=\"Nicht wuchender Bambus 'Winter Joy'\">'Winter Joy'<\/a> und nicht wuchernder Bambus <a href=\"\/products\/nicht-wuchernder-bambus-campbell\" title=\"Nicht wuchender Bambus 'Campbell'\">'Campbell'<\/a> eignen sich am besten für eine schöne, sich nicht ausbreitende Bambushecke.<\/p><p><strong>Tipp<\/strong><br\/>Möchten Sie eine wuchernde Bambusart als Hecke pflanzen? Verwenden Sie eine <a href=\"\/products\/bambus-wurzelsperre-nature\" title=\"Bambus-Wurzelsperre Nature\">Wurzelsperre<\/a>, die das Ausbreiten der Rhizome stoppt.<\/p><p>Foto<\/p>"
+          }
+        },
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-3": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": ""
+          }
+        },
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-4": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": ""
+          }
+        },
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-0",
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-1",
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-3",
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-4",
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5"
+      ],
+      "settings": {
+        "padding_top": 6,
+        "padding_bottom": 0
+      }
+    },
+    "68e551e5-2a3f-4a9e-a50a-cfcf2c11129f": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Pflege einer Bambushecke",
+        "image": "shopify:\/\/shop_images\/compo-bambus-langzeit-dunger.jpg",
+        "content": "<p>Die Pflege und das Zurückschneiden Ihres Bambus ist eine relativ einfache, aber dennoch wichtige Aufgabe. Bambus wächst sehr schnell. Daher empfehlen wir, die Pflanzen jährlich zu stutzen, um sie gesund und in guter Form zu halten. Eine ausreichende Nährstoffversorgung für Ihren Bambus ist ebenfalls sehr wichtig. Verwenden Sie also den <a href=\"\/products\/compo-bambus-ziergraser-langzeit-dunger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>, der Ihren Bambus optimal versorgt. Dieser Dünger ermöglicht eine gesunde und widerstandsfähige Pflanze, die den Winter unbeschadet übersteht. Düngen Sie Ihren Bambus zweimal jährlich, im zeitigen Frühjahr und im Sommer, damit Ihre Bambushecke lange gut aussieht.<\/p>",
+        "url": "shopify:\/\/products\/compo-bambus-ziergraeser-langzeit-duenger",
+        "btn_text": ""
+      }
+    },
+    "fcdf8a74-fe51-44a1-8897-d0425350f6ff": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambushecken kaufen und bestellen<\/p>"
+          }
+        },
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für eine schöne Bambushecke benötigen Sie mehrere Pflanzen. Allerdings kommt das Transportproblem hinzu, denn wie bekommen Sie all diese Pflanzen in Ihr Auto? Ganz zu schweigen von dem damit verbundenen schweren Heben und dem verschmutzten Auto. Das und vieles mehr sind die Vorteile, wenn Sie Ihren Heckenbambus online bei Gartencenter.de bestellen und kaufen. Wählen Sie mit uns die gewünschte Pflanze sowie die richtige Menge an Pflanzerde, Dünger und Gartengeräten aus. Wir sorgen dafür, dass alles zum Wunschtermin zu Ihnen nach Hause geliefert wird. Einfach und bequem!<\/p>"
+          }
+        },
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-3": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": ""
+          }
+        },
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-4": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": ""
+          }
+        },
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-0",
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-1",
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-3",
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-4",
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5"
+      ],
+      "settings": {
+        "padding_top": 6,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "10af9d86-6b3a-4cc7-9c08-3641a61042ae",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0",
+    "3376df90-0178-4667-b2be-835718e15eb6",
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997",
+    "1bfae006-89f6-4a35-8dcd-5447e6e878c4",
+    "4ff6ed29-ad1c-410e-912d-d80e8af14e67",
+    "71092ec2-5061-4f2e-a87b-cc1472926975",
+    "68e551e5-2a3f-4a9e-a50a-cfcf2c11129f",
+    "fcdf8a74-fe51-44a1-8897-d0425350f6ff",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

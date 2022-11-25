@@ -1,0 +1,542 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Hortensien",
+        "featured_product_one": "schneeball-hortensie-annabelle",
+        "featured_product_two": "bauernhortensie-blau",
+        "featured_product_three": "bauernhortensie-weiss",
+        "color_scheme": "background-1"
+      }
+    },
+    "9b33de80-36b0-47d6-afa9-cf11820d4f3a": {
+      "type": "populair-collections",
+      "blocks": {
+        "template--15860270301364__9b33de80-36b0-47d6-afa9-cf11820d4f3a-16685209127c1ced68-0": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bauernhortensien",
+            "image": "shopify:\/\/shop_images\/bauernhortensien.jpg",
+            "header": "Bauernhortensien"
+          }
+        },
+        "738dc843-4342-449c-a345-328b787c5f20": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/schneeballhortensien",
+            "image": "shopify:\/\/shop_images\/zierstraeucher-hortensie.jpg",
+            "header": "Schneeballhortensien"
+          }
+        },
+        "f17867a4-4cc0-486c-9981-84e74fa3d044": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/rispenhortensien",
+            "image": "shopify:\/\/shop_images\/rispenhortensien.jpg",
+            "header": "Rispenhortensien"
+          }
+        },
+        "7a90c34a-50ce-476e-9397-c86c6eec11c2": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/kletterhortensien",
+            "image": "shopify:\/\/shop_images\/kletterhortensien.jpg",
+            "header": "Kletterhortensien"
+          }
+        },
+        "9e1f546b-e520-4210-b7fd-5a6bcb7ffbad": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/weisse-hortensien",
+            "image": "shopify:\/\/shop_images\/weisse-hortensien.jpg",
+            "header": "Weiße Hortensien"
+          }
+        },
+        "6ed99281-d431-4e43-9cc8-8986a5852990": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/rosa-hortensien",
+            "image": "shopify:\/\/shop_images\/rosa-hortensien.jpg",
+            "header": "Rosa Hortensien"
+          }
+        },
+        "0f496886-736b-4fc5-ad99-e5d60d192ef8": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/hortensien-fuer-sonnige-standorte",
+            "image": "shopify:\/\/shop_images\/hortensien-fuer-sonnige-standorte.jpg",
+            "header": "Hortensien für sonnige Standorte"
+          }
+        },
+        "110c4fdf-2a94-4885-8743-83cc3ea392b3": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/magical-hortensien",
+            "image": "shopify:\/\/shop_images\/magical-hortensien.jpg",
+            "header": "Magical-Hortensien"
+          }
+        },
+        "df259a90-c0c5-457a-82fc-e09afbe03895": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/langbluehende-hortensien",
+            "image": "shopify:\/\/shop_images\/langbluehende-hortensien.jpg",
+            "header": "Langblühende Hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860270301364__9b33de80-36b0-47d6-afa9-cf11820d4f3a-16685209127c1ced68-0",
+        "738dc843-4342-449c-a345-328b787c5f20",
+        "f17867a4-4cc0-486c-9981-84e74fa3d044",
+        "7a90c34a-50ce-476e-9397-c86c6eec11c2",
+        "9e1f546b-e520-4210-b7fd-5a6bcb7ffbad",
+        "6ed99281-d431-4e43-9cc8-8986a5852990",
+        "0f496886-736b-4fc5-ad99-e5d60d192ef8",
+        "110c4fdf-2a94-4885-8743-83cc3ea392b3",
+        "df259a90-c0c5-457a-82fc-e09afbe03895"
+      ],
+      "settings": {
+        "header": "",
+        "text": "",
+        "mobile_swipe": false
+      }
+    },
+    "80499062-3194-4389-a386-99b65e9fb7bb": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15870028415156__80499062-3194-4389-a386-99b65e9fb7bb-166902013767713c68-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Pflanzen direkt vom Züchter"
+          }
+        },
+        "e2dc252e-a326-4704-bfe0-6f4162b3ee23": {
+          "type": "usp",
+          "settings": {
+            "usp": "Jetzt bestellen, später bezahlen"
+          }
+        },
+        "5ea9ed90-f749-4d32-973f-a0afb77ca64d": {
+          "type": "usp",
+          "settings": {
+            "usp": "In ganz Deutschland bis an die Haustür geliefert"
+          }
+        },
+        "template--15870028415156__80499062-3194-4389-a386-99b65e9fb7bb-166902013767713c68-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "schneeball-hortensie-annabelle"
+          }
+        },
+        "3368e584-c33b-460a-a582-5c5c22b0274e": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-blau"
+          }
+        },
+        "9870c0e8-f8e5-43b3-8af2-cac5ae9615dc": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-weiss"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028415156__80499062-3194-4389-a386-99b65e9fb7bb-166902013767713c68-0",
+        "e2dc252e-a326-4704-bfe0-6f4162b3ee23",
+        "5ea9ed90-f749-4d32-973f-a0afb77ca64d",
+        "template--15870028415156__80499062-3194-4389-a386-99b65e9fb7bb-166902013767713c68-1",
+        "3368e584-c33b-460a-a582-5c5c22b0274e",
+        "9870c0e8-f8e5-43b3-8af2-cac5ae9615dc"
+      ],
+      "settings": {
+        "heading": "HORTENSIEN TOPSELLER",
+        "text": ""
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2401d6f8-6c47-4707-aa33-c6d8189a8e5d": {
+      "type": "faq",
+      "blocks": {
+        "template--15860270301364__2401d6f8-6c47-4707-aa33-c6d8189a8e5d-1668525472861d1fd1-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann kann man Hortensien am besten kaufen?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien können grundsätzlich das ganze Jahr über gekauft werden. Gepflanzt werden sie jedoch am besten im Frühling oder Herbst. Dann hat die Pflanze genügend Zeit zum Einwurzeln, um im Sommer gegen extreme Sonneneinstrahlung und Trockenheit bzw. im Winter gegen Frost geschützt zu sein.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "830d06d0-3b5f-485b-a298-4c35b7c28c59": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viel Sonne vertragen Hortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Die meisten Hortensienarten fühlen sich an sonnigen Standorten sehr wohl. Vorausgesetzt, sie bekommen genug Wasser! In der prallen Sonne verdunstet das Gießwasser nämlich sehr schnell. Manche Hortensienarten vertragen die Sonne besser als andere. Rispenhortensien eignen sich besonders gut für sonnige Standplätze im Garten, auf der Terrasse oder am Balkon.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "aca27246-fd5f-43ab-bc98-64aa16ee1408": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Hortensienarten sind winterhart?",
+            "custom_liquid_1": "",
+            "content": "<p>Alle von uns angebotenen Hortensienarten sind winterhart und können somit problemlos draußen überwintern. Haben Sie eine Hortensie im Topf? Dann sollten Sie zusätzliche Maßnahmen gegen Frost ergreifen. Stellen Sie die Kübelpflanze an einen windgeschützten Ort im Garten (Hauswand, Mauer etc.), decken Sie sie mit einem Winterschutzvlies ab oder stellen Sie sie zum Überwintern in den Keller.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15860270301364__2401d6f8-6c47-4707-aa33-c6d8189a8e5d-1668525472861d1fd1-0",
+        "830d06d0-3b5f-485b-a298-4c35b7c28c59",
+        "aca27246-fd5f-43ab-bc98-64aa16ee1408"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Hortensien"
+      }
+    },
+    "2415fc67-864f-4750-8727-22f39e9be2d3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15860270301364__2415fc67-864f-4750-8727-22f39e9be2d3-16685256217dbb259e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Mehr zum Online-Bestellen von Hortensien<\/p>"
+          }
+        },
+        "template--15860270301364__2415fc67-864f-4750-8727-22f39e9be2d3-16685256217dbb259e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gartencenter.de finden Sie die schönsten Hortensien in vielen verschiedenen Farben, Variationen und Größen. Wir beziehen unsere Pflanzen von renommierten Hortensienzüchtern in den Niederlanden. Ob Bauernhortensie oder Schneeballhortensie – bei uns können Sie bequem online bestellen und sich die Pflanzen nach Hause liefern lassen!<\/p>"
+          }
+        },
+        "a12762be-4861-46fc-a242-2ce2f3aabb5a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien richtig pflegen<\/p>"
+          }
+        },
+        "f1df94cd-1577-4493-ac06-2c4fe2a83d25": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien sind relativ pflegeleichte Gartenpflanzen. Bei der Pflege von Hortensien sollten allerdings einige wichtige Punkte beachtet werden. So sollte beim Pflanzen von Hortensien unbedingt spezielle Hortensienerde verwendet werden. Hortensien bevorzugen saure Böden und gedeihen in dieser Art von Erde am besten. Verwöhnen Sie Ihre Hortensien außerdem zweimal im Jahr mit Hortensiendünger.<\/p>"
+          }
+        },
+        "0fc599f3-dd18-468b-929d-63657403d639": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aber nicht nur die richtige Erde und spezieller Dünger sind entscheidend, Hortensien müssen auch regelmäßig zurückgeschnitten werden. Das Zurückschneiden fördert das Wachstum neuer Blüten und Triebe und trägt außerdem zur Verjüngung der Pflanze bei.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15860270301364__2415fc67-864f-4750-8727-22f39e9be2d3-16685256217dbb259e-0",
+        "template--15860270301364__2415fc67-864f-4750-8727-22f39e9be2d3-16685256217dbb259e-1",
+        "a12762be-4861-46fc-a242-2ce2f3aabb5a",
+        "f1df94cd-1577-4493-ac06-2c4fe2a83d25",
+        "0fc599f3-dd18-468b-929d-63657403d639"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "8c9eddf7-fbda-4a7c-b87c-ca8d54adf427": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "8277fa66-a2d3-449e-9250-e67e22113e92": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schneeballhortensie-annabelle-blumen.jpg",
+            "text": "Schneeballhortensie 'Annabelle'",
+            "url": "shopify:\/\/products\/schneeball-hortensie-annabelle"
+          }
+        },
+        "22b65e57-438c-4319-8431-eb2d2ca09c03": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/magical-hortensien-blau.jpg",
+            "text": "Bauernhortensie blau",
+            "url": "shopify:\/\/products\/bauernhortensie-blau"
+          }
+        }
+      },
+      "block_order": [
+        "8277fa66-a2d3-449e-9250-e67e22113e92",
+        "22b65e57-438c-4319-8431-eb2d2ca09c03"
+      ],
+      "settings": {
+      }
+    },
+    "0e026c5c-c4f8-48b2-b454-f49852c33fd1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870028415156__0e026c5c-c4f8-48b2-b454-f49852c33fd1-1668767961ccf8d9f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Besondere Hortensien<\/p>"
+          }
+        },
+        "template--15870028415156__0e026c5c-c4f8-48b2-b454-f49852c33fd1-1668767961ccf8d9f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir haben die unterschiedlichsten Hortensienarten in vielen verschiedenen Farben und Größen in unserem Angebot. Die häufigsten Farben sind <a href=\"\/collections\/rosa-hortensien\" title=\"Rosa Hortensien\">rosa<\/a>, <a href=\"\/collections\/weisse-hortensien\" title=\"Weiße Hortensien\">weiß<\/a> und <a href=\"\/products\/bauernhortensie-blau\" title=\"Bauernhortensie blau\">blau<\/a>. Neben diesen drei Farben haben wir auch einige spezielle Varianten in unserem Sortiment, wie etwa <a href=\"\/collections\/magical-hortensien\" title=\"Magical-Hortensien\">farbwechselnde Hortensien<\/a>. Diese farbenprächtigen Hortensien ändern während ihrer Blütezeit wie von Zauberhand die Farbe und verleihen Ihrem Garten etwas Magisches. Aber auch die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblättrige Hortensie<\/a> ist mit ihren eichenblattförmigen Blättern und weißen Blütenrispen eine auffällige Erscheinung in Ihrem Garten.<\/p>"
+          }
+        },
+        "99db79d4-f320-4770-a65e-32b3dc152fc2": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Einige Hortensienarten<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028415156__0e026c5c-c4f8-48b2-b454-f49852c33fd1-1668767961ccf8d9f3-0",
+        "template--15870028415156__0e026c5c-c4f8-48b2-b454-f49852c33fd1-1668767961ccf8d9f3-1",
+        "99db79d4-f320-4770-a65e-32b3dc152fc2"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "679100ce-513d-4664-babc-e728b84b3ec3": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bauernhortensien",
+        "image": "shopify:\/\/shop_images\/bauernhortensien-blau-farben.jpg",
+        "content": "<p>Hydrangea macrophylla, die klassische Garten- oder <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensie<\/a> hat große kugelförmige Blüten. Bauernhortensien sind in vielen verschiedenen Farben erhältlich und blühen nur an alten Trieben.<\/p>",
+        "url": "shopify:\/\/collections\/bauernhortensien",
+        "btn_text": "Bauernhortensien ansehen"
+      }
+    },
+    "5e32049f-a78b-4c7b-8d93-7fe908fd803f": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Kletterhortensien",
+        "image": "shopify:\/\/shop_images\/kletterhortensien-kletterpflanze.jpg",
+        "content": "<p>Die Hydrangea anomala ‘Petiolaris’ ist eine Hortensie mit Haftwurzeln. Diese besondere Eigenschaft macht sie zur Kletterpflanze, weshalb sie auch <a href=\"\/products\/kletterhortensie-petiolaris\" title=\"Kletterhortensie 'Petiolaris'\">Kletterhortensie<\/a> genannt wird. Obwohl die Kletterhortensie selbsthaftend ist, empfehlen wir Ihnen, sie im ersten Jahr mit einer Kletterhilfe zu unterstützen. Die Kletterhortensie wächst gerne an Mauern oder alten Baumstämmen empor. Kletterhortensien haben große schirmförmige Blütenstände und können bis zu 20 Meter hoch werden.<\/p>",
+        "url": "shopify:\/\/products\/kletterhortensie-petiolaris",
+        "btn_text": "Kletterhortensien ansehen"
+      }
+    },
+    "9924249e-0342-4258-81aa-19a26086ed9f": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Rispenhortensien",
+        "image": "shopify:\/\/shop_images\/risepnhortensien-limelight.jpg",
+        "content": "<p>Die Hydrangea paniculata, auch bekannt als <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensie<\/a>, zeichnet sich – wie der Name schon verrät – durch ihre auffälligen Rispenblüten aus. Die bekannteste Rispenhortensie ist die <a href=\"\/products\/rispenhortensie-limelight\" title=\"Rispenhortensie 'Limelight'\">Hydrangea paniculata ‘Limelight’<\/a>, eine Pflanze mit hellgrün-weißen Blüten. Eine andere beliebte Sorte ist die <a href=\"\/products\/rispenhortensie-grandiflora\" title=\"Rispenhortensie 'Grandiflora'\">Hydrangea paniculata 'Grandiflora'<\/a>, die mit ihren großen, weißen Blütenrispen begeistert.<\/p>",
+        "url": "shopify:\/\/collections\/rispenhortensien",
+        "btn_text": "Rispenhortensien ansehen"
+      }
+    },
+    "2153555c-536c-4aef-acc2-f35b40054279": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Eichenblättrige Hortensie",
+        "image": "shopify:\/\/shop_images\/eichenblattrige-hortensie-blumen.jpg",
+        "content": "<p>Die eichenblättrige Hortensie oder <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Hydrangea quercifolia<\/a> besticht durch ihre besondere Blattform. Quercifolia bedeutet nichts anderes als Eichenblatt. Das erklärt auch, wie diese Hortensienart zu ihrem Namen kommt. Abgesehen von ihrer auffälligen Blattform bezaubert die Eichenblättrige Hortensie mit ihren wunderschönen weißen Blüten.<\/p>",
+        "url": "shopify:\/\/products\/eichenblaettrige-hortensie",
+        "btn_text": "Eichenblättrige Hortensien ansehen"
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "9b33de80-36b0-47d6-afa9-cf11820d4f3a",
+    "80499062-3194-4389-a386-99b65e9fb7bb",
+    "product-grid",
+    "2401d6f8-6c47-4707-aa33-c6d8189a8e5d",
+    "2415fc67-864f-4750-8727-22f39e9be2d3",
+    "8c9eddf7-fbda-4a7c-b87c-ca8d54adf427",
+    "0e026c5c-c4f8-48b2-b454-f49852c33fd1",
+    "679100ce-513d-4664-babc-e728b84b3ec3",
+    "5e32049f-a78b-4c7b-8d93-7fe908fd803f",
+    "9924249e-0342-4258-81aa-19a26086ed9f",
+    "2153555c-536c-4aef-acc2-f35b40054279",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

@@ -1,0 +1,114 @@
+<link rel="stylesheet" href="{{ 'component-slider.css' | asset_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ 'section-rating.css' | asset_url }}" media="print" onload="this.media='all'">
+
+<div class="page-width rating-container">
+  <div class="rating-container--content">
+    <h2>Gartencenter.de<br>Bewertungen</h2>
+    <div class="rating-stars">
+      {%- liquid 
+        render 'global-icon' icon: 'star'
+        render 'global-icon' icon: 'star'
+        render 'global-icon' icon: 'star'
+        render 'global-icon' icon: 'star'
+        render 'global-icon' icon: 'half-star'
+      -%}
+    </div>
+    <p>
+      Bewertet mit <strong>8.8</strong><br>
+      <strong>3928 Bewertungen</strong>
+    </p>
+  </div>
+  <slider-component>
+    <ul class="list-unstyled slider slider--mobile rating-slider">
+      <li class="grid__item slider__slide rating-item">
+        <span class="rating-name">
+          <strong>Ben</strong>
+          <div class="rating-stars">
+          {%- liquid 
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'half-star'
+          -%}
+          </div>
+        </span>
+        <span class="rating-date">25. Oktober 2022</span>
+        <hr>
+        <p class="rating-content">
+          Alles lief gut. Die bestellung ist angekommen pünktlich und gut verpackt. Überhaupt nichts zu beklagen.
+        </p>
+      </li>
+      <li class="grid__item slider__slide rating-item">
+        <span class="rating-name">
+          <strong>Ben</strong>
+          <div class="rating-stars">
+          {%- liquid 
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'half-star'
+          -%}
+          </div>
+        </span>
+        <span class="rating-date">25. Oktober 2022</span>
+        <hr>
+        <p class="rating-content">
+          Alles lief gut. Die bestellung ist angekommen pünktlich und gut verpackt. Überhaupt nichts zu beklagen.
+        </p>
+      </li>
+      <li class="grid__item slider__slide rating-item">
+        <span class="rating-name">
+          <strong>Ben</strong>
+          <div class="rating-stars">
+          {%- liquid 
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'half-star'
+          -%}
+          </div>
+        </span>
+        <span class="rating-date">25. Oktober 2022</span>
+        <hr>
+        <p class="rating-content">
+          Alles lief gut. Die bestellung ist angekommen pünktlich und gut verpackt. Überhaupt nichts zu beklagen.
+        </p>
+      </li>
+      <li class="grid__item slider__slide rating-item">
+        <span class="rating-name">
+          <strong>Ben</strong>
+          <div class="rating-stars">
+          {%- liquid 
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'star'
+            render 'global-icon' icon: 'half-star'
+          -%}
+          </div>
+        </span>
+        <span class="rating-date">25. Oktober 2022</span>
+        <hr>
+        <p class="rating-content">
+          Alles lief gut. Die bestellung ist angekommen pünktlich und gut verpackt. Überhaupt nichts zu beklagen.
+        </p>
+      </li>
+    </ul>
+  </slider-component>
+</div>
+
+{% schema %}
+{
+  "name": "Rating",
+  "tag": "section",
+  "class": "section",
+  "presets": [
+    {
+      "name": "Rating"
+    }
+  ]
+}
+{% endschema %}

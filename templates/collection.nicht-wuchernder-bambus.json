@@ -1,0 +1,575 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "e2979237-3615-4256-8aaf-d9261312564b": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Bambus",
+            "breadcrumb_link": "shopify:\/\/collections\/bambus"
+          }
+        }
+      },
+      "block_order": [
+        "e2979237-3615-4256-8aaf-d9261312564b",
+        "04d63e0f-984b-40d4-a9dc-25ae7834c87a"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "10af9d86-6b3a-4cc7-9c08-3641a61042ae": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Bambus direkt vom Züchter"
+          }
+        },
+        "2bedcac0-b210-4446-8ebc-33110cb34e7f": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "5cc7299a-8518-49a7-a861-8c9ddc7b31a9": {
+          "type": "usp",
+          "settings": {
+            "usp": "Mehr als 5000 zufriedene Kunden"
+          }
+        },
+        "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "f923643a-834e-4caf-ac5a-97cfe3b2c6c4": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-nitida-winter-joy"
+          }
+        },
+        "f017a553-3180-4825-8fa1-3d802f6c8eb3": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-pingwu"
+          }
+        }
+      },
+      "block_order": [
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-0",
+        "2bedcac0-b210-4446-8ebc-33110cb34e7f",
+        "5cc7299a-8518-49a7-a861-8c9ddc7b31a9",
+        "e95a5d4c-925a-4fbd-8991-28851e1d94ee",
+        "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1",
+        "f923643a-834e-4caf-ac5a-97cfe3b2c6c4",
+        "f017a553-3180-4825-8fa1-3d802f6c8eb3"
+      ],
+      "settings": {
+        "heading": "Topseller aus nicht wuchernder Bambus",
+        "text": "",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle nicht wuchernder Bambuspflanzen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "c1e3742a-4f09-416a-9566-389609f157f4": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "NEU: NICHT WUCHERNDER SCHWARZER BAMBUS",
+        "image": "shopify:\/\/shop_images\/fargesia-moontears-bambus-boobux.jpg",
+        "content": "<p>Dieser ungewöhnliche Bambus mit dunkelvioletten bis schwarzen Halmen ist eine echte Bereicherung für jeden Garten. 'Black Pearl' ist ein nicht wuchernder und sehr starker Bambus. Die dunklen Halme bilden einen schönen Kontrast zu den cremefarbenen Hüllblättern der frischgrünen Blätter. Der Bambus hat eine volle Wuchsform, die leicht kompakt zu halten ist und sich daher auch sehr gut für Kübel eignet.<\/p>",
+        "url": "shopify:\/\/products\/nicht-wuchernder-bambus-moontears",
+        "btn_text": "Sehen Sie sich Fargesia nitida 'Black Pearl' an!"
+      }
+    },
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0": {
+      "type": "faq",
+      "blocks": {
+        "template--15855049801908__eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0-16672115330f28d747-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie hoch wird nicht wuchernder Bambus?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Höhe eines nicht wuchernden Bambus hängt von der Bambusart ab. Fargesia-Arten, die nicht wuchern, werden alle etwa 4 Meter hoch. Ausnahmen sind der <a href=\"\/products\/nicht-wuchernder-bambus-rufa\" title=\"Nicht wuchernder Bambus 'Rufa'\">nicht wuchernde Bambus 'Rufa'<\/a> (Fargesia 'Rufa') und der <a href=\"\/products\/nicht-wuchernder-bambus-jiuzhaigou\" title=\"Nicht wuchernder Bambus 'Jiuzhaigou'\">nicht wuchernde Bambus 'Jiu'<\/a> (Fargesia 'Jiuzhaigou'). Diese können bis zu 3 Meter hoch werden.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "287fe68d-36fe-4202-a711-75ff72342883": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie schnell wächst der nicht wuchernde Bambus Fargesia?",
+            "custom_liquid_1": "",
+            "content": "<p>Die nicht wuchernden Fargesia-Sorten in unserem Sortiment wachsen etwa 40 bis 60 cm pro Jahr.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a2c500cb-0516-4529-8005-630695f9bcd2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie hoch kann Bambus wachsen?",
+            "custom_liquid_1": "",
+            "content": "<p>Wenn Sie <a href=\"\/collections\/bambuspflanzen-als-hecke\" title=\"Bambuspflanzen als Hecke\">Bambus als Hecke<\/a> pflanzen möchten, müssen Sie die gesetzlichen Bestimmungen beachten. Prüfen Sie das, bevor Sie Ihre Hecke pflanzen. Eine Hecke, die an der Grundstücksgrenze (zwischen zwei Gärten) gepflanzt wird, sollte eine Höhe von 2 Metern nicht überschreiten. Je nach Region können unterschiedliche Regeln gelten. Erkundigen Sie sich daher immer bei Ihrer Gemeinde, welche Vorschriften in Ihrer Gegend gelten. Die Höhe der Bambuspflanzen hängt auch von der maximalen Wuchshöhe der Pflanzen ab. Auf unserer Website finden Sie weitere Informationen über die maximale Wuchshöhe für jede Bambusart.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "699b8423-6d0c-4f51-b247-b4faecdcd994": {
+          "type": "faq",
+          "settings": {
+            "heading": "Warum wächst mein Bambus nicht?",
+            "custom_liquid_1": "",
+            "content": "<p>Es kann verschiedene Gründe geben, warum der Bambus nicht gut gedeiht. Prüfen Sie, ob Ihre Pflanze in einem der folgenden Punkte zusätzliche Aufmerksamkeit benötigt:<\/p>",
+            "custom_liquid_2": "<ul>\n<li><strong>Wasser:<\/strong> Ein Bambus braucht viel Wasser. Stellen Sie sicher, dass die Drainage gut ist, damit überschüssiges Wasser gut abfließen kann.<\/li>\n<li><strong>Wind:<\/strong> Bambus verträgt keinen starken Wind. Damit die Blätter schön bleiben, ist es besser, die Pflanze an einen windgeschützten Standort zu stellen.<\/li>\n<li><strong>Schatten:<\/strong> Bambus gedeiht sowohl in der Sonne als auch im Schatten. Leider ist zu viel Schatten nicht gut für die Pflanze. Achten Sie daher darauf, dass er einen Platz mit einigen Sonnenstunden pro Tag bekommt (etwa 4 Sonnenstunden pro Tag).<\/li>\n<li><strong>Düngung:<\/strong> Zusätzliche Nährstoffe wirken Wunder für Ihren Bambus. Die Pflanze wird es Ihnen mit schönen grünen Blättern danken. Düngen Sie Ihre Bambuspflanzen daher zweimal im Jahr mit <a href='\/products\/compo-bambus-ziergraeser-langzeit-duenger'>COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>.<\/li>\n<\/ul>"
+          }
+        },
+        "68141365-5198-4808-a7b8-0312a3e73243": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Bambusart wächst am höchsten?",
+            "custom_liquid_1": "",
+            "content": "<p>In der Regel wächst der nicht wuchernde Bambus nicht so hoch wie der wuchernde Bambus. Die Fargesia-Arten werden etwa 3 bis 4 Meter hoch. Der <a href=\"\/products\/wuchernder-riesenbambus\" title=\"Wuchernder Riesenbambus\">wuchernde Riesenbambus<\/a> (Phyllostachys bissetii) ist mit einer maximalen Höhe von 8 Metern der höchste Bambus in unserem Sortiment.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0-16672115330f28d747-0",
+        "287fe68d-36fe-4202-a711-75ff72342883",
+        "a2c500cb-0516-4529-8005-630695f9bcd2",
+        "699b8423-6d0c-4f51-b247-b4faecdcd994",
+        "68141365-5198-4808-a7b8-0312a3e73243"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen über nicht wuchernden Bambus"
+      }
+    },
+    "8cf846dd-dba5-4b7e-87e0-e9899cddb318": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Der Unterschied zwischen nicht wuchernden und wucherndem Bambus<\/p>"
+          }
+        },
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nicht wuchernder Bambus und wuchernder Bambus wachsen auf unterschiedliche Weise. Dieser Unterschied zeigt sich vor allem im Boden. Nicht wuchernder Bambus wächst aus einem <strong>konzentrierten Sprossbüschel<\/strong>. Oftmals entwickelt sich die Pflanze in der Breite und der Höhe. Das bedeutet, je größer und älter die Pflanze ist, desto größer ist der Wurzelballen im Boden. Nicht wuchernder Bambus bildet keine Ausläufer und bildet einen konzentrierten Horst. Die Pflanze macht sich also nicht überall im Garten breit, wie es bei wucherndem Bambus der Fall ist.<\/p>"
+          }
+        },
+        "142bdb4e-a465-4753-947c-61d564a3f020": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wuchender-bambus-vs-nicht-wuchernder-bambus.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-0",
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-1",
+        "142bdb4e-a465-4753-947c-61d564a3f020"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 6
+      }
+    },
+    "3376df90-0178-4667-b2be-835718e15eb6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Fargesia, die nicht wuchernde Bambusart<\/p>"
+          }
+        },
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fargesia ist eine Bambusart, die sich nicht über Ausläufer ausbreitet. Fargesia verdankt ihre Beliebtheit der einfachen Pflege und der Wuchsform als Busch. So können Sie Fargesia in Ihrem Garten, aber auch auf Ihrer Terrasse oder Ihrem Balkon pflanzen, ohne sich um die unerwünschten, sich unterirdisch ausbreitenden Rhizome kümmern zu müssen. Fargesia ist eine sehr kräftige Bambusart und äußerst winterhart. Die Pflanzenart hat schöne längliche Blätter, die einen wunderbaren Kontrast zu den Halmen bilden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0",
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nicht wuchernder Bambus im Kübel<\/p>"
+          }
+        },
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nicht wuchernder Bambus ist bestens geeignet, um in einem Kübel oder Pflanzkasten auf Ihrem Balkon oder auf Ihrer Terrasse zu stehen. Suchen Sie zum Pflanzen einen Kübel oder Pflanzgefäß mit ausreichend Platz für den Wurzelballen aus. Bambus wächst schnell, was auch bedeutet, dass der Wurzelballen immer größer wird. Berücksichtigen Sie das beim Kauf Ihres Pflanzkübels. Zudem ist eine optimale Entwässerung sehr wichtig, damit es die Pflanzenwurzeln nicht zu feucht haben. Bambuspflanzen mögen Wasser aber nicht zu viel. Ein Boden mit etwas Feuchtigkeit eignet sich perfekt. Hinweis: In den Sommermonaten können die Topfpflanzen schneller austrocknen. Gießen Sie daher vor allem an wärmeren Tagen regelmäßig, um die Pflanze vor dem Austrocknen zu bewahren.<\/p>"
+          }
+        },
+        "2b84fd4e-edf5-44f7-ae47-e4bc4e446270": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Niedriger oder hoher, nicht wuchernder Bambus<\/p>"
+          }
+        },
+        "ffada8a7-7d56-49b8-972e-ca283c4fcbb0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die nicht wuchernden Bambuspflanzen in unserem Sortiment unterscheiden sich nicht wesentlich in der Wuchshöhe. Es handelt sich nicht um ausgesprochen niedrige, aber auch nicht um sehr hohe Bambusarten, also um schöne mittelgroße Pflanzen.<\/p><p><a href=\"\/products\/nicht-wuchernder-bambus-moontears\" title=\"Nicht wuchernder Bambus 'Moontears'\">Fargesia murieliae 'Moontears' <\/a>ist unser kleinster, nicht wuchernder Bambus und kann eine Höhe von 2 bis 3 Metern erreichen. Fargesia 'Jiuzhaigou' ist ebenfalls eine kleinere Sorte, die eine Höhe von etwa 3 Metern erzielt. Winter Joy', 'Campbell', 'Obelisk' und 'Pingwu' werden alle ungefähr 4 Meter hoch. Diese nicht wuchernden Bambussorten lassen sich auch relativ problemlos kurz halten, falls Sie einen niedrigeren Bambus bevorzugen. Dazu schneiden Sie ihn zweimal im Jahr, kurz nach dem Winter und nach dem Sommer zurück.<\/p>"
+          }
+        },
+        "386420de-7c35-48cb-b91c-f8ac7caa2cfd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicht-wuchernde-bambus-moontears-hecke-grun.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0",
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1",
+        "2b84fd4e-edf5-44f7-ae47-e4bc4e446270",
+        "ffada8a7-7d56-49b8-972e-ca283c4fcbb0",
+        "386420de-7c35-48cb-b91c-f8ac7caa2cfd"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1bfae006-89f6-4a35-8dcd-5447e6e878c4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nicht wuchernde Bambus-Hecke<\/p>"
+          }
+        },
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie können im Handumdrehen eine schöne grüne Hecke aus nicht wucherndem Bambus anlegen. Eine echte <a href=\"\/collections\/heckenpflanzen\" title=\"Heckenpflanzen\">Heckenpflanze<\/a> ist der nicht wuchernde Bambus <a href=\"\/products\/nicht-wuchernder-bambus-nitida-winter-joy\" title=\"Nicht wuchernder Bambus 'Winter Joy'\">'Winter Joy'<\/a>. Dieser Bambus wuchert nicht und hat einen schönen aufrechten Wuchs. Fargesia robusta <a href=\"\/products\/nicht-wuchernder-bambus-campbell\" title=\"Nicht wuchernder Bambus 'Campbell'\">'Campbell'<\/a> und Fargesia robusta <a href=\"\/products\/nicht-wuchernder-bambus-pingwu\" title=\"Nicht wuchernder Bambus 'Pingwu'\">'Pingwu'<\/a> wachsen ebenfalls wunderbar aufrecht und eignen sich daher sehr gut für Bambushecken. Die Sorte 'Pingwu' ähnelt der 'Campbell' sehr. Allerdings wächst 'Pingwu' höher und etwas buschiger. Der nicht wuchernde Bambus <a href=\"\/products\/nicht-wuchernder-bambus-obelisk\" title=\"Nicht wuchernder Bambus 'Obelisk'\">'Obelisk'<\/a> ist ein sehr kräftiger Bambus mit schönen dicken, aufrechten Halmen von etwa 1 cm. Nicht zuletzt ist der nicht wuchernde Bambus 'Rufa' ebenfalls ein <a href=\"\/collections\/bambuspflanzen-als-hecke\" title=\"Bambuspflanzen als Hecke\">schöner Heckenbambus<\/a>. Die Halme der älteren Pflanzen hängen etwas über, was nicht unbedingt von allen Gartenfreunden erwünscht ist.<\/p>"
+          }
+        },
+        "5190c21c-2d12-45ab-875d-26271cee6c8e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Besondere Farben der Bambushalme<\/p>"
+          }
+        },
+        "47842335-31d7-41a3-8c14-b314dae12d73": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Durch das Pflanzen eines Bambus holen Sie sich bereits eine besondere Atmosphäre in Ihr Zuhause. Für eine attraktive Wirkung wählen Sie den sich nicht ausbreitenden Bambus 'Jiu', der auch als Roter Bambus bekannt ist. Fargesia 'Jiuzhaigou' hat die Besonderheit, dass sich die Halme in der Sonne rot färben. Damit bringen Sie den typischen Charakter einer fernöstlichen Stimmung in Ihren Garten. Die nicht wuchernden Bambusse 'Pingwu' und 'Campell' fallen durch ihre weiß-gelben Halmscheideblätter auf. Bevorzugen Sie wirklich eine auffällige Halmfarbe? Dann können Sie sich für einen wuchernden schwarzen Bambus 'Black Pearl' entscheiden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-0",
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-1",
+        "5190c21c-2d12-45ab-875d-26271cee6c8e",
+        "47842335-31d7-41a3-8c14-b314dae12d73"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 6
+      }
+    },
+    "ca074a9a-8bed-4848-96ba-ca1014579772": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "So pflegen Sie nicht wucherndem Bambus",
+        "image": "shopify:\/\/shop_images\/compo-bambus-langzeit-dunger.jpg",
+        "content": "<p>Damit Ihre Bambuspflanzen einen guten Start bekommen, empfehlen wir die<a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\"> COMPO Sana Qualitäts-Blumenerde für Stauden, Hecken und Bäume<\/a>. Diese Pflanzerde enthält wichtige Bestandteile für ein gesundes Bodenleben. Wir empfehlen außerdem, jedes Jahr <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a> auszubringen. Mit diesem Düngemittel erhalten Sie eine gesunde Pflanze mit schönen grünen Blättern, die in der kalten Jahreszeit sehr widerstandsfähig ist. Für ein optimales Wachstum sollten Sie die Pflanze <strong>zweimal im Jahr<\/strong> düngen.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "aa98c998-adf4-4507-bd35-961fe1e501f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Zurückschneiden Ihres Bambus ist kein schwieriges Unterfangen. Allerdings müssen Sie sich Jahr für Jahr darum kümmern. Im ersten Jahr nach der Pflanzung ist der Rückschnitt nicht erforderlich. Danach wird es zu einer jährlich wiederkehrenden Aufgabe.<\/p>"
+          }
+        },
+        "802c130e-0f4c-403b-9929-bd599c4533cd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nicht wuchernden Bambus kaufen<\/p>"
+          }
+        },
+        "dbd466de-4607-46f4-ba6d-49483dc239fe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie möchten einen nicht wuchernden Bambus kaufen, sind sich aber noch nicht sicher, welche Bambusart am besten für Ihren Garten geeignet ist? Kontaktieren Sie uns und wir helfen Ihnen gerne bei der Entscheidungsfindung.<\/p><p>Sehen Sie sich hier alle <a href=\"\/collections\/bambus\" title=\"Bambus\">Bambussorten und Bambusarten<\/a> an.<\/p>"
+          }
+        },
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-3": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": ""
+          }
+        },
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-4": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": ""
+          }
+        },
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-5": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-1",
+        "802c130e-0f4c-403b-9929-bd599c4533cd",
+        "dbd466de-4607-46f4-ba6d-49483dc239fe",
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-3",
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-4",
+        "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-5"
+      ],
+      "settings": {
+        "padding_top": 6,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "10af9d86-6b3a-4cc7-9c08-3641a61042ae",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "c1e3742a-4f09-416a-9566-389609f157f4",
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0",
+    "8cf846dd-dba5-4b7e-87e0-e9899cddb318",
+    "3376df90-0178-4667-b2be-835718e15eb6",
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997",
+    "1bfae006-89f6-4a35-8dcd-5447e6e878c4",
+    "ca074a9a-8bed-4848-96ba-ca1014579772",
+    "aa98c998-adf4-4507-bd35-961fe1e501f5",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

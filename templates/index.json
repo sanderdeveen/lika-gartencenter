@@ -1,0 +1,414 @@
+{
+  "sections": {
+    "734f1fcc-d1af-4a7f-9b63-dfe58114f893": {
+      "type": "usp",
+      "blocks": {
+        "e6d6a505-907a-42f5-aa6c-ba03f01a11f3": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "",
+            "text": "<p>Bei Gartencenter.de bestellen Sie Gartenpflanzen, Zimmerpflanzen, Bäume und mehr mit schneller Lieferung nach Hause.<\/p>"
+          }
+        },
+        "cda8404e-d12a-40cb-9863-987897ed2b14": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Beste Qualität aus Holland",
+            "text": "<p>Pflanzen direkt vom Züchter<\/p>"
+          }
+        },
+        "47d15303-5500-4944-8784-4f2cfe114e35": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Kontant<\/p>"
+          }
+        },
+        "f0256c27-bd93-473e-9f87-3b8a8a3db768": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "06f20a5c-e1da-47ca-b272-05e6aa9e8b04": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "f60eb945-623b-4e34-a43f-73c5e85a61cb": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "a7f4b0bb-ca27-4926-8584-2a36832daa83": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        }
+      },
+      "block_order": [
+        "e6d6a505-907a-42f5-aa6c-ba03f01a11f3",
+        "cda8404e-d12a-40cb-9863-987897ed2b14",
+        "47d15303-5500-4944-8784-4f2cfe114e35",
+        "f0256c27-bd93-473e-9f87-3b8a8a3db768",
+        "06f20a5c-e1da-47ca-b272-05e6aa9e8b04",
+        "f60eb945-623b-4e34-a43f-73c5e85a61cb",
+        "a7f4b0bb-ca27-4926-8584-2a36832daa83"
+      ],
+      "settings": {
+        "mobile-heading": "<p>Pflanzen, Bäume & mehr mit schneller Lieferung<\/p>"
+      }
+    },
+    "56514989-5ab5-439a-b313-262a375b2a9e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Von der Topfpflanze bis zum Traumgarten, in ganz Deutschland bis an die Haustür geliefert.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Pflanzen kaufen",
+            "button_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-0",
+        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-1",
+        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/gartencenter-liefert.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "24506853-e956-4826-b2be-b7be1e988bb3": {
+      "type": "populair-collections",
+      "blocks": {
+        "87d76ac2-3211-4d62-a9b8-cdff763b7aa3": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/gartenpflanzen",
+            "image": "shopify:\/\/shop_images\/gartenpflanzen-lavandula.jpg",
+            "header": "Gartenpflanzen"
+          }
+        },
+        "f9ca82ab-e92c-4402-bcde-1b2f1286cc8d": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Pflegeleichte-Zimmerpflanzen.jpg",
+            "header": "Zimmerpflanzen"
+          }
+        },
+        "88ebd6a8-393a-4b57-9d28-f4807d05d035": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/heckenpflanzen",
+            "image": "shopify:\/\/shop_images\/heckenpflanzen.jpg",
+            "header": "Heckenpflanzen"
+          }
+        },
+        "e9e9dbae-4732-463f-b90b-c3d54419dda5": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/baeume",
+            "image": "shopify:\/\/shop_images\/baeume-allee-zier.jpg",
+            "header": "Bäume"
+          }
+        },
+        "fb2c6f1b-a794-4fc7-bb92-dcd7edd27207": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bambus",
+            "image": "shopify:\/\/shop_images\/bambus.jpg",
+            "header": "Bambus"
+          }
+        },
+        "dee8c543-2cb6-45ec-8265-49a058de1c00": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/hortensien",
+            "image": "shopify:\/\/shop_images\/hortensien.jpg",
+            "header": "Hortensien"
+          }
+        },
+        "template--15819652858036__24506853-e956-4826-b2be-b7be1e988bb3-1666351890a7b2d528-0": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/ziergraeser",
+            "image": "shopify:\/\/shop_images\/ziergraser.jpg",
+            "header": "Ziergräser"
+          }
+        },
+        "f44be157-f8b4-43eb-8ce0-096badae1640": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/efeuhecke",
+            "image": "shopify:\/\/shop_images\/grossblattriger-eufe.jpg",
+            "header": "Efeuhecke"
+          }
+        },
+        "b5f8c9c4-f403-4d21-b428-ac95c0d9db3a": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/rasensamen",
+            "image": "shopify:\/\/shop_images\/grassamen.jpg",
+            "header": "Rasensamen"
+          }
+        },
+        "8c17b520-f1cb-4c1f-9a07-79e87daf5e61": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "",
+            "image": "shopify:\/\/shop_images\/gartengerate.jpg",
+            "header": "Gartengeräte"
+          }
+        },
+        "09d5b99d-c469-4ac5-bf76-39930e072777": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/duenger",
+            "image": "shopify:\/\/shop_images\/dunger.jpg",
+            "header": "Dünger"
+          }
+        },
+        "45b6cef6-4764-4366-97e0-82efe6f96325": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "",
+            "image": "shopify:\/\/shop_images\/erde.jpg",
+            "header": "Erde"
+          }
+        },
+        "57ae4cb2-5692-4bc2-a9d6-40ad61cb4608": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "",
+            "image": "shopify:\/\/shop_images\/compo.jpg",
+            "header": "Compo"
+          }
+        },
+        "80c3e788-1b9a-438d-8065-c4936644b94a": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/rasen",
+            "image": "shopify:\/\/shop_images\/rasen-kaufen.jpg",
+            "header": "Rasen"
+          }
+        }
+      },
+      "block_order": [
+        "87d76ac2-3211-4d62-a9b8-cdff763b7aa3",
+        "f9ca82ab-e92c-4402-bcde-1b2f1286cc8d",
+        "88ebd6a8-393a-4b57-9d28-f4807d05d035",
+        "e9e9dbae-4732-463f-b90b-c3d54419dda5",
+        "fb2c6f1b-a794-4fc7-bb92-dcd7edd27207",
+        "dee8c543-2cb6-45ec-8265-49a058de1c00",
+        "template--15819652858036__24506853-e956-4826-b2be-b7be1e988bb3-1666351890a7b2d528-0",
+        "f44be157-f8b4-43eb-8ce0-096badae1640",
+        "b5f8c9c4-f403-4d21-b428-ac95c0d9db3a",
+        "8c17b520-f1cb-4c1f-9a07-79e87daf5e61",
+        "09d5b99d-c469-4ac5-bf76-39930e072777",
+        "45b6cef6-4764-4366-97e0-82efe6f96325",
+        "57ae4cb2-5692-4bc2-a9d6-40ad61cb4608",
+        "80c3e788-1b9a-438d-8065-c4936644b94a"
+      ],
+      "settings": {
+        "header": "Unsere beliebtesten Kategorien",
+        "text": "",
+        "mobile_swipe": false
+      }
+    },
+    "2cf55425-fde3-4749-9643-f7b5d4676adc": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15819652858036__2cf55425-fde3-4749-9643-f7b5d4676adc-1666342166bf28c22c-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Alles für den Garten"
+          }
+        },
+        "22341bd5-2a4d-4a85-817a-88bb9a30cf48": {
+          "type": "usp",
+          "settings": {
+            "usp": "Beste Qualität aus Holland"
+          }
+        },
+        "41272ab6-6fb9-43f6-80f6-48d3b31afb87": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schonend verpackt"
+          }
+        },
+        "69284727-2676-4a01-826b-c41af297782d": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "01eddc3e-8580-4714-8e94-dcae833ab157": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-rosa",
+            "enable_quick_add": false
+          }
+        },
+        "e62736ff-9759-4ddd-b8b2-a79c4a6e0705": {
+          "type": "product_selection",
+          "settings": {
+            "product": "katzenminze-walkers-low",
+            "enable_quick_add": false
+          }
+        },
+        "748ef10e-9a50-4b22-8909-74b985d7db75": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-rufa",
+            "enable_quick_add": false
+          }
+        },
+        "9e78b303-79a0-46c7-aec2-6cc89e496cb0": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-blau",
+            "enable_quick_add": false
+          }
+        },
+        "9972eba5-978b-48fc-8238-2a3151ccb8ab": {
+          "type": "product_selection",
+          "settings": {
+            "product": "pampasgras",
+            "enable_quick_add": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15819652858036__2cf55425-fde3-4749-9643-f7b5d4676adc-1666342166bf28c22c-0",
+        "22341bd5-2a4d-4a85-817a-88bb9a30cf48",
+        "41272ab6-6fb9-43f6-80f6-48d3b31afb87",
+        "69284727-2676-4a01-826b-c41af297782d",
+        "01eddc3e-8580-4714-8e94-dcae833ab157",
+        "e62736ff-9759-4ddd-b8b2-a79c4a6e0705",
+        "748ef10e-9a50-4b22-8909-74b985d7db75",
+        "9e78b303-79a0-46c7-aec2-6cc89e496cb0",
+        "9972eba5-978b-48fc-8238-2a3151ccb8ab"
+      ],
+      "settings": {
+        "heading": "UNSERE TOPSELLER",
+        "text": ""
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "{{ shop.brand.cover_image }}",
+        "image_2": "shopify:\/\/shop_images\/heckenpflanzen-fagus.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "e1dd53eb-f0ce-4ca8-bb9c-f3ed4b3ab1b7": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Der Bambus, der wie eine Buxuszwiebel wächst",
+        "image": "shopify:\/\/shop_images\/fargesia-moontears-bamboe-boobux.jpg",
+        "content": "<p>Die kräftige Bambusart 'Moontears' eignet sich sehr gut für Formschnitte. Das macht diese Sorte zu einem <strong>guten Ersatz für Buchsbaum<\/strong>, der schnell vom Buchsbaumzünsler befallen wird. Bambus 'Moontears' hat große, volle Blätter und einen kompakten Wuchs. Rufa 'Moontears' kann auch als Hecke oder Bodendecker gepflanzt werden. Das schafft Privatsphäre und zusätzliches Grün in Ihrem Garten!<\/p>",
+        "url": "shopify:\/\/collections\/bambus",
+        "btn_text": "Sehen Sie sich den Bambus 'Moontears' boobux an"
+      }
+    },
+    "b92431a4-5c58-461b-9379-d9dc1c8d14fe": {
+      "type": "services",
+      "blocks": {
+        "ea896f24-e72b-4277-b1c0-960b195af600": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "df020045-22a1-490d-b58f-7fc40c1bbe23": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "27c052fa-d957-4dac-a7ca-06d5c389436b": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15760788684980__b92431a4-5c58-461b-9379-d9dc1c8d14fe-1666791423e614f0de-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "ea896f24-e72b-4277-b1c0-960b195af600",
+        "df020045-22a1-490d-b58f-7fc40c1bbe23",
+        "27c052fa-d957-4dac-a7ca-06d5c389436b",
+        "template--15760788684980__b92431a4-5c58-461b-9379-d9dc1c8d14fe-1666791423e614f0de-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "ce3aa1f4-8698-4f4a-a328-1eb4e98a5ac8": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "734f1fcc-d1af-4a7f-9b63-dfe58114f893",
+    "56514989-5ab5-439a-b313-262a375b2a9e",
+    "24506853-e956-4826-b2be-b7be1e988bb3",
+    "2cf55425-fde3-4749-9643-f7b5d4676adc",
+    "image_banner",
+    "e1dd53eb-f0ce-4ca8-bb9c-f3ed4b3ab1b7",
+    "b92431a4-5c58-461b-9379-d9dc1c8d14fe",
+    "ce3aa1f4-8698-4f4a-a328-1eb4e98a5ac8"
+  ]
+}

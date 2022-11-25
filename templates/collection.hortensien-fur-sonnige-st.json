@@ -1,0 +1,411 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Hortensien für sonnige Standorte",
+        "featured_product_one": "kletterhortensie-petiolaris",
+        "featured_product_two": "rispenhortensie-limelight",
+        "featured_product_three": "eichenblaettrige-hortensie",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Hortensien für sonnige Standorte<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "aaa18c23-ea90-4788-9393-364e72258fbc": {
+      "type": "faq",
+      "blocks": {
+        "template--15870028382388__aaa18c23-ea90-4788-9393-364e72258fbc-16691317228491d346-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Vertragen Hortensien die pralle Sonne?",
+            "custom_liquid_1": "",
+            "content": "<p>Fast alle Hortensienarten vertragen die pralle Sonne, sofern sie ausreichend gegossen werden. Rispenhortensien sind die Sonnenanbeterinnen unter den Hortensien.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "7e608b3e-1c5c-4ff0-9f25-bb614e0ec37c": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Hortensien brauchen wenig Wasser?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien sind dafür bekannt, sehr viel Wasser zu benötigen. Wenn sie zu wenig gegossen werden, lassen sie sofort die Blätter und Köpfe hängen. Sie sehen dann in kürzester Zeit vertrocknet und verkümmert aus. Wenn Sie jemand sind, der gerne mal aufs Gießen vergisst oder wenn der Standort sehr sonnig ist, sollten Sie sich für eine Rispenhortensie entscheiden. Rispenhortensien vertragen Trockenheit und pralle Sonne besser als andere Hortensienarten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028382388__aaa18c23-ea90-4788-9393-364e72258fbc-16691317228491d346-0",
+        "7e608b3e-1c5c-4ff0-9f25-bb614e0ec37c"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu sonnenliebenden Hortensien"
+      }
+    },
+    "5e01fd47-3c59-4ace-b817-d1af2fc41da9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Sonnenliebende Hortensien im Kübel oder Topf<\/p>"
+          }
+        },
+        "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Größe Ihres Gartens und die gewünschte Blütenform (kugelförmig, Rispen oder Schirmblüten) sind ausschlaggebend für die richtige Wahl Ihrer Hortensie. Haben Sie einen kleinen oder keinen Garten? Viele unserer Hortensien eignen sich auch als Topf- oder Kübelpflanze auf Terrasse oder Balkon. Mehr zum Pflanzen von Hortensien erfahren Sie bei unseren Pflanzen-Tipps unter „Hortensien pflanzen“.<\/p>"
+          }
+        },
+        "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bauernhortensien-fur-sonnige-standorte-im-kubel.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "8b15a151-ba7f-4eff-97f1-65c12be36d36": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Die Top 3 weißen Hortensien für sonnige Standorte<\/p>"
+          }
+        },
+        "faa77734-89e5-4863-9527-cb5a6065acb9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie Ihrem sonnigen Garten, Ihrer Terrasse oder Ihrem Balkon eine elegante Note verleihen? Entdecken Sie die schönsten <a href=\"\/collections\/weisse-hortensien\" title=\"Weiße Hortensien\">weißen Hortensien<\/a>!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-0",
+        "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-1",
+        "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-5",
+        "8b15a151-ba7f-4eff-97f1-65c12be36d36",
+        "faa77734-89e5-4863-9527-cb5a6065acb9"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ea97514e-580d-4304-952a-7d0ff8be329a": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15870028382388__ea97514e-580d-4304-952a-7d0ff8be329a-1669200348bfe7b547-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Beste Qualität aus Holland"
+          }
+        },
+        "aff9779e-a078-4ebf-83b7-08e0c1056e6b": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schonend verpackt"
+          }
+        },
+        "49b6826b-dc39-46ef-adf9-6b2e9eb8f8ac": {
+          "type": "usp",
+          "settings": {
+            "usp": "Kostenloser Versand ab 75 Euro"
+          }
+        },
+        "408426df-3436-486a-8c6d-cee95781f479": {
+          "type": "product_selection",
+          "settings": {
+            "product": "kletterhortensie-petiolaris"
+          }
+        },
+        "template--15870028382388__ea97514e-580d-4304-952a-7d0ff8be329a-1669200348bfe7b547-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-limelight"
+          }
+        },
+        "b8e0ae05-303c-4f66-bc8d-8cf601c9a328": {
+          "type": "product_selection",
+          "settings": {
+            "product": "eichenblaettrige-hortensie"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028382388__ea97514e-580d-4304-952a-7d0ff8be329a-1669200348bfe7b547-0",
+        "aff9779e-a078-4ebf-83b7-08e0c1056e6b",
+        "49b6826b-dc39-46ef-adf9-6b2e9eb8f8ac",
+        "408426df-3436-486a-8c6d-cee95781f479",
+        "template--15870028382388__ea97514e-580d-4304-952a-7d0ff8be329a-1669200348bfe7b547-1",
+        "b8e0ae05-303c-4f66-bc8d-8cf601c9a328"
+      ],
+      "settings": {
+        "heading": "HORTENSIEN TOPSELLER",
+        "text": ""
+      }
+    },
+    "0c7ee8e8-1217-4a4b-acf4-f2964b1c9857": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Mehr Farbe im sommerlichen Garten<\/p>"
+          }
+        },
+        "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie jetzt vielleicht den Eindruck bekommen haben, dass sich nur weiße Hortensien für sonnige Standorte eignen, können wir Sie beruhigen. Denn auch <a href=\"\/collections\/rosa-hortensien\" title=\"Rosa Hortensien\">rosa Hortensien<\/a> und blaue Hortensien können sehr gut in der Sonne stehen. Wussten Sie übrigens, dass Hortensien ihre Farbe wechseln können? So können sich etwa blaue Hortensien rosa verfärben und umgekehrt. Hortensien lieben saure Böden. Wenn man den pH-Wert des Bodens ändert, verändern manche Hortensien ihre Farbe. Mehr dazu erfahren Sie bei unseren Pflanzen-Tipps unter „Die Farbe von Hortensien beeinflussen“.<\/p>"
+          }
+        },
+        "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bauernhortensie-blau-blumen.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "f1bf41b6-804f-4d92-8bec-ae90255e8c5c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Sonnenliebende Hortensien richtig pflegen<\/p>"
+          }
+        },
+        "dcfa1940-2869-48d1-832f-00026ba54d04": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie Fragen über Fragen zur Hortensienpflege? Wir haben die Antworten. Ob Hortensien nun in der Sonne oder im Schatten stehen, sie benötigen ungefähr die gleiche Pflege. Der einzige Unterschied ist der Wasserbedarf der Pflanze. In der prallen Sonne verdunstet viel mehr Wasser als im Schatten. Deshalb benötigen Hortensien an sonnigen Standorten wesentlich mehr Wasser.<\/p><p>Um eine optimale Blüte zu fördern, sollten Sie Ihre Hortensie regelmäßig zurückschneiden. Für einen optimalen Start empfehlen wir Ihnen, beim Einsetzen der Pflanze spezielle Hortensienerde zu verwenden. Hortensienerde enthält ausreichend Nährstoffe für die ersten 100 Tage. Danach sollten Sie Ihre Hortensie in regelmäßigen Abständen mit Hortensiendünger verwöhnen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-0",
+        "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-1",
+        "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-5",
+        "f1bf41b6-804f-4d92-8bec-ae90255e8c5c",
+        "dcfa1940-2869-48d1-832f-00026ba54d04"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "aaa18c23-ea90-4788-9393-364e72258fbc",
+    "5e01fd47-3c59-4ace-b817-d1af2fc41da9",
+    "ea97514e-580d-4304-952a-7d0ff8be329a",
+    "0c7ee8e8-1217-4a4b-acf4-f2964b1c9857",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Magical-Hortensien",
+        "featured_product_one": "bauernhortensie-magical-amethyst",
+        "featured_product_two": "bauernhortensie-magical-noblesse",
+        "featured_product_three": "bauernhortensie-magical-sapphire",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Magical-Hortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "38121aa9-97cc-4541-bd5b-b31b71ea8e1d": {
+      "type": "faq",
+      "blocks": {
+        "template--15870028939444__38121aa9-97cc-4541-bd5b-b31b71ea8e1d-1669202607806ebf6f-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Können Hortensien ihre Farbe wechseln?",
+            "custom_liquid_1": "",
+            "content": "<p>Es gibt zwei Kategorien von Hortensien, die ihre Farbe ändern. Einerseits die Magical-Hortensien – eine spezielle Züchtung, die während der Blüte ihre Farbe wechseln. Je nach Sorte verfärben sich die Blüten im Laufe der Zeit blau, rosa, rot, violett, weiß und dunkelgrün. Dieser Prozess geschieht automatisch.<\/p><p>Aber auch blaue Hortensien können unter bestimmten Umständen ihre Farbe ändern, und zwar, wenn der Boden nicht sauer genug ist. Die Blüten verfärben sich dann rosa. Andererseits kann man dafür sorgen, dass sich <a href=\"\/collections\/rosa-hortensien\" title=\"Rosa Hortensien\">rosa Hortensien<\/a> blau färben, indem man den pH-Wert des Bodens beeinflusst. Mehr zu diesem Phänomen erfahren Sie in unserem Blogbeitrag „Die Farbe von Hortensien beeinflussen“.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "6b271613-a71d-49ab-86b0-c4b3aeb8013d": {
+          "type": "faq",
+          "settings": {
+            "heading": "Warum werden die Blüten meiner Hortensie braun?",
+            "custom_liquid_1": "",
+            "content": "<p>Leider kann es vorkommen, dass die Blüten von Hortensien braun werden. Das kann verschiedene Ursachen haben. Die häufigsten Ursachen sind Hitze, Sonne, Trockenheit oder eine Kombination dieser Umstände. Deshalb sollten Hortensien nach Möglichkeit halbschattig und etwas geschützt stehen und sehr viel gegossen werden. Die Blüten der Hortensie färben sich auch braun, wenn sie verblüht sind.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028939444__38121aa9-97cc-4541-bd5b-b31b71ea8e1d-1669202607806ebf6f-0",
+        "6b271613-a71d-49ab-86b0-c4b3aeb8013d"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Magical-Hortensien"
+      }
+    },
+    "fe8b12a1-4f40-4d80-8402-928540ce0925": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870028939444__fe8b12a1-4f40-4d80-8402-928540ce0925-1669202889c842fe82-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Magical-Hortensien – verschiedene Sorten<\/p>"
+          }
+        },
+        "template--15870028939444__fe8b12a1-4f40-4d80-8402-928540ce0925-1669202889c842fe82-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir haben mehrere Sorten der Magical-Hortensien in unserem Angebot. Alle Magical-Hortensien sind <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensien<\/a>, deren Blüten sich im Laufe der Zeit automatisch verfärben. Die Farbschattierungen hängen von der jeweiligen Sorte ab. Die Sorte ‘<a href=\"\/products\/bauernhortensie-magical-amethyst\" title=\"Bauernhortensie 'Magical Amethyst'\">Magical Amethyst<\/a>’ verfärbt sich beispielweise von blau\/grün in blau\/violett und wird schließlich dunkelgrün. Auch die ‘<a href=\"\/products\/bauernhortensie-magical-sapphire\" title=\"Bauernhortensie 'Magical Sapphire'\">Magical Sapphire<\/a>’ vollzieht während ihrer Blütezeit einen spektakulären Farbwechsel von Grün bis Rosarot und wieder zurück zum Dunkelgrün.<\/p>"
+          }
+        },
+        "template--15870028939444__fe8b12a1-4f40-4d80-8402-928540ce0925-1669202889c842fe82-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/magical-hortensien-magical-noblesse-grun.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "749e2f0f-a083-4084-bab4-532cba1ebf58": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Magical-Hortensien pflanzen<\/p>"
+          }
+        },
+        "92a69dee-a617-4f39-8714-f49104ba260c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alle Magical-Hortensien-Sorten können sowohl in Beete als auch in Kübel oder Töpfe gepflanzt werden. Wenn Sie Ihre Hortensien ins Beet pflanzen, sollten Sie einen halbschattigen Standort wählen und drei Pflanzen pro Quadratmeter setzen, um ein üppiges Blütenmeer zu erhalten. Möchten Sie Ihre Hortensie als Kübelpflanze kultivieren? Achten Sie darauf, dass der Pflanzkübel groß genug ist und dass die Hortensie genügend Wasser bekommt.<\/p><p>Wir empfehlen Ihnen, beim Pflanzen von Hortensien immer spezielle Hortensienerde zu verwenden. Hortensien lieben saure Böden, und Hortensienerde enthält alles, was die Pflanzen für ein gesundes Wachstum und eine üppige Blüte benötigen.<\/p>"
+          }
+        },
+        "79b43a06-8c66-4eb0-b0ec-c3cefcd89224": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Magical-Hortensien richtig pflegen<\/p>"
+          }
+        },
+        "b7fef168-b0b5-4a67-9189-39ecca926a77": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um Ihre Magical-Hortensie in voller Blütenpracht erstrahlen zu lassen, ist die richtige Pflege entscheidend. Verwöhnen Sie Ihre Hortensie zweimal im Jahr mit Hortensiendünger, damit sie mit allen benötigten Nährstoffen versorgt wird. Auch das regelmäßige Zurückschneiden von Hortensien ist unerlässlich. Schneiden Sie jedes Frühjahr die verblühten Blüten ab, und wenn der Strauch zu groß geworden ist, auch einige Triebe.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028939444__fe8b12a1-4f40-4d80-8402-928540ce0925-1669202889c842fe82-0",
+        "template--15870028939444__fe8b12a1-4f40-4d80-8402-928540ce0925-1669202889c842fe82-1",
+        "template--15870028939444__fe8b12a1-4f40-4d80-8402-928540ce0925-1669202889c842fe82-5",
+        "749e2f0f-a083-4084-bab4-532cba1ebf58",
+        "92a69dee-a617-4f39-8714-f49104ba260c",
+        "79b43a06-8c66-4eb0-b0ec-c3cefcd89224",
+        "b7fef168-b0b5-4a67-9189-39ecca926a77"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "38121aa9-97cc-4541-bd5b-b31b71ea8e1d",
+    "fe8b12a1-4f40-4d80-8402-928540ce0925",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

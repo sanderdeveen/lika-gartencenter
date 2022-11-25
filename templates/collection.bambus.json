@@ -1,0 +1,823 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "e2979237-3615-4256-8aaf-d9261312564b": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "e2979237-3615-4256-8aaf-d9261312564b"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Bambus",
+        "featured_product_one": "nicht-wuchernder-bambus-rufa",
+        "featured_product_two": "nicht-wuchernder-bambus-obelisk",
+        "featured_product_three": "nicht-wuchernder-bambus-pingwu",
+        "color_scheme": "background-1"
+      }
+    },
+    "a7144639-62e7-4e2e-82fe-0bb1372dc1f6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__a7144639-62e7-4e2e-82fe-0bb1372dc1f6-1667210063f247c411-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bevorzugen Sie Bambuspflanzen? Wir helfen Ihnen gerne bei der richtigen Kaufentscheidung:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__a7144639-62e7-4e2e-82fe-0bb1372dc1f6-1667210063f247c411-0"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "63f32f95-dde4-49e7-bc58-32c9cef87283": {
+      "type": "populair-collections",
+      "blocks": {
+        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bambus-im-pflanzkuebel",
+            "image": "shopify:\/\/shop_images\/Bambus-im-Pflanzkubel.jpg",
+            "header": "Bambus im Pflanzkübel"
+          }
+        },
+        "5144845a-8e9b-4dc9-8fe1-73e0591be614": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bambus-im-garten-pflanzen",
+            "image": "shopify:\/\/shop_images\/Bambus-im-Garten-pflanzen.jpg",
+            "header": "Bambus im Garten pflanzen"
+          }
+        },
+        "259f95d0-031b-481b-a58b-31bc94849285": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bambuspflanzen-als-hecke",
+            "image": "shopify:\/\/shop_images\/Bambuspflanzen-als-Hecke.jpg",
+            "header": "Bambuspflanzen als Hecke"
+          }
+        },
+        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/nicht-wuchernder-bambus",
+            "image": "shopify:\/\/shop_images\/bambus.jpg",
+            "header": "Nicht wuchernder Bambus"
+          }
+        },
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/wuchernder-bambus",
+            "image": "shopify:\/\/shop_images\/Wuchender-Bambus.jpg",
+            "header": "Wuchernder Bambus"
+          }
+        },
+        "fccbe396-31a8-454c-9c65-ea5f20aba2db": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bambus-zubehoer",
+            "image": "shopify:\/\/shop_images\/bambus-zubehor.jpg",
+            "header": "Bambus zubehör"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
+        "5144845a-8e9b-4dc9-8fe1-73e0591be614",
+        "259f95d0-031b-481b-a58b-31bc94849285",
+        "23c966c2-e802-465a-b22c-96c8052a3fc7",
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
+        "fccbe396-31a8-454c-9c65-ea5f20aba2db"
+      ],
+      "settings": {
+        "header": "",
+        "text": ""
+      }
+    },
+    "c1e3742a-4f09-416a-9566-389609f157f4": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Der Bambus, der wie eine Buxuskugel wächst",
+        "image": "shopify:\/\/shop_images\/fargesia-moontears-bambus-boobux.jpg",
+        "content": "<p>Die kräftig wachsende Bambussorte 'Moontears' eignet sich hervorragend für den Formschnitt. Daher ist diese Sorte <strong>ein guter Ersatz für den Buchsbaum<\/strong>, der häufig vom Buchsbaumzünsler befallen wird. Bambus 'Moontears' hat große, volle Blätter und einen kompakten Wuchs. Rufa 'Moontears' kann auch als Hecke oder Bodendecker gepflanzt werden. Damit schaffen Sie Privatsphäre und zusätzliches Grün in Ihrem Garten!<\/p>",
+        "url": "shopify:\/\/products\/nicht-wuchernder-bambus-moontears",
+        "btn_text": "Sehen Sie sich den Bambus 'Moontears' Boobux an!"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Bambuspflanzen<\/p>"
+          }
+        },
+        "88462662-022b-4fd9-9d09-a05c864674a7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Im Folgenden finden Sie unser komplettes Bambus-Sortiment. Sie sind in verschiedenen Größen von klein (20 cm) bis sehr groß (200 cm +) erhältlich.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0",
+        "88462662-022b-4fd9-9d09-a05c864674a7"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 4
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0": {
+      "type": "faq",
+      "blocks": {
+        "template--15855049801908__eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0-16672115330f28d747-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was ist Bambus?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus ist eine holzige Pflanze, die zu den <a href=\"\/collections\/ziergraeser\" title=\"Ziergräser\">Ziergräsern<\/a> gehört. Bambus hat hohle Halme mit Nodien, aus denen die Seitentriebe mit den spitz zulaufenden Blättern wachsen. Der Durchmesser der Halme variiert je nach Art zwischen einigen Millimetern und mehreren Zentimetern. Bambus wird oft mit Holz verwechselt. Aber nichts könnte von dieser Annahme weiter entfernt sein, denn es handelt sich um hartes Gras.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "287fe68d-36fe-4202-a711-75ff72342883": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welcher Bambus wuchert nicht?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus ist eine schnell wachsende Pflanze, die für ihre wuchernde Eigenschaft bekannt ist. Wuchernd bedeutet nichts anderes als schnell und unkontrollierbar wachsend. Das Wachstum ist schwer einzudämmen und kann auf Kosten der Entwicklung anderer Pflanzen gehen. Wenn Ihre Bambuspflanze in einem Pflanzgefäß steht, ist das kein Problem. Wenn Sie ihn lieber in den Garten pflanzen, dann ist es sicher nicht wünschenswert, dass der Bambus überall sprießt. Aber wie können Sie sicher sein, dass Sie nicht versehentlich einen wuchernden Bambus in Ihrem Garten pflanzen? Der Unterschied liegt in den unterirdischen Ausläufern (Rhizomen), welche die Pflanzen bilden. Wuchernder Bambus bildet diese Ausläufer. Bei wuchernden Arten bleibt das Wachstum also nicht auf ein einziges Sprossbüschel konzentriert, wie es bei <a href=\"\/collections\/nicht-wuchernder-bambus\" title=\"Nicht wuchernder Bambus\">nicht wucherndem Bambus<\/a> der Fall ist. Die Ausläufer des wuchernden Bambus können daher viel weiter als die ursprüngliche Pflanze aus dem Boden sprießen und sich in Ihrem Garten ausbreiten. Der Vorteil von wucherndem Bambus ist, dass er häufig schneller wächst.<\/p><p>Übrigens ist das kein Grund, sich nicht für den schönen, wuchernden Bambus zu entscheiden, den Sie sich vorgestellt hatten. Sie können die Pflanze auf einen bestimmten Standort begrenzen, damit sie nicht Ihren ganzen Garten überwuchert. Verwenden Sie dazu eine <a href=\"\/products\/bambus-wurzelsperre-nature\" title=\"Bambus-Wurzelsperre Nature\">Wurzelsperre<\/a>. Dieser Sperre sorgt dafür, dass die Wurzeln keine Chance haben, überall in Ihrem Garten zu wuchern.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a2c500cb-0516-4529-8005-630695f9bcd2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie schnell wächst eine Bambuspflanze?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus ist dafür bekannt, dass er schnell wächst. In der Tat ist Bambus die am schnellsten wachsende Pflanze der Welt! In ganz außergewöhnlichen Fällen, wenn die Bedingungen wirklich perfekt sind, können die am schnellsten wachsenden Bambusarten fast 1 Meter pro Tag wachsen. Das ist fast 3 Mal schneller als der am schnellsten wachsende Baum! Natürlich ist das erstaunlich schnell, und selbstverständlich bedeutet das nicht, dass jeder Bambus so schnell wächst. Arten, die in Gärten gepflanzt werden, wachsen langsamer. Die meisten Arten wachsen ungefähr zwischen 25 cm und 100 cm pro Jahr. Kurzum, Bambus ist eine schnellwüchsige Pflanze, mit der Sie Ihren Garten in kürzester Zeit begrünen können.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "6ff3d1af-a4cc-442d-8a92-299f30152d0a": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflanze ich Bambus?",
+            "custom_liquid_1": "",
+            "content": "<p>Beim Anpflanzen Ihres Bambus müssen Sie die jeweilige Bambusart berücksichtigen. Das Pflanzen eines <strong>wuchernden Bambus<\/strong> unterscheidet sich ein wenig von der Pflanzweise eines <strong>nicht wuchernden Bambus<\/strong>. Im Folgenden erklären wir Ihnen, wie Sie einen nicht wuchernden und einen wuchernden Bambus pflanzen.<\/p><p>Wenn Sie eine <strong>Fargesia (nicht wuchernder Bambus) pflanzen<\/strong>, benötigen Sie die folgenden Dinge:<\/p>",
+            "custom_liquid_2": "<ul>\n<li>COMPO SANA Pflanzerde<\/li>\n<li><a href='\/products\/compo-bambus-ziergraeser-langzeit-duenger'>\nCOMPO Bambus und Ziergräser Langzeit-Dünger<\/a><\/li>\n<li>Wenn Sie einen Kübelbambus pflanzen, achten Sie darauf, dass das Wasser gut abfließen kann. Löcher am Boden des Topfes und COMPO BIO Granuplant Drainage- und Pflanzgranulat sorgen für einen besseren Abfluss des überschüssigen Wassers.<\/li>\n<\/ul>\n<p>Wenn Sie einen wuchernden Bambus pflanzen, benötigen Sie zusätzlich zu den oben genannten Dingen noch Folgendes:<\/p>\n<ul>\n<li><a href='\/products\/bambus-wurzelsperre-nature'>Wurzelsperren<\/a><\/li>\n<\/ul>\n<p><strong>Tipp für die Platzierung von Bambus in einem Pflanzgefäß<\/strong><\/p>\n<p>Möchten Sie den Bambus in einem Kübel auf Ihrer Terrasse oder Ihrem Balkon aufstellen? In diesem Fall empfehlen wir die Verwendung von COMPO Sana Qualitäts-Blumenerde. Diese Blumenerde enthält zusätzliche Nährstoffe, die für ein gutes Wachstum des Topfbambus wichtig sind.<\/p>\n<p><strong>Wie man einen Bambus anpflanzt<\/strong><\/p>\n<ol>\n<li>Sie graben ein Loch (oder wählen einen Pflanzkübel aus), das doppelt so groß ist wie der Pflanztopf und stellen sicher, dass der Bambus mit der Oberseite des Wurzelballens auf Erdniveau liegt. Möchten Sie wissen, wie viele Bambuspflanzen Sie pro Laufmeter benötigen? Schauen Sie sich die Seite des von Ihnen gewählten Bambus an.<\/li>\n<li><strong>Wenn Sie einen Pflanzkübel verwenden<\/strong>: Füllen Sie zuerst 1\/3 des Kübels mit Hydro-Granulat und dann 2⁄3 des Kübels mit Pflanzerde, bevor Sie die Pflanze einsetzen.<\/li>\n<li>Tauchen Sie den Wurzelballen für etwa 10 Minuten in Wasser. Sobald der Wurzelballen gut mit Wasser gesättigt ist, kann der Bambus gepflanzt werden.<\/li>\n<li>Mischen Sie gegebenenfalls etwas Erde mit Pflanzerde und verteilen Sie das auf den Boden des gelochten Pflanzgefäßes. Setzen Sie dann die Pflanze hinein. Anschließend füllen Sie das Loch weiter mit Pflanzerde auf und drücken die Erde an.<\/li>\n<li>Geben Sie der Pflanze reichlich Wasser.<\/li>\n<li>Schützen Sie die Wurzeln der Pflanze, indem Sie den Boden um die Pflanze herum mit Laub oder geschnittenem Gras bedecken. Diese Schicht hilft, die Feuchtigkeit im Wurzelbereich zu speichern.<\/li>\n<li>Gießen Sie die Pflanze in der ersten Zeit nach der Pflanzung ausreichend. Machen Sie dies in der ersten Woche täglich und dann alle 2-3 Tage. Die Menge an Wasser, die der Bambus benötigt, hängt von seinem Standort und der Umgebungstemperatur ab. Bambus mag feuchten Boden. Prüfen Sie daher regelmäßig die Erde mit den Fingern, ob die Pflanze Wasser braucht.<\/li>\n<li>Wir empfehlen eine <strong>Wurzelsperre<\/strong> für den wuchernden, im Freiland gepflanzten Bambus zu verwenden. So verhindern Sie, dass sich die Pflanze in Ihrem Garten ausbreitet.<\/li>"
+          }
+        },
+        "7a063aac-b40a-4793-b107-ef92a292a5a8": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann können Sie Bambus pflanzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus wird in Pflanztöpfen gezogen, sodass er fast das ganze Jahr über gepflanzt werden kann. Starke Fröste sind nachteilig. Darum ist es wichtig, dass es keinen tief eindringenden Bodenfrost gibt. Die beste Zeit zum Pflanzen Ihres Bambus ist also von <strong>Februar bis zum Herbst<\/strong>, wenn die Temperaturen das zulassen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "8f6a4ee0-8fae-434c-a9dd-502165a59221": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie kann man Bambus umpflanzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Der beste Zeitpunkt zum Umtopfen und Umsetzen Ihres Bambus ist vor oder nach der Wachstumsperiode, wenn die Pflanze keine neuen Triebe mehr bildet. Das Umpflanzen Ihres Bambus sollte also vorrangig im zeitigen Frühjahr oder im Herbst erfolgen. Wählen Sie einen bewölkten oder vorzugsweise nebligen Tag, um unnötige Wurzelschäden an den Pflanzen zu vermeiden. Sie sind sehr empfindlich gegenüber Sonnenlicht und unzureichender Feuchtigkeit. Das Umpflanzen Ihres Bambus in einen Topf ist etwas anders als das Umpflanzen Ihres Bambus in den Garten. Lesen Sie weiter unten, wie Sie dabei vorgehen.<\/p><p><strong>Umtopfen in einen neuen Kübel<\/strong><br\/>Sie stellen fest, dass das Wachstum Ihres Bambus stagniert oder hat der Wurzelballen nur noch wenig Platz zum Wachsen? Und Sie möchten, dass die Pflanze noch etwas größer wird? Dann müssen Sie Ihren Bambus möglicherweise in einen neuen Topf setzen. Wählen Sie ein neues Pflanzgefäß, das wieder etwas Platz zum Wachsen bietet. Befolgen Sie dann die gleichen Schritte für die Pflanzung eines Bambus im Kübel.<\/p><p><strong>Umpflanzen im Freiland<\/strong><br\/>Das Umpflanzen von Bambus ist keine leichte Aufgabe, dieses Vorhaben erfordert eine Ausrüstung. Holen Sie also die Schaufel, Axt oder vielleicht sogar eine Kettensäge, um die Wurzeln zu entfernen. Die Wurzeln einer Bambuspflanze sind enorm stark und schwer zu durchdringen. Wenn Sie die Pflanze versetzen wollen, müssen Sie sie abschneiden, um sie aus dem Boden zu bekommen. Und so gehen Sie vor:<\/p>",
+            "custom_liquid_2": "<ol>\n<li>Graben Sie am neuen Standort ein Loch, das mindestens doppelt so groß ist wie der Wurzelballen des Bambus.<\/li>\n<li>Wenn nötig, mischen Sie etwas Erde mit langlebiger Pflanzerde am Boden des Pflanzlochs.<\/li>\n<li>Legen Sie den Wurzelballen und die Wurzeln so weit wie möglich frei.<\/li>\n<li>Trennen Sie die Wurzeln mindestens 30 cm um den Wurzelballen herum ab. Verwenden Sie dazu eine scharfe Schaufel oder Axt.<\/li>\n<li>Lösen Sie die Pflanze und stellen Sie den Wurzelballen in einen Eimer mit Wasser.<\/li>\n<li>Setzen Sie die Pflanze in das Pflanzloch, füllen Sie das Loch weiter mit Pflanzerde und drücken Sie die Erde an.<\/li>\n<li>Gießen Sie die Pflanze großzügig.<\/li>\n<\/ol>\n<p>Bedecken Sie den Boden um die Pflanze herum mit Laub oder geschnittenem Gras. Dadurch wird sichergestellt, dass der Boden die Feuchtigkeit so gut wie möglich speichert. Gießen Sie die Pflanze in der ersten Zeit nach dem Umsetzen ausreichend, genauso wie Sie es nach der Pflanzung tun. Auch hier sollten Sie eine Wurzelsperre verwenden, wenn Sie einen wuchernden Bambus im Freiland pflanzen.<\/p>"
+          }
+        },
+        "40f9b51c-5834-430e-b5bf-fa2766c7df02": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflegt man eine Bambuspflanze?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus ist sehr pflegeleicht. Mit ein paar einfachen Tipps helfen wir Ihnen gerne weiter.<\/p><p><strong>Wasser<\/strong><\/p><p>Geben Sie Ihrer Pflanze reichlich Wasser, sie mag keine Trockenheit. Die Pflanze zeigt oft durch ein verfärbtes und eingerolltes Blatt, dass sie Wasser braucht. Also ein Punkt, auf den Sie an wärmeren Tagen achten sollten.<\/p><p><strong>Nährstoffversorgung<\/strong><\/p><p>Düngen Sie die Pflanzen zweimal im Jahr mit <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>. Dieser Dünger sorgt für gesunde und widerstandsfähige Pflanzen.<\/p><p><strong>Schnitt<\/strong><\/p><p>Im ersten Jahr nach der Pflanzung können Sie den Rückschnitt ausfallen lassen. Danach empfehlen wir, den Bambus regelmäßig zu stutzen, mindestens zweimal im Jahr.<\/p><p>Mehr über die Pflege von Bambus finden Sie in unserem Blog: Bambusschnitt und die Bambuspflege. Wir unterstützen Sie bei Ihrem Vorhaben.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "e36d54b4-2306-4866-81b4-41a8e07958bc": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie verbreitet sich der Bambus?",
+            "custom_liquid_1": "",
+            "content": "<p>Bambus breitet sich aus, indem er Ausläufer im Boden bildet. Beim <strong>wuchernden Bambus<\/strong> geschieht dies durch die Bildung von Rhizomen, die sich horizontal ausbreiten und an denen sich neue Sprossen bilden. Bei <strong>nicht wuchernden Bambus<\/strong> bilden sich neue Sprossen aus einem Wurzelballen und daher werden keine horizontalen Ausläufer gebildet.<br\/><\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "997c6dce-6d6f-4ff8-baca-74fbcbba1343": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Bambusarten sind winterhart?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Bambuspflanzen in unserem Sortiment sind gut winterharte Bambusse. Dennoch kann Bambus empfindlich auf Wind, Sonne und strenge Frostperioden reagieren. Nach einem Winter mit viel Kälte und Wind verfärbt sich Bambus oft braun und sieht nicht mehr ausgesprochen schön aus. Die Pflanze wird diese schlechten Blätter selbst abwerfen und neue Blätter bilden. Selbstverständlich können Sie der Pflanze etwas unter die Arme greifen, indem Sie die alten Blätter entfernen. Dazu rütteln Sie leicht an der Pflanze.<\/p><p>Um eine Verfärbung der Blätter zu vermeiden, ist es besser, die Pflanzen an einem geschützten Standort mit wenig Wind zu pflanzen. Eine gute Vorbereitung ist die halbe Miete. Daher können Sie die Pflanzen auch auf den Winter vorbereiten, indem Sie den Boden in der Nähe der Wurzeln mit Laub oder einer Schicht Holzspäne abdecken, um die oberflächlichen Wurzeln zu schützen. So geben Sie ihnen ein wenig zusätzlichen Schutz für die kälteren Tage.<\/p><p>Ein wichtiger Hinweis: Kübel-Bambus verträgt oftmals keine Kälte. Geben Sie diesen Pflanzen also lieber einen wärmeren, geschützten Platz, um sie über den Winter zu bringen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0-16672115330f28d747-0",
+        "287fe68d-36fe-4202-a711-75ff72342883",
+        "a2c500cb-0516-4529-8005-630695f9bcd2",
+        "6ff3d1af-a4cc-442d-8a92-299f30152d0a",
+        "7a063aac-b40a-4793-b107-ef92a292a5a8",
+        "8f6a4ee0-8fae-434c-a9dd-502165a59221",
+        "40f9b51c-5834-430e-b5bf-fa2766c7df02",
+        "e36d54b4-2306-4866-81b4-41a8e07958bc",
+        "997c6dce-6d6f-4ff8-baca-74fbcbba1343"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen über Bambus"
+      }
+    },
+    "441530d0-c833-44a2-a6e0-321e4b1a90ea": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__441530d0-c833-44a2-a6e0-321e4b1a90ea-16672128852d37abe4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambusarten<\/p>"
+          }
+        },
+        "template--15855049801908__441530d0-c833-44a2-a6e0-321e4b1a90ea-16672128852d37abe4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bambus ist in den östlichen Teilen der Welt beheimatet, darunter in China und bestimmten Gebieten Asiens. Bambus erfreut sich heute großer Beliebtheit und wird für zahlreiche Anwendungsbereiche genutzt, die nicht mehr nur auf den Einsatz im Garten beschränkt sind. Dazu gehören Spielzeuge, Pflanzgefäße, aber auch Kleidung und Geschirr.<\/p><p>Als Liebhaber von Grün interessieren wir uns natürlich sehr für Bambus draußen im Garten, auf Ihrem Balkon oder Ihrer Terrasse. Nicht jeder liebt Bambus, denn viele Arten <a href=\"\/collections\/wuchernder-bambus\" title=\"Wuchernder Bambus\">wuchern<\/a> und wachsen unkontrolliert. Im Laufe der Jahre hat sich der Bambus unter dem Einfluss der Wissenschaft weiterentwickelt und es sind neue Bambussorten entstanden, die nützliche Eigenschaften haben. Zum Beispiel gibt es jetzt mehrere Sorten für Ihren Garten zu kaufen, die sich nicht ausbreiten. Infolgedessen nimmt die Popularität der Nutzung von Bambus zu. Besonders wenn Sie sich für einen einzigartigen Charakter entscheiden, ist Bambus eine wirklich gute Alternative. Ein weiterer Vorteil ist, dass viele Arten winterhart sind, sodass Sie den ganzen Winter über einen grünen Garten haben werden!<\/p>"
+          }
+        },
+        "6c779699-e028-47ac-820a-61c2f3de9082": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wuchender-vs-nicht-wuchender-bambus.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "94489f51-b488-4ca2-9918-eb9afeed997b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wer auf einen blühenden Bambus hofft, wird eine Enttäuschung erleben. Das liegt daran, dass Bambus nur sehr selten blüht, manchmal nur einmal alle 150 Jahre! Jede Art hat ihren eigenen Blühzyklus und der ist einmalig. Niemand weiß, wann das sein wird, es ist unmöglich, das vorherzusagen. Übrigens: Die Blüte erfordert viel Energie. Nach der Blüte sind die Pflanzen daher oft geschwächt und werden anfälliger für Schädlinge und Krankheiten. Infolgedessen überleben sie die Blühphase oft nicht.<\/p><p>Bambus gibt es hoch oder niedrig, in verschiedenen Blattfarben mit einem breiten Spektrum an Grüntönen, mit dicken oder dünnen Halmen und Halmen in verschiedenen Farben wie Grün, Rot oder Schwarz. Jede Bambuspflanze hat ihre eigenen Merkmale und ihr eigenes Aussehen, was sie zu einem einzigartigen Exemplar in Ihrem Garten macht. Denken Sie zum Beispiel an den Schwarzrohrbambus mit auffälligen schwarzen Halmen oder den Phyllostachys aurea mit dekorativen gelben Halmen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__441530d0-c833-44a2-a6e0-321e4b1a90ea-16672128852d37abe4-0",
+        "template--15855049801908__441530d0-c833-44a2-a6e0-321e4b1a90ea-16672128852d37abe4-1",
+        "6c779699-e028-47ac-820a-61c2f3de9082",
+        "94489f51-b488-4ca2-9918-eb9afeed997b"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "280e242d-0bb0-42ed-b04f-6a11e1e9cd31": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--15855049801908__280e242d-0bb0-42ed-b04f-6a11e1e9cd31-166722044501876803-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "Bambus direkt vom Züchter"
+          }
+        },
+        "5765a8da-38e6-4423-88e4-bfaf0d057bc1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "dbcac974-68c4-458b-b025-45d63d357683": {
+          "type": "usp",
+          "settings": {
+            "usp": "Mehr als 5000 zufriedene Kunden"
+          }
+        },
+        "3d944d36-3e94-4e52-b8a5-210c6b5ba090": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "template--15855049801908__280e242d-0bb0-42ed-b04f-6a11e1e9cd31-166722044501876803-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "b1523349-4fc3-40d0-84f9-787837dfa256": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-obelisk"
+          }
+        },
+        "bdf7427c-9d4d-4e18-a86e-b98741372c7a": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-pingwu"
+          }
+        },
+        "6e21326a-d681-4c35-b3fd-b966720886b5": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-moontears"
+          }
+        },
+        "6602bc38-4383-4547-b41b-f0861131a9c4": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-nitida-winter-joy"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__280e242d-0bb0-42ed-b04f-6a11e1e9cd31-166722044501876803-0",
+        "5765a8da-38e6-4423-88e4-bfaf0d057bc1",
+        "dbcac974-68c4-458b-b025-45d63d357683",
+        "3d944d36-3e94-4e52-b8a5-210c6b5ba090",
+        "template--15855049801908__280e242d-0bb0-42ed-b04f-6a11e1e9cd31-166722044501876803-1",
+        "b1523349-4fc3-40d0-84f9-787837dfa256",
+        "bdf7427c-9d4d-4e18-a86e-b98741372c7a",
+        "6e21326a-d681-4c35-b3fd-b966720886b5",
+        "6602bc38-4383-4547-b41b-f0861131a9c4"
+      ],
+      "settings": {
+        "heading": "UNSERE BAMBUS BESTSELLER",
+        "text": "",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false
+      }
+    },
+    "153fab35-b78a-491e-99cd-1650b67fb9b3": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15858386141364__153fab35-b78a-491e-99cd-1650b67fb9b3-1667575119402b71b7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fargesia-rufa-im-einen-pflanzkubel.jpg",
+            "text": "Fargesia Rufa (nicht wuchernder Bambus) in einem Kübel",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "ce789cc5-c4df-46b9-b3b0-e6ad6db4e7d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phyllostachys-nigra-schwarze-halme.jpg",
+            "text": "Schöne Halme von Phyllostachys Nigra",
+            "url": "shopify:\/\/products\/wuchernder-schwarzer-bambus"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386141364__153fab35-b78a-491e-99cd-1650b67fb9b3-1667575119402b71b7-0",
+        "ce789cc5-c4df-46b9-b3b0-e6ad6db4e7d4"
+      ],
+      "settings": {
+      }
+    },
+    "8cf846dd-dba5-4b7e-87e0-e9899cddb318": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Die perfekten Bambuspflanzen für einen Pflanzkübel oder Pflanzkästen<\/p>"
+          }
+        },
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie haben keinen Garten, aber einen Balkon oder eine Terrasse, auf der Sie eine ganz außergewöhnliche Stimmung kreieren möchten? Bambus sieht auch in Kübeln oder Pflanzkästen fantastisch aus. <a href=\"\/products\/nicht-wuchernder-bambus-rufa\" title=\"Nicht wuchernder Bambus 'Rufa'\">Fargesia rufa<\/a> ist eine der beliebtesten Bambusarten in Deutschland mit einer mittleren Höhe von 2 bis 3 Metern. Diese Bambusart eignet sich perfekt für die Kübelpflanzung oder für Pflanzcontainer. Im Handumdrehen bekommen Ihre Terrasse oder Ihr Balkon ein fernöstliches Flair. Häufig werden auch eckige Pflanzkästen verwendet. Eine ideale Lösung, wenn Sie einen Teil Ihres Gartens abgrenzen wollen sowie schnell und unkompliziert mehr Privatsphäre und Grün schaffen möchten! Kübelpflanzen stehen mit ihren Wurzeln nicht in der Erde. Sie sind deshalb etwas anfälliger für Frostschäden. Bei extrem kalten Temperaturen ist es ratsam, die Pflanzen an einen wärmeren Standort umzusetzen oder sie einzupacken.<\/p>"
+          }
+        },
+        "9c0f0784-b668-4510-9c23-b249a1ff34ca": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambus in einen Kübel einpflanzen<\/p>"
+          }
+        },
+        "4b70555e-39bd-4e00-9ad0-08a71840f6a3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verwenden Sie eine hochwertige und nährstoffreiche Pflanzerde für Ihren Bambus, wie zum Beispiel COMPO Sana Qualitäts-Blumenerde. Diese Blumenerde enthält einen Langzeitdünger, der über 180 Tage Nährstoffe freisetzt. Eine gute Nährstoffversorgung ist wichtig, damit ein Kübel-Bambus gut gedeiht. Die Abmessungen des Pflanzgefäßes sollten in der Breite und Tiefe mindestens ⅓ der Höhe der Bambuspflanze haben. Ein Kübel-Bambus trocknet schneller aus, geben Sie also immer reichlich Wasser. Machen Sie am Boden des Kübels ein Abflussloch für eine bessere Feuchtigkeitsregulierung.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-0",
+        "template--15855049801908__8cf846dd-dba5-4b7e-87e0-e9899cddb318-16672128852d37abe4-1",
+        "9c0f0784-b668-4510-9c23-b249a1ff34ca",
+        "4b70555e-39bd-4e00-9ad0-08a71840f6a3"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "80809c0f-bba2-473e-a7f3-853df3dacb04": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15858386141364__80809c0f-bba2-473e-a7f3-853df3dacb04-1667810715ba3e808f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicht-wuchernder-bambus-rufa-im-kubel.jpg",
+            "text": "Nicht wuchernder Bambus Rufa in Pflanzkästen",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "4f2d5e89-29a8-4f1a-8734-e07129846309": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Phyllostachys-aurea-im-pflanzkubel.jpg",
+            "text": "Wuchernder Bambus Goldrohrbambus im Pflanzkübel",
+            "url": "shopify:\/\/products\/wuchernder-bambus-goldrohrbambus"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386141364__80809c0f-bba2-473e-a7f3-853df3dacb04-1667810715ba3e808f-0",
+        "4f2d5e89-29a8-4f1a-8734-e07129846309"
+      ],
+      "settings": {
+      }
+    },
+    "3376df90-0178-4667-b2be-835718e15eb6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflanzt man Bambus in die Sonne oder in den Schatten?<\/p>"
+          }
+        },
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fast alle Bambusarten fühlen sich im Schatten oder Halbschatten wohl. Glücklicherweise gibt es auch einige Sorten, die sich in der Sonne wohlfühlen. Beispielsweise gedeiht der einfache, <a href=\"\/products\/nicht-wuchernder-bambus-rufa\" title=\"Nicht wuchernder Bambus 'Rufa'\">nicht wuchernde Bambus 'Rufa'<\/a> und der <a href=\"\/products\/nicht-wuchernder-bambus-campbell\" title=\"Nicht wuchernder Bambus 'Campbell'\">Fargesia robusta 'Campbell'<\/a> problemlos an einem sonnigen Platz, allerdings färben sich dort die Halme violett. Das Gleiche gilt für <a href=\"\/products\/nicht-wuchernder-bambus-jiuzhaigou\" title=\"Nicht wuchernder Bambus 'Jiuzhaigou'\">Fargesia 'Jiuzhaigou'<\/a>. Die Halme dieser Pflanze verfärben sich bei Sonneneinstrahlung rot. Andererseits ist <a href=\"\/products\/nicht-wuchernder-bambus-nitida-winter-joy\" title=\"Nicht wuchernder Bambus 'Winter Joy'\">Fargesia murieliae<\/a> ein echter Schattenliebhaber, ebenso wie 'Rufa'.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-0",
+        "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "dc223471-9e4f-4bf2-8856-27e77b8428df": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15858386141364__dc223471-9e4f-4bf2-8856-27e77b8428df-1667810715ba3e808f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fargesia-rufa-in-der-sonne.jpg",
+            "text": "Fargesia 'Rufa' in der Sonne",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "93bcf282-63ea-42bf-a531-afd04a555178": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicht-wuchernder-bambus-campbell-fur-hecken.jpg",
+            "text": "Fargesia 'Pingwu' im Schatten",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-pingwu"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386141364__dc223471-9e4f-4bf2-8856-27e77b8428df-1667810715ba3e808f-0",
+        "93bcf282-63ea-42bf-a531-afd04a555178"
+      ],
+      "settings": {
+      }
+    },
+    "f07f0992-348d-4efe-ad0a-f723981dcead": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__f07f0992-348d-4efe-ad0a-f723981dcead-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambus als Hecke<\/p>"
+          }
+        },
+        "template--15855049801908__f07f0992-348d-4efe-ad0a-f723981dcead-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vielleicht denken Sie nicht als Erstes daran, aber Bambuspflanzen eignen sich auch ausgezeichnet als Heckenpflanzen. Der nicht wuchernde Bambus nitida 'Winter Joy' ist ein gutes Beispiel dafür. Ein aufrecht stehender, nicht wuchernder Bambus mit kräftigen Halmen, der eine schöne Höhe von bis zu 4 Metern erreichen kann. Und er wächst in kurzer Zeit sehr dicht, was nicht unwichtig ist. Leider ist eine <a href=\"\/collections\/bambuspflanzen-als-hecke\" title=\"Bambuspflanzen als Hecke\">Bambushecke<\/a> keine optimale Lösung für einen kleinen Garten, weil sie einen relativ großen Platzanspruch zum Wachsen hat. Der Bambus entwickelt von unten neue Halme. Schaffen Sie daher einen etwa einen Meter breiten Bepflanzungsraum. Auf diese Weise geben Sie der Pflanze genügend Platz zum Wachsen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__f07f0992-348d-4efe-ad0a-f723981dcead-16672238445befc0fb-0",
+        "template--15855049801908__f07f0992-348d-4efe-ad0a-f723981dcead-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "ba1d2aff-be06-4092-b07b-77a50b2c3a1a": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15858386141364__ba1d2aff-be06-4092-b07b-77a50b2c3a1a-1667811319b3de23fc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fargesia-jiuzhaigou-als-hecke.jpg",
+            "text": "Fargesia 'Jiu' (nicht wuchernder Bambus) als Hecke",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-jiuzhaigou"
+          }
+        },
+        "ff5a53c9-0414-413f-a71b-5f8b4c90a74d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bambus-pflanzen-als-hecke.jpg",
+            "text": "Bambushecke als Hecke",
+            "url": "shopify:\/\/collections\/bambuspflanzen-als-hecke"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386141364__ba1d2aff-be06-4092-b07b-77a50b2c3a1a-1667811319b3de23fc-0",
+        "ff5a53c9-0414-413f-a71b-5f8b4c90a74d"
+      ],
+      "settings": {
+      }
+    },
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hoher oder niedriger Bambus<\/p>"
+          }
+        },
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Palette der Bambuspflanzen reicht von klein bis sehr groß. Der nicht wuchernde schwarze Bambus zeichnet sich durch seine dunkelvioletten bis schwarzen Halme aus. Diese Bambusart hat einen breiteren Wuchs und wird bis zu 2,5 Meter hoch. 'Black Pearl' verträgt Formschnitt und kann kompakt gehalten werden. Daneben gibt es aber auch Arten, die eine beachtliche Höhe erreichen können. So wie der <a href=\"\/products\/wuchernder-riesenbambus\" title=\"Wuchernder Riesenbambus\">Phyllostachys bissetii.<\/a> Diese Pflanze kann unter idealen Bedingungen eine Höhe von 8 Metern erreichen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-0",
+        "template--15855049801908__5c4fa16f-0317-448d-bbe0-2fedc883e997-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "ac1a7275-b4a4-4219-a9a5-8b37dd7ef671": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "template--15858386141364__ac1a7275-b4a4-4219-a9a5-8b37dd7ef671-1667811319b3de23fc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicht-wuchernder-bambus-black-pearl-halme_72602149-aceb-46c9-af85-eb62fe367881.jpg",
+            "text": "Nicht wuchernder Bambus 'Black Pearl'",
+            "url": ""
+          }
+        },
+        "3072c3ec-0bc6-4062-b7f5-b4fca379a5cf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phyllostachys-aurea-4-meter-hoch.jpg",
+            "text": "Phyllostachys aurea kann bis zu 4 Meter hoch werden",
+            "url": "shopify:\/\/products\/wuchernder-bambus-goldrohrbambus"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858386141364__ac1a7275-b4a4-4219-a9a5-8b37dd7ef671-1667811319b3de23fc-0",
+        "3072c3ec-0bc6-4062-b7f5-b4fca379a5cf"
+      ],
+      "settings": {
+      }
+    },
+    "1bfae006-89f6-4a35-8dcd-5447e6e878c4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bambuspflanzen kaufen<\/p>"
+          }
+        },
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sind Sie von dieser vielseitigen Pflanze inspiriert und möchten Sie Bambuspflanzen für Ihren Garten online bestellen? Dann sind Sie bei uns genau richtig. Wenn Sie noch nicht ganz überzeugt sind und einen Rat brauchen, helfen wir Ihnen gerne weiter.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-0",
+        "template--15855049801908__1bfae006-89f6-4a35-8dcd-5447e6e878c4-16672238445befc0fb-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "a7144639-62e7-4e2e-82fe-0bb1372dc1f6",
+    "63f32f95-dde4-49e7-bc58-32c9cef87283",
+    "c1e3742a-4f09-416a-9566-389609f157f4",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "eb321579-cbd0-47a1-9cf6-4a98ed8b6aa0",
+    "441530d0-c833-44a2-a6e0-321e4b1a90ea",
+    "280e242d-0bb0-42ed-b04f-6a11e1e9cd31",
+    "153fab35-b78a-491e-99cd-1650b67fb9b3",
+    "8cf846dd-dba5-4b7e-87e0-e9899cddb318",
+    "80809c0f-bba2-473e-a7f3-853df3dacb04",
+    "3376df90-0178-4667-b2be-835718e15eb6",
+    "dc223471-9e4f-4bf2-8856-27e77b8428df",
+    "f07f0992-348d-4efe-ad0a-f723981dcead",
+    "ba1d2aff-be06-4092-b07b-77a50b2c3a1a",
+    "5c4fa16f-0317-448d-bbe0-2fedc883e997",
+    "ac1a7275-b4a4-4219-a9a5-8b37dd7ef671",
+    "1bfae006-89f6-4a35-8dcd-5447e6e878c4",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

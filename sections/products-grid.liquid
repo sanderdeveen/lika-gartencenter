@@ -1,0 +1,809 @@
+<link rel="stylesheet" href="{{ 'section-products-grid.css' | asset_url }}" media="print" onload="this.media='all'">
+<noscript>{{ 'section-products-grid.css' | asset_url | stylesheet_tag }}</noscript>
+
+{% liquid
+  assign product_1 = all_products[section.settings.product_1]
+  assign product_2 = all_products[section.settings.product_2]
+  assign product_3 = all_products[section.settings.product_3]
+  assign product_4 = all_products[section.settings.product_4]
+  assign product_5 = all_products[section.settings.product_5]
+  assign product_6 = all_products[section.settings.product_6]
+  assign product_7 = all_products[section.settings.product_7]
+  assign product_8 = all_products[section.settings.product_8]
+  assign product_9 = all_products[section.settings.product_9] 
+%}
+
+<div class="page-width products_grid_container grid grid--1-col-tablet-down grid--3-col-desktop">
+  <div class="products_grid grid__item products_grid_1">
+    {%- if section.settings.header_first != blank -%}
+      <h2>{{ section.settings.header_first }}</h2>
+    {%- endif -%}
+    {%- if section.settings.text_first != blank -%}
+      {{ section.settings.text_first }}
+    {%- endif -%}
+    <ul class="list-unstyled products_grid_list">
+      {%- if product_1.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_1.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_1.featured_image | img_url: '55x' }}" alt="{{ product_1.featured_image.alt }}"/>
+            <h3>{{ product_1.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_1.selected_or_first_available_variant
+              else
+                assign target = product_1
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_1 and product_1.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_1.price_varies == false and product_1.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_1.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_1.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_1.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_1.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_1.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if product_2.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_2.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_2.featured_image | img_url: '55x' }}" alt="{{ product_2.featured_image.alt }}"/>
+            <h3>{{ product_2.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_2.selected_or_first_available_variant
+              else
+                assign target = product_2
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_2 and product_2.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_2.price_varies == false and product_2.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_2.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_2.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_2.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_2.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_2.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if product_3.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_3.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_3.featured_image | img_url: '55x' }}" alt="{{ product_3.featured_image.alt }}"/>
+            <h3>{{ product_3.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_3.selected_or_first_available_variant
+              else
+                assign target = product_3
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_3 and product_3.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_3.price_varies == false and product_3.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_3.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_3.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_3.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_3.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_3.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+    </ul>
+    {%- if section.settings.url_first != blank -%}
+      <a class="button button--outline" href="{{ section.settings.url_first }}">{{ section.settings.button_text_first }}</a>
+    {%- endif -%}
+  </div>
+  <div class="products_grid grid__item products_grid_2">
+    {%- if section.settings.header_second != blank -%}
+      <h2>{{ section.settings.header_second }}</h2>
+    {%- endif -%}
+    {%- if section.settings.text_second != blank -%}
+      {{ section.settings.text_second }}
+    {%- endif -%}
+    <ul class="list-unstyled products_grid_list">
+      {%- if product_4.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_4.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_4.featured_image | img_url: '55x' }}" alt="{{ product_4.featured_image.alt }}"/>
+            <h3>{{ product_4.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_4.selected_or_first_available_variant
+              else
+                assign target = product_4
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_4 and product_4.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_4.price_varies == false and product_4.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_4.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_4.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_4.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_4.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_4.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if product_5.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_5.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_5.featured_image | img_url: '55x' }}" alt="{{ product_5.featured_image.alt }}"/>
+            <h3>{{ product_5.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_5.selected_or_first_available_variant
+              else
+                assign target = product_5
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_5 and product_5.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_5.price_varies == false and product_5.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_5.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_5.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_5.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_5.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_5.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if product_6.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_6.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_6.featured_image | img_url: '55x' }}" alt="{{ product_6.featured_image.alt }}"/>
+            <h3>{{ product_6.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_6.selected_or_first_available_variant
+              else
+                assign target = product_6
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_6 and product_6.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_6.price_varies == false and product_6.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_6.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_6.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_6.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_6.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_6.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+    </ul>
+    {%- if section.settings.url_second != blank -%}
+      <a class="button button--outline" href="{{ section.settings.url_second }}">{{ section.settings.button_text_second }}</a>
+    {%- endif -%}
+  </div>
+  <div class="products_grid grid__item products_grid_3">
+    {%- if section.settings.header_third != blank -%}
+      <h2>{{ section.settings.header_third }}</h2>
+    {%- endif -%}
+    {%- if section.settings.text_third != blank -%}
+      {{ section.settings.text_third }}
+    {%- endif -%}
+    <ul class="list-unstyled products_grid_list">
+      {%- if product_7.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_7.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_7.featured_image | img_url: '55x' }}" alt="{{ product_7.featured_image.alt }}"/>
+            <h3>{{ product_7.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_7.selected_or_first_available_variant
+              else
+                assign target = product_7
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_7 and product_7.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_7.price_varies == false and product_7.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_7.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_7.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_7.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_7.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_7.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if product_8.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_8.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_8.featured_image | img_url: '55x' }}" alt="{{ product_8.featured_image.alt }}"/>
+            <h3>{{ product_8.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_8.selected_or_first_available_variant
+              else
+                assign target = product_8
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_8 and product_8.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_8.price_varies == false and product_8.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_8.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_8.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_8.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_8.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_8.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if product_9.url != blank -%}
+        <li class="shadow border-radius">
+          <a class="full-unstyled-link" href="{{ product_9.url }}">
+            <img class="border-radius" loading="lazy" width="55" height="55" src="{{ product_9.featured_image | img_url: '55x' }}" alt="{{ product_9.featured_image.alt }}"/>
+            <h3>{{ product_9.title }}</h3>
+            {%- liquid
+              if use_variant
+                assign target = product_9.selected_or_first_available_variant
+              else
+                assign target = product_9
+              endif
+            
+              assign compare_at_price = target.compare_at_price
+              assign price = target.price | default: 1999
+              assign available = target.available | default: false
+              assign money_price = price | money
+              if settings.currency_code_enabled
+                assign money_price = price | money_with_currency
+              endif
+            
+              if target == product_9 and product_9.price_varies
+                assign money_price = 'products.product.price.from_price_html' | t: price: money_price
+              endif
+            -%}
+            <div class="price">
+              <div class="price__container">
+                <div class="price__regular">
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                  <span class="price-item price-item--regular">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <div class="price__sale">
+                  {%- unless product_9.price_varies == false and product_9.compare_at_price_varies %}
+                    <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+                    <span>
+                      <s class="price-item price-item--regular">
+                        {% if settings.currency_code_enabled %}
+                          {{ compare_at_price | money_with_currency }}
+                        {% else %}
+                          {{ compare_at_price | money }}
+                        {% endif %}
+                      </s>
+                    </span>
+                  {%- endunless -%}
+                  <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
+                  <span class="price-item price-item--sale price-item--last">
+                    {{ money_price }}
+                  </span>
+                </div>
+                <small class="unit-price caption{% if product_9.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
+                  <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                  <span class="price-item price-item--last">
+                    <span>{{- product_9.selected_or_first_available_variant.unit_price | money -}}</span>
+                    <span aria-hidden="true">/</span>
+                    <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                    <span>
+                      {%- if product_9.selected_or_first_available_variant.unit_price_measurement.reference_value != 1 -%}
+                        {{- product_9.selected_or_first_available_variant.unit_price_measurement.reference_value -}}
+                      {%- endif -%}
+                      {{ product_9.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
+                    </span>
+                  </span>
+                </small>
+              </div>
+            </div>
+          </a>
+        </li>
+      {%- endif -%}
+    </ul>
+    {%- if section.settings.url_third != blank -%}
+      <a class="button button--outline" href="{{ section.settings.url_third }}">{{ section.settings.button_text_third }}</a>
+    {%- endif -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Section products grid",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "header",
+      "content": "First products row"
+    },
+    {
+      "type": "text",
+      "id": "header_first",
+      "label": "header"
+    },
+    {
+      "type": "richtext",
+      "id": "text_first",
+      "label": "text"
+    },
+    {
+      "type": "product",
+      "id": "product_1",
+      "label": "First product"
+    },
+    {
+      "type": "product",
+      "id": "product_2",
+      "label": "Second product"
+    },
+    {
+      "type": "product",
+      "id": "product_3",
+      "label": "Third product"
+    },
+    {
+      "type": "text",
+      "id": "button_text_first",
+      "label": "Button text"
+    },
+    {
+      "type": "url",
+      "id": "url_first",
+      "label": "Button link"
+    },
+    {
+      "type": "header",
+      "content": "Second products row"
+    },
+    {
+      "type": "text",
+      "id": "header_second",
+      "label": "header"
+    },
+    {
+      "type": "richtext",
+      "id": "text_second",
+      "label": "text"
+    },
+    {
+      "type": "product",
+      "id": "product_4",
+      "label": "First product"
+    },
+    {
+      "type": "product",
+      "id": "product_5",
+      "label": "Second product"
+    },
+    {
+      "type": "product",
+      "id": "product_6",
+      "label": "Third product"
+    },
+    {
+      "type": "text",
+      "id": "button_text_second",
+      "label": "Button text"
+    },
+    {
+      "type": "url",
+      "id": "url_second",
+      "label": "Button link"
+    },
+    {
+      "type": "header",
+      "content": "Third products row"
+    },
+    {
+      "type": "text",
+      "id": "header_third",
+      "label": "header"
+    },
+    {
+      "type": "richtext",
+      "id": "text_third",
+      "label": "text"
+    },
+    {
+      "type": "product",
+      "id": "product_7",
+      "label": "First product"
+    },
+    {
+      "type": "product",
+      "id": "product_8",
+      "label": "Second product"
+    },
+    {
+      "type": "product",
+      "id": "product_9",
+      "label": "Third product"
+    },
+    {
+      "type": "text",
+      "id": "button_text_third",
+      "label": "Button text"
+    },
+    {
+      "type": "url",
+      "id": "url_third",
+      "label": "Button link"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Section products grid"
+    }
+  ]
+}
+{% endschema %}

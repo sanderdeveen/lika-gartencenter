@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "190e84fa-6663-4e85-a5eb-07ce2e40ddf6": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Rasen",
+            "breadcrumb_link": "shopify:\/\/collections\/rasen"
+          }
+        }
+      },
+      "block_order": [
+        "190e84fa-6663-4e85-a5eb-07ce2e40ddf6"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Rollrasen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e0e53c50-a330-4172-aef1-8c2f418a1907": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rollrasen-anlegen.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "de42b279-929d-45ea-b622-3d686e6f776c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15861721530548__de42b279-929d-45ea-b622-3d686e6f776c-166800586789d5b1ab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rollrasen: Eine echte Alternative<\/p>"
+          }
+        },
+        "template--15861721530548__de42b279-929d-45ea-b622-3d686e6f776c-166800586789d5b1ab-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es ist nicht leicht, einen saftig grünen, unkrautfreien Rasen anzuzüchten, der schnell betretbar und fast genauso schnell belastbar ist. Außer Sie haben sich Rollrasen\/ Fertigrasen in Ihrem Garten verlegen lassen.<\/p><p>Rollrasen hat von Beginn an eine gleichmäßig hohe Grasnarbe, ist an keine Jahreszeit gebunden und ist auch kurzfristig nutzbar (Torräume auf Fußballplätzen). Das Gras ist gekennzeichnet durch ein schnelles und vor allem gesundes Blattgrün.<\/p><p>Mir Rollrasen gibt es kein Saatgutschwund und keine langen Wartenzeiten wie bei der herkömmlichen Ansaat: Er wird geliefert und umgehend verlegt. Noch etwas walzen und wässern und schon ist der Rasen fertig.<\/p><p>Allerdings ist Rollrasen sehr teuer. Im Schnitt kostet er zwischen 8 und 12 Euro pro Quadratmeter, also zehnmal so viel wie normale Rasensamen. Und zusätzlich benötigen Sie schweres Gerät, um die Rollrasenbahnen zu transportieren.<\/p>"
+          }
+        },
+        "365db23c-3fe1-48f8-92ec-3ca1da673872": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rollrasen verlegen<\/p>"
+          }
+        },
+        "54814623-8cf2-46da-8ce6-3f5871ba129d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unter Einen neuen Rasen anlegen finden Sie alles, was Sie über die Vorbereitungen wissen müssen, denn die Arbeitsschritte entsprechen denen der normalen Aussaat: Boden auflockern, ebnen und walzen, Ruhen lassen und ordentlich bewässern. Das eigentliche Verlegen geht schnell und ist unkompliziert. Zuerst rauen Sie das Erdreich leicht auf (1-2cm). Anschließend verlegen Sie die Rasenbahnen versetzt, wie ein Mauerwerk. Am besten fangen Sie am Rand an und vermeiden Fugen. Überlappungen können einfach mit einem Beil oder einem scharfen Messer abgetrennt werden.<\/p><p>Haben Sie die komplette Fläche verlegt, walzen Sie den Rasen diagonal und bewässern ihn täglich intensiv. Er darf auf keinen Fall austrocknen! Bei einer Wuchshöhe von 6-8 cm sollten Sie den Rasen das erste Mal auf eine Schnitthöhe von circa 4 cm mähen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15861721530548__de42b279-929d-45ea-b622-3d686e6f776c-166800586789d5b1ab-0",
+        "template--15861721530548__de42b279-929d-45ea-b622-3d686e6f776c-166800586789d5b1ab-1",
+        "365db23c-3fe1-48f8-92ec-3ca1da673872",
+        "54814623-8cf2-46da-8ce6-3f5871ba129d"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "e0e53c50-a330-4172-aef1-8c2f418a1907",
+    "de42b279-929d-45ea-b622-3d686e6f776c",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

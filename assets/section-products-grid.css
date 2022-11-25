@@ -1,0 +1,52 @@
+.products_grid_container {
+  padding: 1.7rem 0;
+  display: flex;
+}
+
+.price__container {
+  width: 8rem;
+  text-align: center;
+}
+
+.products_grid {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.products_grid_container h2 {
+  margin-top: 0;
+}
+
+.products_grid h3 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.products_grid p {
+  margin: 0;
+}
+
+.products_grid_list li {
+  background-color: #FFF;
+  margin: 0.6rem 0;
+}
+
+.products_grid_list li a {
+  padding: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+
+.products_grid_list .price {
+  margin-left: auto;
+}
+
+.products_grid_list img {
+  margin-right: 1.6rem;
+}
+
+.products_grid .button {
+  margin-top: auto;
+}
+

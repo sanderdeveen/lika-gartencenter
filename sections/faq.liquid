@@ -1,0 +1,95 @@
+<link rel="stylesheet" href="{{ 'component-usp.css' | asset_url }}">
+<link rel="stylesheet" href="{{ 'component-faq.css' | asset_url }}">
+<noscript>{{ 'component-usp.css' | asset_url | stylesheet_tag }}</noscript>
+<noscript>{{ 'component-faq.css' | asset_url | stylesheet_tag }}</noscript>
+
+<div class="page-width section-faq">
+  {%- if section.settings.heading != blank -%}
+    <h3>{{ section.settings.heading }}</h3>
+  {% endif %}
+  <div class="section-faq-qa">
+    {%- for block in section.blocks -%}
+      {%- case block.type -%}
+        {%- when 'faq' -%}
+          <details>
+            <summary>
+              {{ block.settings.heading }}
+              <span class="icon icon-chevron">
+                <svg viewBox="0 0 50 50"><path style="fill:none;stroke:#4B5563;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg>
+              </span>
+            </summary>
+            
+            {%- if block.settings.custom_liquid_1 != blank -%}
+              <div class="faq-custom_liquid">
+                {{ block.settings.custom_liquid_1 }}
+              </div>
+            {%- endif -%}
+
+            {{ block.settings.content }}
+
+            {%- if block.settings.custom_liquid_2 != blank -%}
+              <div class="faq-custom_liquid">
+                {{ block.settings.custom_liquid_2 }}
+              </div>
+            {%- endif -%}
+
+          </details>
+        {%- endcase -%}
+    {%- endfor -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "FAQ section",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "FAQ heading"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "faq",
+      "name": "Q and A", 
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Question"
+        },
+        {
+          "type": "liquid",
+          "id": "custom_liquid_1",
+          "label": "t:sections.custom-liquid.settings.custom_liquid.label",
+          "info": "t:sections.custom-liquid.settings.custom_liquid.info"
+        },
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "answer"
+        },
+        {
+          "type": "liquid",
+          "id": "custom_liquid_2",
+          "label": "t:sections.custom-liquid.settings.custom_liquid.label",
+          "info": "t:sections.custom-liquid.settings.custom_liquid.info"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "FAQ",
+      "blocks": [
+        {
+          "type": "faq"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

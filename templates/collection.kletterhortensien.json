@@ -1,0 +1,346 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Ziersträucher",
+            "breadcrumb_link": "shopify:\/\/collections\/zierstraeucher"
+          }
+        },
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Hortensien",
+            "breadcrumb_link": "shopify:\/\/collections\/hortensien"
+          }
+        }
+      },
+      "block_order": [
+        "8e4c12fc-e81e-452e-8cde-aa7882eb8f99",
+        "76c991c0-728e-482b-8fd9-0a6f7c1cedc7",
+        "ad756780-d93f-4ed5-9b97-b360fb6f2555"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller aus Bauernhortensien",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Kletterhortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "43931272-e2b7-49a1-8e95-56fa93141536": {
+      "type": "faq",
+      "blocks": {
+        "template--15870028644532__43931272-e2b7-49a1-8e95-56fa93141536-1669118423b46a4707-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Pflege brauchen Kletterhortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Kletterhortensien gedeihen am besten in sauren Böden. Deshalb empfehlen wir Ihnen, beim Einsetzen spezielle Hortensienerde zu verwenden. Im Übrigen ist die Kletterhortensie eine relativ anspruchslose Pflanze. Sollte der Strauch zu groß werden, kann ein Teil der Zweige nach der Blüte herausgeschnitten werden. Die Kletterhortensie sollte regelmäßig gegossen werden.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "e625269b-ea6c-498b-a791-dfca8703d79c": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie schnell wachsen Kletterhortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Kletterhortensie ist eine Kletterpflanze, die sehr groß werden kann. Es kann allerdings einige Jahre dauern, bevor sie ihr volles Wachstum entfaltet. Schließlich beginnt sie aber richtig zu wachsen und kann sie eine Höhe von bis zu 20 Metern erreichen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "54bb6cab-e5e8-422b-9246-e271db1c2b48": {
+          "type": "faq",
+          "settings": {
+            "heading": "Ist die Kletterhortensie eine selbstklimmende Pflanze?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Kletterhortensie ist eine selbstklimmende Kletterpflanze. Das bedeutet, dass sie sich mit ihren sogenannten Haftwurzeln am Untergrund festkrallt. Dadurch kann sie problemlos an Mauern und Wänden hochklettern. Wir empfehlen Ihnen, Ihre Kletterhortensie im ersten Jahr mit einer Rankhilfe oder Pflanzenstütze zu unterstützen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028644532__43931272-e2b7-49a1-8e95-56fa93141536-1669118423b46a4707-0",
+        "e625269b-ea6c-498b-a791-dfca8703d79c",
+        "54bb6cab-e5e8-422b-9246-e271db1c2b48"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Kletterhortensien"
+      }
+    },
+    "087b291d-66e5-436e-95bb-574b281f9142": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Schirmförmige Blütendolden<\/p>"
+          }
+        },
+        "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Schirmblüten der Kletterhortensie bilden nur außen einen Kranz mit Blütenblättern. Die inneren Blüten haben keine Blütenblätter und sehen aus, als ob sie noch aufblühen müssten. Tatsächlich sind diese Kügelchen aber ein Teil dieser besonderen Blütenstände.<\/p>"
+          }
+        },
+        "54137fc3-43e4-4bb3-9fa4-5ee07a44273f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflege<\/p>"
+          }
+        },
+        "05d798d1-791a-4a62-a66f-347ca21e546d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kletterhortensien gedeihen am besten in sauren Böden. Deshalb empfehlen wir Ihnen, beim Pflanzen von Kletterhortensien Compo Qualitäts-Blumenerde zu verwenden. Diese Blumenerde bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen.<\/p>"
+          }
+        },
+        "83f0666b-9b57-4b57-ab1f-3c1ab1a1471a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Compo Hortensiendünger<\/p>"
+          }
+        },
+        "8404893e-1d8b-4842-897e-d7e006f34aad": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Düngen mit Compo Rhodo- und Hortensien Vital fördert ein gesundes Wachstum der Kletterhortensie. Wir empfehlen Ihnen, Ihre Kletterhortensie zweimal im Jahr zu düngen. Die erste Düngung sollte zwischen März und Juni erfolgen, die zweite dann zwischen Juli und September.<\/p>"
+          }
+        },
+        "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kletterhortensien-petiolaris-blumen.jpg",
+            "image_width": 100,
+            "image_position": "margin: 0 auto;"
+          }
+        },
+        "fc1ba05b-2461-4583-8a21-a9ae592e8ceb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Andere Kletterpflanzen<\/p>"
+          }
+        },
+        "194c3b54-7b44-4608-a1cd-8259f2badceb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Hydrangea anomala 'Petiolaris' ist nicht die einzige <a href=\"\/collections\/kletterpflanzen\" title=\"Kletterpflanzen\">Kletterpflanze<\/a> in unserem Sortiment. Das <a href=\"\/products\/immergruenes-geissblatt\" title=\"Immergrünes Geißblatt\">Immergrüne Geißblatt<\/a> (Lonicera henryi) ist ein weiterer dekorativer Vertreter, der übrigens eine große Anziehungskraft auf Insekten ausübt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-0",
+        "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-1",
+        "54137fc3-43e4-4bb3-9fa4-5ee07a44273f",
+        "05d798d1-791a-4a62-a66f-347ca21e546d",
+        "83f0666b-9b57-4b57-ab1f-3c1ab1a1471a",
+        "8404893e-1d8b-4842-897e-d7e006f34aad",
+        "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-5",
+        "fc1ba05b-2461-4583-8a21-a9ae592e8ceb",
+        "194c3b54-7b44-4608-a1cd-8259f2badceb"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "43931272-e2b7-49a1-8e95-56fa93141536",
+    "087b291d-66e5-436e-95bb-574b281f9142",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

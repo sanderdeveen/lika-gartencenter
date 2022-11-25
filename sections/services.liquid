@@ -1,0 +1,104 @@
+<style>
+  .section-services {
+    background-color: #FFF;
+    padding: 2.4rem 0;
+    margin: 1rem;
+    border-radius: 0.4rem;
+  }
+  @media screen and (min-width: 1300px) {
+    .section-services {
+      margin: 0 auto;
+    }
+  }
+  .services-list {
+    margin-top: 1rem;
+  }
+
+  .services-img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .services-list li {
+    background-color: #f2f0ef;
+    border-radius: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .service-text {
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+  }
+</style>
+<div class="page-width services-container">
+  {% if section.settings.heading %}
+    <span class="h2">{{ section.settings.heading }}</span>
+  {% endif %}
+  <ul class="list-unstyled grid grid--2-col grid--4-col-desktop services-list">
+    {%- for block in section.blocks -%}
+      {%- case block.type -%}
+        {%- when 'service' -%}
+          <li class="grid__item">
+            {% if block.settings.image != blank %}
+              <img class="services-img"
+                src="{{ block.settings.image | image_url: width: 1500 }}"
+                loading="lazy"
+                alt="{{ block.settings.image.alt | escape }}"
+                width="{{ block.settings.image.width }}"
+                height="{{ block.settings.image.width | divided_by: block.settings.image.aspect_ratio }}"
+              >
+            {% endif %}
+            <span class="service-text">{{ block.settings.text }}</span>
+          </li>
+        {%- endcase -%}
+      {%- endfor -%}
+  </ul>
+</div>
+{% schema %}
+{
+  "name": "Services",
+  "tag": "section",
+  "class": "section-services",
+  "settings": [
+    {
+      "type": "text",
+      "label": "heading",
+      "id": "heading"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "service",
+      "name": "Service",
+      "limit": 4,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "Use 270 x 335 png"
+        },
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Text under image",
+          "default": "Service"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Service",
+      "blocks": [
+        {
+          "type": "service"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

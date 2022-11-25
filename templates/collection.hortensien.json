@@ -110,7 +110,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Hortensien",
+        "top_sellers": "Topseller Hortensien",
         "featured_product_one": "schneeball-hortensie-annabelle",
         "featured_product_two": "bauernhortensie-blau",
         "featured_product_three": "bauernhortensie-weiss",
@@ -234,19 +234,22 @@
         "template--15870028415156__80499062-3194-4389-a386-99b65e9fb7bb-166902013767713c68-1": {
           "type": "product_selection",
           "settings": {
-            "product": "schneeball-hortensie-annabelle"
+            "product": "schneeball-hortensie-annabelle",
+            "enable_quick_add": true
           }
         },
         "3368e584-c33b-460a-a582-5c5c22b0274e": {
           "type": "product_selection",
           "settings": {
-            "product": "bauernhortensie-blau"
+            "product": "bauernhortensie-blau",
+            "enable_quick_add": true
           }
         },
         "9870c0e8-f8e5-43b3-8af2-cac5ae9615dc": {
           "type": "product_selection",
           "settings": {
-            "product": "bauernhortensie-weiss"
+            "product": "bauernhortensie-weiss",
+            "enable_quick_add": true
           }
         }
       },

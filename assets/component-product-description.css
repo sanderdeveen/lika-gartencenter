@@ -36,10 +36,9 @@
 }
 
 .product-usp {
-  font-size: 1.6rem;
   margin: 0;
-  display: grid;
-  grid-template-columns: 2rem 1fr;
+  padding: 0.8rem;
+  font-size: 1.6rem;
   column-gap: 0.4rem;
   align-items: center;
 }
@@ -75,22 +74,21 @@
 
 .product-usp .icon {
   color: #7BBA59;
+  width: 1.6rem;
 }
 
 .buy_container {
+  background: #FFF;
   border-radius: 0.4rem;
-  background-color: #f2f0ef;
   display: block;
 }
 
-@media screen and (max-width: 990px) {
-  .buy_container {
-    background-color: #FFF;
-  }
-}
-
 .buy_container--price {
-  padding: 0 0.8rem;
+  padding: 0.8rem;
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .buy-container-btn {

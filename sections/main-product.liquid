@@ -292,12 +292,60 @@
               {%- endform -%}
             </div>
           {%- when 'product_usp' -%}
-            {%- if product.metafields.custom.product_usp != blank -%}
+            {%- if product.metafields.custom.product_usp_1 != blank -%}
               <div class="product-usp">
-                {% liquid 
-                  assign product_usp = product.metafields.custom.product_usp | replace: '-', '<svg class="icon" viewBox="0 0 20 20" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.5891 5.24378C15.9147 5.56906 15.915 6.0967 15.5897 6.42229L7.25638 14.764C7.10013 14.9204 6.88812 15.0083 6.66704 15.0083C6.44595 15.0084 6.23391 14.9206 6.07757 14.7643L3.57757 12.2643C3.25214 11.9388 3.25214 11.4112 3.57757 11.0857C3.90301 10.7603 4.43065 10.7603 4.75609 11.0857L6.66654 12.9962L14.4106 5.24437C14.7359 4.91877 15.2635 4.91851 15.5891 5.24378Z" fill="currentColor"/></svg>'
-                %}
-                {{ product_usp }}
+                <details>
+                  {%- if product.metafields.custom.product_usp_1 != blank -%}
+                    <summary>
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_1 }}
+                      {%- if product.metafields.custom.product_usp_1_explanation != blank -%}
+                        <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                      {%- endif -%}
+                      </summary>
+                  {%- endif -%}
+                  {%- if product.metafields.custom.product_usp_1_explanation != blank -%}
+                    <p>{{ product.metafields.custom.product_usp_1_explanation }}</p>
+                  {%- endif -%}
+                </details>
+                {%- if product.metafields.custom.product_usp_2 != blank -%}
+                <details>
+                    <summary>
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_2 }}
+                      {%- if product.metafields.custom.product_usp_2_explanation != blank -%}
+                        <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                      {%- endif -%}
+                    </summary>
+                  {%- endif -%}
+                  {%- if product.metafields.custom.product_usp_2_explanation != blank -%}
+                    <p>{{ product.metafields.custom.product_usp_2_explanation }}</p>
+                  </details>
+                {%- endif -%}
+                {%- if product.metafields.custom.product_usp_3 != blank -%}
+                <details>
+                    <summary>
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_3 }}
+                      {%- if product.metafields.custom.product_usp_3_explanation != blank -%}
+                        <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                      {%- endif -%}
+                    </summary>
+                  {%- endif -%}
+                  {%- if product.metafields.custom.product_usp_3_explanation != blank -%}
+                    <p>{{ product.metafields.custom.product_usp_3_explanation }}</p>
+                  </details>
+                {%- endif -%}
+                {%- if product.metafields.custom.product_usp_4 != blank -%}
+                <details>
+                  <summary>
+                    {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_4 }}
+                    {%- if product.metafields.custom.product_usp_4_explanation != blank -%}
+                      <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                    {%- endif -%}
+                  </summary>
+                  {%- endif -%}
+                  {%- if product.metafields.custom.product_usp_4_explanation != blank -%}
+                    <p>{{ product.metafields.custom.product_usp_4_explanation }}</p>
+                </details>
+                {%- endif -%}
               </div>
             {%- else -%}
               <div class="product-usp product-usp-fallback">
@@ -308,7 +356,7 @@
               </div>
             {%- endif -%}
           {%- when 'buy_container' -%}
-            <div class="buy_container">
+            <div class="buy_container shadow">
               {%- unless product.has_only_default_variant -%}
                   <variant-radios class="no-js-hidden product-form__input-options" data-section="{{ section.id }}" data-url="{{ product.url }}" {{ block.shopify_attributes }}>
                     {%- for option in product.options_with_values -%}
@@ -469,36 +517,38 @@
               <script src="{{ 'pickup-availability.js' | asset_url }}" defer="defer"></script>
               </div>
           
-              <div class="product-stock-container">
-                {% liquid
-                 assign product_qty = 0
-                 for variant in product.variants
-                   if variant.inventory_quantity > 0
-                     assign product_qty = product_qty | plus: variant.inventory_quantity
-                   endif
-                 endfor
-                %}
-                {% if product_qty > 0 %}
-                  <div class="stock-indicator">
-                    <span class="product-stock--instock"></span>
-                    {{ 'products.product.in_stock' | t }}
-                  </div>
-                {% else %}
-                  <div class="stock-indicator">
-                    <span class="product-stock--nostock"></span>
-                    {{ 'products.product.no_stock' | t }}
-                  </div>
-                {% endif %}
-              </div>
-            </div>
-            <div class="shipment-info-container">
-              {% render 'icon-accordion', icon: 'truck' %}
-              {% if product.metafields.custom.product_inventory != blank %}
-                {{ product.metafields.custom.product_inventory }}
-              {% else %}
-                {{ 'products.product.delivery_info' | t }}
-              {% endif %}
-            </div> 
+              <div class="product-meta-info">
+  
+                <div class="product-stock-container">
+                  {% liquid
+                   assign product_qty = 0
+                   for variant in product.variants
+                     if variant.inventory_quantity > 0
+                       assign product_qty = product_qty | plus: variant.inventory_quantity
+                     endif
+                   endfor
+                  %}
+                  {% if product_qty > 0 %}
+                    <div class="stock-indicator">
+                      <span class="product-stock--instock"></span>
+                      {{ 'products.product.in_stock' | t }}
+                    </div>
+                  {% else %}
+                    <div class="stock-indicator">
+                      <span class="product-stock--nostock"></span>
+                      {{ 'products.product.no_stock' | t }}
+                    </div>
+                  {% endif %}
+                </div>
+                <div class="shipment-info-container">
+                  {% render 'icon-accordion', icon: 'truck' %}
+                  {% if product.metafields.custom.product_inventory != blank %}
+                    {{ product.metafields.custom.product_inventory }}
+                  {% else %}
+                    {{ 'products.product.delivery_info' | t }}
+                  {% endif %}
+                </div>
+              </div> 
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte quick-add-hidden">

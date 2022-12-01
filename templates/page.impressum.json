@@ -103,43 +103,43 @@
         "template--15877731909812__61c98a32-0de8-4f3c-8de6-2a4ed491ca3c-1669211130d2c23e4e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Die Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, die unter <a href=\"https:\/\/www.ec.europa.eu\/consumers\/odr\" target=\"_blank\" title=\"https:\/\/www.ec.europa.eu\/consumers\/odr\">www.ec.europa.eu\/consumers\/odr<\/a> aufrufbar ist. Wir sind weder verpflichtet noch bereit, an dem Streitschlichtungsverfahren teilzunehmen.<\/p>"
+            "text": "<p>Die Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, die unter:<\/p>"
+          }
+        },
+        "0610a252-a525-4dc2-9460-106a7912253a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Europa.eu",
+            "button_link": "https:\/\/ec.europa.eu\/consumers\/odr\/main\/index.cfm?event=main.home.chooseLanguage",
+            "no_follow": true,
+            "button_scheme": "button",
+            "button_label_2": "button 2",
+            "button_link_2": "shopify:\/\/products\/amberbaum",
+            "no_follow_2": false,
+            "button_scheme_2": "button"
+          }
+        },
+        "2df28834-ea84-4257-b682-515ffd358150": {
+          "type": "text",
+          "settings": {
+            "text": "<p>aufrufbar ist. Wir sind weder verpflichtet noch bereit, an dem Streitschlichtungsverfahren teilzunehmen.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--15877731909812__61c98a32-0de8-4f3c-8de6-2a4ed491ca3c-1669211130d2c23e4e-1"
+        "template--15877731909812__61c98a32-0de8-4f3c-8de6-2a4ed491ca3c-1669211130d2c23e4e-1",
+        "0610a252-a525-4dc2-9460-106a7912253a",
+        "2df28834-ea84-4257-b682-515ffd358150"
       ],
       "settings": {
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "7c683c45-89d6-45f4-ba02-e147a327bfa7": {
-      "type": "sections-downloads",
-      "blocks": {
-        "template--15877731909812__7c683c45-89d6-45f4-ba02-e147a327bfa7-1669211315c263148a-0": {
-          "type": "downloadables",
-          "settings": {
-            "download_text": "Impressum pdf",
-            "pdf_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0614\/8728\/4404\/files\/blank.pdf?v=1669204228",
-            "button_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "template--15877731909812__7c683c45-89d6-45f4-ba02-e147a327bfa7-1669211315c263148a-0"
-      ],
-      "settings": {
-        "heading": "",
-        "text": ""
       }
     }
   },
   "order": [
     "main",
     "a9894df1-36f1-4b33-be74-0fc0f9956d94",
-    "61c98a32-0de8-4f3c-8de6-2a4ed491ca3c",
-    "7c683c45-89d6-45f4-ba02-e147a327bfa7"
+    "61c98a32-0de8-4f3c-8de6-2a4ed491ca3c"
   ]
 }

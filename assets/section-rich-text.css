@@ -76,6 +76,10 @@
   min-width: 22rem;
 }
 
+.rich-text__buttons--left {
+  justify-content: left;
+}
+
 .rich-text__buttons + .rich-text__buttons {
   margin-top: 1rem;
 }
@@ -86,4 +90,20 @@
 
 .rich-text__blocks.right .rich-text__buttons {
   justify-content: flex-end;
+}
+
+.button.link {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  color: #7BBA59;
+  font-weight: 400;
+  border-radius: 0;
+  display: block;
+  line-height: 0;
+  min-height: fit-content;
+}
+
+.button.link:hover {
+  text-decoration: underline;
 }

@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -118,7 +118,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Hortensien für sonnige Standorte",
+        "top_sellers": "Topseller Hortensien für sonnige Standorte",
         "featured_product_one": "kletterhortensie-petiolaris",
         "featured_product_two": "rispenhortensie-limelight",
         "featured_product_three": "eichenblaettrige-hortensie",
@@ -216,9 +216,10 @@
         "template--15870028382388__5e01fd47-3c59-4ace-b817-d1af2fc41da9-16691321025e492b97-5": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/bauernhortensien-fur-sonnige-standorte-im-kubel.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "8b15a151-ba7f-4eff-97f1-65c12be36d36": {
@@ -270,19 +271,36 @@
         "408426df-3436-486a-8c6d-cee95781f479": {
           "type": "product_selection",
           "settings": {
-            "product": "kletterhortensie-petiolaris"
+            "product": "kletterhortensie-petiolaris",
+            "enable_quick_add": true
           }
         },
         "template--15870028382388__ea97514e-580d-4304-952a-7d0ff8be329a-1669200348bfe7b547-1": {
           "type": "product_selection",
           "settings": {
-            "product": "rispenhortensie-limelight"
+            "product": "rispenhortensie-limelight",
+            "enable_quick_add": true
           }
         },
         "b8e0ae05-303c-4f66-bc8d-8cf601c9a328": {
           "type": "product_selection",
           "settings": {
-            "product": "eichenblaettrige-hortensie"
+            "product": "eichenblaettrige-hortensie",
+            "enable_quick_add": true
+          }
+        },
+        "93d5f983-7627-4a87-b76d-2ff70da4e6f9": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-rosa",
+            "enable_quick_add": true
+          }
+        },
+        "afff3629-e5e2-4f55-90b1-e82578ca0ab6": {
+          "type": "product_selection",
+          "settings": {
+            "product": "schneeballhortensie-strong-annabelle",
+            "enable_quick_add": true
           }
         }
       },
@@ -292,10 +310,12 @@
         "49b6826b-dc39-46ef-adf9-6b2e9eb8f8ac",
         "408426df-3436-486a-8c6d-cee95781f479",
         "template--15870028382388__ea97514e-580d-4304-952a-7d0ff8be329a-1669200348bfe7b547-1",
-        "b8e0ae05-303c-4f66-bc8d-8cf601c9a328"
+        "b8e0ae05-303c-4f66-bc8d-8cf601c9a328",
+        "93d5f983-7627-4a87-b76d-2ff70da4e6f9",
+        "afff3629-e5e2-4f55-90b1-e82578ca0ab6"
       ],
       "settings": {
-        "heading": "HORTENSIEN TOPSELLER",
+        "heading": "TOPSELLER HORTENSIEN",
         "text": ""
       }
     },
@@ -317,9 +337,10 @@
         "template--15870028382388__0c7ee8e8-1217-4a4b-acf4-f2964b1c9857-1669200639d2cadda6-5": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/bauernhortensie-blau-blumen.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "f1bf41b6-804f-4d92-8bec-ae90255e8c5c": {
@@ -343,8 +364,8 @@
         "dcfa1940-2869-48d1-832f-00026ba54d04"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -354,14 +375,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

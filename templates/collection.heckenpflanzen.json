@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -102,7 +102,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Heckenpflanzen",
+        "top_sellers": "Topseller Heckenpflanzen",
         "featured_product_one": "rotbuchenhecke",
         "featured_product_two": "blutbuchenhecke",
         "featured_product_three": "nicht-wuchernder-bambus-obelisk",
@@ -198,7 +198,8 @@
       ],
       "settings": {
         "header": "Wir beraten Sie gerne bei der Auswahl der richtigen Heckenpflanze",
-        "text": "<p>Um Ihnen den Einstieg zu erleichtern, haben wir im Folgenden eine Unterscheidung nach beliebten Heckenpflanzen und Pflanzeneigenschaften vorgenommen.<\/p>"
+        "text": "<p>Um Ihnen den Einstieg zu erleichtern, haben wir im Folgenden eine Unterscheidung nach beliebten Heckenpflanzen und Pflanzeneigenschaften vorgenommen.<\/p>",
+        "mobile_swipe": false
       }
     },
     "589690a0-d353-40f4-85db-d6d976c4bb88": {
@@ -236,7 +237,8 @@
       ],
       "settings": {
         "header": "Häufig angesehene Themen",
-        "text": "<p>Da Sie vielleicht noch nicht wissen, welche Hecke Sie anlegen wollen, empfehlen wir Ihnen auch, die richtige Heckenpflanze auf dem Grundstück zu suchen.<\/p>"
+        "text": "<p>Da Sie vielleicht noch nicht wissen, welche Hecke Sie anlegen wollen, empfehlen wir Ihnen auch, die richtige Heckenpflanze auf dem Grundstück zu suchen.<\/p>",
+        "mobile_swipe": false
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -272,7 +274,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -281,6 +282,296 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "953ba985-035b-4803-8455-72fbe4932f11": {
+      "type": "faq",
+      "blocks": {
+        "template--15882962895028__953ba985-035b-4803-8455-72fbe4932f11-1669803066f0255294-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann wählen Sie welche Heckenpflanze aus?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Wahl der richtigen Hecke für Ihren Garten bestimmt nicht nur die Atmosphäre, sondern hängt auch von Ihren Wünschen hinsichtlich der Funktionalität ab. Wir listen alle Auswahlmöglichkeiten für Sie auf:<\/p>",
+            "custom_liquid_2": "<ol>\n<li><strong>Bestimmen Sie die gewünschte Höhe Ihrer Hecke<\/strong><br>\nHohe Hecken sind ideal als natürliche Gartenabgrenzung zum Nachbargrundstück. Niedrige Hecken eignen sich sehr gut als Begrenzung um den Vorgarten oder die Terrasse herum oder als Bodenbedecker.\n<\/li><br>\n<li><strong>Bleibt diese Hecke immergrün oder kann sie im Winter ihre Blätter verlieren?<\/strong><br>\nEine <a href='\/collections\/immergruene-hecken'>immergrüne Hecke<\/a> behält ihre Blätter im Winter und zeigt das ganze Jahr über ihr frisches Grün. Eine Laubhecke verliert im Winter oder das ganze Jahr über ihre Blätter. Eine auffällige Ausnahme ist die <a href='\/collections\/buchenhecke'>Buchenhecke<\/a>. Sie gilt als immergrün, ist jedoch nicht immer grün. Im Winter ruht die Pflanze und die Blätter werden bräunlich. Im Frühjahr treibt die Pflanze wieder aus und wirft gleichzeitig das Altlaub ab.<\/li><br>\n<li><strong>Blattfarbe und andere Eigenschaften<\/strong><br>\nDie Farbpalette einer Hecke beschränkt sich weitgehend auf verschiedene Grüntöne, dennoch gibt es jede Menge Alternativen, um noch mehr Farbe in Ihren Garten zu bringen. Eine besondere Alternative für noch mehr Sichtschutz oder eine Begrenzung in Ihrem Garten ist eine <a href='\/collections\/bambuspflanzen-als-hecke'>Bambushecke<\/a>. Bambus wächst schnell, sodass Sie im Handumdrehen eine orientalische Atmosphäre kreieren! Wenn Sie eine besonders charaktervolle Hecke bevorzugen, wählen Sie eine <a href='\/collections\/buchshecke'>Buchsbaumhecke<\/a>, die Sie in jede gewünschte Form schneiden können. Eine reizvolle Alternative ist die <a href='\/products\/eibenhecke'>Eibenhecke<\/a>. Es ist eine satt dunkelgrüne Nadelhecke, die im Winter grün bleibt. Für Vogelliebhaber haben wir auch verschiedene „vogelfreundliche“ Hecken im Sortiment.<\/li><br>\n<li><strong>Der Standort der Hecke<\/strong><br>Einige Hecken gedeihen in der Sonne, andere bevorzugen Schatten. Auf unseren Produktseiten geben wir Tipps zum optimalen Standort der Pflanze. Möchten Sie eine dichte Hecke oder wollen Sie das Wachstum Ihrer Pflanze in kurzer Zeit beobachten? Wenn Sie das Wachstum der Pflanze selbst beobachten möchten, wählen Sie eine kleinere Pflanze. Diese sind in der Regel günstiger in der Anschaffung. Sie möchten hingegen schnell mehr Privatsphäre und sind bereit, dafür etwas mehr Geld auszugeben? Wählen Sie dann eine größere (oft teurere) Pflanze, eine schnellwachsende Alternative oder eine <a href='\/collections\/fertighecken'>pflanzfertige ganze Hecke<\/a>. Eine schnell wachsende Hecke erfordert einen häufigeren Schnitt, um ihr Auswuchern zu verhindern. Wir haben eine große Auswahl an Pflanzenhöhen und geben auf unseren Produktseiten einen Hinweis auf die Wachstumsrate.<\/li>\n<\/ol>"
+          }
+        },
+        "02515bd8-2757-4dee-bdfa-28c651cd11c2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was kosten Heckenpflanzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Der Preis der Pflanzen hängt von der Höhe und der Pflanzmethode ab, ob Topf oder Freiland (Wurzelmaterial). Nachfolgend finden Sie eine Übersicht über den durchschnittlichen Meterpreis unserer beliebtesten Heckenpflanzen:<\/p>",
+            "custom_liquid_2": "<table>\n  <tr>\n    <th>Populäre Heckenpflanzen<\/th>\n   <th>Durchschnittspreis pro Meter Wurzelpflanzen\n<\/th>\n   <th>Durchschnittspreis pro Meter im Topf<\/th>\n  <\/tr>\n  <tr>\n    <td>Grüne Buchenhecke \n<\/td>\n    <td>€ 6,95<\/td>\n    <td>€ 28,95<\/td>\n  <\/tr>\n  <tr>\n    <td>Rotbuchenhecke \n<\/td>\n    <td>€ 12,45<\/td>\n    <td>€ 37,45<\/td>\n  <\/tr>\n<tr>\n    <td>Hainbuche \n<\/td>\n    <td>€ 6,95<\/td>\n    <td>€ 28,95<\/td>\n  <\/tr>\n<tr>\n    <td>Eibenhecke\n<\/td>\n    <td>€ 14,95<\/td>\n    <td>€ 34,95<\/td>\n  <\/tr>\n<tr>\n    <td>Ligusterhecke \n<\/td>\n    <td>€ 7,95<\/td>\n    <td>€ 29,45<\/td>\n  <\/tr>\n<\/table>\n\n<p><em>Die oben genannten Preise beziehen sich auf die günstigste und letzte Pflanze in ihrer Kategorie, 1 Laufmeter und 5 Pflanzen pro Laufmeter. Die Preise verstehen sich ohne Zubehör und ohne Berücksichtigung von Mengenrabatten.<\/em><\/p>\n\n<p><strong>Wurzelstock:<\/strong><br>Pflanzen in Wurzelstöcken kommen direkt aus dem Boden und haben unbedeckte Wurzeln ohne Blumenerde. Diese Pflanzen können nur während der Winterpause gepflanzt werden, vorzugsweise von November bis April\/Mai.<\/p>\n\n<p><strong>Blumenerde:<\/strong><br>Pflanzen in Blumenerde werden in einem Topf gezogen und geliefert. Diese Pflanzen können das ganze Jahr über gepflanzt werden, vorzugsweise jedoch von September bis Juni.<\/p>"
+          }
+        },
+        "6bf5c1e1-4e92-489a-a482-de795da2e094": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viele Heckenpflanzen brauche ich pro Meter?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Anzahl der Pflanzen, die Sie pro laufendem Meter für eine schöne, dichte Hecke benötigen, ist unterschiedlich. Die Einkaufsgröße, die Wachstumsrate und die gewünschte Dichte der Hecke spielen eine wichtige Rolle. Sie möchten wissen, wie viele Pflanzen Sie benötigen? Schauen Sie sich die Seite der von Ihnen gewählten Heckenpflanze an. Hier finden Sie eine Tabelle, der Sie entnehmen können, wie viele Pflanzen Sie benötigen, um Ihre Traumhecke zu züchten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "2ba55832-c8b0-4652-a831-d165e5ef0137": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie und wann soll eine Hecke gepflanzt werden?",
+            "custom_liquid_1": "",
+            "content": "<p><strong>Was Sie brauchen:<\/strong><br\/>Die benötigte Anzahl an Heckenpflanzen können mit unserem praktischen Rechner berechnet werden<br\/>Schaufel\/Spaten\/Schläger<br\/>Compo Qualitäts-Blumenerde<br\/>Compo Heckendünger<br\/>Handschuhe<br\/>Heckenschere<br\/><br\/><strong>Wie muss ich vorgehen?<\/strong><br\/>Vergewissern Sie sich vorher, dass der Boden frei von Unkraut ist. Tauchen Sie die Pflanzen vorher gut in Wasser ein (Achtung: Die Dauer und die Menge des Wassers sind bei Topf-, Wurzel- und Ballenpflanzen unterschiedlich). Lassen Sie die Pflanzen beim Einpflanzen nie mit ungeschützten Wurzeln stehen. Decken Sie sie immer mit einem Tuch oder einem Stück Plastik ab, um sie vor Sonne und Wind zu schützen. Ohne Schutz können die Pflanzen in kurzer Zeit irreparable Schäden erleiden. Als Nächstes heben Sie einen Graben für die Pflanzen aus. Setzen Sie die Pflanzen in den Graben und bedecken Sie sie mit Pokon Pflanzerde. Drücken Sie die Erde leicht an. Als Nächstes verteilen Sie Pokon Buchen & Hecken Dünger gleichmäßig um die Pflanzen herum und streuen diesen Dünger auf die oberste Schicht der Pflanze. Gießen Sie die Pflanzen für eine optimale Verteilung und zusätzliche Nährstoffe.<br\/><br\/><strong>Wann soll ich pflanzen?<\/strong><br\/>Bei der Anpflanzung einer Hecke unterscheidet man zwischen Pflanzen in Töpfen, mit einem Wurzelballen oder Pflanzen im Wurzelstock. Pflanzen in Wurzelstöcken (mit unbedeckten Wurzeln) und Wurzelballen können nur in der Ruhezeit der Pflanzen (November bis April\/Mai) gepflanzt werden. Topfpflanzen können das ganze Jahr über gepflanzt werden, vorzugsweise jedoch von September bis Juni. Berücksichtigen Sie in jedem Fall die Wetterbedingungen. Bodenfrost, zu viel Niederschlagswasser oder extreme Trockenheit sind keine guten Voraussetzungen für die Anpflanzung einer Hecke.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962895028__953ba985-035b-4803-8455-72fbe4932f11-1669803066f0255294-0",
+        "02515bd8-2757-4dee-bdfa-28c651cd11c2",
+        "6bf5c1e1-4e92-489a-a482-de795da2e094",
+        "2ba55832-c8b0-4652-a831-d165e5ef0137"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Hecken"
+      }
+    },
+    "7f3bc209-f3b9-4f61-87de-2b9c83aaad50": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962895028__7f3bc209-f3b9-4f61-87de-2b9c83aaad50-16698052071f6c4845-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>So verwenden Sie Heckenpflanzen in Ihrem Garten!<\/p>"
+          }
+        },
+        "template--15882962895028__7f3bc209-f3b9-4f61-87de-2b9c83aaad50-16698052071f6c4845-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt viele Möglichkeiten, wie Heckenpflanzen Ihren Garten verschönern können. Im Folgenden zeigen wir Ihnen einige Beispiele für die Verwendung dieser <a href=\"\/collections\/gartenpflanzen\" title=\"Gartenpflanzen\">Gartenpflanzen<\/a>.<\/p>"
+          }
+        },
+        "b2e02da0-c5e0-49ef-8966-20b4a9c0cebd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Eine Buchenhecke als Trennwand oder als Begrenzung<\/p>"
+          }
+        },
+        "92878978-acc9-4ddc-9c93-4fba6fff5241": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ihre Beliebtheit verdankt die <a href=\"\/collections\/buchenhecke\" title=\"Buchenhecke\">Buchenhecke<\/a> ihrer Fähigkeit, ihre Farbe mit den Jahreszeiten zu wechseln und ihre Blätter erst dann zu verlieren, wenn die neuen Blätter austreiben. Dadurch sorgt er das ganze Jahr über für Privatsphäre und ein besonderes Flair in Ihrem Garten. Die Buchenhecke eignet sich hervorragend als Heckenpflanze, ist aber auch eine schöne Alternative als Begrenzung in einem Pflanzgefäß in einem kleineren Garten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962895028__7f3bc209-f3b9-4f61-87de-2b9c83aaad50-16698052071f6c4845-0",
+        "template--15882962895028__7f3bc209-f3b9-4f61-87de-2b9c83aaad50-16698052071f6c4845-1",
+        "b2e02da0-c5e0-49ef-8966-20b4a9c0cebd",
+        "92878978-acc9-4ddc-9c93-4fba6fff5241"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e3be00cb-b35b-4589-8b41-9c299d7e91fe": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "6b268867-5269-4801-b9c8-65edf4e73d5b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Rotbuchenhecke 100 - 125 cm",
+            "url": "shopify:\/\/products\/rotbuchenhecke"
+          }
+        },
+        "faf7a213-fa35-446c-92aa-ec0c38938677": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Rotbuchenhecke 60 - 80 cm",
+            "url": "shopify:\/\/products\/rotbuchenhecke"
+          }
+        },
+        "89cd6dfa-b7e8-4668-b604-72727b8867f2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Rotbuchenhecke 80 - 100 cm",
+            "url": "shopify:\/\/products\/rotbuchenhecke"
+          }
+        },
+        "8743e9ad-2484-4e5c-a1ea-9714f7061124": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Blutbuchenhecke 100 - 125 cm",
+            "url": "shopify:\/\/products\/blutbuchenhecke"
+          }
+        }
+      },
+      "block_order": [
+        "6b268867-5269-4801-b9c8-65edf4e73d5b",
+        "faf7a213-fa35-446c-92aa-ec0c38938677",
+        "89cd6dfa-b7e8-4668-b604-72727b8867f2",
+        "8743e9ad-2484-4e5c-a1ea-9714f7061124"
+      ],
+      "settings": {
+      }
+    },
+    "872cd698-ac1f-4043-8a0d-7434645961f0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962895028__872cd698-ac1f-4043-8a0d-7434645961f0-16698052071f6c4845-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ein niedrig wachsender Liguster oder Buchsbaum sorgt für einen verspielten Effekt in Ihrem Garten<\/p>"
+          }
+        },
+        "template--15882962895028__872cd698-ac1f-4043-8a0d-7434645961f0-16698052071f6c4845-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mit einer niedrig wachsenden Hecke können Sie endlos variieren und Ihren Garten mit interessanten Elementen bereichern. Schneiden Sie Ihre Hecke zum Beispiel in Wellenform, um einen schönen spielerischen Effekt zu erzielen, oder pflanzen Sie eine Hecke als Abgrenzung zur Terrasse, um eine gemütliche Ecke zu schaffen. Tipp: Vermeiden Sie das Beschneiden in der prallen Sonne, Sie riskieren, dass die Blätter verbrennen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962895028__872cd698-ac1f-4043-8a0d-7434645961f0-16698052071f6c4845-0",
+        "template--15882962895028__872cd698-ac1f-4043-8a0d-7434645961f0-16698052071f6c4845-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "6237e88c-bcc6-43cf-a2d1-022f19080b0a": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "14345311-76a0-4709-ac56-c9339ec39ae0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Ligusterhecke 40 - 60 cm",
+            "url": "shopify:\/\/products\/ligusterhecke"
+          }
+        },
+        "792dddd0-21f6-4646-ba60-cf1c358607ec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Buchsbaumhecke 40 - 60 cm",
+            "url": "shopify:\/\/products\/buchshecke"
+          }
+        }
+      },
+      "block_order": [
+        "14345311-76a0-4709-ac56-c9339ec39ae0",
+        "792dddd0-21f6-4646-ba60-cf1c358607ec"
+      ],
+      "settings": {
+      }
+    },
+    "aa2171b3-b9ab-4153-86ed-f872ed71d67c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962895028__aa2171b3-b9ab-4153-86ed-f872ed71d67c-16698052071f6c4845-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Genießen Sie Ihre immergrüne Hecke das ganze Jahr über<\/p>"
+          }
+        },
+        "template--15882962895028__aa2171b3-b9ab-4153-86ed-f872ed71d67c-16698052071f6c4845-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine immergrüne Hecke ist ein ideales Mittel, um das ganze Jahr über eine grüne Atmosphäre in Ihrem Garten zu schaffen. Die <a href=\"\/collections\/kirschlorbeer\" title=\"Kirschlorbeer\">Lorbeerhecke<\/a> ist die beliebteste Hecke in unserem Sortiment. Es ist eine Hecke, die das ganze Jahr über viel Privatsphäre in Ihrem Garten bietet. Eine Alternative, wenn Sie eine immergrüne Hecke mit Nadeln bevorzugen, ist die <a href=\"\/products\/eibenhecke\" title=\"Eibenhecke\">Eibenhecke<\/a>. Eine Eibenhecke kann sehr alt werden. Sie kann durch Beschneiden am Auswuchern gehindert werden. Wenn Sie sie zweimal im Jahr beschneiden, treibt sie weitere Zweige aus und wächst schön dicht.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962895028__aa2171b3-b9ab-4153-86ed-f872ed71d67c-16698052071f6c4845-0",
+        "template--15882962895028__aa2171b3-b9ab-4153-86ed-f872ed71d67c-16698052071f6c4845-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f96e18bd-e831-41c9-aca3-f9719df509d5": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "aecbac1c-7d68-4eba-98e8-6b8dcbfdaa4d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Lorbeerhecke 175 - 200 cm",
+            "url": "shopify:\/\/products\/kirschlorbeer-rotundifolia"
+          }
+        },
+        "f1ac231e-6bc3-44b4-935d-afdceb911a8a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Eibenhecke 60 - 80 cm",
+            "url": "shopify:\/\/products\/eibenhecke"
+          }
+        }
+      },
+      "block_order": [
+        "aecbac1c-7d68-4eba-98e8-6b8dcbfdaa4d",
+        "f1ac231e-6bc3-44b4-935d-afdceb911a8a"
+      ],
+      "settings": {
+      }
+    },
+    "9fdd2836-f9e3-4cce-944c-81fa94ba443c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962895028__9fdd2836-f9e3-4cce-944c-81fa94ba443c-16698052071f6c4845-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ein grüner Gartenzaun mit Bambus oder sofort eine Fertighecke <\/p>"
+          }
+        },
+        "template--15882962895028__9fdd2836-f9e3-4cce-944c-81fa94ba443c-16698052071f6c4845-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mit <a href=\"\/collections\/bambus\" title=\"Bambus\">Bambus<\/a> erhalten Sie etwas ganz Besonderes. Bambus wächst schnell, ist <a href=\"\/collections\/immergruene-hecken\" title=\"Immergrüne Hecken\">immergrün<\/a> und kann in verschiedenen Höhen angebaut werden. Ideal als Beeteinfassung für kleinere Gärten oder als Hecke von bis zu 5 Metern für mehr Grün in größeren Gärten. Sie wollen schnell etwas Grünes im Garten, möchten aber etwas Besonderes? Sehen Sie sich dann einmal unser breites Angebot an <a href=\"\/collections\/fertighecken\" title=\"Fertighecken\">Fertighecken<\/a> an.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962895028__9fdd2836-f9e3-4cce-944c-81fa94ba443c-16698052071f6c4845-0",
+        "template--15882962895028__9fdd2836-f9e3-4cce-944c-81fa94ba443c-16698052071f6c4845-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "ccc3f4e1-9ce7-4a6a-bbdc-d5a3de882c61": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "d31d4551-0fe9-4345-867d-2a80416f7972": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Nichtinvasiver Bambus 100 - 125 cm",
+            "url": "shopify:\/\/products\/nicht-wuchernder-bambus-rufa"
+          }
+        },
+        "ff250f54-b73d-42af-9ea8-340d62f0b3d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-im-garten.webp",
+            "text": "Hedera helix Woerner Fertighecke",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "d31d4551-0fe9-4345-867d-2a80416f7972",
+        "ff250f54-b73d-42af-9ea8-340d62f0b3d7"
+      ],
+      "settings": {
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -313,31 +604,36 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo"
+            "product": "compo-heckenturbo",
+            "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger"
+            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde"
+            "product": "compo-sana-qualitaets-blumenerde",
+            "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle"
+            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+            "enable_quick_add": true
           }
         },
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-turbo-rasenduenger"
+            "product": "compo-turbo-rasenduenger",
+            "enable_quick_add": true
           }
         }
       },
@@ -353,13 +649,8 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "GEEIGNETES ZUBEHÖR",
+        "text": ""
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -369,14 +660,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -418,6 +709,15 @@
     "589690a0-d353-40f4-85db-d6d976c4bb88",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "953ba985-035b-4803-8455-72fbe4932f11",
+    "7f3bc209-f3b9-4f61-87de-2b9c83aaad50",
+    "e3be00cb-b35b-4589-8b41-9c299d7e91fe",
+    "872cd698-ac1f-4043-8a0d-7434645961f0",
+    "6237e88c-bcc6-43cf-a2d1-022f19080b0a",
+    "aa2171b3-b9ab-4153-86ed-f872ed71d67c",
+    "f96e18bd-e831-41c9-aca3-f9719df509d5",
+    "9fdd2836-f9e3-4cce-944c-81fa94ba443c",
+    "ccc3f4e1-9ce7-4a6a-bbdc-d5a3de882c61",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"

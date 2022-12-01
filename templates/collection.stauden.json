@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -102,7 +102,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Stauden",
+        "top_sellers": "Topseller Stauden",
         "featured_product_one": "lavendel",
         "featured_product_two": "katzenminze-walkers-low",
         "featured_product_three": "storschnabel-rozanne",
@@ -481,9 +481,10 @@
         "60275b5d-9322-4722-ae3a-ea7c039133fe": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/phase-winterruhe.webp",
-            "image_width": 40,
-            "image_position": "margin-right: auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         },
         "7d7a9f86-f98c-4738-9e70-ae0e63288848": {
@@ -501,9 +502,10 @@
         "6dfc5ef9-9988-43b0-9034-4312640826f0": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/phase-austreibend.webp",
-            "image_width": 40,
-            "image_position": "margin-right: auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         },
         "56de22cc-d14e-4fd9-9991-8b62bb370c4b": {
@@ -521,9 +523,10 @@
         "74d4f399-dbcf-4047-a9f9-335dc1e9edc5": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/phase-frisches-gruen-neue-triebe.webp",
-            "image_width": 40,
-            "image_position": "margin-right: auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         },
         "c7dd4dac-cbb7-4f89-a78f-37419d73a08d": {
@@ -541,9 +544,10 @@
         "facf5992-a439-4cd1-85ef-eb3c063b0fd4": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/phase-bluehend.webp",
-            "image_width": 40,
-            "image_position": "margin-right: auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -577,14 +581,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

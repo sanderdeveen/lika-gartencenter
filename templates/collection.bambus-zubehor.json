@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -132,7 +132,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -150,14 +149,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -141,25 +141,28 @@
         "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
           "type": "usp",
           "settings": {
-            "usp": "Schnelle lieferung in ganz Deutschland"
+            "usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-rufa"
+            "product": "nicht-wuchernder-bambus-rufa",
+            "enable_quick_add": true
           }
         },
         "f923643a-834e-4caf-ac5a-97cfe3b2c6c4": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-nitida-winter-joy"
+            "product": "nicht-wuchernder-bambus-nitida-winter-joy",
+            "enable_quick_add": true
           }
         },
         "f017a553-3180-4825-8fa1-3d802f6c8eb3": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-pingwu"
+            "product": "nicht-wuchernder-bambus-pingwu",
+            "enable_quick_add": true
           }
         }
       },
@@ -173,13 +176,8 @@
         "f017a553-3180-4825-8fa1-3d802f6c8eb3"
       ],
       "settings": {
-        "heading": "Topseller aus nicht wuchernder Bambus",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "TOPSELLER NICHT WUCHERNDER BAMBUS",
+        "text": ""
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -215,7 +213,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -314,9 +311,10 @@
         "142bdb4e-a465-4753-947c-61d564a3f020": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/wuchender-bambus-vs-nicht-wuchernder-bambus.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         }
       },
@@ -352,7 +350,7 @@
       ],
       "settings": {
         "padding_top": 12,
-        "padding_bottom": 12
+        "padding_bottom": 5
       }
     },
     "5c4fa16f-0317-448d-bbe0-2fedc883e997": {
@@ -385,9 +383,10 @@
         "386420de-7c35-48cb-b91c-f8ac7caa2cfd": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/nicht-wuchernde-bambus-moontears-hecke-grun.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         }
       },
@@ -399,8 +398,8 @@
         "386420de-7c35-48cb-b91c-f8ac7caa2cfd"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1bfae006-89f6-4a35-8dcd-5447e6e878c4": {
@@ -438,8 +437,8 @@
         "47842335-31d7-41a3-8c14-b314dae12d73"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 6
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "ca074a9a-8bed-4848-96ba-ca1014579772": {
@@ -488,8 +487,9 @@
         "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-5": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -502,8 +502,8 @@
         "template--15858386370740__aa98c998-adf4-4507-bd35-961fe1e501f5-16675665646d7a0ba9-5"
       ],
       "settings": {
-        "padding_top": 6,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -513,14 +513,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

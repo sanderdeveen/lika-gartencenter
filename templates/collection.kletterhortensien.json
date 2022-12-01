@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -250,9 +250,10 @@
         "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-5": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/kletterhortensien-petiolaris-blumen.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "fc1ba05b-2461-4583-8a21-a9ae592e8ceb": {
@@ -281,7 +282,7 @@
       ],
       "settings": {
         "padding_top": 0,
-        "padding_bottom": 12
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -291,14 +292,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -118,7 +118,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Weiße Hortensien",
+        "top_sellers": "Topseller Weiße Hortensien",
         "featured_product_one": "schneeball-hortensie-annabelle",
         "featured_product_two": "bauernhortensie-weiss",
         "featured_product_three": "rispenhortensie-grandiflora",
@@ -232,19 +232,22 @@
         "template--15870030053556__14931a48-ce16-4ac7-8bab-b3daecc4da5b-1669124356f75062fd-1": {
           "type": "product_selection",
           "settings": {
-            "product": "schneeball-hortensie-annabelle"
+            "product": "schneeball-hortensie-annabelle",
+            "enable_quick_add": true
           }
         },
         "ba1e82bb-2cf9-4524-b19d-d6b6491ef6bf": {
           "type": "product_selection",
           "settings": {
-            "product": "bauernhortensie-weiss"
+            "product": "bauernhortensie-weiss",
+            "enable_quick_add": true
           }
         },
         "9d03435b-950a-437d-b8b5-19a84ef8bccf": {
           "type": "product_selection",
           "settings": {
-            "product": "rispenhortensie-grandiflora"
+            "product": "rispenhortensie-grandiflora",
+            "enable_quick_add": true
           }
         }
       },
@@ -257,7 +260,7 @@
         "9d03435b-950a-437d-b8b5-19a84ef8bccf"
       ],
       "settings": {
-        "heading": "WEIẞE HORTENSIEN TOPSELLER",
+        "heading": "TOPSELLER WEIẞE HORTENSIEN",
         "text": ""
       }
     },
@@ -291,9 +294,10 @@
         "199cb535-9d4a-4c22-bcda-afc444826986": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/schneeballhortensie-annabelle-blumen-weiss.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "d6bffb1b-69ac-4a3f-93fb-98f9e1facae5": {
@@ -326,8 +330,8 @@
         "d4a49b63-9c83-4f25-98c6-226e5a9c30e7"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -337,14 +341,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

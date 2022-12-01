@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -251,6 +251,20 @@
             "product": "bauernhortensie-weiss",
             "enable_quick_add": true
           }
+        },
+        "31402560-3c31-40e0-abdd-69a876e74b76": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-grandiflora",
+            "enable_quick_add": true
+          }
+        },
+        "dfeab179-8a7f-408d-9eb6-ea60f527ab18": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rispenhortensie-limelight",
+            "enable_quick_add": true
+          }
         }
       },
       "block_order": [
@@ -259,10 +273,12 @@
         "5ea9ed90-f749-4d32-973f-a0afb77ca64d",
         "template--15870028415156__80499062-3194-4389-a386-99b65e9fb7bb-166902013767713c68-1",
         "3368e584-c33b-460a-a582-5c5c22b0274e",
-        "9870c0e8-f8e5-43b3-8af2-cac5ae9615dc"
+        "9870c0e8-f8e5-43b3-8af2-cac5ae9615dc",
+        "31402560-3c31-40e0-abdd-69a876e74b76",
+        "dfeab179-8a7f-408d-9eb6-ea60f527ab18"
       ],
       "settings": {
-        "heading": "HORTENSIEN TOPSELLER",
+        "heading": "TOPSELLER HORTENSIEN",
         "text": ""
       }
     },
@@ -483,14 +499,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

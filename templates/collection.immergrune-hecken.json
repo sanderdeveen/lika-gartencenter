@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -110,10 +110,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "",
-        "featured_product_one": "",
-        "featured_product_two": "",
-        "featured_product_three": "",
+        "top_sellers": "Topseller Immergrüne Hecken",
+        "featured_product_one": "portugiesischer-kirschlorbeer",
+        "featured_product_two": "kirschlorbeer-genolia",
+        "featured_product_three": "eibenhecke",
         "color_scheme": "background-1"
       }
     },
@@ -150,7 +150,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -159,6 +158,164 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "54077876-6809-43f7-a300-e8cda59ca5ec": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962993332__54077876-6809-43f7-a300-e8cda59ca5ec-16698097043b8c0861-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Das sind immergrüne Hecken<\/p>"
+          }
+        },
+        "template--15882962993332__54077876-6809-43f7-a300-e8cda59ca5ec-16698097043b8c0861-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Immergrün und wintergrün sind unterschiedliche Bezeichnungen für dieselben Pflanzen. Sie sind Pflanzen, die ihre Blätter behalten und im Herbst, Sommer und Winter grün bleiben. Daher sind sie nicht zu verwechseln mit der <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Rotbuchenhecke<\/a> und der <a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Blutbuchenhecke<\/a>, die zwar ihre Blätter behalten, aber nicht immergrün sind. Immergrüne Hecken werden häufig als Gartentrenner verwendet, da sie auch im Winter Sichtschutz bieten.<\/p>"
+          }
+        },
+        "0b2f7a52-2d02-49a4-8f00-30a5a344db27": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Vorteile von immergrünen Hecken<br\/>Viel Privatsphäre<\/p>"
+          }
+        },
+        "b910b390-d584-4341-b0fb-c79b2bc4748b": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": "<p>- Es grünt in Ihrem Garten das ganze Jahr über*<\/p><p>- Langlebige Alternative zu einem Zaun*<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962993332__54077876-6809-43f7-a300-e8cda59ca5ec-16698097043b8c0861-0",
+        "template--15882962993332__54077876-6809-43f7-a300-e8cda59ca5ec-16698097043b8c0861-1",
+        "0b2f7a52-2d02-49a4-8f00-30a5a344db27",
+        "b910b390-d584-4341-b0fb-c79b2bc4748b"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "a2d328d2-2e94-42a8-9f6b-e722992dacce": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "c599429a-1dc6-483e-8b89-76826daf92bf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kirschlorbeer-rotundifolia-prunus.jpg",
+            "text": "Prunus laurocerasus „Rotundifolia“ ist auch im Winter ein echter Blickfang",
+            "url": "shopify:\/\/products\/kirschlorbeer-rotundifolia"
+          }
+        },
+        "59926c2a-0214-46ac-96bb-b296fa37d784": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glanzmispel-roten-blattern.jpg",
+            "text": "Zu ihren schönen roten Blättern ist die Glanzmispel auch immergrün",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "c599429a-1dc6-483e-8b89-76826daf92bf",
+        "59926c2a-0214-46ac-96bb-b296fa37d784"
+      ],
+      "settings": {
+      }
+    },
+    "65f34546-ee88-4d61-9e18-124d9c6b6647": {
+      "type": "faq",
+      "blocks": {
+        "template--15882962993332__65f34546-ee88-4d61-9e18-124d9c6b6647-1669809679c188a1e4-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche ist die schönste immergrüne Hecke?",
+            "custom_liquid_1": "",
+            "content": "<p>Auf diese Frage gibt es keine einfache Antwort. Denn wir haben für jeden Bedarf eine passende Hecke.<br\/> <br\/><a href=\"\/collections\/liguster\" title=\"Liguster\">Liguster<\/a> sind anspruchslose Pflanzen, die auf fast allen Böden gut gedeihen. Die Pflanzen gibt es in verschiedenen Farben und jede verleiht Ihrem Garten ein anderes Aussehen. <a href=\"\/products\/ligusterhecke\" title=\"Ligusterhecke\">Ligustrum ovalifolium<\/a> hat frischgrüne, ovale Blätter, und Ligustrum ovalifolium „Aureum“ hat einen hohen Zierwert aufgrund seiner bunt-gelben Blätter.<br\/> <br\/>Auch gehört der <a href=\"\/collections\/kirschlorbeer\" title=\"Kirschlorbeer\">Lorbeer<\/a> in Deutschland zu den Top 3 der am häufigsten gepflanzten Heckenpflanzen. Viele Lorbeerpflanzen bringen während der Blütezeit wunderschöne Blüten hervor. Einige Arten wachsen recht langsam, benötigen wenig Beschnitt und sind daher leicht zu pflegen. So zum Beispiel der Prunus laurocerasus „Otto Luyken“.<br\/> <br\/>Beliebt in unserem Sortiment ist der <a href=\"\/products\/portugiesischer-kirschlorbeer\" title=\"Portugiesischer Kirschlorbeer\">Prunus lusitanica „Angustifolia“<\/a>. Seine rotbraunen Zweige mit den dunkelgrünen Blättern sorgen für eine schnell entstehende Dichte. <br\/> <br\/>Mit der altbewährten <a href=\"\/collections\/koniferen\" title=\"Koniferen\">Konifere<\/a> können Sie Ihrem Garten ein besonderes Aussehen verleihen. Dabei handelt es sich um eine grundrobuste Pflanzengruppe, die in allen möglichen Farben von gelb über grün bis blau erhältlich ist.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "433399ae-3d05-431a-8450-ad6876e5b740": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Hecke bleibt das ganze Jahr über grün?",
+            "custom_liquid_1": "",
+            "content": "<p>Eine immergrüne Hecke bleibt das ganze Jahr über grün. Auch im Herbst und Winter. Einige Arten verlieren ihre Blätter nur in einem strengen Winter.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "f25c8133-c0d9-4343-83e5-23c6f8d78ed7": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflege ich eine immergrüne Hecke?",
+            "custom_liquid_1": "",
+            "content": "<p><strong>Schnitt:<\/strong> Langsam wachsende Pflanzen brauchen nur einmal im Jahr geschnitten zu werden. Schnell wachsende Heckenpflanzen behalten ihre Form besser, wenn sie alle zwei Jahre geschnitten werden. Nicht alle Pflanzen treiben nach dem Beschneiden gleich gut aus. Wir empfehlen daher, vorher die Pflegeanleitung für Ihre Pflanze gut durchzulesen.<br\/> <br\/><strong>Pflege:<\/strong> Für ein optimales Wachstum empfehlen wir, die Pflanzen zweimal im Jahr mit Compo Buchen & Hecken Dünger zu düngen. Diese Nahrung enthält alles, was Heckenpflanzen brauchen, um gesund und schön zu bleiben, und macht sie weniger anfällig für Verfall.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962993332__65f34546-ee88-4d61-9e18-124d9c6b6647-1669809679c188a1e4-0",
+        "433399ae-3d05-431a-8450-ad6876e5b740",
+        "f25c8133-c0d9-4343-83e5-23c6f8d78ed7"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu immergrünen Hecken"
+      }
+    },
+    "8db1b07e-db35-4058-99b3-1d69f65ed1b5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962993332__8db1b07e-db35-4058-99b3-1d69f65ed1b5-16698097043b8c0861-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Typen von immergrünen Hecken<\/p>"
+          }
+        },
+        "template--15882962993332__8db1b07e-db35-4058-99b3-1d69f65ed1b5-16698097043b8c0861-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir haben verschiedene Arten von immergrünen Heckenpflanzen. Wir haben Heckenpflanzen mit Blättern in verschiedenen Grün- und Rotschattierungen. Oder Heckenpflanzen mit einer besonderen Blattform wie die <a href=\"\/collections\/stechpalme\" title=\"Stechpalme\">Stechpalme<\/a> und die Olivenweide. Für Liebhaber der Konifere haben wir Heckenpflanzen mit grünen oder gelblichen Nadeln. Mit unserer nichtwuchernden <a href=\"\/collections\/bambuspflanzen-als-hecke\" title=\"Bambuspflanzen als Hecke\">Bambushecke<\/a> können Sie Ihrem Garten im Handumdrehen einen orientalischen Touch verleihen. Möchten Sie etwas für die Natur in Deutschland tun? Dann wählen Sie zum Beispiel eine Stechpalmenhecke. Sie besitzt ein dorniges Blatt und ist daher ein wichtiger Zufluchtsort für Vögel, die gerne von den roten Beeren naschen. Für viel Grün und wenig Arbeit wählen Sie eine unserer <a href=\"\/collections\/fertighecken\" title=\"Fertighecken\">Fertighecken<\/a>. Mit diesen Hecken ist Ihre Gartenarbeit schnell erledigt und Sie können Ihre damit geschaffene Privatsphäre sofort genießen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962993332__8db1b07e-db35-4058-99b3-1d69f65ed1b5-16698097043b8c0861-0",
+        "template--15882962993332__8db1b07e-db35-4058-99b3-1d69f65ed1b5-16698097043b8c0861-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "75cba79a-8077-469e-b1a5-f868f0356e91": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "2f7d19bd-ea9c-4802-ad11-36bd1957dfa4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hedera-helix-woerner-fertighecke.jpg",
+            "text": "Hedera Helix Woerner als Fertighecke",
+            "url": ""
+          }
+        },
+        "96b65a1d-2d5b-4d6a-9a1f-9525ce0c952c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beeren-stechpalmhecke-rot.jpg",
+            "text": "Beeren von einer Stechpalmenhecke",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "2f7d19bd-ea9c-4802-ad11-36bd1957dfa4",
+        "96b65a1d-2d5b-4d6a-9a1f-9525ce0c952c"
+      ],
+      "settings": {
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -191,31 +348,36 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo"
+            "product": "compo-heckenturbo",
+            "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger"
+            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde"
+            "product": "compo-sana-qualitaets-blumenerde",
+            "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle"
+            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+            "enable_quick_add": true
           }
         },
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-turbo-rasenduenger"
+            "product": "compo-turbo-rasenduenger",
+            "enable_quick_add": true
           }
         }
       },
@@ -231,13 +393,8 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "GEEIGNETES ZUBEHÖR",
+        "text": ""
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -247,14 +404,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -294,6 +451,11 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "54077876-6809-43f7-a300-e8cda59ca5ec",
+    "a2d328d2-2e94-42a8-9f6b-e722992dacce",
+    "65f34546-ee88-4d61-9e18-124d9c6b6647",
+    "8db1b07e-db35-4058-99b3-1d69f65ed1b5",
+    "75cba79a-8077-469e-b1a5-f868f0356e91",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"

@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -102,7 +102,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Bambus",
+        "top_sellers": "Topseller Bambus",
         "featured_product_one": "nicht-wuchernder-bambus-rufa",
         "featured_product_two": "nicht-wuchernder-bambus-obelisk",
         "featured_product_three": "nicht-wuchernder-bambus-pingwu",
@@ -189,7 +189,8 @@
       ],
       "settings": {
         "header": "",
-        "text": ""
+        "text": "",
+        "mobile_swipe": false
       }
     },
     "c1e3742a-4f09-416a-9566-389609f157f4": {
@@ -242,7 +243,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -371,9 +371,10 @@
         "6c779699-e028-47ac-820a-61c2f3de9082": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/wuchender-vs-nicht-wuchender-bambus.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "94489f51-b488-4ca2-9918-eb9afeed997b": {
@@ -418,37 +419,42 @@
         "3d944d36-3e94-4e52-b8a5-210c6b5ba090": {
           "type": "usp",
           "settings": {
-            "usp": "Schnelle lieferung in ganz Deutschland"
+            "usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "template--15855049801908__280e242d-0bb0-42ed-b04f-6a11e1e9cd31-166722044501876803-1": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-rufa"
+            "product": "nicht-wuchernder-bambus-rufa",
+            "enable_quick_add": true
           }
         },
         "b1523349-4fc3-40d0-84f9-787837dfa256": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-obelisk"
+            "product": "nicht-wuchernder-bambus-obelisk",
+            "enable_quick_add": true
           }
         },
         "bdf7427c-9d4d-4e18-a86e-b98741372c7a": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-pingwu"
+            "product": "nicht-wuchernder-bambus-pingwu",
+            "enable_quick_add": true
           }
         },
         "6e21326a-d681-4c35-b3fd-b966720886b5": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-moontears"
+            "product": "nicht-wuchernder-bambus-moontears",
+            "enable_quick_add": true
           }
         },
         "6602bc38-4383-4547-b41b-f0861131a9c4": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-nitida-winter-joy"
+            "product": "nicht-wuchernder-bambus-nitida-winter-joy",
+            "enable_quick_add": true
           }
         }
       },
@@ -465,12 +471,7 @@
       ],
       "settings": {
         "heading": "UNSERE BAMBUS BESTSELLER",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "text": ""
       }
     },
     "153fab35-b78a-491e-99cd-1650b67fb9b3": {
@@ -754,14 +755,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

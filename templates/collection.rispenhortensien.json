@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -118,7 +118,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Bauernhortensien",
+        "top_sellers": "Topseller Rispenhortensien",
         "featured_product_one": "rispenhortensie-grandiflora",
         "featured_product_two": "rispenhortensie-limelight",
         "featured_product_three": "rispenhortensie-sundae-fraise",
@@ -250,19 +250,22 @@
         "template--15870029496500__1f4fd3cc-c211-4034-a72b-62decb714fc6-16691102285d75570e-1": {
           "type": "product_selection",
           "settings": {
-            "product": "rispenhortensie-grandiflora"
+            "product": "rispenhortensie-grandiflora",
+            "enable_quick_add": true
           }
         },
         "6a910085-839b-41ce-8ca3-8c7c031f2b67": {
           "type": "product_selection",
           "settings": {
-            "product": "rispenhortensie-limelight"
+            "product": "rispenhortensie-limelight",
+            "enable_quick_add": true
           }
         },
         "f7145d25-d23d-461c-9264-50bfbb99680f": {
           "type": "product_selection",
           "settings": {
-            "product": "rispenhortensie-sundae-fraise"
+            "product": "rispenhortensie-sundae-fraise",
+            "enable_quick_add": true
           }
         }
       },
@@ -275,7 +278,7 @@
         "f7145d25-d23d-461c-9264-50bfbb99680f"
       ],
       "settings": {
-        "heading": "RISPENHORTENSIEN TOPSELLER",
+        "heading": "TOPSELLER RISPENHORTENSIEN",
         "text": ""
       }
     },
@@ -297,9 +300,10 @@
         "656eed4d-c4fe-4212-92eb-09970562989c": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/rispenhortensie-grandiflora-blauer-himmel.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "940bffb4-7e6e-4436-8b2a-5e6d0a981de2": {
@@ -329,9 +333,10 @@
         "e8de5df3-7f2a-4434-8b23-72a94ded55ac": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/rispenhortensien-zurueckschneiden.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "2f07f9e6-5e9b-4d07-90a3-178a7c220538": {
@@ -360,8 +365,8 @@
         "0c326c0e-851b-40d1-95a7-ef21f7356898"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -371,14 +376,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

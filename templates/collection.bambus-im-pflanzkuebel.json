@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -160,7 +160,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -260,25 +259,28 @@
         "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
           "type": "usp",
           "settings": {
-            "usp": "Schnelle lieferung in ganz Deutschland"
+            "usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-rufa"
+            "product": "nicht-wuchernder-bambus-rufa",
+            "enable_quick_add": true
           }
         },
         "9bd20576-9d9e-43e3-a3d2-fd82f61747ac": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-obelisk"
+            "product": "nicht-wuchernder-bambus-obelisk",
+            "enable_quick_add": true
           }
         },
         "a5e64aa6-75af-41d6-b9c5-438dabf02420": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-moontears"
+            "product": "nicht-wuchernder-bambus-moontears",
+            "enable_quick_add": true
           }
         }
       },
@@ -292,13 +294,8 @@
         "a5e64aa6-75af-41d6-b9c5-438dabf02420"
       ],
       "settings": {
-        "heading": "Topfbambus-Bestseller",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "TOPSELLER BAMBUS IM PFLANZKÜBEL",
+        "text": ""
       }
     },
     "3376df90-0178-4667-b2be-835718e15eb6": {
@@ -407,14 +404,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

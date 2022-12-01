@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -110,10 +110,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "",
-        "featured_product_one": "",
-        "featured_product_two": "",
-        "featured_product_three": "",
+        "top_sellers": "Topseller Blühende Kletterpflanzen",
+        "featured_product_one": "clematis-weiss-immergruen",
+        "featured_product_two": "hopfen",
+        "featured_product_three": "immergruenes-geissblatt",
         "color_scheme": "background-1"
       }
     },
@@ -150,7 +150,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -159,6 +158,73 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "36bccdcf-6c6d-417b-8f46-acb859894789": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962239668__36bccdcf-6c6d-417b-8f46-acb859894789-1669818286e291be8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verschiedene Arten von blühenden Kletterpflanzen<\/p>"
+          }
+        },
+        "template--15882962239668__36bccdcf-6c6d-417b-8f46-acb859894789-1669818286e291be8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Hedera, auch bekannt als Efeu, ist eine beliebte Kletterpflanzenart. Es handelt sich um eine blühende Kletterpflanze, deren gelbe Blüten jedoch unauffällig sind. Im Gegensatz dazu sind die Blätter des Efeus prächtig bunt oder grün gefärbt. Bevorzugen Sie eine bunt blühende Kletterpflanze? Dann sind Clematis, Passiflora, Kletterrose oder Geißblatt genau das Passende für Sie.<\/p>"
+          }
+        },
+        "fc0a95c7-5a62-426b-83e6-56f2ae693cba": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Bauen Sie Ihr eigenes Obst an<\/p>"
+          }
+        },
+        "3c7a0853-c1dc-411d-9c2e-12da3777de71": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie viel Spaß macht es Ihnen, wenn Sie Ihr eigenes Obst anbauen? Wie wäre es zum Beispiel mit leckeren  süßen Himbeeren oder Brombeeren. Oder rote und weiße Weintrauben, die Sie direkt vom Weinstock pflücken und als leckeren Snack essen können. Wenn Sie sich für eine Weinrebe entscheiden, sollten Sie bedenken, dass diese Pflanze in Bezug auf den Schnitt relativ aufwendig zu pflegen ist. Mögen Sie es auch, wenn Vögel Ihren Garten besuchen? Dann schauen Sie sich die <a href=\"\/products\/rote-johannisbeere\" title=\"Rote Johannisbeere\">Rote Johannisbeere<\/a> an. Dieser Johannisbeerstrauch trägt frisch-saure Johannisbeeren, die nicht nur bei Menschen, sondern auch bei Vögeln äußerst beliebt sind.<\/p>"
+          }
+        },
+        "5bc5aa92-4294-48c1-8e01-06156b2b3f38": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Blühende duftende Kletterpflanzen<\/p>"
+          }
+        },
+        "c94b5131-262f-41f5-bdab-060950bec698": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt blühende Kletterpflanzen, die in Ihrem Garten einen herrlichen Duft verbreiten. Ein Beispiel für eine anmutige und zugleich duftende Kletterpflanze ist <a href=\"\/products\/immergruenes-geissblatt\" title=\"Immergrünes Geißblatt\">Immergrünes Geißblatt<\/a>, die auch unter dem Trivialnamen Geißblatt bekannt ist. Die Clematis und die Passiflora caerulea zählen ebenfalls zu den duftenden, blühenden Kletterpflanzen. Wegen Ihrer farbenfrohen, wohlriechenden und dekorativen Blüten eignen sich diese Pflanzen bestens für einen Rosenbogen, ein Klettergerüst oder eine Pergola. Auf diese Weise kommen sie gut zur Geltung und Sie können sich an der Farbenpracht erfreuen, wenn Sie unter Ihrem Rosenbogen oder Ihrer Pergola hindurchgehen!<\/p>"
+          }
+        },
+        "ee250853-0a0e-41d9-81d1-7c8b54efdf23": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Blühende Kletterpflanzen für den schattigen Bereich<\/p>"
+          }
+        },
+        "2156cc37-9a34-4674-8053-479591934203": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sind Sie auf der Suche nach einer blühenden Kletterpflanze, die auch im Schatten gedeiht? Der Efeu, die Clematis, der Schlingknöterich und die Jungfernrebe sind vier blühende Kletterpflanzenarten, die auch im Schatten prächtig wachsen und blühen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962239668__36bccdcf-6c6d-417b-8f46-acb859894789-1669818286e291be8c-0",
+        "template--15882962239668__36bccdcf-6c6d-417b-8f46-acb859894789-1669818286e291be8c-1",
+        "fc0a95c7-5a62-426b-83e6-56f2ae693cba",
+        "3c7a0853-c1dc-411d-9c2e-12da3777de71",
+        "5bc5aa92-4294-48c1-8e01-06156b2b3f38",
+        "c94b5131-262f-41f5-bdab-060950bec698",
+        "ee250853-0a0e-41d9-81d1-7c8b54efdf23",
+        "2156cc37-9a34-4674-8053-479591934203"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -191,31 +257,36 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo"
+            "product": "compo-heckenturbo",
+            "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger"
+            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde"
+            "product": "compo-sana-qualitaets-blumenerde",
+            "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle"
+            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+            "enable_quick_add": true
           }
         },
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-turbo-rasenduenger"
+            "product": "compo-turbo-rasenduenger",
+            "enable_quick_add": true
           }
         }
       },
@@ -231,13 +302,8 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "GEEIGNETES ZUBEHÖR",
+        "text": ""
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -247,14 +313,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -294,6 +360,7 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "36bccdcf-6c6d-417b-8f46-acb859894789",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"

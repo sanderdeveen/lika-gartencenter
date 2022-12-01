@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -147,19 +147,22 @@
         "template--15857517592756__db61d173-2fa9-45ed-95aa-3edb4c4b8499-16673105016a884d0f-1": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-rufa"
+            "product": "nicht-wuchernder-bambus-rufa",
+            "enable_quick_add": true
           }
         },
         "d5ab4b6f-012e-4484-be6a-cb3575997aad": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-nitida-winter-joy"
+            "product": "nicht-wuchernder-bambus-nitida-winter-joy",
+            "enable_quick_add": true
           }
         },
         "3ad5944c-a092-4075-8236-3ddede4d252a": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-obelisk"
+            "product": "nicht-wuchernder-bambus-obelisk",
+            "enable_quick_add": true
           }
         }
       },
@@ -173,13 +176,8 @@
         "3ad5944c-a092-4075-8236-3ddede4d252a"
       ],
       "settings": {
-        "heading": "Topseller aus Bambus im Garten",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "TOPSELLER BAMBUS IM GARTEN PFLANZEN",
+        "text": ""
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -361,8 +359,9 @@
         "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-5": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -375,7 +374,7 @@
       ],
       "settings": {
         "padding_top": 12,
-        "padding_bottom": 12
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -385,14 +384,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

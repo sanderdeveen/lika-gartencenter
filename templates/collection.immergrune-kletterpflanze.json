@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -110,10 +110,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "",
-        "featured_product_one": "",
-        "featured_product_two": "",
-        "featured_product_three": "",
+        "top_sellers": "Topseller Immergrüne Kletterpflanzen",
+        "featured_product_one": "immergruenes-geissblatt",
+        "featured_product_two": "sternjasmin",
+        "featured_product_three": "passionsblume",
         "color_scheme": "background-1"
       }
     },
@@ -150,7 +150,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -159,6 +158,59 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "b8e134ec-be5c-4d01-b756-c2f465d8add4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882963026100__b8e134ec-be5c-4d01-b756-c2f465d8add4-1669816999de4fa6ee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Grünbleibende Kletterpflanzen: Selbstklimmer oder Schlinger<\/p>"
+          }
+        },
+        "template--15882963026100__b8e134ec-be5c-4d01-b756-c2f465d8add4-1669816999de4fa6ee-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie Ihre Kletterpflanze ausgewählt? Dann ist es hilfreich zu wissen, ob Sie einen Vertreter der Haftwurzelkletterer (Selbstklimmer) oder einen Schlinger haben. Eine selbsthaftende Kletterpflanze wie beispielsweise Efeu klettert mit ihren Haftwurzeln von selbst nach oben und braucht nur kurz nach dem Anpflanzen eine Kletterhilfe. Dafür können Sie eventuell Bindegarn verwenden. Schlinger haben keine Haftwurzeln, sondern winden sich auf der Suche nach Halt um ein Objekt. Das kann ein Gitterzaunpaneel, ein Rosenbogen, eine Pergola oder eine Stange sein. Nachfolgend finden Sie eine Liste von immergrünen Kletterpflanzen und wie man sie einsetzt.<\/p>"
+          }
+        },
+        "0f39228b-0797-472a-93bd-8f1b234756d9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Efeu: perfekte Kombination mit Gitterzaunpanelen, Zaunelementen oder Mauern<\/p>"
+          }
+        },
+        "05de43ee-7bcd-4ad8-bc8c-6a0f50e10a15": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Immergrüner Efeu wird oft verwendet, um eine Gittermatte oder einen Zaun in einen grünen Gartenzaun zu verwandeln. Setzen Sie den Efeu gegen ein Gitterpaneel? Flechten Sie dann die Efeuranken durch das Gittergeflecht nach oben. Die Zeichnung hierunter zeigt, wie Sie vorgehen müssen.<\/p>"
+          }
+        },
+        "5d7e548e-87a6-495d-9be0-a22aeecf4e5b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Farbenfrohe, duftende Kletterpflanzen für Rosenbögen, Klettergerüste oder Pergolas<\/p>"
+          }
+        },
+        "87bdd238-8b31-4d8d-a68f-b7c691019479": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie Efeu können auch Clematis, Lonicera (Geißblatt), Passiflora und Sternjasmin an einen Gittermattenzaun gepflanzt werden, wobei die Ranken der Pflanze vertikal durch das Gitter geflochten werden. Aufgrund ihrer farbenfrohen, duftenden und anmutigen Blüten sind sie aber auch ideale Kletterpflanzen für einen Rosenbogen, ein Klettergerüst oder eine Pergola. Auf diese Weise fallen sie besonders auf. Außerdem werden Sie ihren herrlichen Duft und\/oder ihre Farbenpracht genießen, wenn Sie unter Ihrem Rosenbogen oder Ihrer Pergola spazieren gehen!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882963026100__b8e134ec-be5c-4d01-b756-c2f465d8add4-1669816999de4fa6ee-0",
+        "template--15882963026100__b8e134ec-be5c-4d01-b756-c2f465d8add4-1669816999de4fa6ee-1",
+        "0f39228b-0797-472a-93bd-8f1b234756d9",
+        "05de43ee-7bcd-4ad8-bc8c-6a0f50e10a15",
+        "5d7e548e-87a6-495d-9be0-a22aeecf4e5b",
+        "87bdd238-8b31-4d8d-a68f-b7c691019479"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -191,31 +243,36 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo"
+            "product": "compo-heckenturbo",
+            "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger"
+            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde"
+            "product": "compo-sana-qualitaets-blumenerde",
+            "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle"
+            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+            "enable_quick_add": true
           }
         },
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-turbo-rasenduenger"
+            "product": "compo-turbo-rasenduenger",
+            "enable_quick_add": true
           }
         }
       },
@@ -231,13 +288,8 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "GEEIGNETES ZUBEHÖR",
+        "text": ""
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -247,14 +299,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -294,6 +346,7 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "b8e134ec-be5c-4d01-b756-c2f465d8add4",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"

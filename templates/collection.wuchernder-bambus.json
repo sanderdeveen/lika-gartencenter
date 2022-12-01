@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -141,25 +141,28 @@
         "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
           "type": "usp",
           "settings": {
-            "usp": "Schnelle lieferung in ganz Deutschland"
+            "usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
           "type": "product_selection",
           "settings": {
-            "product": "wuchernder-riesenbambus"
+            "product": "wuchernder-riesenbambus",
+            "enable_quick_add": true
           }
         },
         "e5925735-8c6b-4230-8e0d-8a88180f1324": {
           "type": "product_selection",
           "settings": {
-            "product": "wuchernder-bambus-goldrohrbambus"
+            "product": "wuchernder-bambus-goldrohrbambus",
+            "enable_quick_add": true
           }
         },
         "a2f31795-60ba-4a25-9940-7ccbd6874989": {
           "type": "product_selection",
           "settings": {
-            "product": "wuchernder-gruener-saeulenbambus"
+            "product": "wuchernder-gruener-saeulenbambus",
+            "enable_quick_add": true
           }
         }
       },
@@ -173,13 +176,8 @@
         "a2f31795-60ba-4a25-9940-7ccbd6874989"
       ],
       "settings": {
-        "heading": "Topseller wuchernder Bambus",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "TOPSELLER WUCHERNDER BAMBUS",
+        "text": ""
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -215,7 +213,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -314,9 +311,10 @@
         "2fbd77c1-569a-4acb-a779-d6bd7b5fa3b8": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/wuchender-bambus-vs-nicht-wuchernder-bambus.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         }
       },
@@ -384,8 +382,9 @@
         "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-5": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -486,8 +485,9 @@
         "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-5": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -524,14 +524,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

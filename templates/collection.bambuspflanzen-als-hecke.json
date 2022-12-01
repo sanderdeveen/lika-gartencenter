@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -141,25 +141,42 @@
         "e95a5d4c-925a-4fbd-8991-28851e1d94ee": {
           "type": "usp",
           "settings": {
-            "usp": "Schnelle lieferung in ganz Deutschland"
+            "usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-pingwu"
+            "product": "nicht-wuchernder-bambus-pingwu",
+            "enable_quick_add": true
           }
         },
         "e5e92081-7fe1-48cb-b92e-16be7981c995": {
           "type": "product_selection",
           "settings": {
-            "product": "nicht-wuchernder-bambus-obelisk"
+            "product": "nicht-wuchernder-bambus-obelisk",
+            "enable_quick_add": true
           }
         },
         "558eb95a-f9bd-40b8-927e-2bae968b4c4e": {
           "type": "product_selection",
           "settings": {
-            "product": "wuchernder-japanischer-pfeilbambus"
+            "product": "wuchernder-japanischer-pfeilbambus",
+            "enable_quick_add": true
+          }
+        },
+        "ce67cfc4-5b5b-49ea-b1a0-5e921d5bc75b": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-schwarzer-schirmbambus-black-pearl",
+            "enable_quick_add": true
+          }
+        },
+        "3e552cce-d688-48bd-9365-800fd9c5ab4c": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-moontears",
+            "enable_quick_add": true
           }
         }
       },
@@ -170,16 +187,13 @@
         "e95a5d4c-925a-4fbd-8991-28851e1d94ee",
         "template--15856764649652__10af9d86-6b3a-4cc7-9c08-3641a61042ae-1667228742f5a241e8-1",
         "e5e92081-7fe1-48cb-b92e-16be7981c995",
-        "558eb95a-f9bd-40b8-927e-2bae968b4c4e"
+        "558eb95a-f9bd-40b8-927e-2bae968b4c4e",
+        "ce67cfc4-5b5b-49ea-b1a0-5e921d5bc75b",
+        "3e552cce-d688-48bd-9365-800fd9c5ab4c"
       ],
       "settings": {
-        "heading": "Topseller aus Heckenbambus",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "TOPSELLER HECKENBAMBUS",
+        "text": ""
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -215,7 +229,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -423,8 +436,9 @@
         "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -436,7 +450,7 @@
         "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5"
       ],
       "settings": {
-        "padding_top": 6,
+        "padding_top": 12,
         "padding_bottom": 0
       }
     },
@@ -480,8 +494,9 @@
         "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
           }
         }
       },
@@ -493,8 +508,8 @@
         "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5"
       ],
       "settings": {
-        "padding_top": 6,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -504,14 +519,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

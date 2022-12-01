@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -102,7 +102,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Kletterpflanzen",
+        "top_sellers": "Topseller Kletterpflanzen",
         "featured_product_one": "clematis-blau",
         "featured_product_two": "clematis-weiss",
         "featured_product_three": "schlingknoterich",
@@ -153,7 +153,8 @@
       ],
       "settings": {
         "header": "Häufig angesehene Themen",
-        "text": "<p>Da Sie vielleicht noch nicht wissen, welche Kletterpflanzen Sie anlegen wollen, empfehlen wir Ihnen auch, die richtige Kletterpflanzen auf dem Grundstück zu suchen.<\/p>"
+        "text": "<p>Da Sie vielleicht noch nicht wissen, welche Kletterpflanzen Sie anlegen wollen, empfehlen wir Ihnen auch, die richtige Kletterpflanzen auf dem Grundstück zu suchen.<\/p>",
+        "mobile_swipe": false
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -189,7 +190,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -200,83 +200,111 @@
         "padding_bottom": 0
       }
     },
-    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
-      "type": "product-bestsellers",
+    "c20961e8-2772-4ba6-9060-dbc6d85d0e84": {
+      "type": "rich-text",
       "blocks": {
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-0": {
-          "type": "usp",
+        "template--15882963222708__c20961e8-2772-4ba6-9060-dbc6d85d0e84-16698155575459ce7a-0": {
+          "type": "heading",
           "settings": {
-            "usp": "Alles für den Garten"
+            "heading": "<p>Anwendungen für Kletterpflanzen:<\/p>"
           }
         },
-        "f82042d1-6860-47d6-8b85-ad21a2691446": {
-          "type": "usp",
+        "0aae1ce2-89c6-4e98-9879-4e6682cc8790": {
+          "type": "unordered_list",
           "settings": {
-            "usp": "Beste Qualität aus Holland"
+            "unordered_list": "<p>- in Kombination mit Gitterpanelen*<\/p><p>- angeleitet gegen Klettergerüste & Rosenbögen*<\/p><p>- mit Clematis Klammern an der Wand fixieren<\/p>"
           }
         },
-        "81d44e77-5d26-436c-84a8-719d20032a9a": {
-          "type": "usp",
+        "b32f315f-6bb4-40bd-b80c-632e88c50bc4": {
+          "type": "heading",
           "settings": {
-            "usp": "Schonend verpackt"
+            "heading": "<p>Pflanzung und Pflege von Kletterpflanzen<\/p>"
           }
         },
-        "814a43a7-5393-483e-bf08-56cbfca4b2bf": {
-          "type": "usp",
+        "bc1ae630-487b-4981-b3cb-0cf9ee667cfd": {
+          "type": "text",
           "settings": {
-            "usp": "Umfangreicher Käuferschutz"
+            "text": "<p>In Bezug auf den Nährstoffbedarf und die Blumenerde haben Kletterpflanzen spezifische Anforderungen. Für die Anpflanzung einer Kletterpflanze ist die Verwendung von COMPO BIO Universalerde torffrei sehr zu empfehlen. Geben Sie den Kletterpflanzen außerdem zweimal im Jahr COMPO BIO Organischer Gartendünger. Die Verwendung der richtigen Pflanzerde macht sich durch einen guten Start der Pflanzen (kräftige Wurzelentwicklung) bemerkbar. Die zusätzliche Nährstoffversorgung zeigt sich in der Wachstumsgeschwindigkeit und in der Qualität der Blätter und Blüten.<\/p><p>Rankende Kletterpflanzen werden oft an einem Gittergerüst oder einen Rosenbogen angeleitet. Auf diese Weise haben Sie auch in der Mitte des Gartens Pflanzen, die nach oben wachsen. Sowohl Selbstklimmer als auch Ranker können an der Wand Ihres Hauses oder Schuppens befestigt werden. Bringen Sie die Ranke mit Clematis-Klammern an. Beachten Sie auch, dass die Haftwurzelkletterer die Fugen der Hausfassade beeinträchtigen können.<\/p>"
           }
         },
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
-          "type": "product_selection",
+        "2092c9de-03b7-4261-8a23-3a83315dfb5f": {
+          "type": "heading",
           "settings": {
-            "product": "compo-heckenturbo"
+            "heading": "<p>Wichtiger Hinweis!<\/p>"
           }
         },
-        "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
-          "type": "product_selection",
+        "1298abed-9b5b-42ec-baa8-9e09a8e3c558": {
+          "type": "text",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger"
+            "text": "<p>Wenn Sie sich dafür entscheiden, einen neuen Zaun aus Gitterpaneelen zu errichten und daran Kletterpflanzen hochranken lassen möchten, sollten Sie darauf achten, dass Sie 5 Kletterpflanzen pro laufenden Meter pflanzen. So wird das Gitter schnell von rankenden Pflanzen zugewachsen sein und einen guten Sichtschutz bieten.<\/p>"
           }
         },
-        "c890bba4-50af-4e12-8125-df199ebcbfc2": {
-          "type": "product_selection",
+        "d4778f2b-2b64-46a4-9ae9-5d9426b7121f": {
+          "type": "heading",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde"
+            "heading": "<p>Pflege von Kletterpflanzen<\/p>"
           }
         },
-        "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
-          "type": "product_selection",
+        "8d6b776e-1f50-483d-a597-c23b7ad96018": {
+          "type": "text",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle"
-          }
-        },
-        "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
-          "type": "product_selection",
-          "settings": {
-            "product": "compo-turbo-rasenduenger"
+            "text": "<p>Der Schnitt von Kletterpflanzen ist nicht schwierig, aber unverzichtbar. Das Zurückschneiden stimuliert das Wachstum, die Pflanze wird älter und bleibt länger in Blüte. Um Ihre Kletterpflanze zu pflegen, verwenden Sie immer das richtige Schnittwerkzeug und fragen Sie uns bei Bedarf um Rat. Kletterpflanzen werden in selbsthaftende Schlinger und laubabwerfende Pflanzen unterteil.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-0",
-        "f82042d1-6860-47d6-8b85-ad21a2691446",
-        "81d44e77-5d26-436c-84a8-719d20032a9a",
-        "814a43a7-5393-483e-bf08-56cbfca4b2bf",
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1",
-        "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0",
-        "c890bba4-50af-4e12-8125-df199ebcbfc2",
-        "8f2619a4-25a8-44c9-a774-9a87ae7b2eea",
-        "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
+        "template--15882963222708__c20961e8-2772-4ba6-9060-dbc6d85d0e84-16698155575459ce7a-0",
+        "0aae1ce2-89c6-4e98-9879-4e6682cc8790",
+        "b32f315f-6bb4-40bd-b80c-632e88c50bc4",
+        "bc1ae630-487b-4981-b3cb-0cf9ee667cfd",
+        "2092c9de-03b7-4261-8a23-3a83315dfb5f",
+        "1298abed-9b5b-42ec-baa8-9e09a8e3c558",
+        "d4778f2b-2b64-46a4-9ae9-5d9426b7121f",
+        "8d6b776e-1f50-483d-a597-c23b7ad96018"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "03bcb294-ffc1-4704-a2d6-4e193f2a85e4": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Haftwurzelkletterer",
+        "image": "shopify:\/\/shop_images\/grossblaettriger-irischer-efeu.jpg",
+        "content": "<p>Nicht alle Kletterpflanzen wachsen von selbst nach oben. Es gibt Selbstklimmer und Schlinger. Selbstklimmer oder Haftwurzelkletterer benötigen keine Kletterhilfe. Mit ihren Haftwurzeln verankern sie sich an Oberflächen. Sie können sie daher auf Zäunen oder entlang von Mauern klettern lassen.<\/p>",
+        "url": "shopify:\/\/products\/grossblattriger-irischer-efeu",
+        "btn_text": "Sehen Sie sich den Großblättriger Irischer Efeu an"
+      }
+    },
+    "34068197-31e1-483b-95b4-2377ee380619": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Schlingende Kletterpflanzen",
+        "image": "shopify:\/\/shop_images\/passionsblume-passiflora-caerulea-constance-elliot.jpg",
+        "content": "<p>Schlinger drehen sich auf der Suche nach Halt um die eigene Achse, anstatt an der Oberfläche zu haften. Es ist wichtig, diesen Kletterpflanzen den nötigen Halt zu geben. Das erreichen Sie, indem Sie diese Winder beispielsweise entlang von Gitterzäunen und Spalieren pflanzen und den Schlinger mit Hilfe von Bindmaterialien zusätzlich anleiten und befestigen.<\/p>",
+        "url": "",
+        "btn_text": "Sehen Sie sich den Passionsblume weiß"
+      }
+    },
+    "36c861c2-a400-4f14-accb-bc86aa5f17f5": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blatthaltende Kletterpflanzen",
+        "image": "shopify:\/\/shop_images\/sternjasmin-trachelospermum-jasminoides-blume.webp",
+        "content": "<p>Wenn Sie sich auch im Winter an grünen Kletterpflanzen erfreuen möchten, sollten Sie sich für blatthaltende Kletterpflanzen entscheiden. Eine der am häufigsten angepflanzten immergrünen Kletterpflanzen ist der Efeu. Außerdem gibt es den <a href=\"\/products\/sternjasmin\" title=\"Sternjasmin\">Sternjasmin<\/a>, der als blatthaltende Kletterpflanze verwendet wird. Diese bringt ebenfalls ab dem Frühjahr wunderschöne Blüten hervor.<\/p>",
+        "url": "shopify:\/\/products\/sternjasmin",
+        "btn_text": "Sehen Sie sich den Sternjasmin an"
+      }
+    },
+    "56a3945c-c9dc-4951-93d3-e9a548196d92": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Laubabwerfende Kletterpflanzen",
+        "image": "shopify:\/\/shop_images\/blaugurkenwein-akebia-quinata.jpg",
+        "content": "<p>Die meisten Kletterpflanzen sind sommergrün. Auf diese Weise sehen Sie im Winter nicht das Laub, sondern die schönen Triebe. Die <a href=\"\/products\/blaugurkenwein\" title=\"Blaugurkenwein\">Akebia quinata<\/a>, auch als Fingerblättrige Akebie und Klettergurke bekannt, ist eine sommergrüne Kletterpflanze mit violett-rosafarbenen Blüten.<\/p>",
+        "url": "shopify:\/\/products\/blaugurkenwein",
+        "btn_text": "Sehen Sie sich den Blaugurkenwein an"
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -286,14 +314,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -334,7 +362,11 @@
     "589690a0-d353-40f4-85db-d6d976c4bb88",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
-    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
+    "c20961e8-2772-4ba6-9060-dbc6d85d0e84",
+    "03bcb294-ffc1-4704-a2d6-4e193f2a85e4",
+    "34068197-31e1-483b-95b4-2377ee380619",
+    "36c861c2-a400-4f14-accb-bc86aa5f17f5",
+    "56a3945c-c9dc-4951-93d3-e9a548196d92",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

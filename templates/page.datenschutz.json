@@ -1,0 +1,35 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "034c8d0a-4597-4da3-8441-82822b867e9e": {
+      "type": "section-downloads",
+      "blocks": {
+        "template--15880088813748__034c8d0a-4597-4da3-8441-82822b867e9e-1669380463cf02b6d8-0": {
+          "type": "downloadables",
+          "settings": {
+            "download_text": "Datenschutz PDF",
+            "pdf_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0614\/8728\/4404\/files\/blank.pdf?v=1669204228",
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15880088813748__034c8d0a-4597-4da3-8441-82822b867e9e-1669380463cf02b6d8-0"
+      ],
+      "settings": {
+        "heading": "",
+        "text": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "034c8d0a-4597-4da3-8441-82822b867e9e"
+  ]
+}

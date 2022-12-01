@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -118,7 +118,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Bauernhortensien",
+        "top_sellers": "Topseller Bauernhortensien",
         "featured_product_one": "bauernhortensie-blau",
         "featured_product_two": "bauernhortensie-weiss",
         "featured_product_three": "bauernhortensie-rosa",
@@ -244,9 +244,10 @@
         "d9fad8c6-5935-4c1a-8a5e-e38e22c39415": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/hortensie-blumen-violett-rot-rosa.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "fb161d0f-bd65-44b2-a663-c8d028fbedad": {
@@ -282,9 +283,10 @@
         "45c354ab-fc5f-47f3-a58a-fe42234cabb0": {
           "type": "image",
           "settings": {
+            "image_url": "",
             "image": "shopify:\/\/shop_images\/bauernhortensien-zurueckschneiden.jpg",
-            "image_width": 100,
-            "image_position": "margin: 0 auto;"
+            "columns_mobile": "1",
+            "columns_desktop": 1
           }
         },
         "8cbf76ab-39a3-4ea5-b7cd-3774f409d739": {
@@ -315,7 +317,7 @@
       ],
       "settings": {
         "padding_top": 0,
-        "padding_bottom": 12
+        "padding_bottom": 0
       }
     },
     "79b1b6a6-bfb4-4695-a991-2fb6803ee889": {
@@ -342,19 +344,36 @@
         "template--15870027497652__79b1b6a6-bfb4-4695-a991-2fb6803ee889-1669024250a0c23733-1": {
           "type": "product_selection",
           "settings": {
-            "product": "bauernhortensie-blau"
+            "product": "bauernhortensie-blau",
+            "enable_quick_add": true
           }
         },
         "f0804cff-a78b-41f2-9fb1-268b6a127c35": {
           "type": "product_selection",
           "settings": {
-            "product": "bauernhortensie-weiss"
+            "product": "bauernhortensie-weiss",
+            "enable_quick_add": true
           }
         },
         "1026154b-373c-43c0-9ec8-6585fa5df455": {
           "type": "product_selection",
           "settings": {
-            "product": "bauernhortensie-rosa"
+            "product": "bauernhortensie-rosa",
+            "enable_quick_add": true
+          }
+        },
+        "b9d49e22-b813-4efa-b6d4-b2d3d8ee3b4d": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-magical-noblesse",
+            "enable_quick_add": true
+          }
+        },
+        "89e01346-1ecb-4c6c-b5a9-3cc20ed9dc8e": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-rot",
+            "enable_quick_add": true
           }
         }
       },
@@ -364,10 +383,12 @@
         "9c4f0d74-b4b9-4d72-ae08-4bd3fe9ff2c9",
         "template--15870027497652__79b1b6a6-bfb4-4695-a991-2fb6803ee889-1669024250a0c23733-1",
         "f0804cff-a78b-41f2-9fb1-268b6a127c35",
-        "1026154b-373c-43c0-9ec8-6585fa5df455"
+        "1026154b-373c-43c0-9ec8-6585fa5df455",
+        "b9d49e22-b813-4efa-b6d4-b2d3d8ee3b4d",
+        "89e01346-1ecb-4c6c-b5a9-3cc20ed9dc8e"
       ],
       "settings": {
-        "heading": "BAUERNHORTENSIE TOPSELLER",
+        "heading": "TOPSELLER BAUERNHORTENSIE",
         "text": ""
       }
     },
@@ -378,14 +399,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {

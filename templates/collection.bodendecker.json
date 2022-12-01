@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -102,10 +102,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Bodendecker",
-        "featured_product_one": "clematis-blau",
-        "featured_product_two": "clematis-weiss",
-        "featured_product_three": "schlingknoterich",
+        "top_sellers": "Topseller Bodendecker",
+        "featured_product_one": "kleines-immergruen",
+        "featured_product_two": "kriechmispel",
+        "featured_product_three": "teppich-golderdbeere",
         "color_scheme": "background-1"
       }
     },
@@ -142,7 +142,6 @@
         "banner_text": "",
         "color": "black",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -151,6 +150,124 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "83d4b934-6efa-434a-826f-95ba0563c107": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962436276__83d4b934-6efa-434a-826f-95ba0563c107-1669819929f4085262-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Warum Bodendecker?<\/p>"
+          }
+        },
+        "template--15882962436276__83d4b934-6efa-434a-826f-95ba0563c107-1669819929f4085262-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bodendecker sind breitwüchsige <a href=\"\/collections\/stauden\" title=\"Stauden\">mehrjährige Pflanzen<\/a>, die das Wachstum von Unkraut unterbinden. Sie breiten sich flach über den Boden aus. Eine Alternative gegen das Unkraut ist ein Herbizid wie der COMPO Rasenunkraut-Vernichter Perfekt. Wesentlich umweltfreundlicher ist es, wenn Sie sich für ein Arrangement an schönen Pflanzen entscheiden. Dadurch wird Ihr Garten direkt ein Stück pflegeleichter. Durch die Pflanzung von Bodendeckern verhindern Sie außerdem, dass der Boden schnell austrocknet und dass beispielsweise Katzen nicht im Garten wühlen. Kurzum, eine super Lösung mit hohem Zierwert gegen häufig auftretende  Gartenprobleme.<\/p>"
+          }
+        },
+        "a1310251-9b8e-41d3-8cbe-958c511e66eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Beliebte Bodendecker<\/p>"
+          }
+        },
+        "80de68a3-449f-4f94-84ad-217494044817": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verschiedene Pflanzenarten in unterschiedlichen Wuchshöhen und zahlreichen Blütenfarben eignen sich als Bodendecker. Welchen Bodendecker Sie wählen, hängt hauptsächlich vom Standort ab. Wenn Sie diese Pflanzen an einem sonnigen Ort pflanzen möchten, dann wählen Sie Bodendecker mit behaarten oder grauen Blättern aus. Die Art der Blätter bewirkt, dass sie weniger Wasser verdunsten und die Pflanzen die Hitze besser vertragen können. Haben Sie einen schattigen Garten? Bodendecker mit glänzenden Blättern kommen im Schatten gut zur Geltung. Diese Arten gedeihen auch im Schatten recht gut, weil die Blätter das geringere Lichtangebot der schattigen Bereiche reflektieren.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962436276__83d4b934-6efa-434a-826f-95ba0563c107-1669819929f4085262-0",
+        "template--15882962436276__83d4b934-6efa-434a-826f-95ba0563c107-1669819929f4085262-1",
+        "a1310251-9b8e-41d3-8cbe-958c511e66eb",
+        "80de68a3-449f-4f94-84ad-217494044817"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f9cc1033-ae0a-48fa-9f20-b6263cc53da0": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Beliebte Bodendecker",
+        "text_first": "",
+        "product_1": "kleines-immergruen",
+        "product_2": "schattengrun",
+        "product_3": "kriechmispel",
+        "button_text_first": "",
+        "url_first": "",
+        "header_second": "Bodendecker im Schatten",
+        "text_second": "",
+        "product_4": "storschnabel-rozanne",
+        "product_5": "herbstanemone-weiss",
+        "product_6": "",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "Bodendecker",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "schnee-marbel-oder-schnee-hainsimse",
+        "product_9": "schattengrun",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "10b95cb4-3bda-412d-8a19-acf959e091c9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882962436276__10b95cb4-3bda-412d-8a19-acf959e091c9-1669819929f4085262-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Immergrün oder laubabwerfend?<\/p>"
+          }
+        },
+        "template--15882962436276__10b95cb4-3bda-412d-8a19-acf959e091c9-1669819929f4085262-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bodendecker können sommergrüne oder laubabwerfende Pflanzen sein. Beliebte sommergrüne Bodendecker sind <a href=\"\/products\/storschnabel-rozanne\" title=\"Storschnabel 'Rozanne'\">Geranien<\/a> und <a href=\"\/products\/steppensalbei\" title=\"Steppensalbei\">Salbei<\/a>. Sie sterben im Herbst ab und kommen im Frühjahr wieder zum Vorschein. Es gibt außerdem zahlreiche Arten von blatthaltenden Bodendeckern. Die bekanntesten und beliebtesten blatthaltenden Bodendecker sind <a href=\"\/products\/kriechmispel\" title=\"Kriechmispel\">Zwergmispel<\/a> und <a href=\"\/products\/kleines-immergruen\" title=\"Kleines Immergrün\">Kleines Immergrün<\/a>.<\/p>"
+          }
+        },
+        "d925af6e-7d54-4aaf-88fe-a4e0ff515fa0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflanzung und Pflege<\/p>"
+          }
+        },
+        "a8557754-cf8d-411f-be0f-58cdaa61fffc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bodendecker sind anspruchslos, wenn es um den Boden selbst geht. Voraussetzung ist jedoch ein sauberer Boden ohne Wurzeln und Unkraut. Dies können Sie erreichen, indem Sie COMPO Sana Qualitäts-Blumenerde verwenden. Schneiden Sie die Triebspitzen der Bodendecker einmal im Jahr ab. Das hält die Pflanze gesund und stimuliert das Wachstum. Um die Pflanze zu erhalten, verwenden Sie immer die dafür geeigneten Schnittwerkzeuge.<\/p>"
+          }
+        },
+        "cfc2c495-2087-4354-8305-8d6b5780b5ab": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Erforderliche Anzahl an Bodendeckern pro m2<\/p>"
+          }
+        },
+        "1849797f-dfdd-4a51-9a38-87c3c788a495": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Abwägung, die Sie bei der Festlegung der Pflanzenanzahl pro Quadratmeter treffen müssen, hängt von der Zeit ab, die Sie den Pflanzen geben möchten, damit sie einen geschlossenen Pflanzenteppich bilden. Pflanzen Sie nach dem nachstehenden Schema:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882962436276__10b95cb4-3bda-412d-8a19-acf959e091c9-1669819929f4085262-0",
+        "template--15882962436276__10b95cb4-3bda-412d-8a19-acf959e091c9-1669819929f4085262-1",
+        "d925af6e-7d54-4aaf-88fe-a4e0ff515fa0",
+        "a8557754-cf8d-411f-be0f-58cdaa61fffc",
+        "cfc2c495-2087-4354-8305-8d6b5780b5ab",
+        "1849797f-dfdd-4a51-9a38-87c3c788a495"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -183,31 +300,36 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo"
+            "product": "compo-heckenturbo",
+            "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger"
+            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde"
+            "product": "compo-sana-qualitaets-blumenerde",
+            "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle"
+            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+            "enable_quick_add": true
           }
         },
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-turbo-rasenduenger"
+            "product": "compo-turbo-rasenduenger",
+            "enable_quick_add": true
           }
         }
       },
@@ -223,13 +345,8 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
-        "text": "",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false
+        "heading": "GEEIGNETES ZUBEHÖR",
+        "text": ""
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -239,14 +356,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -286,6 +403,9 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "83d4b934-6efa-434a-826f-95ba0563c107",
+    "f9cc1033-ae0a-48fa-9f20-b6263cc53da0",
+    "10b95cb4-3bda-412d-8a19-acf959e091c9",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"

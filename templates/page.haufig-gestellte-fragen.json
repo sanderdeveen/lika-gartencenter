@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "7cd24774-0762-4284-a001-27cada1a05f4": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/haufig-gestellte-fragen-seite-service_fc81b8ae-7a46-4143-8285-c9b18ea09351.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f": {
+      "type": "faq",
+      "blocks": {
+        "template--15880091140276__43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f-1669381324c4db337e-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie steht es mit der Garantie?",
+            "custom_liquid_1": "",
+            "content": "<p>Bei der Gewährleistung unterscheiden wir zwischen lebenden und nicht lebenden Produkten.<br\/><br\/>Für alle lebenden Produkte (Pflanzen usw.) gilt unser Garantiesystem \"PlantGarant\":<br\/><br\/>1 Monat PlantGarant auf Zimmerpflanzen ab dem Zeitpunkt des Eingangs in gutem Zustand.<br\/>1 Monat PlantGarant auf Gartenpflanzen ab dem Zeitpunkt des Eingangs in gutem Zustand.<br\/>6 Monate PlantGarant auf bewurzelte Hecken ab dem Zeitpunkt des Erhalts in gutem Zustand.<br\/>2 Monate PlantGarant auf Bäumen aus der Wachstumsperiode (Mai\/Juni).<br\/>Für unsere nicht lebenden Produkte (z.B. Wasserdekorationen und Feuerschalen) gilt die Herstellergarantie. Die Garantiebedingungen können für jede Produktgruppe unterschiedlich sein. Weitere Informationen finden Sie auf unserer Kontaktseite unter Garantie oder Sie können sich jederzeit an unseren Kundendienst wenden.<br\/><br\/>Übersetzt mit www.DeepL.com\/Translator (kostenlose Version)<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15880091140276__43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f-1669381324c4db337e-0"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7cd24774-0762-4284-a001-27cada1a05f4",
+    "43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f"
+  ]
+}

@@ -6,7 +6,7 @@
         "ea490bcc-4100-41dc-af19-89aaa8833100": {
           "type": "desk_usp",
           "settings": {
-            "desk-usp": "Schnelle lieferung in ganz Deutschland"
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
           }
         },
         "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
@@ -102,7 +102,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller aus Ziergräser",
+        "top_sellers": "Topseller Ziergräser",
         "featured_product_one": "lampenputzergras",
         "featured_product_two": "pampasgras",
         "featured_product_three": "japan-segge",
@@ -161,12 +161,62 @@
             "heading": "Welche Ziergräser sind immergrün?",
             "custom_liquid_1": "",
             "content": "<p>Es gibt verschiedene Ziergräser, die immergrün sind. Um Ihnen die Wahl zu erleichtern, haben wir nachfolgend einige beliebte Ziergräser für Sie aufgelistet:<\/p>",
+            "custom_liquid_2": "<ol>\n<li><a href='\/products\/pampasgras'>Pampasgras<\/a><\/li>\n<li><a href='\/products\/limonengruene-segge'>Limonengrüne Segge (Carex)<\/a><\/li>\n<li><a href='\/products\/orange-segge'>Orange Segge<\/a><\/li>\n<li><a href='\/products\/liliengras'>Liliengras<\/a><\/li>\n<li><a href='\/products\/fackelgras'>Fackelgras<\/a><\/li>\n<li><a hrerf='\/products\/pampasgras-rosa'>Pampasgras rosa<\/a><\/li>\n<li>Riesen-Pampasgras<\/li>\n<li><a href='\/products\/bunte-segge'>Bunte Segge<\/a><\/li>\n<li><a href='\/products\/japan-segge'>Japan Segge<\/a><\/li>\n<li><a href='\/products\/schwarzer-schlangenbart'>Schwarzer Schlangenbart<\/a><\/li>\n<\/ol>\n<p>Hier finden Sie eine Übersicht all unserer immergrünen Ziergräser.<\/p>"
+          }
+        },
+        "e98bfc22-f300-45e0-846e-0afdb3cd62a6": {
+          "type": "faq",
+          "settings": {
+            "heading": "Ist Ziergras winterhart?",
+            "custom_liquid_1": "",
+            "content": "<p>Viele Ziergräser sind winterhart. Sie halten vielfach Temperaturen bis -15°C oder sogar -20°C stand. Als zusätzlichen Kälteschutz können Sie die Wurzeln im Winter mit einer Schicht Blätter oder anderem organischen Material abdecken. Hier finden Sie eine Übersicht all unserer winterharten Ziergräser.<\/p>",
             "custom_liquid_2": ""
+          }
+        },
+        "da1dd0ec-b4c2-4fdf-978d-6ffa2d486b6a": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflegt man Ziergras?",
+            "custom_liquid_1": "",
+            "content": "<p>Ziergräser sind aus gutem Grund sehr beliebt, denn sie sehen schön aus und sind pflegeleicht. Verwenden Sie beim Pflanzen Compo Qualitäts-Blumenerde, damit sie die richtigen Nährstoffe erhalten und die Pflanzen gut wurzeln können. Danach ist es wichtig, zweimal im Jahr mit Compo Bambus und Ziergräser Langzeit-Dünger zu düngen, regelmäßig zu gießen und bei den meisten Ziergräsern reicht 1x Rückschnitt im Frühjahr aus.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "2c4d77ba-1c62-4d87-8584-7c828f93d602": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welches Ziergras sollte ich für meinen Garten wählen?",
+            "custom_liquid_1": "",
+            "content": "<p>Für welches Ziergras Sie sich entscheiden, hängt ganz von Ihren Wünschen bezüglich Aussehen, Pflege und Standort ab. Vor allem die gewünschte Höhe ist ausschlaggebend - möchten Sie ein hochgewachsenes oder lieber ein niedriges, den Boden bedeckendes Ziergras? Möchten Sie, dass Ihr Ziergras im Winter sein frisches Grün behält oder darf es im Winter einfach absterben und im darauffolgenden Frühjahr erneut austreiben? Auch die Anzahl der Sonnenstunden in Ihrem Garten beeinflusst, welche Pflanze am besten geeignet ist.<\/p><p>Um Ihnen die Wahl leicht zu machen, haben wir nachfolgend einige Arten für Sie aufgelistet:<\/p>",
+            "custom_liquid_2": "<ul>\n<li>Blaues Ziergras<\/li>\n<li>Hohes Ziergras<\/li>\n<li>Niedrig wachsendes Ziergras<\/li>\n<li>Rotes Ziergras<\/li>\n<li>Schatten-Ziergras<\/li>\n<li>Topf-Ziergras<\/li>\n<li>Immergrünes Ziergras<\/li>\n<li>Winterhartes Ziergras<\/li>\n<li>Schwarzes Ziergras<\/li>\n<\/ul>"
+          }
+        },
+        "ab4e585c-2b64-4d95-89a0-2d31268fabda": {
+          "type": "faq",
+          "settings": {
+            "heading": "Ist Ziergras eine Rispenpflanze?",
+            "custom_liquid_1": "",
+            "content": "<p>Ziergräser sind Rispen. Im Gegensatz zu vielen Rispen sterben nicht alle Ziergräser im Winter ab. Ein großer Teil bleibt im Winter grün. Diese Pflanzen verleihen Ihrem Garten daher besonders an dunklen Tagen strahlende Farbe.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "69ca7c7a-f257-4ddb-9f08-5215861edd6c": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welches Ziergras bleibt niedrig?",
+            "custom_liquid_1": "",
+            "content": "<p><strong>Top 10 der niedrig gewachsenen Ziergräser<\/strong><\/p>",
+            "custom_liquid_2": "<ol>\n<li><a href='\/products\/limonengruene-segge'>Limonengrüne Segge (Carex)<\/a><\/li>\n<li><a href='\/products\/orange-segge'>Orange Segge<\/a><\/li>\n<li><a href='\/products\/liliengras'>Liliengras<\/a><\/li>\n<li><a href='\/products\/federgras'>Federgras<\/a><\/li>\n<li><a href='\/products\/lampenputzergras'>Lampenputzergras<\/a><\/li>\n<li><a href='\/products\/japanisches-blutgras'>Japanisches Blutgras<\/a><\/li>\n<li><a href='\/products\/bunte-segge'>Bunte Segge<\/a><\/li>\n<li><a href='\/products\/japan-segge'>Japan-Segge<\/a><\/li>\n<li><a href='\/products\/weisses-traubenlilie'>Weißes Liliengras<\/a><\/li>\n<li><a href='\/products\/schwarzer-schlangenbart'>Schwarzer Schlangenbart<\/a><\/li>\n<ol>"
           }
         }
       },
       "block_order": [
-        "template--15860421230772__e48a43c9-2dab-4d63-a84c-5ed0904905bb-166929452616ca1eb4-0"
+        "template--15860421230772__e48a43c9-2dab-4d63-a84c-5ed0904905bb-166929452616ca1eb4-0",
+        "e98bfc22-f300-45e0-846e-0afdb3cd62a6",
+        "da1dd0ec-b4c2-4fdf-978d-6ffa2d486b6a",
+        "2c4d77ba-1c62-4d87-8584-7c828f93d602",
+        "ab4e585c-2b64-4d95-89a0-2d31268fabda",
+        "69ca7c7a-f257-4ddb-9f08-5215861edd6c"
       ],
       "settings": {
         "heading": "Häufig gestellte Fragen zu Ziergräser"
@@ -178,7 +228,7 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-0": {
           "type": "usp",
           "settings": {
-            "usp": "Alles für den Garten"
+            "usp": "Pflanzen direkt vom Züchter"
           }
         },
         "f82042d1-6860-47d6-8b85-ad21a2691446": {
@@ -202,35 +252,35 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo",
+            "product": "lampenputzergras",
             "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "product": "chinaschilf",
             "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde",
+            "product": "pampasgras-rosa",
             "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+            "product": "japan-segge",
             "enable_quick_add": true
           }
         },
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-turbo-rasenduenger",
+            "product": "bunte-segge",
             "enable_quick_add": true
           }
         }
@@ -247,8 +297,202 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "ÄHNLICHE PRODUKTE",
+        "heading": "TOPSELLER ZIERGRÄSER",
         "text": ""
+      }
+    },
+    "348b8c61-420c-4e61-b838-10764cc12deb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882964664500__348b8c61-420c-4e61-b838-10764cc12deb-166973497885bad627-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Warum überhaupt Ziergras?<\/p>"
+          }
+        },
+        "template--15882964664500__348b8c61-420c-4e61-b838-10764cc12deb-166973497885bad627-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn der Wind durch die Ziergräser streicht, werden Sie im Garten sitzend ein sehr angenehmes, beruhigendes Geräusch wahrnehmen. Aufgrund ihrer besonderen Optik strahlen Ziergräser Ruhe und Natürlichkeit aus. Ziergras verleiht Ihrem Garten einen einzigartigen Charakter wie keine andere Pflanze.<\/p>"
+          }
+        },
+        "bd76c1c2-4efe-48eb-8c9d-bb393f34e8f1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Verschiedene Arten von Ziergräsern<br\/><\/p>"
+          }
+        },
+        "406d4ac7-45e9-4c23-b8b6-662c1cec1098": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ziergras eignet sich als auffälliger Blickfang oder als Bodenbedecker. Auch in der Kombination mehrerer Pflanzen erhält Ihr Garten einen besonderen Charakter. Achten Sie bei der Auswahl auf Form und Blüte. Versuchen Sie, die Arten zusammenzustellen, die Ihrem Garten das ganze Jahr über Charakter verleihen. Pennisetum fällt im Winter auf, Calamagrostis ist im Frühling am schönsten und Panicum und Miscanthu bieten eine schöne Herbstfarbe. Die Auswahl ist riesig, denn wir haben 18 verschiedene Sorten im Angebot!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882964664500__348b8c61-420c-4e61-b838-10764cc12deb-166973497885bad627-0",
+        "template--15882964664500__348b8c61-420c-4e61-b838-10764cc12deb-166973497885bad627-1",
+        "bd76c1c2-4efe-48eb-8c9d-bb393f34e8f1",
+        "406d4ac7-45e9-4c23-b8b6-662c1cec1098"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "9a98b9b1-9590-4313-a588-70865622dae9": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Top 3 Immergrüne Ziergräser",
+        "text_first": "",
+        "product_1": "blauschwengel",
+        "product_2": "japan-segge",
+        "product_3": "weisses-traubenlilie",
+        "button_text_first": "",
+        "url_first": "",
+        "header_second": "Top 3 Feder-Ziergräser",
+        "text_second": "",
+        "product_4": "lampenputzergras",
+        "product_5": "pampasgras",
+        "product_6": "chinaschilf",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "Top 3 Schatten-Ziergräser",
+        "text_third": "",
+        "product_7": "japan-segge",
+        "product_8": "weisses-traubenlilie",
+        "product_9": "bunte-segge",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "dd45aa40-79a7-4846-bb74-ef506f918cfe": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882964664500__dd45aa40-79a7-4846-bb74-ef506f918cfe-16697966523f4aedd8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ziergräser als Beetpflanze oder Bodenbedecker<\/p>"
+          }
+        },
+        "template--15882964664500__dd45aa40-79a7-4846-bb74-ef506f918cfe-16697966523f4aedd8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ziergräser lassen sich gut mit anderen Pflanzen in einem Beet kombinieren. Schön ist das Ziergras zum Beispiel in Kombination mit Doldengewächsen. Am wichtigsten ist jedoch, was Sie für eine gelungene Kombination halten. Manche Ziergräser eignen sich als auffälliger Blickfang in Beeten, andere sind ideale Bodenbedecker. Neben einem schönen Anblick sorgen Bodenbedecker auch dafür, dass Unkraut ferngehalten wird.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882964664500__dd45aa40-79a7-4846-bb74-ef506f918cfe-16697966523f4aedd8-0",
+        "template--15882964664500__dd45aa40-79a7-4846-bb74-ef506f918cfe-16697966523f4aedd8-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "27f55e15-a1a4-4e4f-9783-e14ed2b457d9": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "66947714-1ef6-482c-8aa1-4649011eb11b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lampenputzergras-pennisetum-hameln-feder.jpg",
+            "text": "Lampenputzergras",
+            "url": "shopify:\/\/products\/lampenputzergras"
+          }
+        },
+        "41d137af-ea96-43e1-836e-71f1fa156088": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/limonengruene-segge-ziergraeser.jpg",
+            "text": "Limonengrüne Segge",
+            "url": "shopify:\/\/products\/limonengruene-segge"
+          }
+        }
+      },
+      "block_order": [
+        "66947714-1ef6-482c-8aa1-4649011eb11b",
+        "41d137af-ea96-43e1-836e-71f1fa156088"
+      ],
+      "settings": {
+      }
+    },
+    "dd014d01-3898-4d7b-bb16-fa2f37dc0260": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882964664500__dd014d01-3898-4d7b-bb16-fa2f37dc0260-166980177197e9bae5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ziergräser am Wasser oder in Töpfen<\/p>"
+          }
+        },
+        "template--15882964664500__dd014d01-3898-4d7b-bb16-fa2f37dc0260-166980177197e9bae5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie können ein Ziergras als Blickfang in einem Beet, aber auch entlang des Teiches oder in einem Topf pflanzen. Wasser und Gras gehören auf natürliche Weise zusammen. Wenn Sie einen Teich besitzen, sind Ziergräser eine schöne Ergänzung zur Bepflanzung. Die Spiegelung des Ziergrases in der Wasseroberfläche wirkt wunderschön. Eine weitere Verwendung eines Ziergrases ist die Pflanzung im Topf. Es ist wichtig, dass Sie den Strauch mit ausreichend Feuchtigkeit und Nährstoffen versorgen, damit er optimal wächst und blüht. Schauen Sie sich unser Sortiment an Pflanzgefäßen an, um den Topf zu finden, der Ihren Vorstellungen entspricht.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882964664500__dd014d01-3898-4d7b-bb16-fa2f37dc0260-166980177197e9bae5-0",
+        "template--15882964664500__dd014d01-3898-4d7b-bb16-fa2f37dc0260-166980177197e9bae5-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "c6326a4b-2190-4cc6-9100-314426579cf0": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "93721d19-5679-484d-87e4-532858f12352": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pampasgras-cortaderia-selloana-ziergraeser.jpg",
+            "text": "Pampasgras",
+            "url": "shopify:\/\/products\/pampasgras"
+          }
+        },
+        "cf6aafda-1e0c-4fce-8e03-2a5c51dc4618": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bunte-segge-carex-im-kubel.jpg",
+            "text": "Bunte Segge",
+            "url": "shopify:\/\/products\/bunte-segge"
+          }
+        }
+      },
+      "block_order": [
+        "93721d19-5679-484d-87e4-532858f12352",
+        "cf6aafda-1e0c-4fce-8e03-2a5c51dc4618"
+      ],
+      "settings": {
+      }
+    },
+    "b031a5d9-28c8-4abd-9f3d-341635c92424": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882964664500__b031a5d9-28c8-4abd-9f3d-341635c92424-166980177197e9bae5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflege<\/p>"
+          }
+        },
+        "template--15882964664500__b031a5d9-28c8-4abd-9f3d-341635c92424-166980177197e9bae5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ziergräser sind pflegeleicht. Die meisten Ziergräser schneiden Sie im Frühjahr. Schneiden Sie die Pflanze bis auf 30 cm über dem Boden zurück. Auf diese Weise halten Sie eine kompakte Pflanze. Wenn die Pflanze zu groß wird, können Sie sie leicht teilen, indem Sie sie ausgraben und halbieren. Sie pflanzen einen Teil zurück und geben der Pflanze ausreichend Feuchtigkeit. Die Schnittseite ist der jüngste und vitalste Teil der Pflanze. Vergessen Sie auch hier nicht die Düngung mit Compo Bambus und Ziergräser Langzeit-Dünger für die schönsten Ziergräser im Garten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882964664500__b031a5d9-28c8-4abd-9f3d-341635c92424-166980177197e9bae5-0",
+        "template--15882964664500__b031a5d9-28c8-4abd-9f3d-341635c92424-166980177197e9bae5-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -258,14 +502,14 @@
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
-            "text": "Kleine box"
+            "text": "Kleine Box"
           }
         },
         "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
           "type": "service",
           "settings": {
             "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
-            "text": "Große box"
+            "text": "Große Box"
           }
         },
         "2d2d806f-5324-4b18-b252-400979e2e760": {
@@ -307,6 +551,13 @@
     "product-grid",
     "e48a43c9-2dab-4d63-a84c-5ed0904905bb",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
+    "348b8c61-420c-4e61-b838-10764cc12deb",
+    "9a98b9b1-9590-4313-a588-70865622dae9",
+    "dd45aa40-79a7-4846-bb74-ef506f918cfe",
+    "27f55e15-a1a4-4e4f-9783-e14ed2b457d9",
+    "dd014d01-3898-4d7b-bb16-fa2f37dc0260",
+    "c6326a4b-2190-4cc6-9100-314426579cf0",
+    "b031a5d9-28c8-4abd-9f3d-341635c92424",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

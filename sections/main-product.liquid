@@ -292,71 +292,68 @@
               {%- endform -%}
             </div>
           {%- when 'product_usp' -%}
-            {%- if product.metafields.custom.product_usp_1 != blank -%}
-              <div class="product-usp">
-                <details>
-                  {%- if product.metafields.custom.product_usp_1 != blank -%}
+            <div class="product_usp-container">
+              {%- if product.metafields.custom.product_usp_1 != blank -%}
+                <div class="list-unstyled product-usp">
+                  {%- if product.metafields.custom.product_usp_1_explanation != blank -%} 
+                  <details>
                     <summary>
-                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_1 }}
-                      {%- if product.metafields.custom.product_usp_1_explanation != blank -%}
-                        <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
-                      {%- endif -%}
-                      </summary>
-                  {%- endif -%}
-                  {%- if product.metafields.custom.product_usp_1_explanation != blank -%}
-                    <p>{{ product.metafields.custom.product_usp_1_explanation }}</p>
-                  {%- endif -%}
-                </details>
-                {%- if product.metafields.custom.product_usp_2 != blank -%}
-                <details>
-                    <summary>
-                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_2 }}
-                      {%- if product.metafields.custom.product_usp_2_explanation != blank -%}
-                        <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
-                      {%- endif -%}
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_1 | replace: "[", "<em>" | replace: "]", "</em>" }}
+                      <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
                     </summary>
+                    <p>{{ product.metafields.custom.product_usp_1_explanation }}</p>
+                  </details>
+                  {%- elsif product.metafields.custom.product_usp_1 != blank -%}
+                    <span>{%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_1 | replace: "[", "<em>" | replace: "]", "</em>" }}</span>
                   {%- endif -%}
-                  {%- if product.metafields.custom.product_usp_2_explanation != blank -%}
+
+                  {%- if product.metafields.custom.product_usp_2_explanation != blank -%} 
+                  <details>
+                    <summary>
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_2 | replace: "[", "<em>" | replace: "]", "</em>" }}
+                      <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                    </summary>
                     <p>{{ product.metafields.custom.product_usp_2_explanation }}</p>
                   </details>
-                {%- endif -%}
-                {%- if product.metafields.custom.product_usp_3 != blank -%}
-                <details>
-                    <summary>
-                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_3 }}
-                      {%- if product.metafields.custom.product_usp_3_explanation != blank -%}
-                        <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
-                      {%- endif -%}
-                    </summary>
+                  {%- elsif product.metafields.custom.product_usp_2 != blank -%}
+                    <span>{%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_2 | replace: "[", "<em>" | replace: "]", "</em>" }}</span>
                   {%- endif -%}
-                  {%- if product.metafields.custom.product_usp_3_explanation != blank -%}
+
+                  {%- if product.metafields.custom.product_usp_3_explanation != blank -%} 
+                  <details>
+                    <summary>
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_3 | replace: "[", "<em>" | replace: "]", "</em>" }}
+                      <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                    </summary>
                     <p>{{ product.metafields.custom.product_usp_3_explanation }}</p>
                   </details>
-                {%- endif -%}
-                {%- if product.metafields.custom.product_usp_4 != blank -%}
-                <details>
-                  <summary>
-                    {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_4 }}
-                    {%- if product.metafields.custom.product_usp_4_explanation != blank -%}
-                      <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
-                    {%- endif -%}
-                  </summary>
+                  {%- elsif product.metafields.custom.product_usp_3 != blank -%}
+                    <span>{%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_3 | replace: "[", "<em>" | replace: "]", "</em>" }}</span>
                   {%- endif -%}
-                  {%- if product.metafields.custom.product_usp_4_explanation != blank -%}
+
+                  {%- if product.metafields.custom.product_usp_4_explanation != blank -%} 
+                  <details>
+                    <summary>
+                      {%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_4 | replace: "[", "<em>" | replace: "]", "</em>" }}
+                      <span class="icon icon-chevron"><svg viewBox="0 0 50 50"><path style="fill:none;stroke:#26473a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d="m46 35.4-20.9-21L4 35.6"/></svg></span>
+                    </summary>
                     <p>{{ product.metafields.custom.product_usp_4_explanation }}</p>
-                </details>
-                {%- endif -%}
-              </div>
-            {%- else -%}
-              <div class="product-usp product-usp-fallback">
-                {%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_1' | t }}
-                {%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_2' | t }}
-                {%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_3' | t }}
-                {%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_4' | t }}
-              </div>
-            {%- endif -%}
+                  </details>
+                  {%- elsif product.metafields.custom.product_usp_4 != blank -%}
+                    <span>{%- render 'global-icon' icon: 'checkmark' -%}{{ product.metafields.custom.product_usp_4 | replace: "[", "<em>" | replace: "]", "</em>" }}</span>
+                  {%- endif -%}    
+                </div>
+              {%- else -%}
+                <ul class="product-usp-fallback list-unstyled">
+                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_1' | t }}</li>
+                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_2' | t }}</li>
+                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_3' | t }}</li>
+                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_4' | t }}</li>
+                </ul>
+              {%- endif -%}
+            </div>
           {%- when 'buy_container' -%}
-            <div class="buy_container shadow">
+            <div class="buy_container">
               {%- unless product.has_only_default_variant -%}
                   <variant-radios class="no-js-hidden product-form__input-options" data-section="{{ section.id }}" data-url="{{ product.url }}" {{ block.shopify_attributes }}>
                     {%- for option in product.options_with_values -%}

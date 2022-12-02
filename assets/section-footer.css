@@ -7,7 +7,20 @@
   border-top: none;
 }
 
+.footer__content-payment .footer__payment {
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (min-width: 750px) {
+  .footer__content-payment .footer__payment {
+    flex-direction: row;
+    gap: 6rem;
+  }
+}
+
 .footer__content-upper {
+  margin-bottom: 2rem;
   padding-top: 5.2rem;
   padding: 5.2rem 1rem 0 1rem;
   width: 100%;
@@ -457,10 +470,21 @@ noscript .localization-selector.link {
   animation: animateLocalization var(--duration-default) ease;
 }
 
+.footer__payment {
+  margin-bottom: 2rem;
+  gap: 1rem;
+}
+
+.footer__payment .trusted-shops {
+  width: 5rem;
+}
 
 @media screen and (min-width: 750px) {
   .footer__payment {
     margin-top: 1.5rem;
+  }
+  .footer__payment .trusted-shops {
+    width: 12rem;
   }
 }
 

@@ -103,9 +103,9 @@
         "show_collection_description": true,
         "show_collection_image": true,
         "top_sellers": "Topseller Heckenpflanzen",
-        "featured_product_one": "rotbuchenhecke",
-        "featured_product_two": "blutbuchenhecke",
-        "featured_product_three": "nicht-wuchernder-bambus-obelisk",
+        "featured_product_one": "lebensbaum-smaragd",
+        "featured_product_two": "ligusterhecke",
+        "featured_product_three": "eibenhecke",
         "color_scheme": "background-1"
       }
     },
@@ -155,7 +155,7 @@
         "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
           "type": "collection_grid_links",
           "settings": {
-            "url": "shopify:\/\/collections\/eibe",
+            "url": "shopify:\/\/products\/eibenhecke",
             "image": "shopify:\/\/shop_images\/eibe-heckenpflanzen.jpg",
             "header": "Eibe"
           }

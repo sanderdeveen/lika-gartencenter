@@ -139,7 +139,7 @@
         "23c966c2-e802-465a-b22c-96c8052a3fc7": {
           "type": "collection_grid_links",
           "settings": {
-            "url": "shopify:\/\/collections\/rhododendron-1",
+            "url": "shopify:\/\/collections\/rhododendron",
             "image": "shopify:\/\/shop_images\/rhododendron.jpg",
             "header": "Rhododendron"
           }
@@ -244,7 +244,7 @@
         "sale_banner_location": 6,
         "bg_color": "brand-1",
         "url_banner": "",
-        "banner_text": "",
+        "banner_text": "<p><\/p>",
         "color": "black",
         "image_ratio": "adapt",
         "show_vendor": false,
@@ -333,7 +333,7 @@
       ],
       "settings": {
         "heading": "GEEIGNETES ZUBEHÖR",
-        "text": ""
+        "text": "<p><\/p>"
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {

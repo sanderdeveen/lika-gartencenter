@@ -177,7 +177,7 @@
       ],
       "settings": {
         "heading": "TOPSELLER BAMBUS IM GARTEN PFLANZEN",
-        "text": ""
+        "text": "<p><\/p>"
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -210,7 +210,7 @@
         "sale_banner_location": 6,
         "bg_color": "brand-1",
         "url_banner": "",
-        "banner_text": "",
+        "banner_text": "<p><\/p>",
         "color": "black",
         "image_ratio": "adapt",
         "show_vendor": false,
@@ -231,7 +231,7 @@
           "settings": {
             "heading": "Welcher Bambus kann in Rabatten verwendet werden?",
             "custom_liquid_1": "<ul>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-rufa\">Nicht wuchernder Bambus 'Rufa'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-jiuzhaigou\">Nicht wuchernder Bambus 'Jiu'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-nitida-winter-joy\">Nicht wuchernder Bambus 'Winter Joy'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-obelisk\">Nicht wuchernder Bambus 'Obelisk'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-campbell\">Nicht wuchernder Bambus 'Campbell'<\/a><\/li>\n<li><a href=\"\/products\/nicht-wuchernder-bambus-pingwu\">Nicht wuchernder Bambus 'Pingwu'<\/a><\/li>\n<\/ul>",
-            "content": "",
+            "content": "<p><\/p>",
             "custom_liquid_2": ""
           }
         },
@@ -287,7 +287,7 @@
         "98efb893-32ba-4aff-9153-c21b91f24d8c": {
           "type": "text",
           "settings": {
-            "text": "<p>Möchten Sie Bambus in Rabatten pflanzen? Verwenden Sie <a href=\"\/products\/compo-sana-qualitats-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde<\/a> für einen schnellen Start der Pflanzen, Hecken und Bäume. Um eine unerwünschte Ausbreitung zu verhindern, empfehlen wir Ihnen, <a href=\"\/collections\/nicht-wuchender-bambus\" title=\"Nicht wuchender Bambus\">nicht wuchernden Bambus<\/a> in Ihrer Rabatte zu verwenden. Sogar der nicht wuchernde Bambus wächst schnell und braucht viel Platz. Legen Sie daher ein Pflanzloch von einem Meter Breite an. So wird sichergestellt, dass Ihr Bambus genügend Platz hat, um neue Sprossen zu bilden und zu einem schönen, vollen Bambus heranzuwachsen.<\/p>"
+            "text": "<p>Möchten Sie Bambus in Rabatten pflanzen? Verwenden Sie <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde<\/a> für einen schnellen Start der Pflanzen, Hecken und Bäume. Um eine unerwünschte Ausbreitung zu verhindern, empfehlen wir Ihnen, <a href=\"\/collections\/nicht-wuchernder-bambus\" title=\"Nicht wuchernder Bambus\">nicht wuchernden Bambus<\/a> in Ihrer Rabatte zu verwenden. Sogar der nicht wuchernde Bambus wächst schnell und braucht viel Platz. Legen Sie daher ein Pflanzloch von einem Meter Breite an. So wird sichergestellt, dass Ihr Bambus genügend Platz hat, um neue Sprossen zu bilden und zu einem schönen, vollen Bambus heranzuwachsen.<\/p>"
           }
         }
       },
@@ -341,19 +341,19 @@
         "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Die Bambuspflege ist nicht sehr schwierig, verlangt aber etwas Aufmerksamkeit. Bambus wächst sehr schnell. Daher sind Pflege und Rückschnitt von Bambus sehr wichtig, damit Ihre Pflanze gesund und kräftig bleibt. Schneiden Sie Ihren Bambus einmal im Jahr zurück und geben Sie zweimal jährlich <a href=\"\/products\/compo-bambus-ziergraser-langzeit-dunger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>.<\/p>"
+            "text": "<p>Die Bambuspflege ist nicht sehr schwierig, verlangt aber etwas Aufmerksamkeit. Bambus wächst sehr schnell. Daher sind Pflege und Rückschnitt von Bambus sehr wichtig, damit Ihre Pflanze gesund und kräftig bleibt. Schneiden Sie Ihren Bambus einmal im Jahr zurück und geben Sie zweimal jährlich <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>.<\/p>"
           }
         },
         "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-3": {
           "type": "unordered_list",
           "settings": {
-            "unordered_list": ""
+            "unordered_list": "<p><\/p>"
           }
         },
         "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-4": {
           "type": "ordered_list",
           "settings": {
-            "ordered_list": ""
+            "ordered_list": "<p><\/p>"
           }
         },
         "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-5": {

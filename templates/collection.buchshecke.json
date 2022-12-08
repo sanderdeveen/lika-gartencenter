@@ -110,10 +110,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller Buchschecke",
-        "featured_product_one": "buchshecke",
-        "featured_product_two": "buchsbaum-kugel",
-        "featured_product_three": "buchshecke",
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
         "color_scheme": "background-1"
       }
     },

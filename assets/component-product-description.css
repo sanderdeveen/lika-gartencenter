@@ -112,6 +112,8 @@
 }
 
 .product-usp .icon {
+  z-index: 1;
+  display: block;
   color: #7BBA59;
   width: 1.6rem;
 }

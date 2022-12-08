@@ -207,7 +207,7 @@
       ],
       "settings": {
         "header": "",
-        "text": "",
+        "text": "<p><\/p>",
         "mobile_swipe": false
       }
     },
@@ -241,7 +241,7 @@
         "sale_banner_location": 6,
         "bg_color": "brand-1",
         "url_banner": "",
-        "banner_text": "",
+        "banner_text": "<p><\/p>",
         "color": "black",
         "image_ratio": "adapt",
         "show_vendor": false,
@@ -281,7 +281,7 @@
             "heading": "Welche Stauden blühen den ganzen Sommer über?",
             "custom_liquid_1": "",
             "content": "<p>Der Sommer ist die Zeit für Aktivitäten im Freien. Wenn das Wetter schön ist, gibt es nichts Besseres, als Ihren Garten, Ihre Terrasse oder Ihren Balkon zu genießen. Viele Stauden blühen bereits im Frühjahr und bringen auch den ganzen Sommer über Blumen hervor, die Sie genießen können. In unserem Sortiment finden Sie eine große Auswahl an Stauden, die den ganzen Sommer über viel Farbe in Ihren Garten bringen.<\/p>",
-            "custom_liquid_2": "<strong>Top 5 der sommerblühenden Stauden:<\/strong>\n<ul>\n<li><a href=\"\/products\/lavendel\">Lavendel<\/a><\/li>\n<li><a href=\"\/products\/kleines-immergruen\">Kleines Immergrün<\/a><\/li>\n<li><a href=\"\/products\/geranium-rozanne\">Geranium 'Rozanne'<\/a><\/li>\n<li><a href=\"\/products\/mexikanische-salbei\">Mexikanische Salbei<\/a><\/li>\n<li><a href=\"\/products\/roter-sonnenhut\">Roter Sonnenhut<\/a><\/li>\n<\/ul>"
+            "custom_liquid_2": "<strong>Top 5 der sommerblühenden Stauden:<\/strong>\n<ul>\n<li><a href=\"\/products\/lavendel\">Lavendel<\/a><\/li>\n<li><a href=\"\/products\/kleines-immergruen\">Kleines Immergrün<\/a><\/li>\n<li><a href=\"\/products\/storschnabel-rozanne\">Geranium 'Rozanne'<\/a><\/li>\n<li><a href=\"\/products\/steppensalbei\">Steppensalbei<\/a><\/li>\n<li><a href=\"\/products\/sonnenhut-rot\">Sonnenhut<\/a><\/li>\n<\/ul>"
           }
         },
         "4ffb42b0-4277-4fef-852b-59f3b2aa9f30": {
@@ -290,7 +290,7 @@
             "heading": "Welche Stauden sind für die volle Sonne geeignet?",
             "custom_liquid_1": "<p>Bei der Entscheidung, welche Pflanzenart am besten für Ihren Garten geeignet ist, sollten Sie die Anzahl der Sonnenstunden am Pflanzenstandort berücksichtigen. Scheint die Sonne im Sommer pro Tag an diesem Platz 5 Stunden oder mehr? In diesem Fall sollten Sie <a href=\"\/collections\/sonnenstauden\">Stauden für vollsonnige Standorte wählen<\/a>.<\/p>\n<p>Auch für die Gartenplätzchen mit weniger Sonne gibt es zahlreiche Alternativen. Wählen Sie in diesem Fall <a href=\"\/collections\/schattenstauden\">Schattenstauden<\/a>.<\/p>",
             "content": "",
-            "custom_liquid_2": "<strong>Die 5 besten Stauden für die volle Sonne:<\/strong>\n<ul>\n<li><a href=\"\/products\/lavendel\">Lavendel<\/a><\/li>\n<li><a href=\"\/products\/geranium-rozanne\">Geranium 'Rozanne'<\/a><\/li>\n<li><a href=\"\/products\/katzenminze\">Katzenminze<\/a><\/li>\n<li><a href=\"\/products\/roter-sonnenhut\">Roter Sonnenhut<\/a><\/li>\n<li><a href=\"\/products\/kleines-immergruen\">Kleines Immergrün<\/a><\/li>\n<\/ul>"
+            "custom_liquid_2": "<strong>Die 5 besten Stauden für die volle Sonne:<\/strong>\n<ul>\n<li><a href=\"\/products\/lavendel\">Lavendel<\/a><\/li>\n<li><a href=\"\/products\/storschnabel-rozanne\">Geranium 'Rozanne'<\/a><\/li>\n<li><a href=\"\/products\/katzenminze-walkers-low\">Katzenminze<\/a><\/li>\n<li><a href=\"\/products\/sonnenhut-rot\">Sonnenhut rot<\/a><\/li>\n<li><a href=\"\/products\/kleines-immergruen\">Kleines Immergrün<\/a><\/li>\n<\/ul>"
           }
         },
         "93e18058-2dbe-4b5a-8672-0a499a93b16f": {
@@ -395,7 +395,7 @@
         "text_first": "",
         "product_1": "storschnabel-rozanne",
         "product_2": "kleines-immergruen",
-        "product_3": "grossblattriger-irischer-efeu",
+        "product_3": "grossblaettriger-irischer-efeu",
         "button_text_first": "Mehr Schattenstauden",
         "url_first": "shopify:\/\/collections\/schattenstauden",
         "header_second": "",

@@ -193,7 +193,7 @@
       ],
       "settings": {
         "heading": "TOPSELLER HECKENBAMBUS",
-        "text": ""
+        "text": "<p><\/p>"
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -226,7 +226,7 @@
         "sale_banner_location": 6,
         "bg_color": "brand-1",
         "url_banner": "",
-        "banner_text": "",
+        "banner_text": "<p><\/p>",
         "color": "black",
         "image_ratio": "adapt",
         "show_vendor": false,
@@ -248,7 +248,7 @@
             "heading": "Bambus als Gartenbegrenzung, welche Art eignet sich am besten für eine Hecke?",
             "custom_liquid_1": "",
             "content": "<p>Es ist vielleicht nicht das Erste, woran Sie denken. Aber eine Bambus-Reihenpflanzung ist eine gute und vor allem besondere Alternative zu einem grünen Gartenzaun. Im Folgenden finden Sie unsere Top 3 der Bambussorten für die Gartenbegrenzung:<\/p>",
-            "custom_liquid_2": "<ol>\n<li><a href='\/products\/nicht-wuchender-bambus-nitida-winter-joy'>Nicht wuchernder Bambus 'Winter Joy'<\/a><\/li>\n<li><a href='\/products\/nicht-wuchender-bambus-obelisk'>Nicht wuchernder Bambus 'Obelisk'<\/a><\/li>\n<li><a href='\/products\/nicht-wuchernder-bambus-pingwu'>Nicht wuchernder Bambus 'Pingwu'<\/a><\/li>\n<\/ol>"
+            "custom_liquid_2": "<ol>\n<li><a href='\/products\/nicht-wuchender-bambus-nitida-winter-joy'>Nicht wuchernder Bambus 'Winter Joy'<\/a><\/li>\n<li><a href='\/products\/nicht-wuchernder-bambus-obelisk'>Nicht wuchernder Bambus 'Obelisk'<\/a><\/li>\n<li><a href='\/products\/nicht-wuchernder-bambus-pingwu'>Nicht wuchernder Bambus 'Pingwu'<\/a><\/li>\n<\/ol>"
           }
         },
         "240c9834-aca1-4fb6-8536-55c7c8ef1cf1": {
@@ -265,7 +265,7 @@
           "settings": {
             "heading": "Welche Erde ist für meine Bambushecke geeignet?",
             "custom_liquid_1": "",
-            "content": "<p>Wir empfehlen die Verwendung von <a href=\"\/products\/compo-sana-qualitats-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde <\/a>für die Pflanzung Ihrer Bambushecke. Diese Pflanzerde enthält alles, was Ihre Pflanzen für einen guten Start brauchen.<\/p>",
+            "content": "<p>Wir empfehlen die Verwendung von <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO Sana Qualitäts-Blumenerde <\/a>für die Pflanzung Ihrer Bambushecke. Diese Pflanzerde enthält alles, was Ihre Pflanzen für einen guten Start brauchen.<\/p>",
             "custom_liquid_2": ""
           }
         }
@@ -424,13 +424,13 @@
         "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-3": {
           "type": "unordered_list",
           "settings": {
-            "unordered_list": ""
+            "unordered_list": "<p><\/p>"
           }
         },
         "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-4": {
           "type": "ordered_list",
           "settings": {
-            "ordered_list": ""
+            "ordered_list": "<p><\/p>"
           }
         },
         "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5": {
@@ -459,7 +459,7 @@
       "settings": {
         "heading": "Pflege einer Bambushecke",
         "image": "shopify:\/\/shop_images\/compo-bambus-langzeit-dunger.jpg",
-        "content": "<p>Die Pflege und das Zurückschneiden Ihres Bambus ist eine relativ einfache, aber dennoch wichtige Aufgabe. Bambus wächst sehr schnell. Daher empfehlen wir, die Pflanzen jährlich zu stutzen, um sie gesund und in guter Form zu halten. Eine ausreichende Nährstoffversorgung für Ihren Bambus ist ebenfalls sehr wichtig. Verwenden Sie also den <a href=\"\/products\/compo-bambus-ziergraser-langzeit-dunger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>, der Ihren Bambus optimal versorgt. Dieser Dünger ermöglicht eine gesunde und widerstandsfähige Pflanze, die den Winter unbeschadet übersteht. Düngen Sie Ihren Bambus zweimal jährlich, im zeitigen Frühjahr und im Sommer, damit Ihre Bambushecke lange gut aussieht.<\/p>",
+        "content": "<p>Die Pflege und das Zurückschneiden Ihres Bambus ist eine relativ einfache, aber dennoch wichtige Aufgabe. Bambus wächst sehr schnell. Daher empfehlen wir, die Pflanzen jährlich zu stutzen, um sie gesund und in guter Form zu halten. Eine ausreichende Nährstoffversorgung für Ihren Bambus ist ebenfalls sehr wichtig. Verwenden Sie also den <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>, der Ihren Bambus optimal versorgt. Dieser Dünger ermöglicht eine gesunde und widerstandsfähige Pflanze, die den Winter unbeschadet übersteht. Düngen Sie Ihren Bambus zweimal jährlich, im zeitigen Frühjahr und im Sommer, damit Ihre Bambushecke lange gut aussieht.<\/p>",
         "url": "shopify:\/\/products\/compo-bambus-ziergraeser-langzeit-duenger",
         "btn_text": ""
       }
@@ -482,13 +482,13 @@
         "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-3": {
           "type": "unordered_list",
           "settings": {
-            "unordered_list": ""
+            "unordered_list": "<p><\/p>"
           }
         },
         "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-4": {
           "type": "ordered_list",
           "settings": {
-            "ordered_list": ""
+            "ordered_list": "<p><\/p>"
           }
         },
         "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5": {

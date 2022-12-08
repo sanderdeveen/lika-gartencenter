@@ -110,10 +110,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller Buchenhecke",
-        "featured_product_one": "rotbuchenhecke",
-        "featured_product_two": "hainbuche",
-        "featured_product_three": "blutbuchenhecke",
+        "top_sellers": "",
+        "featured_product_one": "",
+        "featured_product_two": "",
+        "featured_product_three": "",
         "color_scheme": "background-1"
       }
     },

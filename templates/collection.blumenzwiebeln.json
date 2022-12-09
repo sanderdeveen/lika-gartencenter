@@ -139,7 +139,7 @@
         "sale_banner_location": 6,
         "bg_color": "brand-1",
         "url_banner": "",
-        "banner_text": "",
+        "banner_text": "<p><\/p>",
         "color": "black",
         "image_ratio": "adapt",
         "show_vendor": false,
@@ -197,11 +197,6 @@
             "text": "<p>Die meisten Zwiebelblumen bevorzugen die Sonne. Jedoch gibt es bei den verschiedenen Blumensorten ebenfalls Unterschiede. So gedeihen zum Beispiel einige Narzissen- und Tulpenarten am besten im Halbschatten, während einige Lilien und Alpenveilchen ganz auf die Sonne verzichten können. Überlegen Sie sich daher genau, welche Blumenzwiebel Sie an welchen Ort pflanzen möchten. Lassen Sie sich in einem Gartencenter ausführlich über die Vorlieben der einzelnen Blumenzwiebeln beraten.<\/p><p><\/p><p>Tipp: Besonders schön und natürlich wirken Frühblüher, wenn sie in kleineren Gruppen gepflanzt werden.<\/p>"
           }
         },
-        "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-5": {
-          "type": "image",
-          "settings": {
-          }
-        },
         "9165613a-6229-4129-bb73-9c6b02ea946c": {
           "type": "heading",
           "settings": {
@@ -241,7 +236,6 @@
       },
       "block_order": [
         "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-1",
-        "template--15860528578740__a6979276-a3ab-4014-b735-89de9e16a16d-1668001113ae5e81d9-5",
         "9165613a-6229-4129-bb73-9c6b02ea946c",
         "a9546837-f803-4f25-a16d-8c417a30130c",
         "3e00c7e6-ef84-4af6-b847-ddb208a22933",

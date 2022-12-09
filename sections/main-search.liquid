@@ -233,11 +233,11 @@
                           <div class="card card--card card--text ratio color-{{ settings.card_color_scheme }}" style="--ratio-percent: 100%;">
                             <div class="card__content">
                               <div class="card__information">
-                                <h3 class="card__heading">
+                                <span class="card__heading">
                                   <a href="{{ item.url }}" class="full-unstyled-link">
                                     {{ item.title | truncate: 50 | escape }}
                                   </a>
-                                </h3>
+                                </span>
                                 {%- if product.metafields.custom.product_name != blank -%}
                                   <i>{{ product.metafields.custom.product_name }}</i>
                                 {%- endif -%}  

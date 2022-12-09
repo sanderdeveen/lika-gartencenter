@@ -208,7 +208,7 @@
       "type": "product-recommendations",
       "disabled": true,
       "settings": {
-        "heading": "You may also like",
+        "heading": "Sie könnten auch mögen",
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,

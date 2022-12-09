@@ -343,34 +343,11 @@
           "settings": {
             "text": "<p>Die Bambuspflege ist nicht sehr schwierig, verlangt aber etwas Aufmerksamkeit. Bambus wächst sehr schnell. Daher sind Pflege und Rückschnitt von Bambus sehr wichtig, damit Ihre Pflanze gesund und kräftig bleibt. Schneiden Sie Ihren Bambus einmal im Jahr zurück und geben Sie zweimal jährlich <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>.<\/p>"
           }
-        },
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-3": {
-          "type": "unordered_list",
-          "settings": {
-            "unordered_list": "<p><\/p>"
-          }
-        },
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-4": {
-          "type": "ordered_list",
-          "settings": {
-            "ordered_list": "<p><\/p>"
-          }
-        },
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-5": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "columns_mobile": "1",
-            "columns_desktop": 3
-          }
         }
       },
       "block_order": [
         "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-0",
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-1",
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-3",
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-4",
-        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-5"
+        "template--15858386043060__cbcab0cf-8b65-4a02-b71b-394c87991662-1667571914bf3a7baa-1"
       ],
       "settings": {
         "padding_top": 12,

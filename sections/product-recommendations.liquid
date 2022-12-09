@@ -23,7 +23,7 @@
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <product-recommendations class="product-recommendations page-width section-{{ section.id }}-padding isolate" data-url="{{ routes.product_recommendations_url }}?section_id={{ section.id }}&product_id={{ product.id }}&limit={{ section.settings.products_to_show }}">
     {% if recommendations.performed and recommendations.products_count > 0 %}
-      <h2 class="product-recommendations__heading {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
+      <span class="product-recommendations__heading h2 {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</span>
       <ul class="grid product-grid grid--5-col-desktop grid--{{ section.settings.columns_mobile }}-col-tablet-down" role="list">
         {% for recommendation in recommendations.products %}
           <li class="grid__item">
@@ -90,7 +90,7 @@
     {
       "type": "text",
       "id": "heading",
-      "default": "You may also like",
+      "default": "Sie könnten auch mögen",
       "label": "t:sections.product-recommendations.settings.heading.label"
     },
     {

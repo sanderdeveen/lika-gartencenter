@@ -177,7 +177,7 @@
       ],
       "settings": {
         "heading": "TOPSELLER WUCHERNDER BAMBUS",
-        "text": ""
+        "text": "<p><\/p>"
       }
     },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
@@ -210,7 +210,7 @@
         "sale_banner_location": 6,
         "bg_color": "brand-1",
         "url_banner": "",
-        "banner_text": "",
+        "banner_text": "<p><\/p>",
         "color": "black",
         "image_ratio": "adapt",
         "show_vendor": false,
@@ -366,26 +366,6 @@
           "settings": {
             "text": "<p>Man könnte meinen, dass ein wuchernder Bambus in einem Kübel oder Pflanzkasten gut aufgehoben wäre. Aber das ist sicherlich nicht immer der Fall. Die Wurzeln des Bambus sind so stark, dass sie das Pflanzgefäß zerbrechen können. In den meisten Fällen ist es sinnvoller, eine nicht wuchernde Bambusart wie beispielsweise Fargesia auszuwählen.<\/p><p>Eine wuchernde Art, die sich gut in Pflanzgefäßen entwickelt, ist der <a href=\"\/products\/wuchernder-schwarzer-bambus\" title=\"Wuchernder Schwarzer Bambus\">wuchernde Schwarzrohrbambus<\/a>. <strong>Phyllostachys nigra<\/strong> steht vorzugsweise direkt in der Gartenerde. Wenn Sie diesen in einen Kübel setzen, wird die Pflanze etwas weniger stark wachsen. Eine weitere gute Option für die Kübelpflanzung ist der <strong>wuchernde Japanische Bambus<\/strong> (Pseudosasa japonica). Es handelt sich um eine sehr robuste Bambuspflanze, die sich für jeden Garten eignet.<\/p><p>Wählen Sie ein stabiles Pflanzgefäß, wenn Sie einen <strong>Bambus in einen Pflanztopf<\/strong> setzen möchten. Die Wurzeln eines wuchernden Bambus sind enorm stark und können sich durch den Kübel bohren, wenn dieser nicht stabil genug ist. Es ist auch wichtig, dass die Pflanze in dem Pflanzgefäß ausreichend Platz zum Wachsen hat. Wählen Sie daher einen Kübel, der mindestens doppelt so groß ist wie der Wurzelballen.<\/p><p>Bambus ist sehr wasserliebend und in einem Kübel ist dieser <strong>Wasserbedarf<\/strong> noch etwas größer. Bambus in einem Kübel wächst schneller als im Freien. Gießen Sie Ihren Bambus also regelmäßig. Ein etwas feuchter, nicht zu nasser Boden ist ideal. Achten Sie darauf, dass das Wasser – beispielsweise durch ein Loch im Topfboden – gut ablaufen kann, damit die Wurzeln nicht faulen.<\/p>"
           }
-        },
-        "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-3": {
-          "type": "unordered_list",
-          "settings": {
-            "unordered_list": ""
-          }
-        },
-        "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-4": {
-          "type": "ordered_list",
-          "settings": {
-            "ordered_list": ""
-          }
-        },
-        "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-5": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "columns_mobile": "1",
-            "columns_desktop": 3
-          }
         }
       },
       "block_order": [
@@ -394,10 +374,7 @@
         "225a78b1-be29-4cf9-9a41-533da1671f3f",
         "5d874ef1-d404-4a0e-95cd-6b3b493ed02c",
         "0e67de13-6fbc-4742-aa1d-3d774de5ca10",
-        "4d27fe1b-fb75-4cf1-a310-226f6e42d429",
-        "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-3",
-        "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-4",
-        "template--15858386403508__796c689e-334c-4c0a-accd-623c63214d12-1667399786a343131a-5"
+        "4d27fe1b-fb75-4cf1-a310-226f6e42d429"
       ],
       "settings": {
         "padding_top": 12,
@@ -469,26 +446,6 @@
           "settings": {
             "text": "<p>Ein wuchernder Bambus wächst sehr schnell und einige Arten können auch sehr hoch werden. Denken Sie daran, wenn Sie Ihren Bambus kaufen. Wünschen Sie einen niedrig wachsenden Bambus, wählen Sie den Zwergbambus (Sasa tsuboiana - Breitblatt-Bambus) mit einer maximalen Höhe von 1,5 Metern anstelle des <a href=\"\/products\/wuchernder-riesenbambus\" title=\"Wuchernder Riesenbambus\">wuchernden Riesenbambus <\/a>(Phyllostachys bissetii - Bisset-Bambus), der 5 bis 8 Meter hoch wird. Die Wahl der richtigen Höhe erspart Ihnen eine Menge Arbeit beim Zurückschneiden!<\/p><p>Sie können einen Bambus aus verschiedenen Gründen zurückschneiden: nach Frostschäden, zur Verjüngung der Pflanze oder wenn die Pflanze zu hoch wird. Mit dem Pflanzenschnitt sorgen Sie dafür, dass neue Halme gebildet werden und die Pflanze kompakter wächst.<\/p>"
           }
-        },
-        "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-3": {
-          "type": "unordered_list",
-          "settings": {
-            "unordered_list": ""
-          }
-        },
-        "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-4": {
-          "type": "ordered_list",
-          "settings": {
-            "ordered_list": ""
-          }
-        },
-        "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-5": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "columns_mobile": "1",
-            "columns_desktop": 3
-          }
         }
       },
       "block_order": [
@@ -497,10 +454,7 @@
         "06d130ae-3f8c-47d7-961f-3f514f61c2ec",
         "a3ac5c02-cc4b-4c4e-a054-f35326825730",
         "881e8ce1-a82e-4100-9567-bbe846b14030",
-        "3976db65-a2a9-4446-ab63-bb3565994f71",
-        "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-3",
-        "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-4",
-        "template--15858386403508__7e81cfc2-90a4-451a-b37b-00018dedb08c-1667401202a3e8af42-5"
+        "3976db65-a2a9-4446-ab63-bb3565994f71"
       ],
       "settings": {
         "padding_top": 12,

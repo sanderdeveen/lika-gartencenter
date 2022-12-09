@@ -64,7 +64,7 @@
         {%- case block.type -%}
           {%- when 'footer_contact' -%}
             <div class="footer-contact grid__item">
-              <h2 class="footer-block__heading">{{ block.settings.header_contact }}</h2>
+              <h4 class="footer-block__heading">{{ block.settings.header_contact }}</h4>
               <ul class="list-unstyled footer-contact-list">
                 {%- if block.settings.service_phone != blank -%}
                   <li>
@@ -101,7 +101,7 @@
           {%- when 'populair_categorie' -%}
             {%- if block.settings.menu_categorie != blank -%}
               <ul class="footer-block__details-content list-unstyled grid__item">
-                <h2 class="footer-block__heading">{{ block.settings.heading_populair_categorie }}</h2>
+                <h4 class="footer-block__heading">{{ block.settings.heading_populair_categorie }}</h4>
                 {%- for link in block.settings.menu_categorie.links -%}
                   <li>
                     <a href="{{ link.url }}" class="link list-menu__item list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}">
@@ -119,7 +119,7 @@
   {%- if section.blocks.size > 0 or section.settings.newsletter_enable or section.settings.show_social -%}
     <div class="footer__content-payment page-width">
       {%- if section.settings.payment_enable -%}
-        <h2 class="footer-block__heading">Sicher einkaufen bei Gartencenter.de</h2>
+        <h4 class="footer-block__heading">Sicher einkaufen bei Gartencenter.de</h4>
         <div class="footer__payment">
           <img class="trusted-shops" src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/trusted-shops.png?v=1669902541" loading="lazy" alt="Trusted shops" width="inherit" height="auto">
           <span class="visually-hidden">{{ 'sections.footer.payment' | t }}</span>
@@ -168,7 +168,7 @@
           {%- for block in section.blocks -%}
             <div class="footer-block grid__item{% if block.type == 'link_list' %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.heading != blank -%}
-                <h2 class="footer-block__heading">{{- block.settings.heading | escape -}}</h2>
+                <h4 class="footer-block__heading">{{- block.settings.heading | escape -}}</h4>
               {%- endif -%}
 
               {%- case block.type -%}
@@ -188,7 +188,7 @@
                       {%- endfor -%}
                     </ul>
                     {% if forloop.index == 4 %}
-                      <h2 class="footer-block__heading footer-block__heading--social">Social media</h2>
+                      <h4 class="footer-block__heading footer-block__heading--social">Social media</h4>
                       {%- if section.settings.show_social -%}
                         <ul class="footer__list-social list-unstyled list-social" role="list">
                           {%- if settings.social_twitter_link != blank -%}
@@ -291,7 +291,7 @@
             {%- if section.settings.newsletter_enable -%}
               <div class="footer-block__newsletter">
                 {%- if section.settings.newsletter_heading != blank -%}
-                  <h2 class="footer-block__heading">{{ section.settings.newsletter_heading | escape }}</h2>
+                  <h4 class="footer-block__heading">{{ section.settings.newsletter_heading | escape }}</h4>
                 {%- endif -%}
                 <p>Bleiben Sie immer up-to-date und profitieren Sie von vielen Vorteilen.</p>
                 {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
@@ -330,7 +330,7 @@
                     {%- endif -%}
                   </div>
                   {%- if form.posted_successfully? -%}
-                    <h3 class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success' | t }}</h3>
+                    <span class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success' | t }}</span>
                   {%- endif -%}
                 {%- endform -%}
               </div>

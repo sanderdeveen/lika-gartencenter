@@ -420,34 +420,11 @@
           "settings": {
             "text": "<p>Um eine Bambushecke zu pflanzen, benötigen Sie ausreichend Platz. Legen Sie einen Pflanzbereich von etwa einem Meter Breite an. Das gibt dem Bambus ausreichend Platz, um neue Sprossen zu bilden und weiter zu wachsen. Nicht wuchernder Bambus <a href=\"\/products\/nicht-wuchender-bambus-nitida-winter-joy\" title=\"Nicht wuchender Bambus 'Winter Joy'\">'Winter Joy'<\/a> und nicht wuchernder Bambus <a href=\"\/products\/nicht-wuchernder-bambus-campbell\" title=\"Nicht wuchender Bambus 'Campbell'\">'Campbell'<\/a> eignen sich am besten für eine schöne, sich nicht ausbreitende Bambushecke.<\/p><p><strong>Tipp<\/strong><br\/>Möchten Sie eine wuchernde Bambusart als Hecke pflanzen? Verwenden Sie eine <a href=\"\/products\/bambus-wurzelsperre-nature\" title=\"Bambus-Wurzelsperre Nature\">Wurzelsperre<\/a>, die das Ausbreiten der Rhizome stoppt.<\/p><p>Foto<\/p>"
           }
-        },
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-3": {
-          "type": "unordered_list",
-          "settings": {
-            "unordered_list": "<p><\/p>"
-          }
-        },
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-4": {
-          "type": "ordered_list",
-          "settings": {
-            "ordered_list": "<p><\/p>"
-          }
-        },
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "columns_mobile": "1",
-            "columns_desktop": 3
-          }
         }
       },
       "block_order": [
         "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-0",
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-1",
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-3",
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-4",
-        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-5"
+        "template--15857654759604__71092ec2-5061-4f2e-a87b-cc1472926975-1667316492efc8223d-1"
       ],
       "settings": {
         "padding_top": 12,
@@ -478,34 +455,11 @@
           "settings": {
             "text": "<p>Für eine schöne Bambushecke benötigen Sie mehrere Pflanzen. Allerdings kommt das Transportproblem hinzu, denn wie bekommen Sie all diese Pflanzen in Ihr Auto? Ganz zu schweigen von dem damit verbundenen schweren Heben und dem verschmutzten Auto. Das und vieles mehr sind die Vorteile, wenn Sie Ihren Heckenbambus online bei Gartencenter.de bestellen und kaufen. Wählen Sie mit uns die gewünschte Pflanze sowie die richtige Menge an Pflanzerde, Dünger und Gartengeräten aus. Wir sorgen dafür, dass alles zum Wunschtermin zu Ihnen nach Hause geliefert wird. Einfach und bequem!<\/p>"
           }
-        },
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-3": {
-          "type": "unordered_list",
-          "settings": {
-            "unordered_list": "<p><\/p>"
-          }
-        },
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-4": {
-          "type": "ordered_list",
-          "settings": {
-            "ordered_list": "<p><\/p>"
-          }
-        },
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "columns_mobile": "1",
-            "columns_desktop": 3
-          }
         }
       },
       "block_order": [
         "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-0",
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-1",
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-3",
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-4",
-        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-5"
+        "template--15858386174132__fcdf8a74-fe51-44a1-8897-d0425350f6ff-1667563051ed9f900f-1"
       ],
       "settings": {
         "padding_top": 0,

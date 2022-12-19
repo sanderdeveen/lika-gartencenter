@@ -65,48 +65,85 @@
         "mobile-heading": "<p>Pflanzen, Bäume & mehr mit schneller Lieferung<\/p>"
       }
     },
-    "56514989-5ab5-439a-b313-262a375b2a9e": {
-      "type": "image-with-text",
+    "ea7ce553-72c2-40f3-801b-f9e94f736061": {
+      "type": "image-banner",
       "blocks": {
-        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-0": {
-          "type": "heading",
+        "template--15760788684980__ea7ce553-72c2-40f3-801b-f9e94f736061-1670918158067ce997-0": {
+          "type": "block",
           "settings": {
-            "heading": "Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann?",
-            "heading_size": "h2"
+            "heading": "Gartencenter.de",
+            "heading_type": "h1",
+            "text": "<p>Warum noch ins <strong>Gartencenter<\/strong> fahren, wenn das <strong>Gartencenter<\/strong> auch zu Ihnen kommen kann? Von der Topfpflanze bis zum Traumgarten, in ganz Deutschland bis an die Haustür geliefert.<\/p>",
+            "r_text_1": "",
+            "r_url_1": "",
+            "r_text_2": "",
+            "t_url_2": "",
+            "r_text_3": "",
+            "t_url_3": "",
+            "r_text_4": "",
+            "t_url_4": "",
+            "button_label_1": "Gartenpflanzen ansehen",
+            "button_link_1": "shopify:\/\/collections\/gartenpflanzen",
+            "show_icon": true
           }
         },
-        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-1": {
-          "type": "text",
+        "2f676c27-96c0-42d3-baaa-5aab5294c2c9": {
+          "type": "block",
           "settings": {
-            "text": "<p>Von der Topfpflanze bis zum Traumgarten, in ganz Deutschland bis an die Haustür geliefert.<\/p>",
-            "text_style": "body"
+            "heading": "Produkte shoppen",
+            "heading_type": "h2",
+            "text": "<p>Seit 2009 in den Niederlanden bewährt, neu in Deutschland. Wir liefern alles, was Sie für einen<br\/>grünen Job im und am Haus brauchen.<\/p>",
+            "r_image_1": "shopify:\/\/shop_images\/sonnenstauden.jpg",
+            "r_text_1": "Gartenpflanzen",
+            "r_url_1": "shopify:\/\/collections\/gartenpflanzen",
+            "r_image_2": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen_1c6008ea-dde0-4029-8463-528cfa1f9ecb.jpg",
+            "r_text_2": "Zimmerpflanzen",
+            "t_url_2": "shopify:\/\/collections\/zimmerpflanzen",
+            "r_image_3": "shopify:\/\/shop_images\/baeume-allee-zier.jpg",
+            "r_text_3": "Bäume",
+            "t_url_3": "shopify:\/\/collections\/baeume",
+            "r_image_4": "shopify:\/\/shop_images\/rasen-kaufen.jpg",
+            "r_text_4": "Rasen",
+            "t_url_4": "shopify:\/\/collections\/rasen",
+            "button_label_1": "",
+            "button_link_1": "",
+            "show_icon": false
           }
         },
-        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-2": {
-          "type": "button",
+        "6c3cfddb-077c-4025-9596-1bc8234f2ea0": {
+          "type": "block",
           "settings": {
-            "button_label": "Pflanzen kaufen",
-            "button_link": "shopify:\/\/collections\/gartenpflanzen"
+            "heading": "Inspiration",
+            "heading_type": "h2",
+            "text": "<p>Lassen Sie sich von Gartenfotos inspirieren und kaufen Sie dem Pflanzen online.<\/p>",
+            "r_text_1": "",
+            "r_url_1": "",
+            "r_text_2": "",
+            "t_url_2": "",
+            "r_text_3": "",
+            "t_url_3": "",
+            "r_text_4": "",
+            "t_url_4": "",
+            "image": "shopify:\/\/shop_images\/inspiration-rasen.jpg",
+            "button_label_1": "",
+            "button_link_1": "",
+            "show_icon": false
           }
         }
       },
       "block_order": [
-        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-0",
-        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-1",
-        "template--15760788684980__56514989-5ab5-439a-b313-262a375b2a9e-1666881266610545ce-2"
+        "template--15760788684980__ea7ce553-72c2-40f3-801b-f9e94f736061-1670918158067ce997-0",
+        "2f676c27-96c0-42d3-baaa-5aab5294c2c9",
+        "6c3cfddb-077c-4025-9596-1bc8234f2ea0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/gartencenter-liefert.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 16,
-        "padding_bottom": 0
+        "image": "shopify:\/\/shop_images\/gartencenter-Lieferung.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": false,
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "24506853-e956-4826-b2be-b7be1e988bb3": {
@@ -386,7 +423,7 @@
   },
   "order": [
     "734f1fcc-d1af-4a7f-9b63-dfe58114f893",
-    "56514989-5ab5-439a-b313-262a375b2a9e",
+    "ea7ce553-72c2-40f3-801b-f9e94f736061",
     "24506853-e956-4826-b2be-b7be1e988bb3",
     "2cf55425-fde3-4749-9643-f7b5d4676adc",
     "e1dd53eb-f0ce-4ca8-bb9c-f3ed4b3ab1b7",

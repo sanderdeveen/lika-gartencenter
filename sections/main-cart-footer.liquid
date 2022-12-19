@@ -5,7 +5,7 @@
 
 <div class="page-width{% if cart == empty %} is-empty{% endif %}" id="main-cart-footer" data-id="{{ section.id }}">
   <div>
-    <div class="cart__footer">
+    <div class="cart__footer border-radius">
       {%- if settings.show_cart_note -%}
         <cart-note class="cart__note field">
           <label for="Cart-note">{{ 'sections.cart.note' | t }}</label>
@@ -13,7 +13,8 @@
         </cart-note>
       {%- endif -%}
 
-      <div class="cart__blocks">
+      <div class="cart__blocks shadow">
+        <span class="h2">Überblick</span>
         {% for block in section.blocks %}
           {%- case block.type -%}
             {%- when '@app' -%}
@@ -21,10 +22,16 @@
             {%- when 'subtotal' -%}
               <div class="js-contents" {{ block.shopify_attributes }}>
                 <div class="totals">
-                  <h2 class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}</h2>
-                  <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
+                  <span class="totals__subtotal h2">{{ 'sections.cart.subtotal' | t }}</span>
+                  {%- if cart.total_price >= 7500 -%}
+                    <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p><br>
+                    {{ checkout.total_price | money }}
+                  {%- else -%}
+                    <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency | plus: 6.99 }}</p><br>
+                    Zustellgebühr<br>
+                    6,99 unter 75 Euro<br>
+                  {%- endif -%}
                 </div>
-
                 <div>
                   {%- if cart.cart_level_discount_applications.size > 0 -%}
                     <ul class="discounts list-unstyled" role="list" aria-label="{{ 'customer.order.discount' | t }}">
@@ -38,7 +45,6 @@
                     </ul>
                   {%- endif -%}
                 </div>
-
                 <small class="tax-note caption-large rte">
                   {%- if cart.taxes_included and shop.shipping_policy.body != blank -%}
                     {{ 'sections.cart.taxes_included_and_shipping_policy_html' | t: link: shop.shipping_policy.url }}
@@ -55,12 +61,12 @@
               <div class="cart__ctas" {{ block.shopify_attributes }}>
                 <noscript>
                   <button type="submit" class="cart__update-button button button--secondary" form="cart">
-                    {{ 'sections.cart.update' | t }}
+                    {{ 'sections.cart.update' | t }} 
                   </button>
                 </noscript>
 
                 <button type="submit" id="checkout" class="cart__checkout-button button" name="checkout"{% if cart == empty %} disabled{% endif %} form="cart">
-                  {{ 'sections.cart.checkout' | t }}
+                  {{ 'sections.cart.checkout' | t }} {%- render 'global-icon' icon: 'arrow' -%}
                 </button>
               </div>
 
@@ -69,9 +75,24 @@
                   {{ content_for_additional_checkout_buttons }}
                 </div>
               {%- endif -%}
+              {%- render 'payment-options' -%}
+              <span class="h3">{{ section.settings.usp_header }}</span>
+              <ul class="list-unstyled payment-usp">
+                {%- if section.settings.usp_1 != blank -%}
+                  <li>{%- render 'global-icon' icon: 'checkmark'-%}{{ section.settings.usp_1 }}</li>
+                {%- endif -%}
+                {%- if section.settings.usp_2 != blank -%}
+                  <li>{%- render 'global-icon' icon: 'checkmark'-%}{{ section.settings.usp_2 }}</li>
+                {%- endif -%}
+                {%- if section.settings.usp_3 != blank -%}
+                  <li>{%- render 'global-icon' icon: 'checkmark'-%}{{ section.settings.usp_3 }}</li>
+                {%- endif -%}
+                {%- if section.settings.usp_4 != blank -%}
+                  <li>{%- render 'global-icon' icon: 'checkmark'-%}{{ section.settings.usp_4 }}</li>
+                {%- endif -%}
+              </ul>
           {%- endcase -%}
         {% endfor %}
-
         <div id="cart-errors"></div>
       </div>
     </div>
@@ -103,6 +124,39 @@
 {
   "name": "t:sections.main-cart-footer.name",
   "class": "cart__footer-wrapper",
+  "settings": [
+    {
+      "type": "text",
+      "label": "Usp header",
+      "id": "usp_header",
+      "default": "Deshalb entscheiden Sie sich für Gartencenter.de:"
+    },
+    {
+      "type": "text",
+      "label": "Usp 1",
+      "id": "usp_1",
+      "default": "Schnelle Lieferung in ganz Deutschland"
+    },
+    {
+      "type": "text",
+      "label": "Usp 2",
+      "id": "usp_2",
+      "default": "Über 5.000 Gartenprodukte"
+    },
+    {
+      "type": "text",
+      "label": "Usp 3",
+      "id": "usp_3",
+      "default": "Kunden geben Gartencenter.de eine 4,4/5"
+    },
+    {
+      "type": "text",
+      "label": "Usp 4",
+      "id": "usp_4",
+      "default": "Seit 2009 aktiv in den Niederlanden"
+    }
+
+  ],
   "blocks": [
     {
       "type": "subtotal",

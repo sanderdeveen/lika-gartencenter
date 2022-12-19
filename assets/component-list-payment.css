@@ -1,14 +1,10 @@
 .list-payment {
+  margin-bottom: 1rem;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin: -0.5rem 0;
-  padding-top: 1rem;
-  padding-left: 0;
   align-items: center;
-  gap: 1rem;
-  row-gap: 2rem;
   justify-content: center;
+  gap: 1rem;
 }
 
 @media screen and (min-width: 750px) {
@@ -19,9 +15,6 @@
 }
 
 .list-payment__item {
-  max-height: 3rem;
-  min-width: 11.8rem;
-  padding: 2rem 2.2rem;
   background-color: #fff;
   border-radius: 0.4rem;
   align-items: center;
@@ -29,27 +22,25 @@
   justify-content: center;
 }
 
+.list-payment__item.mastercard img {
+  width: 5rem;
+}
+
 .list-payment__item img {
-  width: 4rem;
-}
-
-.list-payment__item.american-express img,
-.list-payment__item.mastercard img,
-.list-payment__item.sepa img
-{
-width: 4rem;
-}
-
-.list-payment__item.mastercard img
-{
-width: 5rem;
+  width: 7.6rem;
 }
 
 @media screen and (min-width: 750px) {
-  .list-payment__item {
-    padding: 2.4rem 2.2rem;
-  }
   .list-payment__item img {
-    width: 8rem;
+    width: 9.6rem;
   }
+}
+
+.payment-usp li {
+  display: flex;
+}
+
+.payment-usp .icon {
+  color: #7BBA59;
+  margin-top: 0.4rem;
 }

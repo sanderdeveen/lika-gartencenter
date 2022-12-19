@@ -2328,9 +2328,57 @@ input[type='checkbox'] {
 /* section-announcement-bar */
 #shopify-section-announcement-bar {
   z-index: 4;
+  display: flex;
+  justify-content: center;
+}
+
+.announcement-bar__image-mob {
+  display: block;
+  max-width: 9.6rem;
+  height: auto;
+}
+.announcement-bar__image {
+  display: none;
+}
+
+@media screen and (min-width: 750px) {
+  .announcement-bar__image-mob {
+    display: none;
+  }
+  .announcement-bar__image {
+    display: block;
+  }
+}
+
+.announcement-bar-close {
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.8rem;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border: none;
+}
+
+.announcement-bar-close:hover {
+  cursor: pointer;
+}
+
+.announcement-bar-close svg {
+  width: 1.6rem;
+}
+
+.announcement-bar-none {
+  display: none !important;
 }
 
 .announcement-bar {
+  border: none;
+  padding: 1rem 1rem 0 1rem;
+  display: flex;
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   color: rgb(var(--color-foreground));
 }
@@ -2338,7 +2386,6 @@ input[type='checkbox'] {
 .announcement-bar__link {
   display: block;
   width: 100%;
-  padding: 1rem 2rem;
   text-decoration: none;
 }
 
@@ -2360,10 +2407,51 @@ input[type='checkbox'] {
 }
 
 .announcement-bar__message {
-  text-align: center;
-  padding: 1rem 2rem;
+  text-align: left;
+  font-size: 1.4rem;
+  padding: 0;
   margin: 0;
   letter-spacing: 0.1rem;
+}
+
+.announcement-bar__message .link {
+  display: none;
+}
+
+.announcement-bar__message strong {
+  font-size: 1.6rem;
+  color: #7BBA59;
+}
+
+.announcement-bar__message figure {
+  display: none;
+  margin: 0;
+}
+
+@media screen and (min-width: 750px) {
+  .announcement-bar__message strong {
+    font-size: 1.8rem;
+  }
+  .announcement-bar__message figure {
+    display: block;
+  }
+  .announcement-bar__message {
+    padding-right: 8rem;
+  }
+  .announcement-bar__message {
+    font-size: 1.6rem;
+  }
+  .announcement-bar__message .link {
+    display: block;
+  }
+}
+
+.announcement-bar__message .link.icon {
+  margin-left: 1rem;
+}
+
+.announcement-bar__message p {
+  margin: 0;
 }
 
 /* section-header */

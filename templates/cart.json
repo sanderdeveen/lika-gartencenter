@@ -3,8 +3,6 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "cart-footer": {
@@ -26,32 +24,38 @@
         "buttons"
       ],
       "settings": {
+        "usp_header": "Deshalb entscheiden Sie sich für Gartencenter.de:",
+        "usp_1": "Schonend verpackt",
+        "usp_2": "Ab 75 Euro kostenlose Lieferung",
+        "usp_3": "Versandfertig innerhalb von 2 Werktagen",
+        "usp_4": "Jetzt bestellen, später bezahlen"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "16710225360dc23a73": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "ef82959d-bdad-40f6-9332-01f3b9782fda": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "58059",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "ef82959d-bdad-40f6-9332-01f3b9782fda"
+      ],
       "settings": {
-        "title": "Featured collection",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "show_view_all": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "include_margins": true
       }
     }
   },
   "order": [
     "cart-items",
     "cart-footer",
-    "featured-collection"
+    "16710225360dc23a73"
   ]
 }

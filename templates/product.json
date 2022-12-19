@@ -135,6 +135,12 @@
           "type": "product_description_mob",
           "settings": {
           }
+        },
+        "f07c4da7-4243-4948-807d-07861e02d8de": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div data-rebuy-id=\"58059\"><\/div>"
+          }
         }
       },
       "block_order": [
@@ -144,7 +150,8 @@
         "b4bfe856-7334-4403-ab98-2677808af3c2",
         "8163d347-5758-40b3-b933-d668309c7187",
         "61daa870-84d0-47a1-b954-cc078cfb77e1",
-        "04e367ae-716c-4adc-9cf6-9b1cb7c118c6"
+        "04e367ae-716c-4adc-9cf6-9b1cb7c118c6",
+        "f07c4da7-4243-4948-807d-07861e02d8de"
       ],
       "settings": {
         "enable_sticky_info": false,

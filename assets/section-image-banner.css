@@ -131,7 +131,7 @@
   }
 }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 990px) {
   .banner:not(.banner--stacked) {
     flex-direction: row;
     flex-wrap: wrap;
@@ -503,18 +503,24 @@
 }
 
 .section-image-banner {
-  margin-bottom: 20rem;
+  margin-bottom: 16.7rem;
+}
+
+@media screen and (min-width: 750px) {
+  .section-image-banner {
+    margin-bottom: 18.4rem;
+  }
 }
 
 .section-image-banner .content-container {
   margin: 0 auto;
-  width: 100%;
+  width: 100% !important;
   margin-bottom: -16rem;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 990px) {
   .section-image-banner .content-container {
-    width: 95%;
+    width: 95% !important;
   }
 }
 

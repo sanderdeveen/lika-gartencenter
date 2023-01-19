@@ -2,6 +2,7 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   {% render 'judgeme_core' %}
   <head>
+{% include 'taginstall-head' %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -33,7 +34,16 @@
 
     {% render 'meta-tags' %}
 
+    <script>
+      function closeAnnouncement() {
+        var announceDiv = document.getElementById("shopify-section-announcement-bar");
+        localStorage.setItem('popup', 'true');
+        announceDiv.style.display = "none";
+      } 
+    </script>
+
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+
     {{ content_for_header }}
 
     {%- liquid
@@ -201,25 +211,24 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {{ 'component-rebuy.css' | asset_url | stylesheet_tag }}
 
-    {%- if settings.predictive_search_enabled -%}
-      <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
-    {%- endif -%}
 
     <script>
-
-      function closeAnnouncement() {
-        var element = document.getElementById("shopify-section-announcement-bar");
-        element.classList.add("announcement-bar-none");
-      } 
-
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
       if (Shopify.designMode) {
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
+
+    {%- if settings.predictive_search_enabled -%}
+      <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
+    {%- endif -%}
+
     {% capture boostersnippet %}{% render "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
-  </head>
+    <meta name="google-site-verification" content="9y1IFLBguVujLNGXkS9QBF6Ozy_mgnL9gItea5AGlWI" />
+  {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+</head>
 
   <body class="gradient body-{{-template }}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -280,7 +289,7 @@
     
     {% comment %}
     // Frequently bought together.
-    <script src="//cdn.codeblackbelt.com/js/modules/also-bought/main.min.js?shop=hallo-add3.myshopify.com" defer></script>
+    
     {% endcomment %}
 
     {% comment %}Prevent unwanted console.log messages from Rebuy{% endcomment %}
@@ -289,5 +298,8 @@
       window.Rebuy = {}; 
      } window.Rebuy.disable_attribution = true;
      </script>
-  </body>
+  {% include 'taginstall-body' %}
+ <div data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
+
+</body>
 </html>

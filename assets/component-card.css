@@ -20,6 +20,7 @@
 
 .button--filter {
   gap: 0.4rem;
+  border: 2px solid;
 }
 
 .card {

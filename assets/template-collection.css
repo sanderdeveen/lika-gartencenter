@@ -167,7 +167,7 @@
 .collection_grid_link span {
   width: 100%;
   display: block;
-  padding: 1rem 0;
+  padding: 1rem 0 0 0;
 }
 
 .collection_grid_link figure img,

@@ -37,13 +37,13 @@ details {
 }
 
 .page-usp a {
-    color: #2E463B;
+    color: #7BBA59;
 }
 
 .page-usp summary {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 0.4rem;
 }
 
 .page-usp .icon {
@@ -54,11 +54,12 @@ details {
     width: 1.4rem;
 }
 
-.page-usp__mob-text {
+.page-usp .page-usp__mob-text {
     margin: 0;
     color: #2E463B;
     line-height: 1.6rem;
     font-weight: 700;
+    font-size: 1.1rem;
 }
 
 .mob_info__heading {
@@ -107,4 +108,8 @@ details {
     .usp-desk {
         display: flex;
     }
+}
+
+.body-index .usp-mob {
+    padding: 1rem;
 }

@@ -2,11 +2,107 @@
   "sections": {
     "main": {
       "type": "main-404",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "3217af89-3bc4-4c24-afbb-40f9707b5673": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Huch! Diese Seite ist leer.<\/p>"
+          }
+        },
+        "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leider wurde die Seite, die hier sein sollte, nicht gefunden. Das kann verschiedene Gründe haben, aber wir haben eine Lösung!<\/p>"
+          }
+        },
+        "08836d4a-9fb9-4061-864d-f9e9beea69f1": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- Wenn Sie die URL selbst direkt eingegeben haben, prüfen Sie die Rechtschreibung, vielleicht liegt der Fehler dort. *<br\/>- Wenn Sie auf diese Seite gelangt sind, nachdem Sie auf einen Link geklickt haben, dann ist der Link veraltet und nicht mehr aktuell *<\/p>"
+          }
+        },
+        "0e7360e3-0fc0-4798-b25d-abe3c2cef194": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/\" title=\"\/\">Gehen Sie zurück zur Homepage.<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-0",
+        "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-1",
+        "08836d4a-9fb9-4061-864d-f9e9beea69f1",
+        "0e7360e3-0fc0-4798-b25d-abe3c2cef194"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "668564b5-4673-46c7-9a29-f6b441585a8d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15760788226228__668564b5-4673-46c7-9a29-f6b441585a8d-1674049101a15a21bb-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "zimmerpflanzen"
+          }
+        },
+        "template--15760788226228__668564b5-4673-46c7-9a29-f6b441585a8d-1674049101a15a21bb-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gartenpflanzen"
+          }
+        },
+        "template--15760788226228__668564b5-4673-46c7-9a29-f6b441585a8d-1674049101a15a21bb-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "baeume"
+          }
+        },
+        "a9ba402b-3c7c-46b4-bcbb-da86a61cbc3b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "blumenzwiebeln"
+          }
+        },
+        "f48375ac-c49f-4af9-bde9-46432e69aad8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bambuspflanzen-als-hecke"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788226228__668564b5-4673-46c7-9a29-f6b441585a8d-1674049101a15a21bb-0",
+        "template--15760788226228__668564b5-4673-46c7-9a29-f6b441585a8d-1674049101a15a21bb-1",
+        "template--15760788226228__668564b5-4673-46c7-9a29-f6b441585a8d-1674049101a15a21bb-2",
+        "a9ba402b-3c7c-46b4-bcbb-da86a61cbc3b",
+        "f48375ac-c49f-4af9-bde9-46432e69aad8"
+      ],
+      "settings": {
+        "title": "Sammlungen ansehen",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "3217af89-3bc4-4c24-afbb-40f9707b5673",
+    "668564b5-4673-46c7-9a29-f6b441585a8d"
   ]
 }

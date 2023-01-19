@@ -173,6 +173,7 @@
 .product-meta-info {
   padding: 0 0.8rem;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
 }
 
@@ -223,6 +224,15 @@
 .product-form__input-option {
   position: relative;
   width: 100%;
+}
+
+.product-price-no-variant .price__sale {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-price-no-variant .price__badge-sale {
+  display: none !important;
 }
 
 .product-form__input-option--price {
@@ -573,6 +583,49 @@ fieldset.product-form__input .form__label {
   opacity: 0.5;
 }
 
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.product-form__buy-btn {
+  font-family: var(--font-body-family) !important;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border: 3px solid #D6883A;
+  border-radius: 5rem;
+  background-image: linear-gradient(90deg, #D6883A 66px, #F29F40 0, #F29F40 100%);
+  padding: 1.8rem 2.8rem;
+  width: 100%;
+}
+
+@media screen and (min-width: 568px) {
+  .product-form__buy-btn {
+    width: fit-content;
+  }
+}
+
+.product-form__buy-btn .icon-cart {
+  margin-right: 2.6rem;
+}
+
+.product-form__buy-btn .icon-arrow-right-buy-btn {
+  margin-left: 1.6rem;
+}
+
+
+
+.product-form__buy-btn:hover {
+  background-image: linear-gradient(90deg, #D6883A 100%, #F29F40 0, #F29F40 0%);
+}
+
 @media screen and (forced-colors: active) {
   .product-form__submit[aria-disabled="true"] {
     color: Window;
@@ -618,6 +671,13 @@ a.product__text {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.product__title--inner i {
+  font-weight: 400;
+  display: block;
+  font-size: 1.6rem;
+  color: #121212BF;
 }
 
 .product__title--inner h1 {
@@ -711,9 +771,6 @@ a.product__text {
 }
 
 @media screen and (min-width: 750px) {
-  .product__info-container {
-    max-width: 60rem;
-  }
 
   .product__info-container .price--on-sale .price-item--regular {
     font-size: 1.6rem;
@@ -1586,14 +1643,6 @@ a.product__text {
   }
 }
 
-
-
-.rebuy-product-grid .rebuy-product-block {
-  width: 100% !important;
-  padding: 0 !important;
-  margin-bottom: 1.6rem;
-}
-
 .rebuy-product-title {
   font-size: 1.6rem !important;
   font-weight: 700 !important;
@@ -1630,18 +1679,7 @@ a.product__text {
   display: none !important;
 }
 
-@media screen and (min-width: 960px) {
-
-  .rebuy-product-grid {
-    flex-direction: column !important;
-  }
-  
-  .rebuy-product-grid .rebuy-product-block {
-    width: 100% !important;
-    padding: 0 !important;
-    margin-bottom: 1.6rem;
-  }
-  
+@media screen and (min-width: 960px) {  
   .rebuy-product-title {
     font-size: 1.6rem !important;
     font-weight: 700 !important;
@@ -1690,7 +1728,7 @@ a.product__text {
   }
 }
 
-#rebuy-widget-58059::before {
+#rebuy-widget-69639::before {
   content: 'Praktisch für nebenbei';
   text-align: left;
   width: 100%;

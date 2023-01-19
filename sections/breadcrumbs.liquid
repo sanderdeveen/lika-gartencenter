@@ -4,7 +4,11 @@
 {% endcomment %}
 {%- assign template_arr = 'collection,list-collections,product,blog,article,page,cart,login,register,account,addresses,order,reset_password' | split: ',' -%}
 {%- capture divider -%}
-  <span class='breadcrumbs__divider'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 347 347" class="fill-current lg:block h-3 w-3"><g fill-rule="nonzero"><path d="M259.4834 157.9551c-10.7047-10.6068-28.0604-10.6068-38.765 0L87.0284 290.4233c-10.7047 10.6069-10.7047 27.804 0 38.4108 10.7047 10.6069 28.0604 10.6069 38.765 0l133.69-132.4681c10.7046-10.6069 10.7046-27.804 0-38.4109z"></path> <path d="M87.0285 22.9551c-10.7047 10.6069-10.7047 27.804 0 38.4109L220.7183 193.834c10.7047 10.6069 28.0604 10.6069 38.7651 0 10.7047-10.6068 10.7047-27.804 0-38.4108L125.7936 22.9551c-10.7047-10.6068-28.0604-10.6068-38.765 0z"></path></g></svg></span>
+  <span class='breadcrumbs__divider'>
+    {%- render 'global-icon',
+      icon: 'chevron-right'
+    -%}
+  </span>
 {%- endcapture -%}
 {%- if template_arr contains template.name -%}
 

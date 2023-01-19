@@ -900,6 +900,12 @@ class VariantRadios extends VariantSelects {
 
 customElements.define('variant-radios', VariantRadios);
 
+if (localStorage.getItem('popup') === null) {
+  localStorage.setItem('popup', 'false');
+}
 
-const header_widget = document.getElementsByClassName("rebuy-widget-content");
-header_widget.innerHTML = header_widget.innerHTML + "<h3>header</h3>";
+if (localStorage.getItem('popup') === 'true') {
+  var announceDiv = document.getElementById("shopify-section-announcement-bar");
+  announceDiv.style.display = "none";
+  announceDiv.style.height = "0";
+}

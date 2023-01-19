@@ -423,6 +423,16 @@
         </div>
       </nav>
     {%- else -%}
+      {%- if template contains 'cart' -%}
+        <div class="usp-checkout-container">
+          <ul class="page-width list-unstyled page-usp usp-desk-checkout">
+            <li>{%- render 'global-icon' icon: 'checkmark' -%}Schnelle Lieferung in ganz Deutschland</li>
+            <li>{%- render 'global-icon' icon: 'checkmark' -%}Über 5.000 Gartenprodukte</li>
+            <li>{%- render 'global-icon' icon: 'checkmark' -%}Kunden geben Gartencenter.de eine 4,4/5</li>
+            <li>{%- render 'global-icon' icon: 'checkmark' -%}Seit 2009 aktiv in den Niederlanden</li>
+          </ul>
+        </div>
+      {%- else -%}  
       <nav class="header__inline-menu">
         <div class="header__inline-menu-inner">
           <ul class="list-menu list-menu--inline" role="list">
@@ -452,6 +462,7 @@
           </ul>
         </div>
       </nav>
+      {%- endif -%}
     {%- endif -%}
   {%- endif -%}
   <div class="search-is-open">

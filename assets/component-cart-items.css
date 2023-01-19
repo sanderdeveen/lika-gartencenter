@@ -1,3 +1,35 @@
+.usp-checkout-container,
+.usp-desk-checkout {
+  display: none;
+}
+@media screen and (min-width: 950px) {
+  .usp-checkout-container {
+    width: 100%;
+    display: block;
+    background-color: #FFF;
+  }
+  .usp-desk-checkout {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .usp-desk-checkout li {
+    display: flex;
+    align-items: center;
+  }
+  .usp-desk-checkout .icon {
+    color: #7BBA59;
+  }
+}
+@media screen and (min-width: 750px) {
+  #main-cart-footer {
+    margin-top: 1.4rem;
+  }
+}
+
 .cart-items td,
 .cart-items th {
   padding: 0;
@@ -35,12 +67,12 @@
 .cart-item__image {
   border-radius: 0.4rem !important;
   height: auto;
-  max-width: 6.4rem;
+  max-width: 7rem;
 }
 
 @media screen and (min-width: 750px) {
   .cart-item__image {
-    max-width: 100%;
+    max-width: 6.4rem;
   }
 }
 
@@ -137,11 +169,11 @@ cart-remove-button .button:not([disabled]):hover {
   color: rgb(var(--color-foreground));
 }
 
-@media screen and (min-width: 750px) {
-  cart-remove-button .button {
-    min-width: 3.5rem;
-    min-height: 3.5rem;
-  }
+cart-remove-button .button {
+  margin-right: 1rem;
+  margin-left: auto;
+  min-width: 1rem;
+  min-height: 3.5rem;
 }
 
 cart-remove-button .icon-remove {
@@ -218,14 +250,39 @@ cart-remove-button .icon-remove {
     margin-bottom: 4rem;
   }
 
+  .cart__items {
+    padding-bottom: 0;
+  }
+
+  .cart-item__details { grid-area: title; }
+  .cart-item__totals { grid-area: price; }
+  .cart-item__remove { grid-area: cross; }
+  .cart-item__media { grid-area: Photo; }
+  .cart-item__quantity { grid-area: add; }
+
+  .cart-item__remove cart-remove-button {
+    margin-top: 0.7rem;
+  }
+
   .cart-item {
-    display: grid;
-    grid-template: repeat(2, auto) / repeat(4, 1fr);
+    display: grid; 
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 1fr 1fr; 
+    gap: 0px 0px;
+    grid-template-areas: 
+    "Photo title title price"
+    "Photo add add cross"; 
+
     gap: 1.5rem;
     margin-bottom: 1rem;
     border-radius: 0.4rem;
     background-color: #FFF;
-    padding: 1rem;
+    padding: 0.4rem;
+    margin: 0;
+
+    min-height: 15rem;
+    max-height: 15rem;
   }
 
   .cart-item:last-child {
@@ -241,7 +298,7 @@ cart-remove-button .icon-remove {
   }
 
   .cart-item__quantity {
-    grid-column: 2 / 5;
+    grid-column: auto;
   }
 
   .cart-item__totals {
@@ -256,6 +313,14 @@ cart-remove-button .icon-remove {
 }
 
 @media screen and (min-width: 750px) {
+  .cart-item__details,
+  .cart-item__totals,
+  .cart-item__quantity,
+  .cart-item__totals,
+  .cart-item__remove {
+    padding-top: 1.6rem !important;
+  }
+  
   .cart-items {
     border-spacing: 0;
     border-collapse: separate;
@@ -274,8 +339,8 @@ cart-remove-button .icon-remove {
 
   .cart-items td {
     vertical-align: top;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
   }
 
   .cart-item {
@@ -292,8 +357,7 @@ cart-remove-button .icon-remove {
 
   .cart-item__media {
     width: 6.4rem;
-    padding-top: 2rem !important;
-    padding-left: 1rem !important;
+    padding-left: 0.4rem !important;
     display: flex;
   }
 
@@ -307,11 +371,6 @@ cart-remove-button .icon-remove {
 }
 
 @media screen and (min-width: 990px) {
-  .cart-item .cart-item__quantity,
-  .cart-items .cart-items__heading--wide {
-    padding-left: 6rem;
-  }
-
   .cart-item__details {
     width: 50rem;
   }

@@ -1,9 +1,17 @@
+.section-contact {
+  margin: 2rem 0;
+}
+
 .contact img {
   max-width: 100%;
 }
 
 .contact .form__message {
   align-items: flex-start;
+}
+
+.contact-heading {
+  font-weight: 600;
 }
 
 .contact .icon-success {
@@ -14,10 +22,56 @@
   margin-bottom: 1.5rem;
 }
 
+.contact input,
+.contact textarea {
+  border: 1px solid rgba(229,231,235, 1);
+  border-radius: 0.4rem !important;
+}
+
+.contact-container .grid__item {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-container .link {
+  display: block;
+  color: #7BBA59;
+  text-decoration: none;
+}
+
+.contact-container .link:hover {
+  text-decoration: underline;
+}
+
+.contact-info p {
+  margin: 0;
+}
+
+.contact-container {
+  gap: 2.6rem !important;
+}
+
 @media screen and (min-width: 750px) {
   .contact .field {
     margin-bottom: 2rem;
   }
+  .contact-container {
+    gap: 2.4rem !important;
+  }
+  .contact-container .grid__item {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .gmap_canvas {
+    border-radius: 0.4rem;
+  }
+}
+
+.contact-map {
+  border-radius: 0.4rem;
+  overflow: hidden;
 }
 
 .contact__button {
@@ -27,13 +81,5 @@
 @media screen and (min-width: 750px) {
   .contact__button {
     margin-top: 4rem;
-  }
-}
-
-@media screen and (min-width: 750px) {
-  .contact__fields {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 2rem;
   }
 }

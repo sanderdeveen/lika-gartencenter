@@ -36,7 +36,7 @@
       "previous": "Vorherige Seite"
     },
     "search": {
-      "search": "Wonach suchst du?"
+      "search": "Wonach suchen Sie?"
     },
     "cart": {
       "view": "Meinen Warenkorb ({{ count }}) anzeigen",
@@ -52,6 +52,9 @@
       "of": "von",
       "next_slide": "Nach rechts schieben",
       "previous_slide": "Nach links schieben"
+    },
+    "meta": {
+      "tags": ""
     }
   },
   "newsletter": {
@@ -197,6 +200,13 @@
     "index": {
       "navigation_title": "Startseite"
     },
+    "usp_mob": {
+      "header_1": "Schnelle Lieferung",
+      "text_2": "In ganz Deutschland bis an die Haustür geliefert. Ihre Bestellung wird ab einem Warenwert von € 75 versandkostenfrei geliefert. Für eine Lieferung unter diesem Wert werden Ihnen € 6,99  Versandkosten berechnet.",
+      "header_2": "Umfangreicher Käuferschutz",
+      "text_3": "Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.",
+      "header_3": "Kontakt"
+    },
     "search": {
       "no_results": "Keine Ergebnisse gefunden für \"{{ terms }}\". Überprüfe die Schreibweise oder versuche es mit einer anderen Suchanfrage.",
       "results_with_count": {
@@ -213,7 +223,8 @@
       }
     },
     "cart": {
-      "cart": "Warenkorb"
+      "cart": "Warenkorb",
+      "title": ""
     },
     "contact": {
       "form": {
@@ -230,6 +241,9 @@
     "404": {
       "title": "Seite nicht gefunden",
       "subtext": "404"
+    },
+    "collections": {
+      "title": ""
     }
   },
   "sections": {

@@ -138,8 +138,9 @@
         },
         "f07c4da7-4243-4948-807d-07861e02d8de": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
-            "custom_liquid": "<div data-rebuy-id=\"58059\"><\/div>"
+            "custom_liquid": "<div data-rebuy-id=\"69639\" data-rebuy-shopify-product-ids=\"{{ product.id }}\"><\/div>"
           }
         }
       },

@@ -56,8 +56,8 @@
                   {%- for value in filter.active_values -%}
                     <facet-remove>
                       <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
-                        <span class="active-facets__button-inner button button--tertiary">
-                          {{ filter.label }}: {{ value.label | escape }}
+                        <span class="button">
+                          {{ value.label | escape }}
                           {% render 'icon-close-small' %}
                           <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
                         </span>
@@ -68,7 +68,7 @@
                     {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
                       <facet-remove>
                         <a href="{{ filter.url_to_remove }}" class="active-facets__button active-facets__button--light">
-                          <span class="active-facets__button-inner button button--tertiary">
+                          <span class="button">
                             {%- if filter.min_value.value -%}{{ filter.min_value.value | money }}{%- else -%}{{ 0 | money }}{%- endif -%}-{%- if filter.max_value.value -%}{{ filter.max_value.value | money }}{%- else -%}{{ filter.range_max | money }}{%- endif -%}
                             {% render 'icon-close-small' %}
                             <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
@@ -271,8 +271,8 @@
                 {%- for value in filter.active_values -%}
                   <facet-remove>
                     <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
-                      <span class="active-facets__button-inner button button--tertiary">
-                        {{ filter.label }}: {{ value.label | escape }}
+                      <span class="button button--tertiary">
+                        {{ value.label | escape }}
                         {% render 'icon-close-small' %}
                         <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
                       </span>
@@ -283,7 +283,7 @@
                   {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
                     <facet-remove>
                       <a href="{{ filter.url_to_remove }}" class="active-facets__button active-facets__button--light">
-                        <span class="active-facets__button-inner button button--tertiary">
+                        <span class="button">
                           {%- if filter.min_value.value -%}{{ filter.min_value.value | money }}{%- else -%}{{ 0 | money }}{%- endif -%}-{%- if filter.max_value.value -%}{{ filter.max_value.value | money }}{%- else -%}{{ filter.range_max | money }}{%- endif -%}
                           {% render 'icon-close-small' %}
                           <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
@@ -449,7 +449,41 @@
                     <details id="Details-Mobile-{{ forloop.index }}-{{ section.id }}" class="mobile-facets__details js-filter" data-index="mobile-{{ forloop.index }}">
                       <summary class="mobile-facets__summary focus-inset">
                         <div>
-                          <span>{{ filter.label | escape }}</span>
+                          {%- assign filter_label = filter.label | escape -%}
+                          <span>
+                            {%- if filter_label == "Bestuiving" -%}
+                              Bestäubung
+                            {%- elsif filter_label == "Fruitsmaak" -%}
+                              Obst schmecken
+                            {%- elsif filter_label == "Oogsttijd" -%}
+                              Obsterntezeit 
+                            {%- elsif filter_label == "Specificatie - Bladkleur" -%}
+                              Blattfarbe
+                            {%- elsif filter_label == "Specificatie - Bloeiperiode" -%}
+                              Blütezeit
+                            {%- elsif filter_label == "Specificatie - Bodemtype voorkeur" -%}
+                              Bevorzugte Bodenart
+                            {%- elsif filter_label == "Specificatie - Bodemvochtigheid" -%}
+                              Bodenfeuchtigkeit
+                            {%- elsif filter_label == "Specificatie - Standplaats" -%}
+                              Standort
+                            {%- elsif filter_label == "Specificatie - Tuintype" -%}
+                              Gartentyp
+                            {%- elsif filter_label == "Specificatie - Vruchtdragend" -%}
+                              Früchte
+                            {%- elsif filter_label == "Specificatie - Windgevoeligheid" -%}
+                              Windempfindlichkeit
+                            {%- elsif filter_label == "Specificatie - Wintergroen" -%}
+                              Immergrün
+                            {%- elsif filter_label == "Specificatie - Winterhard" -%}
+                              Winterhärte
+                            {%- elsif filter_label == "Spec - Bloeiwijze" -%}
+                              Blütenstand
+                            {%- else -%}
+                              {{ filter_label }}
+                            {%- endif -%}
+                          
+                          </span>
                           <span class="mobile-facets__arrow no-js-hidden">{% render 'icon-arrow' %}</span>
                           <noscript>{% render 'icon-caret' %}</noscript>
                         </div>
@@ -457,7 +491,38 @@
                       <div id="FacetMobile-{{ forloop.index }}-{{ section.id }}" class="mobile-facets__submenu gradient">
                         <button class="mobile-facets__close-button link link--text focus-inset" aria-expanded="true" type="button">
                           {% render 'icon-arrow' %}
-                          {{ filter.label | escape }}
+                          {%- assign filter_label = filter.label | escape -%}
+                            {%- if filter_label == "Bestuiving" -%}
+                              Bestäubung
+                            {%- elsif filter_label == "Fruitsmaak" -%}
+                              Obst schmecken
+                            {%- elsif filter_label == "Oogsttijd" -%}
+                              Obsterntezeit 
+                            {%- elsif filter_label == "Specificatie - Bladkleur" -%}
+                              Blattfarbe
+                            {%- elsif filter_label == "Specificatie - Bloeiperiode" -%}
+                              Blütezeit
+                            {%- elsif filter_label == "Specificatie - Bodemtype voorkeur" -%}
+                              Bevorzugte Bodenart
+                            {%- elsif filter_label == "Specificatie - Bodemvochtigheid" -%}
+                              Bodenfeuchtigkeit
+                            {%- elsif filter_label == "Specificatie - Standplaats" -%}
+                              Standort
+                            {%- elsif filter_label == "Specificatie - Tuintype" -%}
+                              Gartentyp
+                            {%- elsif filter_label == "Specificatie - Vruchtdragend" -%}
+                              Früchte
+                            {%- elsif filter_label == "Specificatie - Windgevoeligheid" -%}
+                              Windempfindlichkeit
+                            {%- elsif filter_label == "Specificatie - Wintergroen" -%}
+                              Immergrün
+                            {%- elsif filter_label == "Specificatie - Winterhard" -%}
+                              Winterhärte
+                            {%- elsif filter_label == "Spec - Bloeiwijze" -%}
+                              Blütenstand
+                            {%- else -%}
+                              {{ filter_label }}
+                            {%- endif -%}
                         </button>
                         <ul class="mobile-facets__list list-unstyled" role="list">
                           {%- for value in filter.values -%}
@@ -632,8 +697,8 @@
       {%- for value in filter.active_values -%}
         <facet-remove>
           <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
-            <span class="active-facets__button-inner button button--tertiary">
-              {{ filter.label }}: {{ value.label | escape }}
+            <span class="button">
+              {{ value.label | escape }}
               {% render 'icon-close-small' %}
               <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
             </span>
@@ -645,7 +710,7 @@
         {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
           <facet-remove>
             <a href="{{ filter.url_to_remove }}" class="active-facets__button active-facets__button--light">
-              <span class="active-facets__button-inner button button--tertiary">
+              <span class="button">
                 {%- if filter.min_value.value -%}{{ filter.min_value.value | money }}{%- else -%}{{ 0 | money }}{%- endif -%}-{%- if filter.max_value.value -%}{{ filter.max_value.value | money }}{%- else -%}{{ filter.range_max | money }}{%- endif -%}
                 {% render 'icon-close-small' %}
                 <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
@@ -705,8 +770,8 @@
             {%- for value in filter.active_values -%}
               <facet-remove>
                 <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
-                  <span class="button button-outline button--filter button-outline">
-                    {{ filter.label }}: {{ value.label | escape }}
+                  <span class="button button--filter">
+                    {{ value.label | escape }}
                     {% render 'icon-close-small' %}
                     <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
                   </span>
@@ -718,7 +783,7 @@
               {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
                 <facet-remove>
                   <a href="{{ filter.url_to_remove }}" class="active-facets__button active-facets__button--light">
-                    <span class="active-facets__button-inner button button--tertiary">
+                    <span class="button">
                       {%- if filter.min_value.value -%}{{ filter.min_value.value | money }}{%- else -%}{{ 0 | money }}{%- endif -%}-{%- if filter.max_value.value -%}{{ filter.max_value.value | money }}{%- else -%}{{ filter.range_max | money }}{%- endif -%}
                       {% render 'icon-close-small' %}
                       <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>

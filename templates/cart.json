@@ -24,11 +24,17 @@
         "buttons"
       ],
       "settings": {
+        "heading": "Überblick",
         "usp_header": "Deshalb entscheiden Sie sich für Gartencenter.de:",
         "usp_1": "Schonend verpackt",
         "usp_2": "Ab 75 Euro kostenlose Lieferung",
         "usp_3": "Versandfertig innerhalb von 2 Werktagen",
-        "usp_4": "Jetzt bestellen, später bezahlen"
+        "usp_4": "Jetzt bestellen, später bezahlen",
+        "usp_5": "Keine Schlepperei mehr",
+        "usp_6": "Unterstützung und Beratung auch nach dem Kauf",
+        "usp_7": "Umfangreicher Käuferschutz",
+        "usp_8": "Kundenservice 6 Tage pro Woche erreichbar",
+        "usp_9": "In ganz Deutschland bis an die Haustür geliefert"
       }
     },
     "16710225360dc23a73": {
@@ -51,11 +57,60 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "513b4435-a5e7-407c-948d-62ed6f923722": {
+      "type": "rating",
+      "settings": {
+      }
+    },
+    "ac9d2c50-f2d7-4b85-92f2-e0ac02fda6a3": {
+      "type": "services",
+      "blocks": {
+        "template--15760788324532__ac9d2c50-f2d7-4b85-92f2-e0ac02fda6a3-1672407608c69706c3-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "007e3c51-2b4a-42f5-9bc9-5d461e952975": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "73d72dd1-c957-4552-b124-6927d2f126f2": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "b0be261d-f9eb-4bb7-b375-a8aa6d0313d4": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788324532__ac9d2c50-f2d7-4b85-92f2-e0ac02fda6a3-1672407608c69706c3-0",
+        "007e3c51-2b4a-42f5-9bc9-5d461e952975",
+        "73d72dd1-c957-4552-b124-6927d2f126f2",
+        "b0be261d-f9eb-4bb7-b375-a8aa6d0313d4"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
     }
   },
   "order": [
     "cart-items",
     "cart-footer",
-    "16710225360dc23a73"
+    "16710225360dc23a73",
+    "513b4435-a5e7-407c-948d-62ed6f923722",
+    "ac9d2c50-f2d7-4b85-92f2-e0ac02fda6a3"
   ]
 }

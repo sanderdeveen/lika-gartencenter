@@ -2,14 +2,13 @@
   margin-bottom: 1rem;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  width: 100%;
   gap: 1rem;
 }
 
 @media screen and (min-width: 750px) {
   .list-payment {
-    justify-content: flex-start;
     padding-top: 0;
   }
 }
@@ -28,6 +27,10 @@
 
 .list-payment__item img {
   width: 7.6rem;
+}
+
+.payment-usp {
+  font-size: 1.4rem;
 }
 
 @media screen and (min-width: 750px) {

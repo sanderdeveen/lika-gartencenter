@@ -206,38 +206,7 @@
         {%- endif -%}
 
       </media-gallery>
-      <product_description>
-        <div class="product_description-wrapper-desk">
-          {% for block in section.blocks %}
-            {%- case block.type -%}
-              {%- when 'product_description' -%}
-                {% if product.description != blank %}
-                  <div id="description-desk" class="product__description-desk">
-                    {{ product.description }}
-                  </div>
-                  <button id="read-description-desk" onclick="opendescription_desk()">Weiterlesen »</button>
-                {% endif %}
-              {%- when 'product_specification' -%}
-                {%- if block.settings.specification_content != blank -%}
-                  <span class="product__specification rte">
-                    <strong>{{ block.settings.specification_name }}</strong>
-                    {{ block.settings.specification_content }}
-                  </span>
-                {%- endif -%}
-              {%- when 'product_pro_con' -%}  
-                {% liquid
-                  assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
-                %}
-                {%- if block.settings.product_pro_con != blank -%}
-                  <h2 class="product__proscons-title">{{ 'products.product.pro_or_con' | t }}</h2>
-                  <div class="product__procon">{{- pro_con -}}</div>
-                {%- endif -%} 
-              {%- when 'sub_header' -%}
-                <h2 class="product__proscons-title">{{ block.settings.sub-header }}</h2>   
-            {%- endcase -%}
-          {% endfor %}
-        </div>
-      </product_description>
+
     </div>
     <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}">
       <div id="ProductInfo-{{ section.id }}" class="product__info-container{% if section.settings.enable_sticky_info %} product__info-container--sticky{% endif %}">
@@ -253,11 +222,12 @@
           {%- when 'title' -%}
             <div class="product__title" {{ block.shopify_attributes }}>
               <span class="product__title--inner">
-                <h1>{{ product.title | escape }}</h1>
+                <h1>{{ product.title | escape }}
+                  {% if product.metafields.custom.product_name != blank %}
+                    <i>{{ product.metafields.custom.product_name }}</i>
+                  {% endif %}
+                </h1>
               </span>
-              {% if product.metafields.custom.product_name != blank %}
-                <i>{{ product.metafields.custom.product_name }}</i>
-              {% endif %}
               <a href="{{ product.url }}" class="product__title">
                 <h2 class="h1">
                   {% if product.metafields.custom.product_name != blank %}
@@ -391,9 +361,14 @@
                   </variant-radios>
               {%- endunless -%}
               <div class="buy_container--price">
-              <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
+              {% comment %} <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
                 {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
-              </div>
+              </div> {% endcomment %}
+              {%- if product.has_only_default_variant -%}
+                <div class="no-js-hidden product-price-no-variant" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
+                  {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                </div>
+              {%- endif -%} 
               <div class="product-form__input product-form__quantity{% if settings.inputs_shadow_vertical_offset != 0 and settings.inputs_shadow_vertical_offset < 0 %} product-form__quantity-top{% endif %}" {{ block.shopify_attributes }}>
                 <quantity-input class="quantity">
                   <button class="quantity__button quantity__button--left no-js-hidden" name="minus" type="button">
@@ -432,11 +407,10 @@
                       <button
                         type="submit"
                         name="add"
-                        class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
+                        class="product-form__submit button product-form__buy-btn"
                         {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
                       >
-                        {%- render 'global-icon',
-                          icon: 'cart'
+                        {%- render 'global-icon' icon: 'cart'
                         -%}
                           <span>
                             {%- if product.selected_or_first_available_variant.available -%}
@@ -450,6 +424,7 @@
                               <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
                             </svg>
                           </div>
+                          {%- render 'global-icon' icon: 'arrow-right-buy-btn' -%}
                       </button>
                       {%- if block.settings.show_dynamic_checkout -%}
                         {{ form | payment_button }}
@@ -480,13 +455,13 @@
                 </pickup-availability>
               </div>
     
-              <div {{ block.shopify_attributes }}>
+              {% comment %} <div {{ block.shopify_attributes }}>
                 {%- assign product_form_installment_id = 'product-form-installment-' | append: section.id -%}
                 {%- form 'product', product, id: product_form_installment_id, class: 'installment caption-large' -%}
                   <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
                   {{ form | payment_terms }}
                 {%- endform -%}
-              </div>
+              </div> {% endcomment %}
 
               <noscript class="product-form__noscript-wrapper-{{ section.id }}">
                 <div class="product-form__input{% if product.has_only_default_variant %} hidden{% endif %}">
@@ -551,7 +526,6 @@
                 {{ product.description }}
               </div>
             {%- endif -%}
-          {%- when 'product_description_mob' -%}
             <product-description-mob>
               <div class="product_description-wrapper-mob">
                 {% for block in section.blocks %}
@@ -783,7 +757,7 @@
                     <button
                       type="submit"
                       name="add"
-                      class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
+                      class="product-form__submit button product-form__buy-btn {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
                       {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
                     >
                       {%- render 'global-icon' icon: 'cart' -%}
@@ -863,7 +837,39 @@
       </div>
     </div>
   </div>
-
+  <div class="product-page-rebuy" data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
+  <product_description>
+    <div class="product_description-wrapper-desk">
+      {% for block in section.blocks %}
+        {%- case block.type -%}
+          {%- when 'product_description' -%}
+            {% if product.description != blank %}
+              <div id="description-desk" class="product__description-desk">
+                {{ product.description }}
+              </div>
+              <button id="read-description-desk" onclick="opendescription_desk()">Weiterlesen »</button>
+            {% endif %}
+          {%- when 'product_specification' -%}
+            {%- if block.settings.specification_content != blank -%}
+              <span class="product__specification rte">
+                <strong>{{ block.settings.specification_name }}</strong>
+                {{ block.settings.specification_content }}
+              </span>
+            {%- endif -%}
+          {%- when 'product_pro_con' -%}  
+            {% liquid
+              assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
+            %}
+            {%- if block.settings.product_pro_con != blank -%}
+              <h2 class="product__proscons-title">{{ 'products.product.pro_or_con' | t }}</h2>
+              <div class="product__procon">{{- pro_con -}}</div>
+            {%- endif -%} 
+          {%- when 'sub_header' -%}
+            <h2 class="product__proscons-title">{{ block.settings.sub-header }}</h2>   
+        {%- endcase -%}
+      {% endfor %}
+    </div>
+  </product_description>
   <product-modal id="ProductModal-{{ section.id }}" class="product-media-modal media-modal">
     <div class="product-media-modal__dialog" role="dialog" aria-label="{{ 'products.modal.label' | t }}" aria-modal="true" tabindex="-1">
       <button id="ModalClose-{{ section.id }}" type="button" class="product-media-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>

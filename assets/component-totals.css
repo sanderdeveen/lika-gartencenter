@@ -5,6 +5,18 @@
   flex-direction: column;
 }
 
+.totals li {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  line-height: 2.4rem;
+}
+
+.totals-total {
+  color: #000;
+  font-weight: 700;
+}
+
 .totals > * {
   font-size: 1.6rem;
   margin: 0;
@@ -24,6 +36,11 @@
 
 .totals__subtotal-value {
   font-size: 1.8rem;
+}
+
+.totals__subtotal-freeshipping {
+  color: #7bba59;
+  font-weight: 600;
 }
 
 .cart__ctas + .totals {

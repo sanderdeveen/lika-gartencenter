@@ -171,6 +171,14 @@
             "image": "shopify:\/\/shop_images\/Zimmerpflanzen-zubehor.jpg",
             "header": "Zimmerpflanzen-zubehör"
           }
+        },
+        "93bd4ea5-5c08-400f-918c-a978b6cf5c51": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/kakteen-und-sukkulenten",
+            "image": "shopify:\/\/shop_images\/kakteen-und-sukkulenten_94717e0a-d292-48ce-ac61-8073829c0dfe.jpg",
+            "header": "Kakteen und Sukkulenten"
+          }
         }
       },
       "block_order": [
@@ -182,7 +190,8 @@
         "8897d4b5-2bb5-4b47-a5dc-cc684a983d51",
         "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
         "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376"
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
+        "93bd4ea5-5c08-400f-918c-a978b6cf5c51"
       ],
       "settings": {
         "header": "",

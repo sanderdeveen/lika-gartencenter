@@ -67,6 +67,10 @@
   margin-right: 1.6rem;
 }
 
+.breadcrumbs__divider .icon-chevron-right {
+  max-height: 1.3rem;
+}
+
 .breadcrumbs .breadcrumbs__link,
 .breadcrumbs a {
   line-height: 1.4rem;

@@ -1,0 +1,73 @@
+<div>
+<h2>zimmerpflanzen</h2>
+<table>
+  <tr>
+    <th>Nummer</th>
+    <th>title</th>
+    <th>id</th>
+    <th>price</th>
+    <th>tags</th>
+    <th>standplaats (metafield)<br>Standort</th>
+    <th>waterbehoefte (metafield)<br>wasserbedarf</th>
+    <th>Bladkleur (metafield)<br>Blattfarbe</th>
+    <th>Kamperplant hoogte (metafield)<br>Zimmerpflanzen nach Wuchshöhe</th>
+    <th>Groeisnelheid (metafield)<br>Wuchsgeschwindigkeit</th>
+    <th>Bloemen (metafield)<br>Blütenbildung</th>
+    <th>Zorg (metafield)<br>Pflege</th>
+    <th>Breadcrumbs</th>
+  </tr>
+{% paginate collections.zimmerpflanzen.products by 1000 %}
+  {% for product in collections.zimmerpflanzen.products %}
+      <tr>
+        <td>{{ forloop.index }}</td>
+        <td><a href="{{ product.url }}">{{ product.title }} </a></td>
+        <td>{{ product.id }}</td>
+        <td>{{ product.price | money }}</td>
+        <td>Tags:<br>
+          <ol>
+          {% for tag in product.tags %}
+          <li>{{ tag }}</li>
+          {% endfor %}
+          </ol>
+        </td>
+        <td>{{ product.metafields.custom.standort }}</td>
+        <td>{{ product.metafields.custom.wasserbedarf }}</td>
+        <td>{{ product.metafields.custom.blattfarbe }}</td>
+        <td>{{ product.metafields.custom.zimmerpflanzen_nach_wuchshohe }}</td>
+        <td>{{ product.metafields.custom.wuchsgeschwindigkeit }}</td>
+        <td>{{ product.metafields.custom.blutenbildung }}</td>
+        <td>{{ product.metafields.custom.pflege }}</td>
+        <td><a href="{{ product.metafields.custom.breadcrumb_link }}">{{ product.metafields.custom.breadcrumb_name }}</a><br>
+            <a href="{{ product.metafields.custom.breadcrumb_link_2 }}">{{ product.metafields.custom.breadcrumb_name_1 }}</a><br>
+            <a href="{{ product.metafields.custom.breadcrumb_link_3 }}">{{ product.metafields.custom.breadcrumb_name_2 }}</a><br>
+            <a href="{{ product.metafields.custom.breadcrumb_link_4 }}">{{ product.metafields.custom.breadcrumb_name_3 }}</a>
+        </td>
+      </tr>
+  {% endfor %}
+{% endpaginate %}
+</table>
+</div>
+
+<style>
+  tbody {
+  font-size: 1.6rem;
+  }
+  tbody tr:nth-child(even) {
+  background-color: #ccc;
+}
+</style>
+
+{% schema %}
+{
+  "name": "Produc checker",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+  ],
+  "presets": [
+    {
+      "name": "Products checker"
+    }
+  ]
+}
+{% endschema %}

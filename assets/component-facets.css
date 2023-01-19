@@ -386,15 +386,12 @@ button.facets__button {
   grid-column: 1 / -1;
   grid-row: 2;
   margin-top: -0.5rem;
+  gap: 0.8rem;
 }
 
-.active-facets__button {
-  display: block;
-  margin-right: 1.5rem;
-  margin-top: 1.5rem;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
-  text-decoration: none;
+.active-facets .button {
+  padding: 0.8rem;
+  min-height: 2rem;
 }
 
 span.active-facets__button-inner {
@@ -428,6 +425,7 @@ span.active-facets__button-inner:after {
 @media screen and (min-width: 990px) {
   .active-facets__button {
     margin-right: 1.5rem;
+    text-decoration: none;
   }
 
   .active-facets__button-wrapper *,
@@ -438,7 +436,7 @@ span.active-facets__button-inner:after {
 
 @media screen and (max-width: 989px) {
   .active-facets {
-    margin: 0 -1.2rem -1.2rem;
+    margin: 0 -1.2rem 0;
   }
 
   .active-facets__button,
@@ -571,6 +569,7 @@ a.active-facets__button.focused .active-facets__button-inner,
 }
 
 .mobile-facets__wrapper {
+  margin-bottom: 1rem;
   margin-left: 0;
   display: flex;
 }
@@ -715,6 +714,7 @@ details.menu-opening .mobile-facets__close svg {
 }
 
 .mobile-facets__close-button {
+  text-transform: capitalize;
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -724,7 +724,7 @@ details.menu-opening .mobile-facets__close svg {
   margin-top: 1.5rem;
   padding: 1.2rem 2.6rem;
   text-decoration: none;
-  width: calc(100% - 5.2rem);
+  width: 100%;
 }
 
 .no-js .mobile-facets__close-button {
@@ -773,6 +773,7 @@ details.menu-opening .mobile-facets__close svg {
 
 .mobile-facets__summary {
   padding: 1.3rem 2.5rem;
+  text-transform: capitalize;
 }
 
 .mobile-facets__summary svg {
@@ -783,6 +784,8 @@ details.menu-opening .mobile-facets__close svg {
 .facets__summary > div {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .js .mobile-facets__submenu {
@@ -852,8 +855,9 @@ input.mobile-facets__checkbox {
 .mobile-facets__label .icon-checkmark {
   position: absolute;
   top: 1.9rem;
-  left: 2.8rem;
+  left: 2.1rem;
   visibility: hidden;
+  background-color: transparent;
 }
 
 .mobile-facets__label > input[type='checkbox']:checked ~ .icon-checkmark {
@@ -1098,7 +1102,7 @@ input.mobile-facets__checkbox {
     flex-flow: row wrap;
     align-items: center;
     column-gap: 0;
-    padding: 24px 0;
+    padding: 10px 0;
   }
 
   .facets-container-drawer .mobile-facets__wrapper  {

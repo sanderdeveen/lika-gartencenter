@@ -8,15 +8,23 @@
           "settings": {
             "icon": "check_mark",
             "heading": "",
-            "text": "<p>Bei Gartencenter.de bestellen Sie Gartenpflanzen, Zimmerpflanzen, Bäume und mehr mit schneller Lieferung nach Hause.<\/p>"
+            "text": "<p>Bei Gartencenter.de bestellen Sie <a href=\"\/collections\/gartenpflanzen\" title=\"Gartenpflanzen\">Gartenpflanzen<\/a>, <a href=\"\/collections\/zimmerpflanzen\" title=\"Zimmerpflanzen\">Zimmerpflanzen<\/a>, <a href=\"\/collections\/baeume\" title=\"Bäume\">Bäume<\/a> und mehr mit schneller Lieferung nach Hause.<\/p>"
           }
         },
         "cda8404e-d12a-40cb-9863-987897ed2b14": {
           "type": "mob_info",
           "settings": {
+            "icon": "truck",
+            "heading": "Schnelle Lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "508735bc-7f4c-4fb5-8b99-3e32f6347394": {
+          "type": "mob_info",
+          "settings": {
             "icon": "leaf",
-            "heading": "Beste Qualität aus Holland",
-            "text": "<p>Pflanzen direkt vom Züchter<\/p>"
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
           }
         },
         "47d15303-5500-4944-8784-4f2cfe114e35": {
@@ -24,7 +32,7 @@
           "settings": {
             "icon": "chat_bubble",
             "heading": "Kontakt",
-            "text": "<p>Kontant<\/p>"
+            "text": "<p>Benötigen Sie Hilfe? Kontakt per <a href=\"\/pages\/kontakt\" title=\"Kontakt\">E-Mail<\/a> und Chat. Während der Bürozeiten. Antwort innerhald eines Werktag.<\/p>"
           }
         },
         "f0256c27-bd93-473e-9f87-3b8a8a3db768": {
@@ -55,6 +63,7 @@
       "block_order": [
         "e6d6a505-907a-42f5-aa6c-ba03f01a11f3",
         "cda8404e-d12a-40cb-9863-987897ed2b14",
+        "508735bc-7f4c-4fb5-8b99-3e32f6347394",
         "47d15303-5500-4944-8784-4f2cfe114e35",
         "f0256c27-bd93-473e-9f87-3b8a8a3db768",
         "06f20a5c-e1da-47ca-b272-05e6aa9e8b04",
@@ -62,7 +71,7 @@
         "a7f4b0bb-ca27-4926-8584-2a36832daa83"
       ],
       "settings": {
-        "mobile-heading": "<p>Pflanzen, Bäume & mehr mit schneller Lieferung<\/p>"
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
       }
     },
     "ea7ce553-72c2-40f3-801b-f9e94f736061": {
@@ -77,11 +86,11 @@
             "r_text_1": "",
             "r_url_1": "",
             "r_text_2": "",
-            "t_url_2": "",
+            "r_url_2": "",
             "r_text_3": "",
-            "t_url_3": "",
+            "r_url_3": "",
             "r_text_4": "",
-            "t_url_4": "",
+            "r_url_4": "",
             "button_label_1": "Gartenpflanzen ansehen",
             "button_link_1": "shopify:\/\/collections\/gartenpflanzen",
             "show_icon": true
@@ -94,17 +103,17 @@
             "heading_type": "h2",
             "text": "<p>Seit 2009 in den Niederlanden bewährt, neu in Deutschland. Wir liefern alles, was Sie für einen<br\/>grünen Job im und am Haus brauchen.<\/p>",
             "r_image_1": "shopify:\/\/shop_images\/sonnenstauden.jpg",
-            "r_text_1": "Gartenpflanzen",
+            "r_text_1": "Garten-pflanzen",
             "r_url_1": "shopify:\/\/collections\/gartenpflanzen",
             "r_image_2": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen_1c6008ea-dde0-4029-8463-528cfa1f9ecb.jpg",
-            "r_text_2": "Zimmerpflanzen",
-            "t_url_2": "shopify:\/\/collections\/zimmerpflanzen",
+            "r_text_2": "Zimmer-pflanzen",
+            "r_url_2": "shopify:\/\/collections\/zimmerpflanzen",
             "r_image_3": "shopify:\/\/shop_images\/baeume-allee-zier.jpg",
             "r_text_3": "Bäume",
-            "t_url_3": "shopify:\/\/collections\/baeume",
+            "r_url_3": "shopify:\/\/collections\/baeume",
             "r_image_4": "shopify:\/\/shop_images\/rasen-kaufen.jpg",
             "r_text_4": "Rasen",
-            "t_url_4": "shopify:\/\/collections\/rasen",
+            "r_url_4": "shopify:\/\/collections\/rasen",
             "button_label_1": "",
             "button_link_1": "",
             "show_icon": false
@@ -119,11 +128,11 @@
             "r_text_1": "",
             "r_url_1": "",
             "r_text_2": "",
-            "t_url_2": "",
+            "r_url_2": "",
             "r_text_3": "",
-            "t_url_3": "",
+            "r_url_3": "",
             "r_text_4": "",
-            "t_url_4": "",
+            "r_url_4": "",
             "image": "shopify:\/\/shop_images\/inspiration-rasen.jpg",
             "button_label_1": "",
             "button_link_1": "",

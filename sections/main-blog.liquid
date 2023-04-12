@@ -18,7 +18,45 @@
 
 {%- paginate blog.articles by 6 -%}
   <div class="main-blog page-width section-{{ section.id }}-padding">
-    <h1 class="title--primary">{{ blog.title | escape }}</h1>
+    <div class="blog-hero__inner">
+      <h1 class="title--primary">{{ blog.title | escape }}</h1>
+      {%- comment -%} Blog tags start {%- endcomment -%}
+      {%- if section.settings.enable_navigation and blog.all_tags.size > 0 -%}
+        <div class="blog-hero__tags">
+
+          <span class="visually-hidden">{{ 'blogs.general.categories' | t }}</span>
+          <ul class="list-unstyled article-tags list-menu--inline label-medium">
+
+            {%- comment -%} General All blog link {%- endcomment -%}
+            <li {% unless current_tags.size %}class="active"{% endunless %}>
+              <a href="{{ blog.url }}" title="All">
+                {%- render 'format-translation',
+                    namespace: "blogs.general",
+                    key: "all_tags",
+                    fallback: "Alle"
+                  -%}
+              </a>
+            </li>
+            {%- comment -%} Blog tags and current (if it's the case) {%- endcomment -%}
+            {%- for tag in blog.all_tags -%}
+              {%- if tag contains 'type:' -%}
+                {%- assign article_type = tag | downcase | remove: 'type:' -%}
+                {%- if current_tags contains tag -%}
+                  <li class="active">
+                    {{ article_type | link_to_remove_tag: tag }}
+                  </li>
+                {%- else -%}
+                  <li>
+                    {{ article_type | link_to_tag: tag }}
+                  </li>
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+            </ul>
+        </div>
+      {%- endif -%}
+      {%- comment -%} Blog tags end {%- endcomment -%}
+    </div>
 
     <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %}">
       {%- for article in blog.articles -%}
@@ -28,8 +66,6 @@
             media_height: section.settings.image_height,
             media_aspect_ratio: article.image.aspect_ratio,
             show_image: section.settings.show_image,
-            show_date: section.settings.show_date,
-            show_author: section.settings.show_author,
             show_excerpt: true 
           -%}
         </div>
@@ -51,6 +87,12 @@
     {
       "type": "header",
       "content": "t:sections.main-blog.settings.header.content"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_navigation",
+      "default": true,
+      "label": "Enable blog tags navigation"
     },
     {
       "type": "select",
@@ -99,18 +141,6 @@
       "default": "medium",
       "label": "t:sections.main-blog.settings.image_height.label",
       "info": "t:sections.main-blog.settings.image_height.info"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_date",
-      "default": true,
-      "label": "t:sections.main-blog.settings.show_date.label"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_author",
-      "default": false,
-      "label": "t:sections.main-blog.settings.show_author.label"
     },
     {
       "type": "paragraph",

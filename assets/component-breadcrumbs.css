@@ -12,6 +12,13 @@
   }
   .breadcrumbs-mob .breadcrumbs__list-item:last-child { display: flex !important;}
 
+  .breadcrumbs-mob .icon-chevron-left {
+    display: none;
+  }
+
+  .breadcrumbs .icon-chevron-left-mob {
+    width: 1.6rem;
+  }
 }
 
 .breadcrumbs__list-item,
@@ -28,6 +35,9 @@
 }
 
 @media screen and (min-width: 990px) {
+  .breadcrumbs .icon-chevron-left-mob {
+    display: none;
+  }
   .breadcrumb-container .icon-chevron-left {
     display: none;
   }
@@ -59,12 +69,8 @@
 }
 
 .breadcrumbs__divider {
-  width: 1.0rem;
+  display: flex;
   text-align: center;
-  display: inline-block;
-  height: auto;
-  margin-left: 1.6rem;
-  margin-right: 1.6rem;
 }
 
 .breadcrumbs__divider .icon-chevron-right {

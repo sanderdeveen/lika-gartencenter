@@ -101,12 +101,12 @@
           "settings": {
             "heading": "Produkte shoppen",
             "heading_type": "h2",
-            "text": "<p>Seit 2009 in den Niederlanden bewährt, neu in Deutschland. Wir liefern alles, was Sie für einen<br\/>grünen Job im und am Haus brauchen.<\/p>",
+            "text": "<p>Seit 2009 in den Niederlanden bewährt, neu in Deutschland. Wir liefern alles, was Sie für einen grünen Job im und am Haus brauchen.<\/p>",
             "r_image_1": "shopify:\/\/shop_images\/sonnenstauden.jpg",
-            "r_text_1": "Garten-pflanzen",
+            "r_text_1": "Gartenpflanzen",
             "r_url_1": "shopify:\/\/collections\/gartenpflanzen",
             "r_image_2": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen_1c6008ea-dde0-4029-8463-528cfa1f9ecb.jpg",
-            "r_text_2": "Zimmer-pflanzen",
+            "r_text_2": "Zimmerpflanzen",
             "r_url_2": "shopify:\/\/collections\/zimmerpflanzen",
             "r_image_3": "shopify:\/\/shop_images\/baeume-allee-zier.jpg",
             "r_text_3": "Bäume",
@@ -121,8 +121,9 @@
         },
         "6c3cfddb-077c-4025-9596-1bc8234f2ea0": {
           "type": "block",
+          "disabled": true,
           "settings": {
-            "heading": "Inspiration",
+            "heading": "Ratgeber",
             "heading_type": "h2",
             "text": "<p>Lassen Sie sich von Gartenfotos inspirieren und kaufen Sie dem Pflanzen online.<\/p>",
             "r_text_1": "",

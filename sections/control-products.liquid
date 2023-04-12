@@ -1,9 +1,10 @@
 <div>
-<h2>zimmerpflanzen</h2>
+<h2>gartenpflanzen</h2>
 <table>
   <tr>
     <th>Nummer</th>
     <th>title</th>
+    <th>sub title</th>
     <th>id</th>
     <th>price</th>
     <th>tags</th>
@@ -16,11 +17,12 @@
     <th>Zorg (metafield)<br>Pflege</th>
     <th>Breadcrumbs</th>
   </tr>
-{% paginate collections.zimmerpflanzen.products by 1000 %}
+{% paginate collections.gartenpflanzen.products by 1000 %}
   {% for product in collections.zimmerpflanzen.products %}
       <tr>
         <td>{{ forloop.index }}</td>
         <td><a href="{{ product.url }}">{{ product.title }} </a></td>
+        <td>{{ product.metafields.custom.product_name }}</td>
         <td>{{ product.id }}</td>
         <td>{{ product.price | money }}</td>
         <td>Tags:<br>

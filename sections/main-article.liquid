@@ -4,7 +4,7 @@
   {%- for block in section.blocks -%}
     {%- case block.type -%}
       {%- when '@app' -%}
-        <div class="page-width page-width--narrow">
+        <div class="page-width">
           {% render block %}
         </div>
       {%- when 'featured_image'-%}
@@ -33,25 +33,59 @@
         {%- endif -%}
 
         {%- when 'title'-%}
-          <header class="page-width page-width--narrow" {{ block.shopify_attributes }}>
+          <header class="page-width" {{ block.shopify_attributes }}>
+            <div class="article-template__back article-template__breadcrumb element-margin-top center">
+              <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
+                <span class="icon-wrap">{% render 'icon-arrow' %}</span>
+                {{ 'blogs.article.back_to_blog' | t: title: blog.title }}
+              </a>
+              {%- render 'global-icon' icon: 'chevron-right' -%} {{ article.title | escape }}
+            </div>
             <h1 class="article-template__title" itemprop="headline">{{ article.title | escape }}</h1>
-            {%- if block.settings.blog_show_date -%}
-              <span class="circle-divider caption-with-letter-spacing" itemprop="dateCreated pubdate datePublished">{{ article.published_at | time_tag: format: 'date' }}</span>
+            {%- if block.settings.blog_show_date and article.metafields.custom.datum != blank -%}
+              <span class="circle-divider caption-with-letter-spacing" itemprop="dateCreated pubdate datePublished">{{ article.metafields.custom.datum }}</span>
             {%- endif -%}
-            {%- if block.settings.blog_show_author -%}
-              <span class="caption-with-letter-spacing" itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span itemprop="name">{{ article.author }}</span>
-              </span>
+            {%- if article.metafields.custom.lesezeit != blank -%}
+              <div class="article-template__reading-time">
+                {%- render 'global-icon' icon: 'clock' -%}<b>Lesezeit:</b>{{ article.metafields.custom.lesezeit }}
+              </div>
             {%- endif -%}
           </header>
 
         {%- when 'content'-%}
-          <div class="article-template__content page-width page-width--narrow rte" itemprop="articleBody" {{ block.shopify_attributes }}>
-              {{ article.content }}
+          <div class="page-width article_products">
+
+            <div class="related-products-wrapper">
+              {% assign related_products = article.metafields.custom.blog_benotigt.value %}
+               {% if related_products %}
+                  <div class = "related-product-list">
+                    <span class="related-product-title">{{ section.settings.related_title }}</span>
+                    {% for related_product in related_products %}
+                    <a href = "{{ shop.url | append: "/products/" | append: related_product.handle }}">
+                      <div class = "related-product">
+                        <div class = "related-product-image">
+                          <img width="50" height="50" loading="lazy" src = "{{ related_product.featured_image | img_url: 'small' }}"/>
+                        </div>
+                      <div class="related-product-name">{{ related_product.title }}<br><i>{{ related_product.metafields.custom.product_name }}</i></div>
+
+                      <div class="related-product-price">{{ related_product.price | money }}</div>
+                      </div>
+                    </a>
+                    {% endfor %}
+                  </div>
+                  <div class="article-template__content rte has-related-products" itemprop="articleBody" {{ block.shopify_attributes }}>
+                    {{ article.content }}
+                  </div>
+                {% else %}
+                  <div class="article-template__content rte" itemprop="articleBody" {{ block.shopify_attributes }}>
+                    {{ article.content }}
+                  </div>
+                {% endif %}
+            </div>
           </div>
 
         {%- when 'share' -%}
-          <div class="article-template__social-sharing page-width page-width--narrow" {{ block.shopify_attributes }}>
+          <div class="article-template__social-sharing page-width" {{ block.shopify_attributes }}>
             <share-button class="share-button" {{ block.shopify_attributes }}>
               <button class="share-button__button hidden">
                 {% render 'icon-share' %}
@@ -91,16 +125,9 @@
           </div>
     {%- endcase -%}
   {%- endfor -%}
-
-  <div class="article-template__back element-margin-top center">
-    <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
-      <span class="icon-wrap">{% render 'icon-arrow' %}</span>
-      {{ 'blogs.article.back_to_blog' | t: title: blog.title }}
-    </a>
-  </div>
   {%- if blog.comments_enabled? -%}
     <div class="article-template__comment-wrapper background-secondary">
-      <div id="comments" class="page-width page-width--narrow">
+      <div id="comments" class="page-width">
         {%- if article.comments_count > 0 -%}
           {%- assign anchorId = '#Comments-' | append: article.id -%}
 
@@ -292,6 +319,14 @@
   "name": "t:sections.main-article.name",
   "tag": "section",
   "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "default": "Lieferungen",
+      "id": "related_title",
+      "label": "Related products title"
+    }
+  ],
   "blocks": [
     {
       "type": "@app"
@@ -338,12 +373,6 @@
           "id": "blog_show_date",
           "default": true,
           "label": "t:sections.main-article.blocks.title.settings.blog_show_date.label"
-        },
-        {
-          "type": "checkbox",
-          "id": "blog_show_author",
-          "default": false,
-          "label": "t:sections.main-article.blocks.title.settings.blog_show_author.label"
         }
       ]
     },

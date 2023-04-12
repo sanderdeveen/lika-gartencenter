@@ -243,6 +243,14 @@
     "header": {
       "announcement": "Announcement",
       "menu": "Menu",
+      "gardenplants": "Gardenplants",
+      "houseplants": "Houseplants",
+      "three": "Threes",
+      "lawn": "Lawn",
+      "potting": "Potting",
+      "menure": "Menure",
+      "garden_accessories": "Garden accessories",
+      "contact": "Contact",
       "cart_count": {
         "one": "{{ count }} item",
         "other": "{{ count }} items"
@@ -253,6 +261,7 @@
       "caption": "Cart items",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
+      "total_products": "Products",
       "new_subtotal": "New subtotal",
       "note": "Order special instructions",
       "checkout": "Check out",

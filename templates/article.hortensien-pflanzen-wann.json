@@ -1,0 +1,238 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "7631d4a4-c464-4bc4-bb48-fbadf07d579e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757402804__7631d4a4-c464-4bc4-bb48-fbadf07d579e-16760400561dc9bbf6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wann ist die beste Pflanzzeit?<\/p>"
+          }
+        },
+        "template--15922757402804__7631d4a4-c464-4bc4-bb48-fbadf07d579e-16760400561dc9bbf6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie haben eine oder mehrere Hortensien gekauft. Toll! Aber wann ist eigentlich <strong>die beste Pflanzzeit für Hortensien<\/strong>? Grundsätzlich können Hortensien das ganze Jahr über gepflanzt werden. Dennoch sollten einige Dinge beachtet werden, damit sich die Hortensie optimal entwickeln kann.<\/p><p>Die ideale Pflanzzeit für Hortensien ist während der Ruhephase der Pflanze, zwischen <strong>Ende September und Mitte März<\/strong>. In der Ruhephase kommen Hortensien mit wesentlich weniger Wasser und Nährstoffen aus, wodurch sich das Risiko auf eventuelle Mangelerscheinungen nach dem Einsetzen verringert. Vor allem in den Sommermonaten können Hortensien bei Wassermangel sehr schnell vertrocknen. Deshalb ist die Ruhephase die ideale Pflanzzeit.<\/p><p>Leider ist die Ruhephase von Pflanzen mitten im Winter, wenn auch Frostperioden auftreten können. Wenn der Boden gefroren ist, kann das Pflanzloch nicht so gut mit Spezialerde aufgefüllt werden, wodurch die Pflanze schlechter einwurzelt und sich nicht optimal entwickeln kann. Deshalb sollten Hortensien idealerweise im <strong>März oder Anfang April <\/strong>gepflanzt werden. Im Herbst (Oktober\/November) ist es zwar auch möglich, jedoch können dann eventuell Frostschäden auftreten.<\/p>"
+          }
+        },
+        "7363c29d-c34a-4412-a78b-bfa4cc0d5486": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/schneeballhortensien-annabelle-weiss.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "369c3ba5-9bbc-40c1-8c01-6bb359849b1b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Der perfekte Standort für Ihre Hortensie<\/p>"
+          }
+        },
+        "27c87dfd-71b3-4980-a3e0-32b4996421b8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Egal, ob Sie schon vor dem Kauf den perfekten Standort ausgewählt haben oder erst danach entscheiden, wo Ihre Hortensie am besten zur Geltung kommt, eines sollten Sie in jedem Fall berücksichtigen: Hortensien lieben die Sonne, brauchen aber sehr viel Wasser, wenn sie den ganzen Tag in der vollen Sonne stehen.<\/p><p>Obwohl die verschiedenen Hortensienarten unterschiedliche Lichtansprüche haben, sollte man vorzugsweise einen <strong>halbschattigen Standort<\/strong> wählen. Das bedeutet, dass die Pflanzen tagsüber <strong>höchstens 4 Stunden in der Sonne stehen<\/strong>. Pflanzen Sie Ihre Hortensie also so, dass sie die restliche Zeit von Sträuchern oder Baumkronen beschattet wird. <\/p><p>Sollte das nicht möglich sein und die Hortensie einen sonnigen Standort erhalten, können Sie am besten eine <a href=\"\/collections\/hortensien-fuer-sonnige-standorte\" title=\"Hortensien für sonnige Standorte\">Hortensie für sonnige Standorte<\/a> wählen. Diese Hortensienarten vertragen mehr Sonne als andere, vorausgesetzt, sie werden viel und regelmäßig gegossen. Hortensien brauchen grundsätzlich sehr viel Wasser, und wenn sie lange in der Sonne stehen, entsprechend mehr. In der prallen Sonne verdunstet das Wasser nämlich noch schneller. Deshalb sollten Hortensien vor allem in den Sommermonaten (Mitte Mai bis Ende August) <strong>sehr stark gegossen<\/strong> werden.<\/p>"
+          }
+        },
+        "7283aff8-0470-4dd9-b349-e94ccc52e37b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Welche Erde benötigen Hortensien?<\/p>"
+          }
+        },
+        "a4d8f014-9b5b-4451-9cf6-9bd1e77cc361": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensienerde sollte wasserdurchlässig, <strong>kalk- und humusreich<\/strong> sein. Deshalb empfiehlt es sich, zum Pflanzen von Hortensien spezielle Hortensienerde zu verwenden. Nur so kann eine optimale Wasser- und Nährstoffaufnahme der Wurzeln gewährleistet werden und die Pflanze ihre volle Blütenpracht entfalten. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach ist es ratsam, sie mit Hortensiendünger zu verwöhnen, damit sie immer in Topform bleibt.<\/p><p>Ein saurer Boden ist nicht nur die Voraussetzung für eine gesunde, üppig blühende Hortensie, der pH-Wert des Bodens ist auch entscheidend für die Farbe der Blüten. Wenn der Boden nicht sauer genug ist, können sich blaue Hortensien rosa verfärben. Im Umkehrschluss können Sie mit Compo Blaue Hortensien dafür sorgen, dass Ihre Hortensie ihre wunderschöne blaue Farbe behält. <\/p>"
+          }
+        },
+        "06c10d57-fcf5-4c8c-8fcf-729fb265d933": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien ins Beet pflanzen<\/p>"
+          }
+        },
+        "a45310f2-8461-4ecb-a213-4fdcfd44c0c4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie wissen jetzt ja schon, wann, wo und in welche Erde man Hortensien pflanzt. Fehlt nur noch das „Wie“. Keine Angst, auch das ist ganz einfach! Möchten Sie Ihre Hortensie(n) ins Beet pflanzen? Zum Glück sind alle Hortensienarten dafür geeignet, wie etwa die <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensie<\/a> oder die <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensie<\/a>.<\/p>"
+          }
+        },
+        "30f58ee8-664b-4b55-ac1f-9d4fe2a76cc8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Der richtige Pflanzabstand<\/p>"
+          }
+        },
+        "d3f4b3b0-c786-4b39-b56f-47cc08675316": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Hortensien ist der richtige Pflanzabstand sehr wichtig. Um eine üppige Blütenpracht genießen zu können, sollten beim Anlegen von Hortensienhecken <strong>zwei Pflanzen pro Meter<\/strong> gepflanzt werden. Pflanzen Sie <strong>pro Quadratmeter nicht mehr als drei Hortensien<\/strong>.<\/p>"
+          }
+        },
+        "ac8a1164-7da4-43db-9459-c9e8644fa38a": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": "<p>- Graben Sie ein Pflanzloch, das etwa zwei bis dreimal so groß ist wie der Wurzelballen.*<\/p><p>- Füllen Sie das Pflanzloch etwa zur Hälfte mit Hortensienerde auf.*<\/p><p>- Mischen Sie die Hortensienerde mit der ausgehobenen Erde.?*<\/p><p>- Tauchen Sie den Wurzelballen der Hortensie in einen Eimer Wasser, damit er sich vollsaugen kann.*<\/p><p>- Setzen Sie die Hortensie in das Pflanzloch.*<\/p><p>- Füllen Sie das restliche Pflanzloch mit Hortensienerde auf und treten Sie die Erde fest.*<\/p><p>- Gießen Sie die Hortensie in der Anfangszeit jeden Tag, damit die Pflanze richtig einwurzeln kann.*<\/p>"
+          }
+        },
+        "4c5b41fe-119d-4a3a-98a4-9146f9a336ee": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien im Topf pflanzen<\/p>"
+          }
+        },
+        "470c70e8-1a69-4876-97ea-d6bccca6b2e9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien im Kübel oder Topf sind die ideale Lösung für Balkon, Terrasse oder den kleineren Garten. Grundsätzlich eignen sich alle Hortensienarten für die Topfkultur, wobei manche Hortensien in Pflanzgefäßen besser zur Geltung kommen als andere. Die <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensie<\/a> beispielsweise eignet sich durch ihre kräftigen Triebe besonders gut zum Pflanzen im Kübel oder Topf. So pflanzt man Hortensien in einen Topf:<\/p>"
+          }
+        },
+        "e8cd7ab2-e0eb-4517-a629-2a8d04c28679": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": "<p>- Wählen Sie ein Pflanzgefäß, das wesentlich größer als der Wurzelballen der Hortensie ist. Da die Wurzeln der Hortensie sehr schnell wachsen, darf der Topf auf keinen Fall zu klein sein.*<\/p><p>-Füllen Sie eine Schicht Compo Drainage- und Pflanzgranulat ins Pflanzgefäß, um Staunässe zu verhindern.*<\/p><p>- Füllen Sie das Pflanzgefäß zu 2\/3 mit Hortensienerde auf.*<\/p><p>-Tauchen Sie den Wurzelballen der Hortensie in einen Eimer Wasser, damit er sich vollsaugen kann.*<\/p><p>-Setzen Sie die Hortensie in den Topf. Füllen Sie den Topf mit Hortensienerde auf und drücken Sie die Erde rundum fest.*<\/p><p>-Gießen Sie die Hortensie in der Anfangszeit jeden Tag, damit die Pflanze richtig einwurzeln kann.*<\/p>"
+          }
+        },
+        "e201c17d-e61b-4234-96c4-c38672747146": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kübel- oder Topfhortensien muss man allerdings ein wenig beim <strong>Überwintern<\/strong> helfen. Pflanzgefäße aus Stein oder Ton können bei Frost brechen und die Hortensie in Mitleidenschaft ziehen. Deshalb empfiehlt es sich, Hortensien im Winter an eine geschützte Stelle im Garten (Hauswand, Mauer etc.) zu stellen oder sie im Keller oder Gartenhaus überwintern zu lassen. Eine andere Möglichkeit ist, den Topf mit wärmedämmendem Material einzupacken und die Pflanze mit einem Winterschutzvlies abzudecken.<\/p>"
+          }
+        },
+        "c4c9672c-0ba6-4b38-90d7-464ed1d776f5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Auf die richtige Pflege kommt es an!<\/p>"
+          }
+        },
+        "b30a338f-e6bd-4916-9b97-6218c0da4c79": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es ist soweit! Ihre Hortensie ist eingesetzt und Sie können schon bald die üppige Blütenpracht in Ihrem Garten, auf Ihrer Terrasse oder Ihrem Balkon genießen. Aber das ist noch lange kein Grund, die Füße hochzulegen. Hortensien müssen nämlich (wie alle Pflanzen) richtig gepflegt werden, damit sie optimal gedeihen können. Ausgiebiges Wässern nach dem Pflanzen, regelmäßiges Gießen und zweimal im Jahr düngen sind die Grundvoraussetzungen für eine gesunde, üppig blühende Hortensie. In unserem Blogbeitrag über <a href=\"\/blogs\/ratgeber\/hortensienpflege-dungen-giessen-krankheiten\" title=\"Hortensienpflege: Düngen, Gießen, Krankheiten\">Hortensien-Pflege<\/a> erfahren Sie mehr zur richtigen Pflege von Hortensien.<\/p><p>Aber auch das Zurückschneiden ist wichtig. Denn, wie und wann schneidet man Hortensien im Topf oder im Beet eigentlich zurück? Die Art und Weise des Rückschnitts hängt von der jeweiligen Hortensiensorte ab. In unserem Blogartikel zum <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> erfahren Sie mehr über die verschiedenen Schnittgruppen und den besten Schnittzeitpunkt.<\/p>"
+          }
+        },
+        "29e4720c-3662-460b-bb21-8994d526aad0": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/hortensien-giessen-wasser-ratgeber-neu.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "ba84d784-b196-430e-8805-4eef623082af": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Praktische und kreative Tipps<\/p>"
+          }
+        },
+        "168b9356-1a62-4061-b899-0db737fe945d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Und zu guter Letzt haben wir hier noch ein paar tolle Tipps für Sie. Mit Ihrer neuen Hortensie können Sie nämlich Ihren grünen Daumen und Ihre kreative Ader entdecken! Wie wär‘s zum Beispiel damit, Ihre Hortensie mit Stecklingen zu vermehren? Es gibt mehrere Möglichkeiten, Hortensien zu vermehren und sich damit sein eigenes Blütenmeer zu zaubern. Ist das nicht toll?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757402804__7631d4a4-c464-4bc4-bb48-fbadf07d579e-16760400561dc9bbf6-0",
+        "template--15922757402804__7631d4a4-c464-4bc4-bb48-fbadf07d579e-16760400561dc9bbf6-1",
+        "7363c29d-c34a-4412-a78b-bfa4cc0d5486",
+        "369c3ba5-9bbc-40c1-8c01-6bb359849b1b",
+        "27c87dfd-71b3-4980-a3e0-32b4996421b8",
+        "7283aff8-0470-4dd9-b349-e94ccc52e37b",
+        "a4d8f014-9b5b-4451-9cf6-9bd1e77cc361",
+        "06c10d57-fcf5-4c8c-8fcf-729fb265d933",
+        "a45310f2-8461-4ecb-a213-4fdcfd44c0c4",
+        "30f58ee8-664b-4b55-ac1f-9d4fe2a76cc8",
+        "d3f4b3b0-c786-4b39-b56f-47cc08675316",
+        "ac8a1164-7da4-43db-9459-c9e8644fa38a",
+        "4c5b41fe-119d-4a3a-98a4-9146f9a336ee",
+        "470c70e8-1a69-4876-97ea-d6bccca6b2e9",
+        "e8cd7ab2-e0eb-4517-a629-2a8d04c28679",
+        "e201c17d-e61b-4234-96c4-c38672747146",
+        "c4c9672c-0ba6-4b38-90d7-464ed1d776f5",
+        "b30a338f-e6bd-4916-9b97-6218c0da4c79",
+        "29e4720c-3662-460b-bb21-8994d526aad0",
+        "ba84d784-b196-430e-8805-4eef623082af",
+        "168b9356-1a62-4061-b899-0db737fe945d"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f802cd27-2e2d-4e81-bcf4-c9450b65164f": {
+      "type": "author",
+      "settings": {
+        "author": "lika"
+      }
+    },
+    "bfb8d846-38b7-45cb-8766-8a0eb391b6eb": {
+      "type": "round-collections",
+      "blocks": {
+        "228f6fb8-362a-40c0-b617-d49960f30beb": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/hortensien",
+            "image": "shopify:\/\/shop_images\/langbluehende-hortensien.jpg",
+            "collection_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "228f6fb8-362a-40c0-b617-d49960f30beb"
+      ],
+      "settings": {
+        "heading": "Möchten Sie neue Hortensien pflanzen? Sehen Sie sich unser gesamtes hortensie asortiment an:",
+        "margin_top": 10,
+        "margin_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7631d4a4-c464-4bc4-bb48-fbadf07d579e",
+    "f802cd27-2e2d-4e81-bcf4-c9450b65164f",
+    "bfb8d846-38b7-45cb-8766-8a0eb391b6eb"
+  ]
+}

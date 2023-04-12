@@ -2,7 +2,7 @@
   {% for block in section.blocks %}
     {%- case block.type -%}
       {%- when 'sub_header' -%}
-        <h2 class="product__proscons-title">{{ block.settings.sub-header }}</h2>
+        <div class="h2 product__proscons-title">{{ block.settings.sub-header }}</div>
       {%- when 'product_description' -%}
         {% if product.description != blank %}
           <div class="product__description">
@@ -17,16 +17,11 @@
         {% liquid
           assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
         %}
-        {%- if pro_con != blank -%}
-          <h2 class="product__proscons-title samde">{{ 'products.product.pro_or_con' | t }}</h2>
-          <div class="product__procon">{{- pro_con -}}</div>
-        {%- endif -%}  
-
         {% liquid
           assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
         %}
         {%- if pro_con != blank -%}
-          <h2 class="product__proscons-title">{{ 'products.product.pro_or_con' | t }}</h2>
+          <div class="h2 product__proscons-title">{{ 'products.product.pro_or_con' | t }}</div>
           <div class="product__procon">{{- pro_con -}}</div>
         {%- endif -%}  
     {%- endcase -%}

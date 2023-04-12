@@ -1,0 +1,69 @@
+<div class="center">  
+    <img src="
+      {%- if section.settings.author == 'lika' -%}
+        https://cdn.shopify.com/s/files/1/0614/8728/4404/files/agent-lika.png?v=1674746515
+      {%- elsif section.settings.author == 'pim' -%}
+        https://cdn.shopify.com/s/files/1/0614/8728/4404/files/agent-pim.png?v=1674746516
+      {%- elsif section.settings.author == 'arnout' -%}
+        https://cdn.shopify.com/s/files/1/0614/8728/4404/files/agent-arnout.png?v=1674746516
+      {%- endif -%}  
+      "loading="lazy" alt="Author {{ section.settings.author }}" width="90" height="90">
+
+  <b>Geschrieben von: <span>{{ section.settings.author }}</span></b>
+  <i>Produktspezialist</i>
+</div>
+
+<style>
+  .section-author {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .section-author .center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .section-author b span {
+    text-transform: capitalize;
+  }
+</style>
+
+{% schema %}
+{
+  "name": "Author",
+  "tag": "section",
+  "class": "section-author",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Select Author"
+    },
+    {
+      "type": "select",
+      "id": "author",
+      "options": [
+        {
+          "value": "lika",
+          "label": "Lika"
+        },
+        {
+          "value": "arnout",
+          "label": "Arnout"
+        },
+        {
+          "value": "pim",
+          "label": "Pim"
+        }
+      ],
+      "default": "lika",
+      "label": "author selector"
+    }
+  ],
+  "presets": [
+    {
+      "name": "author"
+    }
+  ]
+}
+{% endschema %}

@@ -404,6 +404,22 @@ class MenuDrawer extends HTMLElement {
   }
 }
 
+function openSubMenu(evt, subMenu) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(subMenu).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+document.getElementById("defaultOpen").click();
+
 customElements.define('menu-drawer', MenuDrawer);
 
 class HeaderDrawer extends MenuDrawer {
@@ -902,10 +918,4 @@ customElements.define('variant-radios', VariantRadios);
 
 if (localStorage.getItem('popup') === null) {
   localStorage.setItem('popup', 'false');
-}
-
-if (localStorage.getItem('popup') === 'true') {
-  var announceDiv = document.getElementById("shopify-section-announcement-bar");
-  announceDiv.style.display = "none";
-  announceDiv.style.height = "0";
 }

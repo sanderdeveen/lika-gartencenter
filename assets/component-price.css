@@ -3,8 +3,6 @@
   letter-spacing: 0.1rem;
   line-height: calc(1 + 0.5 / var(--font-body-scale));
   color: rgb(var(--color-foreground));
-  display: flex;
-  align-items: center;
 }
 
 .price > * {
@@ -18,6 +16,12 @@
 
 .price--end {
   text-align: right;
+  display: flex;
+  gap: 0.6rem;
+}
+
+.price--end br {
+  display: none;
 }
 
 .price .price-item {

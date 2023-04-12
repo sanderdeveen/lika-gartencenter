@@ -55,6 +55,7 @@
   font-size: 1.6rem;
   line-height: 1.5rem;
   color: black;
+  height: fit-content;
 }
 
 .blog-articles .article-card .card__information,

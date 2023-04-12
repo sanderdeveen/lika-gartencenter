@@ -492,6 +492,7 @@
   padding: 1.4rem;
   font-size: 1.4rem;
   line-height: 2.1rem;
+  min-width: 32%;
 }
 .content-container--full-width-mobile li h1,
 .content-container--full-width-mobile li h2 {
@@ -509,6 +510,9 @@
 @media screen and (min-width: 750px) {
   .section-image-banner {
     margin-bottom: 18.4rem;
+  }
+  .section-image-banner .content-container {
+    justify-content: center;
   }
 }
 

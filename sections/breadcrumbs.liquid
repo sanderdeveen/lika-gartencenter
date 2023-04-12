@@ -179,11 +179,14 @@
           {%- endif -%}
           {%- if template contains 'product' -%}
             <span class="breadcrumbs-mob">
+              {%- render 'global-icon'icon: 'chevron-left-mob' -%}
+
+              {%- render 'global-icon'icon: 'chevron-left'-%}
               {% if product.metafields.custom.breadcrumb_link != blank %}
                 <li class="breadcrumbs__list-item item_one"><a class="breadcrumbs__link {% if product.metafields.custom.breadcrumb_link_2 != blank %}has_sec_breadcrumb{% endif %}" href="{{- product.metafields.custom.breadcrumb_link -}}">{{ product.metafields.custom.breadcrumb_name }}</a>{{ divider }}</li>
               {% endif %}
               {% if product.metafields.custom.breadcrumb_link_2 != blank %}
-                {%- render 'global-icon'icon: 'chevron-left'-%}
+                {%- render 'global-icon'icon: 'chevron-left' -%}
                 <li class="breadcrumbs__list-item item_two"><a class="breadcrumbs__link" href="{{- product.metafields.custom.breadcrumb_link_2 -}}">{{ product.metafields.custom.breadcrumb_name_2 }}</a>{{ divider }}</li>
               {% endif %}
               {% if product.metafields.custom.breadcrumb_link_3 != blank %}

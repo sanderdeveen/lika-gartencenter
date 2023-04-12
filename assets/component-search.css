@@ -46,3 +46,7 @@
 input::-webkit-search-decoration {
   -webkit-appearance: none;
 }
+
+.search__input {
+  border-radius: 5rem !important;
+}

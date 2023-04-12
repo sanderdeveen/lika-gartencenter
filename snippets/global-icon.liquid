@@ -6,7 +6,10 @@
     icon_class: "my-class" (optional),
   -%}
 
+  {%- render 'global-icon' icon: 'arrow' -%}
+
 {% endcomment %}
+
 
 {%- if icon != 'none' -%}
 
@@ -24,6 +27,8 @@
   {%- assign svg_attributes = 'xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation"' -%}
 
   {%- case icon -%}
+  {%- when 'clock' -%}
+    <svg class="{{ class }}" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>  
   {%- when 'gc-logo-mob'-%}
     <svg class="{{ class }}" width="130px" height="43px" viewBox="0 0 130 43" version="1.1">
       <title>gartencenter-logo</title>
@@ -210,6 +215,10 @@
       <path fill-rule="evenodd" clip-rule="evenodd" d="M8.29289 5.29289C7.90237 5.68342 7.90237 6.31658 8.29289 6.70711L13.5858 12L8.29289 17.2929C7.90237 17.6834 7.90237 18.3166 8.29289 18.7071C8.68342 19.0976 9.31658 19.0976 9.70711 18.7071L15.7071 12.7071C16.0976 12.3166 16.0976 11.6834 15.7071 11.2929L9.70711 5.29289C9.31658 4.90237 8.68342 4.90237 8.29289 5.29289Z" fill="currentColor"/>
     </svg>
   {%- when 'chevron-left' -%}
+    <svg class="{{ class }}" {{ svg_attributes }} width="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7071 5.29289C16.0976 5.68342 16.0976 6.31658 15.7071 6.70711L10.4142 12L15.7071 17.2929C16.0976 17.6834 16.0976 18.3166 15.7071 18.7071C15.3166 19.0976 14.6834 19.0976 14.2929 18.7071L8.29289 12.7071C7.90237 12.3166 7.90237 11.6834 8.29289 11.2929L14.2929 5.29289C14.6834 4.90237 15.3166 4.90237 15.7071 5.29289Z" fill="currentColor"/>
+    </svg>
+  {%- when 'chevron-left-mob' -%}
     <svg class="{{ class }}" {{ svg_attributes }} width="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7071 5.29289C16.0976 5.68342 16.0976 6.31658 15.7071 6.70711L10.4142 12L15.7071 17.2929C16.0976 17.6834 16.0976 18.3166 15.7071 18.7071C15.3166 19.0976 14.6834 19.0976 14.2929 18.7071L8.29289 12.7071C7.90237 12.3166 7.90237 11.6834 8.29289 11.2929L14.2929 5.29289C14.6834 4.90237 15.3166 4.90237 15.7071 5.29289Z" fill="currentColor"/>
     </svg>
@@ -569,6 +578,16 @@
     <svg class="{{ class }}" {{ svg_attributes }} viewbox="0 0 16 16">
       <path d="M8 14A6 6 0 108 2a6 6 0 000 12zm0 1A7 7 0 108 1a7 7 0 000 14z" fill-rule="evenodd"/>
       <path fill="currentColor" d="M7.64 9.6a.3.3 0 01-.3-.3v-.1c0-.4.07-.75.26-1.07.19-.31.47-.58.85-.87.34-.25.55-.46.67-.66s.17-.4.17-.65v-.01c0-.73-.54-1.25-1.28-1.25-.7 0-1.25.5-1.32 1.31a.3.3 0 01-.3.28H6a.3.3 0 01-.3-.36c.1-1.24 1-2.22 2.32-2.22a2.2 2.2 0 012.28 2.22v.01c0 .42-.1.8-.3 1.14-.2.34-.5.64-.9.93-.34.25-.52.44-.63.6-.1.17-.14.35-.14.64v.06a.3.3 0 01-.3.3h-.39zm.94 1.98c0 .39-.28.72-.69.72-.4 0-.69-.33-.69-.72a.7.7 0 01.7-.71c.4 0 .68.33.68.71z" fill-rule="evenodd"/>
+    </svg>
+  {%- when 'exclamation_mark' -%}
+    <svg class="{{ class }}" {{ svg_attributes }} viewBox="0 0 13 13" version="1.1">
+      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="exclamation_mark">
+              <circle id="Oval" stroke="#000000" cx="6.5" cy="6.5" r="6"/>
+              <rect id="Rectangle" fill="#000000" x="6" y="2" width="1" height="1"/>
+              <line x1="6.5" y1="4.5" x2="6.5" y2="10.5" id="Line" stroke="#000000" stroke-linecap="square"/>
+          </g>
+      </g>
     </svg>
   {%- when 'return' -%}
     <svg class="{{ class }}" {{ svg_attributes }} viewbox="0 0 16 16">

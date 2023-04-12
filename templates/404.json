@@ -12,25 +12,31 @@
         "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Huch! Diese Seite ist leer.<\/p>"
+            "heading": "<p>Hoppla! Diese Internetseite ist leer.<\/p>"
           }
         },
         "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Leider wurde die Seite, die hier sein sollte, nicht gefunden. Das kann verschiedene Gründe haben, aber wir haben eine Lösung!<\/p>"
+            "text": "<p>Die Seite, die sich hier befinden sollte, konnte leider nicht gefunden werden. Das kann verschiedene Ursachen haben, doch es gibt für dieses Problem eine Lösung!<\/p>"
           }
         },
         "08836d4a-9fb9-4061-864d-f9e9beea69f1": {
           "type": "unordered_list",
           "settings": {
-            "unordered_list": "<p>- Wenn Sie die URL selbst direkt eingegeben haben, prüfen Sie die Rechtschreibung, vielleicht liegt der Fehler dort. *<br\/>- Wenn Sie auf diese Seite gelangt sind, nachdem Sie auf einen Link geklickt haben, dann ist der Link veraltet und nicht mehr aktuell *<\/p>"
+            "unordered_list": "<p>- Falls Sie die URL in die Suche eingegeben haben, sollten Sie die Schreibweise überprüfen. Möglicherweise liegt darin der Fehler. *<br\/>- Wenn Sie diese Seite durch das Anklicken eines Links erreicht haben, ist der Link veraltet und nicht auf dem neuesten Stand. *<\/p>"
+          }
+        },
+        "776ba352-7871-49c1-beec-4c07a1e9175a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vielleicht hilft Ihnen eine der nachfolgenden Anweisungen weiter:<\/p>"
           }
         },
         "0e7360e3-0fc0-4798-b25d-abe3c2cef194": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/\" title=\"\/\">Gehen Sie zurück zur Homepage.<\/a><\/p>"
+            "text": "<p><a href=\"\/\" title=\"\/\">Gehen Sie zurück zur Homepage<\/a>.<\/p>"
           }
         }
       },
@@ -38,6 +44,7 @@
         "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-0",
         "template--15760788226228__3217af89-3bc4-4c24-afbb-40f9707b5673-16740492661ba8d715-1",
         "08836d4a-9fb9-4061-864d-f9e9beea69f1",
+        "776ba352-7871-49c1-beec-4c07a1e9175a",
         "0e7360e3-0fc0-4798-b25d-abe3c2cef194"
       ],
       "settings": {

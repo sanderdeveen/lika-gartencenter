@@ -223,7 +223,7 @@
       }
     },
     "cart": {
-      "cart": "Warenkorb",
+      "cart": "Ihr Warenkorb",
       "title": ""
     },
     "contact": {
@@ -250,20 +250,29 @@
     "header": {
       "announcement": "Ankündigung",
       "menu": "Menü",
+      "contact": "Kontakt",
+      "gardenplants": "Gartenpflanzen",
+      "houseplants": "Zimmerpflanzen",
+      "three": "Bäume",
+      "lawn": "Rasen",
+      "potting": "Blumenerde",
+      "menure": "Dünger",
+      "garden_accessories": "Gartenzubehor",
       "cart_count": {
         "one": "{{ count }} Artikel",
         "other": "{{ count }} Artikel"
       }
     },
     "cart": {
-      "title": "Dein Warenkorb",
+      "title": "Ihr Warenkorb",
       "caption": "Artikel im Warenkorb",
       "remove_title": "{{ title }} entfernen",
-      "subtotal": "Zwischensumme",
+      "subtotal": "Gesamtbedrag",
+      "total_products": "Produkte",
       "new_subtotal": "Neue Zwischensumme",
       "note": "Spezielle Bestellanweisungen",
-      "checkout": "Auschecken",
-      "empty": "Dein Warenkorb ist leer",
+      "checkout": "Zum warenkorb",
+      "empty": "Warenkorb ist leer",
       "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",
       "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden beim Checkout berechnet",
@@ -333,7 +342,7 @@
       "view_addresses": "Adressen anzeigen",
       "return": "Zurück zu Kontodetails"
     },
-    "account_fallback": "Konto",
+    "account_fallback": "Mein Konto",
     "activate_account": {
       "title": "Konto aktivieren",
       "subtext": "Erstelle ein Passwort, um dein Konto zu aktiveren.",
@@ -431,7 +440,7 @@
       "tracking_url": "Tracking-Link",
       "tracking_company": "Versanddienstleister",
       "tracking_number": "Trackingnummer",
-      "subtotal": "Zwischensumme",
+      "subtotal": "Gesamtbedrag",
       "total_duties": "Zollgebühren"
     }
   },
@@ -448,6 +457,18 @@
       "expired": "Abgelaufen",
       "copy_code_success": "Code erfolgreich kopiert",
       "print_gift_card": "Drucken"
+    }
+  },
+  "shopify": {
+    "collections": {
+      "sorting": {
+        "best_selling": "Meistverkauft",
+        "az": "alphabetisch A-Z",
+        "za": "alphabetisch Z-A",
+        "price_ascending": "Preis aufsteigend",
+        "price_descending": "Preis absteigend",
+        "manual": "Ausgewählt"
+      }
     }
   }
 }

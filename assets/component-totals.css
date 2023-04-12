@@ -1,8 +1,18 @@
 .totals {
   display: flex;
   justify-content: flex-start;
+}
+
+.main-cart-footer.totals .totals-postage_costs {
   justify-content: space-between;
-  flex-direction: column;
+}
+
+.cart-drawer .totals {
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: start;
+  font-weight: 700;
+  color: #000;
 }
 
 .totals li {
@@ -10,11 +20,16 @@
   justify-content: space-between;
   margin: 0;
   line-height: 2.4rem;
+  align-items: center;
 }
 
 .totals-total {
   color: #000;
   font-weight: 700;
+}
+
+.totals-total .totals-total-discount {
+  margin-left: auto;
 }
 
 .totals > * {
@@ -30,10 +45,6 @@
   line-height: 1;
 }
 
-.totals > * + * {
-  margin-top: 2rem;
-}
-
 .totals__subtotal-value {
   font-size: 1.8rem;
 }
@@ -41,9 +52,46 @@
 .totals__subtotal-freeshipping {
   color: #7bba59;
   font-weight: 600;
+  margin-left: auto;
 }
 
 .cart__ctas + .totals {
   margin-top: 2rem;
 }
 
+.totals__subtotal {
+  margin-right: auto;
+  font-size: 1.6rem;
+}
+
+.totals__subtotal-value {
+  font-weight: 600;
+}
+
+.totals__subtotal-value,
+.hulkapps-cart-total {
+  font-size: 1.6rem;
+}
+
+.hulkapps-cart-total {
+  font-weight: 600;
+}
+
+.cart-drawer__footer {
+  margin-bottom: 1.4rem;
+}
+
+.cart-drawer__footer ul {
+  margin: 0;
+  padding: 0;
+}
+
+.main-cart-footer.totals li {
+  justify-content: start;
+  gap: 0.6rem;
+}
+
+.main-cart-footer .totals__subtotal-value {
+  gap: 0.4rem;
+  margin-left: auto;
+}

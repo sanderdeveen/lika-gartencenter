@@ -35,11 +35,12 @@
     <div class="cart__items" id="main-cart-items" data-id="{{ section.id }}">
       <div class="js-contents">
         {%- if cart != empty -%}
-          <table class="cart-items">
+          <table class="cart-items main-cart-items">
             <caption class="visually-hidden">{{ 'sections.cart.title' | t }}</caption>
             <tbody>
+              {{ item.product.vendor }}
               {%- for item in cart.items -%}
-                <tr class="cart-item shadow" id="CartItem-{{ item.index | plus: 1 }}">
+                <tr data-hulkapps-lineitem class="cart-item shadow cart-page-item_info" id="CartItem-{{ item.index | plus: 1 }}">
                   <td class="cart-item__media">
                     {% if item.image %}
                       {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
@@ -67,31 +68,38 @@
                         {%- if item.product.has_only_default_variant == false -%}
                           {%- for option in item.options_with_values -%}
                             <div class="product-option">
-                              <dt>{{ option.name }}: </dt>
                               <dd>{{ option.value }}</dd>
                             </div>
+                            {%- assign item_sku = item.sku | slice: 0, 3 | escape | downcase | remove: "&nbsp;" -%}
+
+                            {% if item_sku == 'bob' %}
+                            <b>Versandkosten 200,00</b>
+                            {% endif %}
                           {%- endfor -%}
                         {%- endif -%}
 
-                        {%- for property in item.properties -%}
-                          {%- assign property_first_char = property.first | slice: 0 -%}
-                          {%- if property.last != blank and property_first_char != '_' -%}
-                            <div class="product-option">
-                              <dt>{{ property.first }}: </dt>
-                              <dd>
-                                {%- if property.last contains '/uploads/' -%}
-                                  <a href="{{ property.last }}" class="link" target="_blank">
-                                    {{ property.last | split: '/' | last }}
-                                  </a>
-                                {%- else -%}
-                                  {{ property.last }}
-                                {%- endif -%}
-                              </dd>
-                            </div>
-                          {%- endif -%}
-                        {%- endfor -%}
+                    <div class='hulkapps-reminder' data-key='{{item.key}}'></div>
+                    <span data-hulkapps-line-properties>
+                      {%- for property in item.properties -%}
+                        {%- assign property_first_char = property.first | slice: 0 -%}
+                        {%- if property.last != blank and property_first_char != '_' -%}
+                          <div class="product-option">
+                            <dt>{{ property.first }}: </dt>
+                            <dd>
+                              {%- if property.last contains '/uploads/' -%}
+                                <a href="{{ property.last }}" class="link" target="_blank">
+                                  {{ property.last | split: '/' | last }}
+                                </a>
+                              {%- else -%}
+                                {{ property.last }}
+                              {%- endif -%}
+                            </dd>
+                          </div>
+                        {%- endif -%}
+                      {%- endfor -%}
+                    </span>
+                    <button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
                       </dl>
-
                       <p class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</p>
                     {%- endif -%}
 
@@ -119,19 +127,19 @@
                             {{ 'products.product.price.regular_price' | t }}
                           </dt>
                           <dd>
-                            <s class="cart-item__old-price price price--end">
+                            <s data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
                               {{ item.original_line_price | money }}
                             </s>
                           </dd>
                           <dt class="visually-hidden">
                             {{ 'products.product.price.sale_price' | t }}
                           </dt>
-                          <dd class="price price--end">
+                          <dd data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                             {{ item.final_line_price | money }}
                           </dd>
                         </dl>
                       {%- else -%}
-                        <span class="price price--end">
+                        <span  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                           {{ item.original_line_price | money }}
                         </span>
                       {%- endif -%}
@@ -192,21 +200,34 @@
                             {{ 'products.product.price.regular_price' | t }}
                           </dt>
                           <dd>
-                            <s class="cart-item__old-price price price--end">
+                            <s data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
                               {{ item.original_line_price | money }}
                             </s>
                           </dd>
                           <dt class="visually-hidden">
                             {{ 'products.product.price.sale_price' | t }}
                           </dt>
-                          <dd class="price price--end">
+                          <dd data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                             {{ item.final_line_price | money }}
                           </dd>
                         </dl>
                       {%- else -%}
-                        <span class="price price--end">
+
+                      {% if item.quantity >= 2 %}
+                        <div class="price-total-hulk">
+                        <div data-hulkapps-ci-price data-key='{{ item.key }}' class="product-option">
+                          {{ item.original_price | money }}
+                        </div>
+                        <span>/ stuk</span>
+                        </div>
+                        <span  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                           {{ item.original_line_price | money }}
                         </span>
+                      {% else %}
+                        <span  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
+                          {{ item.original_line_price | money }}
+                        </span>
+                      {% endif %}  
                       {%- endif -%}
 
                       {%- if item.variant.available and item.unit_price_measurement -%}
@@ -231,7 +252,7 @@
                     </cart-remove-button>
                   </td>
                 </tr>
-                <tr class="separator" colspan="2" style="height: 10px;"></tr>
+                <tr data-hulkapps-lineitem class="separator" colspan="2" style="height: 10px;"></tr>
               {%- endfor -%}
             </tbody>
           </table>
@@ -244,8 +265,8 @@
   </form>
 </cart-items>
 
-<div class="page-width bestsellers cart__items-rebuy">
-  <div class="bestsellers--inner">
+<div class="page-width cart__items-rebuy">
+  <div class="cart__items-rebuy--inner">
     <div class="rebuy--upsel-cart" data-rebuy-id="68962" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
   </div>
 </div>

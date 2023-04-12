@@ -1,0 +1,564 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+      }
+    },
+    "7f1a002a-7b6a-4960-82ad-16ecf05a665f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__7f1a002a-7b6a-4960-82ad-16ecf05a665f-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Welche Hortensie habe ich?<\/p>"
+          }
+        },
+        "template--15922757337268__7f1a002a-7b6a-4960-82ad-16ecf05a665f-1675940708332a6e8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt viele verschiedene Hortensienarten und -sorten. Sie sind in allen möglichen Farben, wie etwa Blau, Violett, Rot, Weiß, oder Rosa erhältlich, und es gibt sogar Hortensien, die ihre Farbe wechseln! Neben der beliebten <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensie<\/a> stehen auch <a href=\"\/products\/schneeball-hortensie-annabelle\" title=\"Schneeballhortensie 'Annabelle'\">Schneeballhortensien<\/a> <em>(Hydrangea 'Annabelle') <\/em>oder <a href=\"\/collections\/langbluehende-hortensien\" title=\"Langblühende Hortensien\">langblühende Hortensien<\/a> zur Auswahl. Schneeballhortensien sind bekannt für ihre großen, kugelförmigen Blütenstände.<\/p>"
+          }
+        },
+        "ad725073-c229-478f-b3ef-396621adc91c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Weitere besondere Varietäten sind die <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensie<\/a> mit ihren riesigen kegelförmigen Blütenrispen, die <a href=\"\/collections\/kletterhortensien\" title=\"Kletterhortensien\">Kletterhortensie<\/a> oder die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblättrige Hortensie<\/a>, deren Blätter sich im Herbst wunderschön verfärben. Die meisten Hortensien lieben halbschattige Standorte, es gibt jedoch auch Sorten, die die Sonne gut vertragen. Wenn Sie einmal wissen, welche Hortensie Sie in Ihrem Garten haben, können Sie einfach herausfinden, wann und wie Sie sie am besten zurückscheiden können.<\/p>"
+          }
+        },
+        "502a552e-2405-488e-9af0-f09e4e6b1c8c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Einjähriges oder mehrjähriges Holz<\/p>"
+          }
+        },
+        "36496251-4d00-4267-9b0a-57488d2f3daf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die meisten Hortensienarten blühen an alten Trieben, dem sogenannten <strong>mehrjährigen Holz<\/strong>. Das bedeutet, dass sich die Blüten an den alten Trieben aus dem Vorjahr bilden. Es gibt aber auch Hortensien, die an neuen Trieben, also am <strong>einjährigen Holz<\/strong>, blühen. Das bedeutet, dass sich die Blüten an den diesjährigen Trieben bilden.<\/p>"
+          }
+        },
+        "14ce2c6b-9cda-444a-a418-89d2b0dcb126": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um die Sache zu vereinfachen, finden Sie hier eine Liste der Hortensien, die am mehrjährigen Holz blühen und eine Liste der Hortensien, die am einjährigen Holz blühen. Sollten Sie dennoch Fragen zu Ihrer Hortensie haben, nehmen Sie bitte <a href=\"\/pages\/kontakt\" title=\"Kontakt\">Kontakt<\/a> mit uns auf!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__7f1a002a-7b6a-4960-82ad-16ecf05a665f-1675940708332a6e8c-0",
+        "template--15922757337268__7f1a002a-7b6a-4960-82ad-16ecf05a665f-1675940708332a6e8c-1",
+        "ad725073-c229-478f-b3ef-396621adc91c",
+        "502a552e-2405-488e-9af0-f09e4e6b1c8c",
+        "36496251-4d00-4267-9b0a-57488d2f3daf",
+        "14ce2c6b-9cda-444a-a418-89d2b0dcb126"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "0694fd94-8283-4b86-9aab-c163d9e1c70c": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Hortensien, die am mehrjährigen Holz blühen",
+        "text_first": "",
+        "product_1": "bauernhortensie-blau",
+        "product_2": "bauernhortensie-rot",
+        "product_3": "bauernhortensie-weiss",
+        "button_text_first": "",
+        "url_first": "",
+        "header_second": "Hortensien, die am einjährigen Holz blühen",
+        "text_second": "",
+        "product_4": "rispenhortensie-limelight",
+        "product_5": "schneeball-hortensie-annabelle",
+        "product_6": "",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "132aeac5-5a89-48f1-8282-67cb915d41b5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__132aeac5-5a89-48f1-8282-67cb915d41b5-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nicht zurückgeschnittene Bauernhortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__132aeac5-5a89-48f1-8282-67cb915d41b5-1675940708332a6e8c-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "35c9905c-7019-4e3e-96b4-b9c7b3e0a151": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "4907dcbf-3b59-42be-aaf2-2dffc2c73081": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bauernhortensie-in-der-winter.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "cf16e235-cea0-42ff-926a-4675a24738cf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bauernhortensie-im-sommer-weiss.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "4907dcbf-3b59-42be-aaf2-2dffc2c73081",
+        "cf16e235-cea0-42ff-926a-4675a24738cf"
+      ],
+      "settings": {
+      }
+    },
+    "472068b7-e048-4be3-a4f7-0123c9239b2a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__472068b7-e048-4be3-a4f7-0123c9239b2a-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nicht zurückgeschnittene Schneeball- und Rispenhortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__472068b7-e048-4be3-a4f7-0123c9239b2a-1675940708332a6e8c-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "691ab875-5383-487d-bc15-189c0584659f": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "72b2f6e3-ceeb-4ecf-b8f9-0ff42f2b20b2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schneeballhortensie-und-rispenhortensie-im-winter.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "52b93147-7188-49a5-a2e0-bb7fff8a34dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schneeballhortensie-und-rispenhortensie-im-sommer.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "72b2f6e3-ceeb-4ecf-b8f9-0ff42f2b20b2",
+        "52b93147-7188-49a5-a2e0-bb7fff8a34dd"
+      ],
+      "settings": {
+      }
+    },
+    "ac85399b-1b2e-476e-8932-a72942b3bb6e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__ac85399b-1b2e-476e-8932-a72942b3bb6e-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Zurückgeschnittene Hortensien<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__ac85399b-1b2e-476e-8932-a72942b3bb6e-1675940708332a6e8c-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1ebbce1f-565f-4a9b-b83f-55a6b3b49370": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "16a2b190-3e07-4463-a915-e1817d54ea3d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zuruckgeschittene-hortensien-bauerenhortensien.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "6fcd4780-96d6-4694-9276-77d5208c6989": {
+          "type": "image",
+          "settings": {
+            "text": "",
+            "url": ""
+          }
+        },
+        "7ccd4dd2-d553-451d-a03c-b6d552b2ea9a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zurueckgeschnittene-rispenhortensien.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "9f5f36fb-11d3-48d5-9a6e-d9a74a5d1963": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zurueckgeschnittene-schneeballhortensie-neu.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16a2b190-3e07-4463-a915-e1817d54ea3d",
+        "6fcd4780-96d6-4694-9276-77d5208c6989",
+        "7ccd4dd2-d553-451d-a03c-b6d552b2ea9a",
+        "9f5f36fb-11d3-48d5-9a6e-d9a74a5d1963"
+      ],
+      "settings": {
+      }
+    },
+    "da937ebf-2b17-45a3-a15b-e265f04653e5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__da937ebf-2b17-45a3-a15b-e265f04653e5-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wann sollte man Hortensien zurückschneiden?<\/p>"
+          }
+        },
+        "template--15922757337268__da937ebf-2b17-45a3-a15b-e265f04653e5-1675940708332a6e8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der beste Zeitpunkt zum Zurückschneiden von Hortensien ist <strong>nach dem Winter bzw. im frühen Frühjahr (März\/April)<\/strong>. Behalten Sie dabei die Wettervorhersage im Auge, denn nach dem Rückschnitt sollte es nicht mehr frieren, da die Schnittstellen frostempfindlich sind. Der Rückschnitt sollte daher erst nach dem letzten Nachtfrost erfolgen. <\/p>"
+          }
+        },
+        "cb6b5a94-400f-4294-b6fc-3f45a1de5f60": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Oft werden die <strong>verblühten Blütenstände<\/strong> schon im Herbst abgeschnitten. Davon raten wir allerdings ab. Besser ist es, die verblühten Blütenstände auch im Winter stehen zu lassen, da sie die Pflanze vor Frost schützen und obendrein hübsch aussehen!<\/p>"
+          }
+        },
+        "a2ea4da6-1d99-414a-beff-994d5145832d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien zurückschneiden – gewusst wie!<\/p>"
+          }
+        },
+        "4fbdcdca-3713-4054-a713-3a312f7a01fd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viele halten das Zurückschneiden von Hortensien, die am <strong>einjährigen Holz<\/strong> blühen, für einfacher, weil man dabei nichts falsch machen kann. Dabei ist der Rückschnitt von Hortensien, die am <strong>mehrjährigen Holz<\/strong> blühen fast genau einfach. Vorausgesetzt, man weiß, wie es geht. Deshalb sollten Sie sich, bevor Sie zur Gartenschere greifen, vergewissern, um welche Hortensienart es sich handelt.<\/p>"
+          }
+        },
+        "aab8f9a1-4ab4-48da-9212-54e5ed696d43": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Die richtige Gartenschere<\/p>"
+          }
+        },
+        "fc2cebfc-2e48-45e8-abce-b116a886d55a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Auch auf des richtige Gartenwerkzeug kommt es an. Verwenden Sie zum Zurückschneiden von Hortensien immer eine scharfe Gartenschere. Nur mit einer scharfen Gartenschere lassen sich die Zweige sauber und pflanzenschonend abschneiden. Stumpfes Werkzeug führt zu Quetschungen oder lässt ausgefranste Schnittstellen zurück, die die Pflanze anfälliger für Krankheitserreger und Schädlinge machen. Die Gartenscheren von Gardena haben sehr scharfe Klingen und ergonomisch geformte Griffe, liegen gut in der Hand und schonen das Handgelenk. So macht Gartenarbeit Spaß!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__da937ebf-2b17-45a3-a15b-e265f04653e5-1675940708332a6e8c-0",
+        "template--15922757337268__da937ebf-2b17-45a3-a15b-e265f04653e5-1675940708332a6e8c-1",
+        "cb6b5a94-400f-4294-b6fc-3f45a1de5f60",
+        "a2ea4da6-1d99-414a-beff-994d5145832d",
+        "4fbdcdca-3713-4054-a713-3a312f7a01fd",
+        "aab8f9a1-4ab4-48da-9212-54e5ed696d43",
+        "fc2cebfc-2e48-45e8-abce-b116a886d55a"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e5db38c4-37b8-42df-9130-237739f6fca4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__e5db38c4-37b8-42df-9130-237739f6fca4-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ich habe eine Hortensie, die am mehrjährigen Holz blüht. Wie wird sie zurückgeschnitten?<\/p>"
+          }
+        },
+        "template--15922757337268__e5db38c4-37b8-42df-9130-237739f6fca4-1675940708332a6e8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien, die an alten Trieben blühen, müssen im Grunde genommen nicht zurückgeschnitten werden. Es müssen lediglich die verblühten Blütenstände entfernt werden. Da Hortensien aber sehr groß werden können, kann es manchmal notwendig sein, sie zurückzuschneiden. Hortensien, die am mehrjährigen Holz blühen, schneidet man in zwei einfachen Schritten zurück.<\/p>"
+          }
+        },
+        "a5029fae-ffcc-4b37-9637-d69871a339d9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>1. Schritt<\/p>"
+          }
+        },
+        "7ccddc3f-013a-4f07-98fd-834b5dee18ff": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schneiden Sie die verblühten Blütenstände im <strong>Frühjahr (März oder April)<\/strong> bis zu den neuen Blattknospen ab. Wenn man sie erst nach dem Winter zurückschneidet, hat man noch den ganzen Winter Freude an den dekorativen Blüten, die gerade im Winter mit Raureif oder Schnee wunderschön aussehen. Außerdem hat der Rückschnitt im Frühjahr den Vorteil, dass die Pflanze besser gegen Frost geschützt ist.<\/p>"
+          }
+        },
+        "d05e99f7-300a-48e2-94c3-bc01d1244dd3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>2. Schritt<\/p>"
+          }
+        },
+        "fe787dd7-ce3e-4190-8062-d8dfe6ddb16d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schneiden Sie jetzt etwa ein Drittel der alten Triebe bis auf 10 cm über der Strauchbasis ab, damit sich die Hortensie verjüngt. Schneiden Sie dabei immer die toten Zweige, überhängende äußere Zweige bzw. die längsten oder ältesten Triebe heraus. An den verbliebenen Zweigen bilden sich noch im selben Jahr neue Blüten. So erhalten Sie eine Hortensie, die im Sommer reichlich blüht!<\/p>"
+          }
+        },
+        "ebba5c27-e225-47c3-80a0-21727213117a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie Ihre Hortensie radikal zurückschneiden, weil sie zu groß geworden ist? Schneiden Sie etwa die Hälfte der alten Triebe bis auf 10 cm über der Strauchbasis zurück, und im nächsten Jahr die andere Hälfte. An den zurückgeschnittenen Trieben bilden sich im selben Jahr keine Blüten mehr. An den neuen Trieben bilden sich erst im nächsten Jahr wieder Blüten. Im darauffolgenden Jahr schneiden Sie dann die andere Hälfte der Zweige zurück.<\/p>"
+          }
+        },
+        "261fa446-3794-4f28-918d-eece94b8a86f": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/bauernhortensien-zurueckschneiden.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "e3844a93-6ee8-41ee-a516-3a19d0bc9637": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ich habe eine Hortensie, die am einjährigen Holz blüht. Wie wird sie zurückgeschnitten?<\/p>"
+          }
+        },
+        "83173b38-7e14-4c7b-9ad4-b53e21f1c61b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie eine Hortensie haben, die am einjährigen Holz blüht, gibt es nur eine Methode, sie zurückzuschneiden. Der Rückschnitt erfolgt am besten im <strong>Frühjahr (März\/April)<\/strong>. Schneiden Sie alle Triebe der Hortensie bis auf 10 cm über der Strauchbasis zurück. Setzen Sie die Gartenschere beim Abschneiden der Zweige in einem Winkel von 45 Grad an, um eventuelle Quetschungen der Pflanze zu vermeiden. Nach dem Rückschnitt bildet die Hortensie neue Triebe, an denen sich noch im selben Jahr neue Blüten bilden. Wenn die Hortensie nicht so radikal zurückgeschnitten werden soll, schneiden Sie die Zweige einfach etwas länger ab. Dadurch behält der Strauch seine Größe.<\/p>"
+          }
+        },
+        "112292d2-a3c0-4700-abc5-63b28df327a9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Tipps:<\/p>"
+          }
+        },
+        "10644068-d458-4a83-ba90-e97753eb3f94": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- Verwenden Sie zum Zurückschneiden Ihrer Hortensie eine Gardena Comfort Gartenschere*<\/p><p>- Düngen Sie Ihre Hortensie nach dem Rückschnitt mit Hortensiendünger, damit sie ihre volle Blütenpracht entfalten kann*<\/p>"
+          }
+        },
+        "142418f0-5170-4b28-a324-83a51186f716": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/schneeballhortensien-zurueckschneiden.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "b6765455-2587-4a0e-b2da-558af97bc5c7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Keine Zeit für Gartenarbeit? Nehmen Sie eine Eichenblättrige Hortensie!<\/p>"
+          }
+        },
+        "0e7eba16-66b9-437e-bfa5-ccd474fe1b67": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie trotz unserer praktischen Tipps keine Lust auf Gartenarbeit? Kein Problem! Die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblättrige Hortensie<\/a> muss überhaupt nicht zurückgeschnitten werden und besticht mit ihren wunderschönen Blättern, die sich im Herbst purpurrot verfärben. Sollte die Eichenblättrige Hortensie im Laufe der Zeit doch zu groß geworden sein, kann ein Teil der Wurzeltriebe ausgestochen werden.<\/p>"
+          }
+        },
+        "52f77d63-6188-4db4-b9a0-11050e0faa62": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Schnittabfall – dekorative Trockenblumen oder neue Stecklinge<\/p>"
+          }
+        },
+        "4fb9a0f5-688c-47ea-beff-031db618cc2b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Werfen Sie den Schnittabfall Ihrer Hortensie bitte nicht weg, denn man kann ihn wunderbar wiederverwenden! Die vertrockneten Blütenstände machen sich ganz toll als Trockenblumen in Sträußen oder Deko-Arrangements. Und aus den abgeschnittenen Trieben lassen sich relativ einfach neue Stecklinge ziehen. So können Sie Ihren grünen Daumen entdecken und auch andere mit einer selbst gezogenen Pflanze überraschen! Hortensien vermehren – so wird‘s gemacht:<\/p>"
+          }
+        },
+        "a5261ea4-d5c3-4779-8640-09cda3fb8792": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- Schneiden Sie die abgeschnittenen Hortensienzweige in 10 bis 15 cm lange Stücke*<\/p><p>- Entfernen Sie die untersten Blätter der Stecklinge*<\/p><p>- Tauchen Sie die Unterseite der Stecklinge kurz in Pokon Bewurzelungspulver*<\/p><p>- Setzen Sie die Stecklinge in kleine Töpfe mit Pokon Aussaat- und Stecklingserde Bio*<\/p><p>- Decken Sie die Töpfe mit Plastik ab, um Feuchtigkeit zu sparen*<\/p><p>- Stellen Sie Töpfe an einen hellen, sonnengeschützten Ort<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__e5db38c4-37b8-42df-9130-237739f6fca4-1675940708332a6e8c-0",
+        "template--15922757337268__e5db38c4-37b8-42df-9130-237739f6fca4-1675940708332a6e8c-1",
+        "a5029fae-ffcc-4b37-9637-d69871a339d9",
+        "7ccddc3f-013a-4f07-98fd-834b5dee18ff",
+        "d05e99f7-300a-48e2-94c3-bc01d1244dd3",
+        "fe787dd7-ce3e-4190-8062-d8dfe6ddb16d",
+        "ebba5c27-e225-47c3-80a0-21727213117a",
+        "261fa446-3794-4f28-918d-eece94b8a86f",
+        "e3844a93-6ee8-41ee-a516-3a19d0bc9637",
+        "83173b38-7e14-4c7b-9ad4-b53e21f1c61b",
+        "112292d2-a3c0-4700-abc5-63b28df327a9",
+        "10644068-d458-4a83-ba90-e97753eb3f94",
+        "142418f0-5170-4b28-a324-83a51186f716",
+        "b6765455-2587-4a0e-b2da-558af97bc5c7",
+        "0e7eba16-66b9-437e-bfa5-ccd474fe1b67",
+        "52f77d63-6188-4db4-b9a0-11050e0faa62",
+        "4fb9a0f5-688c-47ea-beff-031db618cc2b",
+        "a5261ea4-d5c3-4779-8640-09cda3fb8792"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "5df52d8a-e2db-4b1c-a107-99db41f0a6a5": {
+      "type": "faq",
+      "blocks": {
+        "template--15922757337268__5df52d8a-e2db-4b1c-a107-99db41f0a6a5-16759519279f304697-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Können Hortensien im Herbst zurückgeschnitten werden?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien können am besten im <strong>Frühjahr<\/strong> zurückgeschnitten werden, da sich die Pflanze dann in ihrer Ruhephase befindet und noch genügend Zeit hat, sich auf die neue Blüte vorzubereiten. Außerdem schützen die alten Blütenstände vor eventuellen Frostschäden und sind zugleich eine dekorative Bereicherung für den winterlichen Garten!<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "e5c5aa69-b29e-45cd-849c-4ab17bea9e90": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie schneidet man verblühte Hortensien zurück?",
+            "custom_liquid_1": "",
+            "content": "<p>Die verblühten Blütenstände der Hortensie werden oberhalb der bereits im Vorjahr angelegten Blattknospen abgeschnitten, vorzugsweise so hoch wie möglich. Man kann die Blüten zwar das ganze Jahr über abschneiden, doch wenn man sie im Winter dran lässt, ist die Pflanze besser vor eventuellen Frostschäden geschützt.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "1550e337-dea4-48ff-aac3-ba086120c95d": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was passiert, wenn man Hortensien nicht zurückschneidet?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien können sehr groß werden. <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensien<\/a> können ohne Rückschnitt bis zu 2,5 Meter hoch werden! Um zu verhindern, dass sich Ihre Hortensien zu sehr im Garten ausbreiten, ist es ratsam, sie ab und zu zurückzuschneiden. Für alle, die keine Lust auf Gartenarbeit haben, gibt es auch Hortensienarten, die nicht zurückgeschnitten werden müssen, wie etwa die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblättrige Hortensie<\/a>.<\/p><p>Die <a href=\"\/products\/kletterhortensie-petiolaris\" title=\"Kletterhortensie 'Petiolaris'\">Kletterhortensie<\/a> kommt zwar ganz ohne Rückschnitt aus, kann jedoch bis zu 20 Meter hoch werden! Deshalb empfiehlt es sich, auch diese Hortensie nach der Blüte zurückzuschneiden.<\/p><p><a href=\"\/products\/schneeballhortensie-strong-annabelle\" title=\"Schneeballhortensie 'Strong Annabelle'\">Schneeballhortensien<\/a> (Strong Annabelle) profitieren davon, sie möglichst wenig zurückzuschneiden. Ihre riesigen Blütenstände werden nämlich noch größer, wenn man sie sehr kurz zurückschneidet. Die Blüten können dann so schwer werden, dass sich die Triebe zum Boden neigen oder sogar abbrechen. Deshalb empfiehlt es sich, diese Hortensienart nur wenig oder gar nicht zurückzuschneiden. Dadurch bildet die Pflanze etwas kleinere Blüten und stabilere Triebe, die die Blütenlast besser tragen können. <\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "220183e3-0ede-4d66-9a16-be25d365ba13": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Pflege benötigen Hortensien?",
+            "custom_liquid_1": "",
+            "content": "<p>Hortensien sind relativ pflegeleichte Pflanzen. Wie wichtig das Zurückschneiden ist, wurde in diesem Artikel bereits ausführlich behandelt. Zudem sollten Hortensien zweimal pro Jahr mit Compo Rhodo- und Hortensien Vital gedüngt werden. Und schließlich können blaue Hortensien zusätzlich dazu mit Compo Blaue Hortensien gedüngt werden, damit sie ihre schöne blaue Farbe behalten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__5df52d8a-e2db-4b1c-a107-99db41f0a6a5-16759519279f304697-0",
+        "e5c5aa69-b29e-45cd-849c-4ab17bea9e90",
+        "1550e337-dea4-48ff-aac3-ba086120c95d",
+        "220183e3-0ede-4d66-9a16-be25d365ba13"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zum Zurückschneiden von Hortensien"
+      }
+    },
+    "0ee59d20-e841-478f-acdc-311a5d701de5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757337268__0ee59d20-e841-478f-acdc-311a5d701de5-1675940708332a6e8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie beim Lesen dieses Artikels auch Lust auf Hortensien bekommen? Wir stehen Ihnen gerne mit Ratschlägen und Tipps zum Pflanzen und Umsetzen von Hortensien zur Seite. Bevorzugen Sie andere Gartenpflanzen? Sehen Sie sich gerne bei unseren <a href=\"\/collections\/zierstraeucher\" title=\"Ziersträucher\">Sträuchern<\/a> um.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757337268__0ee59d20-e841-478f-acdc-311a5d701de5-1675940708332a6e8c-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "5440041f-baf3-4640-bfb9-366d08d0ab2a": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7f1a002a-7b6a-4960-82ad-16ecf05a665f",
+    "0694fd94-8283-4b86-9aab-c163d9e1c70c",
+    "132aeac5-5a89-48f1-8282-67cb915d41b5",
+    "35c9905c-7019-4e3e-96b4-b9c7b3e0a151",
+    "472068b7-e048-4be3-a4f7-0123c9239b2a",
+    "691ab875-5383-487d-bc15-189c0584659f",
+    "ac85399b-1b2e-476e-8932-a72942b3bb6e",
+    "1ebbce1f-565f-4a9b-b83f-55a6b3b49370",
+    "da937ebf-2b17-45a3-a15b-e265f04653e5",
+    "e5db38c4-37b8-42df-9130-237739f6fca4",
+    "5df52d8a-e2db-4b1c-a107-99db41f0a6a5",
+    "0ee59d20-e841-478f-acdc-311a5d701de5",
+    "5440041f-baf3-4640-bfb9-366d08d0ab2a"
+  ]
+}

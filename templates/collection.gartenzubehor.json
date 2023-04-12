@@ -91,9 +91,9 @@
         "show_collection_description": true,
         "show_collection_image": true,
         "top_sellers": "Topseller Gartenzubehör",
-        "featured_product_one": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
+        "featured_product_one": "elho-vivo-matt-finish-long-rollen-weiss",
         "featured_product_two": "compo-sana-qualitaets-blumenerde",
-        "featured_product_three": "compo-turbo-rasenduenger",
+        "featured_product_three": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
         "color_scheme": "background-1"
       }
     },
@@ -103,65 +103,9 @@
         "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0": {
           "type": "collection_grid_links",
           "settings": {
-            "url": "shopify:\/\/collections\/heckenpflanzen",
-            "image": "shopify:\/\/shop_images\/rotbuchenhecke.jpg",
-            "header": "Heckenpflanzen"
-          }
-        },
-        "259f95d0-031b-481b-a58b-31bc94849285": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/zierstraeucher",
-            "image": "shopify:\/\/shop_images\/zierstraeucher-hortensie.jpg",
-            "header": "Ziersträucher"
-          }
-        },
-        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/bodendecker",
-            "image": "shopify:\/\/shop_images\/bodendecker.jpg",
-            "header": "Bodendecker"
-          }
-        },
-        "d0f7d47f-6c96-4d9b-85f8-44f0ec92a4ab": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/ziergraeser",
-            "image": "shopify:\/\/shop_images\/ziergraser.jpg",
-            "header": "Ziergräser"
-          }
-        },
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/stauden",
-            "image": "shopify:\/\/shop_images\/geranium-rozanne.jpg",
-            "header": "Stauden"
-          }
-        },
-        "fccbe396-31a8-454c-9c65-ea5f20aba2db": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/rosen",
-            "image": "shopify:\/\/shop_images\/rosen.jpg",
-            "header": "Rosen"
-          }
-        },
-        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/gartenkraeuter",
-            "image": "shopify:\/\/shop_images\/gartenkrauter.jpg",
-            "header": "Gartenkräuter"
-          }
-        },
-        "50551bf3-9155-4d8c-a14a-2cbd4e051bdd": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/obstpflanzen",
-            "image": "shopify:\/\/shop_images\/obstpflanzen.jpg",
-            "header": "Obstpflanzen"
+            "url": "shopify:\/\/collections\/duenger",
+            "image": "shopify:\/\/shop_images\/bio-duenger.jpg",
+            "header": "Dünger"
           }
         },
         "30bebbc6-1a35-4e0a-8aee-aeede53a4143": {
@@ -172,35 +116,19 @@
             "header": "Saatgut"
           }
         },
-        "94d6c5e9-f070-4075-acd4-5042c6b456cf": {
+        "5b245770-7bf0-4000-bbe5-c7dfa2a612f5": {
           "type": "collection_grid_links",
           "settings": {
-            "url": "shopify:\/\/collections\/blumenzwiebeln",
-            "image": "shopify:\/\/shop_images\/blumenzwiebeln.jpg",
-            "header": "Blumenzwiebeln"
-          }
-        },
-        "ebf48185-0101-411f-80f1-af9eed808262": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/zierstaemmchen",
-            "image": "shopify:\/\/shop_images\/zierstammchen.jpg",
-            "header": "Zierstämmchen"
+            "url": "shopify:\/\/products\/bambus-wurzelsperre-nature",
+            "image": "shopify:\/\/shop_images\/begrenzung-der-bambuswurzeln-mit-wurzelsperre.jpg",
+            "header": "Wurzelsperre"
           }
         }
       },
       "block_order": [
         "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
-        "259f95d0-031b-481b-a58b-31bc94849285",
-        "23c966c2-e802-465a-b22c-96c8052a3fc7",
-        "d0f7d47f-6c96-4d9b-85f8-44f0ec92a4ab",
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
-        "fccbe396-31a8-454c-9c65-ea5f20aba2db",
-        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
-        "50551bf3-9155-4d8c-a14a-2cbd4e051bdd",
         "30bebbc6-1a35-4e0a-8aee-aeede53a4143",
-        "94d6c5e9-f070-4075-acd4-5042c6b456cf",
-        "ebf48185-0101-411f-80f1-af9eed808262"
+        "5b245770-7bf0-4000-bbe5-c7dfa2a612f5"
       ],
       "settings": {
         "header": "",
@@ -214,7 +142,7 @@
         "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Alle Gartenpflanzen<\/p>"
+            "heading": "<p>Alle Gartenzubehör<\/p>"
           }
         }
       },

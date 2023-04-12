@@ -79,8 +79,16 @@
 }
 
 .facet-filters__field .select {
+  background-color: #FFF;
+  margin-top: -0.4rem;
   width: auto;
+  border: 2px solid #000;
+  border-color: #000;
+  border-radius: 0.4rem;
+  padding: 1rem;
+  font-weight: 600;
 }
+
 
 .facet-filters__field .select:after,
 .facet-filters__field .select:before,
@@ -95,6 +103,7 @@
   min-width: auto;
   min-height: auto;
   transition: none;
+  box-shadow: none !important;
 }
 
 .facet-filters button {
@@ -111,6 +120,7 @@
   margin: 0;
   padding-left: 0;
   padding-right: 1.75rem;
+  border: none;
 }
 
 .facet-filters__sort + .icon-caret {
@@ -143,13 +153,6 @@
   outline-offset: 0.3rem;
   box-shadow: 0 0 0 0.3rem rgb(var(--color-background)),
     0 0 0.5rem 0.4rem rgba(var(--color-foreground), 0.3);
-}
-
-.facet-filters__sort:focus-visible {
-  outline: 0.2rem solid rgba(var(--color-foreground), 0.5);
-  outline-offset: 1rem;
-  box-shadow: 0 0 0 1rem rgb(var(--color-background)),
-    0 0 0.2rem 1.2rem rgba(var(--color-foreground), 0.3);
 }
 
 .facet-filters__sort.focused,
@@ -354,8 +357,21 @@
   margin-left: 2rem;
 }
 
+.facets__price .field__input {
+  border: 3px solid rgba(209,213,219);
+  border-radius: 0.4rem;
+}
+
+.facets__price .field__input:hover,
+.facets__price .field__input:focus,
+.facets__price .field__input:focus-visible {
+  border: 3px solid #000;
+  background-color: #F2F8EE;
+}
+
 .facets__price .field {
   align-items: center;
+  box-shadow: none;
 }
 
 .facets__price .field-currency {
@@ -750,6 +766,10 @@ details.menu-opening .mobile-facets__close svg {
   transform: rotate(180deg);
 }
 
+.mobile-facets__details:hover {
+  background-color: #F7F6F8;
+}
+
 .no-js .mobile-facets__details {
   border-bottom: 1px solid rgba(var(--color-foreground), 0.04);
 }
@@ -842,6 +862,17 @@ input.mobile-facets__checkbox {
   transition: background-color 0.2s ease;
   word-break: break-word;
   display: flex;
+  align-items: center;
+}
+
+.mobile-facets__label:hover {
+  cursor: pointer;
+  background-color: #F7F6F8;  
+}
+
+.mobile-facets__label--disabled:hover {
+  cursor: not-allowed;
+  background-color: transparent;
 }
 
 .mobile-facets__label > svg {
@@ -854,7 +885,7 @@ input.mobile-facets__checkbox {
 
 .mobile-facets__label .icon-checkmark {
   position: absolute;
-  top: 1.9rem;
+  top: 2.1rem;
   left: 2.1rem;
   visibility: hidden;
   background-color: transparent;

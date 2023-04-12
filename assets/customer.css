@@ -352,6 +352,11 @@
   margin-top: 0;
 }
 
+#customer_login .field {
+  border: 1px solid;
+  border-radius: 0.4rem;
+}
+
 #recover,
 #recover + div {
   display: none;

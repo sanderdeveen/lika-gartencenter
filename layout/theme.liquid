@@ -20,7 +20,11 @@
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
-
+    
+    {%- if template contains 'product' -%}
+      <title>{{ page_title }} kaufen | {{ product.metafields.custom.product_name }} | Gartencenter.de </title>
+    {%- endif -%}
+    
     {%- comment smartseo_integration_begin_meta_data -%}<title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
@@ -33,14 +37,6 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-
-    <script>
-      function closeAnnouncement() {
-        var announceDiv = document.getElementById("shopify-section-announcement-bar");
-        localStorage.setItem('popup', 'true');
-        announceDiv.style.display = "none";
-      } 
-    </script>
 
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
 
@@ -227,10 +223,12 @@
 
     {% capture boostersnippet %}{% render "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
     <meta name="google-site-verification" content="9y1IFLBguVujLNGXkS9QBF6Ozy_mgnL9gItea5AGlWI" />
-  {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
-</head>
+    {% capture boostersnippet %}{% render "booster-apps-common" %}{% endcapture %}
+    {% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
 
-  <body class="gradient body-{{-template }}">
+    {% render 'hulk_po_vd.liquid' %}</head>
+
+  <body class="gradient body-{{-template }} {{ template | remove: "page." }}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
@@ -239,9 +237,7 @@
       {%- render 'cart-drawer' -%}
     {%- endif -%}
 
-    {%- unless template contains 'index' or template contains 'cart' -%}
-      {% section 'announcement-bar' %}
-    {%- endunless -%}
+    {% section 'announcement-bar' %}
 
     {% section 'header' %}
 
@@ -298,8 +294,41 @@
       window.Rebuy = {}; 
      } window.Rebuy.disable_attribution = true;
      </script>
-  {% include 'taginstall-body' %}
- <div data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
+    {% render 'taginstall-body' %}
+
+  {%- comment -%} 
+  <div>
+    {%- for item in cart.items -%}
+      {%- assign item_sku = item.sku | slice: 0, 3 | escape | downcase | remove: "&nbsp;" -%}
+      {% if item_sku == 'bob' %}
+        <style>
+          .rebuy-cart__flyout-footer:before {
+            content: "Da Sie einen Baum hinzugefügt haben, betragen die Versandkosten 200,00.";
+            display: block;
+            width: 100%;
+          }
+          .totals-postage-costs {
+            display: none !important;
+          }
+          .totals-postage-costs_has_bob {
+            display: flex !important;
+          }
+
+        </style>
+      {% endif %}
+    {%- endfor -%}  
+  </div>
+  {%- endcomment -%}
+  <style>
+    .rebuy-modal-visible {
+      overflow: auto !important;
+    }
+    .overflow-hidden {
+      overflow: hidden !important;
+    }
+  </style>
+
+{% include 'swymSnippet' %}
 
 </body>
 </html>

@@ -83,10 +83,10 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "#",
-    "social_facebook_link": "#",
-    "social_pinterest_link": "#",
-    "social_instagram_link": "#",
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100088074401067",
+    "social_pinterest_link": "https:\/\/www.pinterest.de\/GartencenterDE\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/gartencenter_de\/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -97,7 +97,7 @@
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/favicon.png",
     "currency_code_enabled": true,
-    "cart_type": "notification",
+    "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/gartencenter-logo-checkout.png",
@@ -113,12 +113,430 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "e14c9c38-82a0-42c3-b7a7-4bf02f3f5a20": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/gartenpflanzen",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Gartenpflanzen-alles-entdecken.jpg"
+            }
+          },
+          "69ee2ddd-7145-46da-b03a-7cee5fe378eb": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/heckenpflanzen",
+              "url_text": "Heckenpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Heckenpflanzen-Koniferen.jpg"
+            }
+          },
+          "4a455564-a419-488b-91e9-b9f183094784": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/kletterpflanzen",
+              "url_text": "Kletterpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Kletterpflanzen-Efeu.jpg"
+            }
+          },
+          "80111416-7517-4cbb-9bb6-52f07099551b": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/zierstraeucher",
+              "url_text": "Ziersträucher",
+              "menu_img": "shopify:\/\/shop_images\/Zierstraeucher-Hortensien-Buchsbaum.jpg"
+            }
+          },
+          "96cb5158-b1fc-4168-823b-2b7c1c8dd2ce": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/bodendecker",
+              "url_text": "Bodendecker",
+              "menu_img": "shopify:\/\/shop_images\/Bodendecker-kleines-immergruen.jpg"
+            }
+          },
+          "e2c6f063-6792-43f8-aa7f-68dc1fc3b887": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/bambus",
+              "url_text": "Bambus",
+              "menu_img": "shopify:\/\/shop_images\/Bambus-nicht-wuchernder-Bambus-rufa.jpg"
+            }
+          },
+          "a9f5e97d-15a6-44e4-8070-7f612b0ff89c": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/ziergraeser",
+              "url_text": "Ziergräser",
+              "menu_img": "shopify:\/\/shop_images\/Ziergraeser-Pampasgras.jpg"
+            }
+          },
+          "a987f1e8-1423-4737-bb34-fd25e99d966e": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/stauden",
+              "url_text": "Stauden",
+              "menu_img": "shopify:\/\/shop_images\/Stauden-Lavendel.jpg"
+            }
+          },
+          "e53a9a5d-b276-4606-8b64-1ed827092a01": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/rosen",
+              "url_text": "Rosen",
+              "menu_img": "shopify:\/\/shop_images\/Rosen-Rosenstrauch-weiss.jpg"
+            }
+          },
+          "73d2eaec-3b48-4f68-9b2a-0af73d3c5094": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/gartenkraeuter",
+              "url_text": "Gartenkräuter",
+              "menu_img": "shopify:\/\/shop_images\/Gartenkraeuter-Thymian.jpg"
+            }
+          },
+          "a18afb35-8fcc-4597-a392-8dd9e6ce1e89": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/obstpflanzen",
+              "url_text": "Obstpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Obstpflanzen-Himbeere.jpg"
+            }
+          },
+          "57d02abf-f55d-4671-acdc-c44d8d2ec6e2": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/zierstaemmchen",
+              "url_text": "Zierstämmchen",
+              "menu_img": "shopify:\/\/shop_images\/Zierstaemmchen-Olivenbaum-veredelt.jpg"
+            }
+          },
+          "7f502977-1366-4b1a-ba02-d9d130c16904": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/zimmerpflanzen",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-alles-entdecken.jpg"
+            }
+          },
+          "eea2f18b-0d3b-4dc6-8481-92ca5440dab4": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/pflegeleichte-zimmerpflanzen",
+              "url_text": "Pflegeleichte Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-Elefantenohr.jpg"
+            }
+          },
+          "99f55ebc-c936-42df-a90b-b7cd5b79201c": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/zimmerpflanzen-fuer-im-schatten",
+              "url_text": "Schattenliebende Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Beliebte-Schatten-Zimmerpflanzen-Baumfreund.jpg"
+            }
+          },
+          "6ce9be3c-234b-4a35-ab54-385790e6b3ad": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/zimmerpflanzen-fur-halbschatten",
+              "url_text": "Zimmerpflanzen für Halbschatten",
+              "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-fuer-Halbschatten-Kaffeepflanze.jpg"
+            }
+          },
+          "357f54a5-577f-4df4-8b9f-d9d165d550c3": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/sonnenliebende-zimmerpflanzen",
+              "url_text": "Sonnenliebende Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Sonnenliebende-Zimmerpflanzen-Paradiesvogelblume.jpg"
+            }
+          },
+          "f403612e-ec55-4a32-944d-5ffa2e6e8c17": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/grosse-zimmerpflanzen",
+              "url_text": "Große Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-grosse-Zimmerpflanzen.jpg"
+            }
+          },
+          "96e56126-395d-43b1-ae36-95e20ae776c0": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/luftreinigende-zimmerpflanzen",
+              "url_text": "Luftreinigende Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Luftreinigende-Zimmerpflanzen-Angebot.jpg"
+            }
+          },
+          "5b33ad0b-b7e1-48e5-b78c-5e97c87fa114": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/bluehende-zimmerpflanzen",
+              "url_text": "Blühende Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Bluehende-Zimmerpflanzen-Einblatt.jpg"
+            }
+          },
+          "888c5c13-f305-4c2a-b497-abafad93d674": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/tierfreundliche-zimmerpflanzen",
+              "url_text": "Tierfreundliche Zimmerpflanzen",
+              "menu_img": "shopify:\/\/shop_images\/Tierfreundliche-Zimmerpflanzen-Pfauen-Korbmarante.jpg"
+            }
+          },
+          "820f9f66-c00a-424e-be9b-23ce1aa5b56c": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/kakteen-und-sukkulenten",
+              "url_text": "Kakteen und Sukkulenten",
+              "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-Kakteen-und-Sukkulenten.jpg"
+            }
+          },
+          "94025969-5062-4140-82a1-3da377b750ab": {
+            "type": "menu_zimmerpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections",
+              "url_text": "Zimmerpflanzen Zubehör",
+              "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-Zubehor-Elho.jpg"
+            }
+          },
+          "15804803-bb71-4ac8-9be8-36ebf167b6c0": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/baeume",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Beaume-alles-entdecken.jpg"
+            }
+          },
+          "3b1c86d2-7e5d-420f-b161-4c47e11c0007": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/mediterrane-baeume",
+              "url_text": "Mediterrane Bäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Mediterrane-Baeume.jpg"
+            }
+          },
+          "be83d103-21a1-40d7-a654-0bb7ac8a42ea": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/formbaume",
+              "url_text": "Formbäume",
+              "menu_img": "shopify:\/\/shop_images\/Formbaeume-Catalpa.jpg"
+            }
+          },
+          "0945ce6d-2693-4cb9-998f-73b845a337fd": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/spalierbaeume",
+              "url_text": "Spalierbäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Spalierbaeume.jpg"
+            }
+          },
+          "097b8126-b854-4bbe-b793-72b80ffa76a6": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/bluehende-baeume",
+              "url_text": "Blühende Bäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-bluehende-Baeume.jpg"
+            }
+          },
+          "61cc0da8-022c-4cb9-8c96-bd58ed5b7931": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/palme",
+              "url_text": "Palme",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Palme-Trachycarpus.jpg"
+            }
+          },
+          "75ef6121-7b2f-42ca-aa45-9f228beaebf4": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/olivenbaeume",
+              "url_text": "Olivenbäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Olivenbaeume.jpg"
+            }
+          },
+          "9b3196b3-8b2a-4b90-8dc8-5d97b42251ab": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/zypressen",
+              "url_text": "Zypressen",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Zypressen.jpg"
+            }
+          },
+          "40022aab-bda7-4106-881c-9976b60602d6": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/obstbaume",
+              "url_text": "Obstbäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Obstbaeume-Apflebaeume.jpg"
+            }
+          },
+          "80b251b8-3cc4-4251-bd99-bb1c14e21920": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/allee-zierbaeume",
+              "url_text": "Allee- & Zierbäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Allee-Zierbaeume.jpg"
+            }
+          },
+          "292d326e-0b55-4098-9427-ade10e0a0d42": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/mehrstaemmige-baeume",
+              "url_text": "Mehrstämmige Bäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-mehrstaemmige-Baeume.jpg"
+            }
+          },
+          "091bde35-71fe-4635-864c-d36f9f7f771e": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/saeulenbaeume",
+              "url_text": "Säulenbäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Saeulenbaeume.jpg"
+            }
+          },
+          "a8b1083b-0014-4816-85e5-b6fd0d4e8fdd": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/haengefoermige-baeume",
+              "url_text": "Hängeförmige Bäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-haengefoermige-Baeume.jpg"
+            }
+          },
+          "f733b196-566d-47a2-8ecd-fd22997f2b46": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/dachformige-baeume",
+              "url_text": "Dachförmige Bäume",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-dachformige-Baeume.jpg"
+            }
+          },
+          "7d0417ca-272b-4c2e-96c0-e0eb5657cb9f": {
+            "type": "menu_baume",
+            "settings": {
+              "url": "shopify:\/\/collections\/baeume-zubehoer",
+              "url_text": "Bäume Zubehör",
+              "menu_img": "shopify:\/\/shop_images\/Baeume-Baeume-Zubehoer.jpg"
+            }
+          },
+          "d4fb2745-db9f-43e9-ad6a-5cd79f1e818f": {
+            "type": "menu_rasen",
+            "settings": {
+              "url": "shopify:\/\/collections\/rasen",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Rasen-alles-entdecken.jpg"
+            }
+          },
+          "bb16ac34-0477-4cb4-a342-fef1995100ea": {
+            "type": "menu_rasen",
+            "settings": {
+              "url": "shopify:\/\/collections\/rasensamen",
+              "url_text": "Rasensamen",
+              "menu_img": "shopify:\/\/shop_images\/Rasen-Rasensamen.jpg"
+            }
+          },
+          "48b40a9b-1223-449f-876d-a8fee0c301d7": {
+            "type": "menu_rasen",
+            "settings": {
+              "url": "shopify:\/\/collections\/rollrasen",
+              "url_text": "Rollrasen",
+              "menu_img": "shopify:\/\/shop_images\/Rasen-Rollrasen.jpg"
+            }
+          },
+          "b4787d8c-269a-40be-bf1b-a4c4071345fa": {
+            "type": "menu_rasen",
+            "settings": {
+              "url": "shopify:\/\/collections\/rasenduenger",
+              "url_text": "Rasendünger",
+              "menu_img": "shopify:\/\/shop_images\/Rasen-Rasenduenger.jpg"
+            }
+          },
+          "91033417-5023-42dc-986e-b5712e327184": {
+            "type": "menu_rasen",
+            "settings": {
+              "url": "shopify:\/\/collections\/rasenunkrautvernichter",
+              "url_text": "Rasenunkraut- vernichter",
+              "menu_img": "shopify:\/\/shop_images\/Rasen-Rasenunkrautvernichter.jpg"
+            }
+          },
+          "39152a8c-fa51-46bb-b1f4-3d08cc3c1bb7": {
+            "type": "menu_blumenerde",
+            "settings": {
+              "url": "shopify:\/\/collections\/blumenerde",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Blumenerde-alles-entdecken.jpg"
+            }
+          },
+          "1875891c-7a8c-4946-bbb6-396cd92b74bb": {
+            "type": "menu_dunger",
+            "settings": {
+              "url": "shopify:\/\/collections\/duenger",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Duenger-alles-entdecken.jpg"
+            }
+          },
+          "70241251-3358-4963-abe3-62c8ba785525": {
+            "type": "menu_gartenzubehor",
+            "settings": {
+              "url": "shopify:\/\/collections\/gartenzubehoer",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/Gartenzubehoer-alles-entdecken.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "e14c9c38-82a0-42c3-b7a7-4bf02f3f5a20",
+          "69ee2ddd-7145-46da-b03a-7cee5fe378eb",
+          "4a455564-a419-488b-91e9-b9f183094784",
+          "80111416-7517-4cbb-9bb6-52f07099551b",
+          "96cb5158-b1fc-4168-823b-2b7c1c8dd2ce",
+          "e2c6f063-6792-43f8-aa7f-68dc1fc3b887",
+          "a9f5e97d-15a6-44e4-8070-7f612b0ff89c",
+          "a987f1e8-1423-4737-bb34-fd25e99d966e",
+          "e53a9a5d-b276-4606-8b64-1ed827092a01",
+          "73d2eaec-3b48-4f68-9b2a-0af73d3c5094",
+          "a18afb35-8fcc-4597-a392-8dd9e6ce1e89",
+          "57d02abf-f55d-4671-acdc-c44d8d2ec6e2",
+          "7f502977-1366-4b1a-ba02-d9d130c16904",
+          "eea2f18b-0d3b-4dc6-8481-92ca5440dab4",
+          "99f55ebc-c936-42df-a90b-b7cd5b79201c",
+          "6ce9be3c-234b-4a35-ab54-385790e6b3ad",
+          "357f54a5-577f-4df4-8b9f-d9d165d550c3",
+          "f403612e-ec55-4a32-944d-5ffa2e6e8c17",
+          "96e56126-395d-43b1-ae36-95e20ae776c0",
+          "5b33ad0b-b7e1-48e5-b78c-5e97c87fa114",
+          "888c5c13-f305-4c2a-b497-abafad93d674",
+          "820f9f66-c00a-424e-be9b-23ce1aa5b56c",
+          "94025969-5062-4140-82a1-3da377b750ab",
+          "15804803-bb71-4ac8-9be8-36ebf167b6c0",
+          "3b1c86d2-7e5d-420f-b161-4c47e11c0007",
+          "be83d103-21a1-40d7-a654-0bb7ac8a42ea",
+          "0945ce6d-2693-4cb9-998f-73b845a337fd",
+          "097b8126-b854-4bbe-b793-72b80ffa76a6",
+          "61cc0da8-022c-4cb9-8c96-bd58ed5b7931",
+          "75ef6121-7b2f-42ca-aa45-9f228beaebf4",
+          "9b3196b3-8b2a-4b90-8dc8-5d97b42251ab",
+          "40022aab-bda7-4106-881c-9976b60602d6",
+          "80b251b8-3cc4-4251-bd99-bb1c14e21920",
+          "292d326e-0b55-4098-9427-ade10e0a0d42",
+          "091bde35-71fe-4635-864c-d36f9f7f771e",
+          "a8b1083b-0014-4816-85e5-b6fd0d4e8fdd",
+          "f733b196-566d-47a2-8ecd-fd22997f2b46",
+          "7d0417ca-272b-4c2e-96c0-e0eb5657cb9f",
+          "d4fb2745-db9f-43e9-ad6a-5cd79f1e818f",
+          "bb16ac34-0477-4cb4-a342-fef1995100ea",
+          "48b40a9b-1223-449f-876d-a8fee0c301d7",
+          "b4787d8c-269a-40be-bf1b-a4c4071345fa",
+          "91033417-5023-42dc-986e-b5712e327184",
+          "39152a8c-fa51-46bb-b1f4-3d08cc3c1bb7",
+          "1875891c-7a8c-4946-bbb6-396cd92b74bb",
+          "70241251-3358-4963-abe3-62c8ba785525"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "logo": "{{ shop.brand.logo }}",
           "logo_width": 90,
-          "menu-mobile": "main-menu",
           "menu": "desktop-menu",
+          "mobile_sub_menu": "klantenservice",
           "show_line_separator": true,
           "enable_sticky_header": true,
           "margin_bottom": 0,
@@ -144,7 +562,7 @@
           "133f3f34-8a50-46bb-8e52-e6e16c707213": {
             "type": "populair_categorie",
             "settings": {
-              "heading_populair_categorie": "Beliebte Kategorie",
+              "heading_populair_categorie": "Beliebte Kategorien",
               "menu_categorie": "desktop-menu"
             }
           },
@@ -158,7 +576,7 @@
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Pflegen und inspiration",
+              "heading": "Pflege und Inspiration",
               "menu": "tuininspiratie"
             }
           }
@@ -202,6 +620,18 @@
     "blocks": {
       "6406956604159796213": {
         "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2153490007123654574": {
+        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "558381514691908246": {
+        "type": "shopify:\/\/apps\/volumeboost-volume-discount\/blocks\/app-embed\/25745434-52e7-4378-88f1-890df18a0110",
         "disabled": false,
         "settings": {
         }

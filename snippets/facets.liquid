@@ -311,9 +311,9 @@
           {%- if enable_sorting -%}
             <div class="facet-filters sorting caption">
               <div class="facet-filters__field">
-                <h2 class="facet-filters__label caption-large body-1">
+                <span class="facet-filters__label caption-large body-1">
                   <label for="SortBy">{{ 'products.facets.sort_by_label' | t }}</label>
-                </h2>
+                </span>
                 <div class="select">
                   {%- assign sort_by = results.sort_by | default: results.default_sort_by -%}
                   <select name="sort_by" class="facet-filters__sort select__select caption-large" id="SortBy" aria-describedby="a11y-refresh-page-message">
@@ -331,7 +331,7 @@
             </div>
           {%- endif -%}
           <div class="product-count light" role="status">
-            <h2 class="product-count__text text-body">
+            <span class="product-count__text text-body">
               <span id="ProductCountDesktop">
                 {%- if results.results_count -%}
                   {{- 'templates.search.results_with_count' | t: terms: results.terms, count: results.results_count -}}
@@ -341,7 +341,7 @@
                   {{- 'products.facets.product_count' | t: product_count: results.products_count, count: results.all_products_count -}}
                 {%- endif -%}
               </span>
-            </h2>
+            </span>
             <div class="loading-overlay__spinner">
               <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
                 <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
@@ -357,9 +357,9 @@
         <form class="no-js">
           <div class="facet-filters sorting caption">
             <div class="facet-filters__field">
-              <h2 class="facet-filters__label caption-large body-1">
+              <span class="facet-filters__label caption-large body-1">
                 <label for="SortBy">{{ 'products.facets.sort_by_label' | t }}</label>
-              </h2>
+              </span>
               <div class="select">
                 {%- assign sort_by = results.sort_by | default: results.default_sort_by -%}
                 <select name="sort_by" class="facet-filters__sort select__select caption-large" id="SortBy" aria-describedby="a11y-refresh-page-message">
@@ -671,7 +671,7 @@
       </facet-filters-form>
     </details>
     <div class="product-count{% if filter_type == 'vertical' or filter_type == 'horizontal' %} medium-hide large-up-hide{% endif %}" role="status">
-      <h2 class="product-count__text text-body">
+      <span class="product-count__text text-body">
         <span id="ProductCount">
           (          {%- if results.results_count -%}
           {{- 'templates.search.results_with_count' | t: terms: results.terms, count: results.results_count -}}
@@ -681,7 +681,7 @@
           {{- 'products.facets.product_count' | t: product_count: results.products_count, count: results.all_products_count -}}
         {%- endif -%})
         </span>
-      </h2>
+      </span>
       <div class="loading-overlay__spinner">
         <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
           <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
@@ -732,14 +732,17 @@
       <form id="FacetSortDrawerForm" class="facets__form">
         <div class="facet-filters sorting caption small-hide">
           <div class="facet-filters__field">
-            <h2 class="facet-filters__label caption-large body-1">
+            <span class="facet-filters__label caption-large body-1">
               <label class="body-1" for="SortBy">{{ 'products.facets.sort_by_label' | t }}</label>
-            </h2>
+            </span>
             <div class="select">
               {%- assign sort_by = results.sort_by | default: results.default_sort_by -%}
               <select name="sort_by" class="facet-filters__sort select__select caption-large body-1" id="SortBy" aria-describedby="a11y-refresh-page-message">
                 {%- for option in results.sort_options -%}
-                  <option class="body-1" value="{{ option.value | escape }}"{% if option.value == sort_by %} selected="selected"{% endif %}>{{ option.name | escape }}</option>
+                  {%- if option.value == 'created-ascending' or option.value == 'created-descending'  -%}
+                  {%- else -%}
+                    <option class="body-1" value="{{ option.value | escape }}"{% if option.value == sort_by %} selected="selected"{% endif %}>{{ option.name | escape }}</option>
+                  {%- endif -%}
                 {%- endfor -%}
               </select>
               {% render 'icon-caret' %}

@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "2b18f3dc-069b-4cbd-82b7-aef7abc33f0d": {
+      "type": "author",
+      "settings": {
+        "author": "lika"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2b18f3dc-069b-4cbd-82b7-aef7abc33f0d"
+  ]
+}

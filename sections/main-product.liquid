@@ -323,8 +323,11 @@
             </div>
           {%- when 'buy_container' -%}
             <div class="buy_container">
+              {%- assign current_variant = product.selected_or_first_available_variant -%}
+              {%- assign current_variant_bob = current_variant.sku | slice: 0, 3 -%}
+
               {%- unless product.has_only_default_variant -%}
-                  <variant-radios class="no-js-hidden product-form__input-options" data-section="{{ section.id }}" data-url="{{ product.url }}" {{ block.shopify_attributes }}>
+                  <variant-radios class="no-js-hidden product-form__input-options {% if current_variant_bob == "bob" %}product-form__input-options_has_price{% endif %}" data-section="{{ section.id }}" data-url="{{ product.url }}" {{ block.shopify_attributes }}>
                     {%- for option in product.options_with_values -%}
                         <fieldset class="js product-form__input">
                           <legend class="form__label">{{ option.name }}</legend>
@@ -369,6 +372,16 @@
                   {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
                 </div>
               {%- endif -%} 
+
+              {%- if current_variant_bob == "bob" or current_variant_bob == "BOB" -%}
+                <div class="product-form__input-option product-form__input-option-has_extra_costs tooltip">
+                  <span class="tooltiptext">Um Bäume ordentlich zu liefern, arbeiten wir mit einem speziellen Baumtransporter. Der Lieferzuschlag beträgt 200 Euro pro Bestellung.</span>
+                  <img src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/lkw-gartencenter_a8ea1fc9-59b5-4112-9f63-d545178dee74.png?v=1678701932" alt="lwk Gartencenter.de" width="74" height="54" loading="lazy">
+                  <span>Versandkosten <i>{%- render 'global-icon' icon: 'exclamation_mark' -%}Mehr Informationen</i></span>
+                  <div class="product-form__input-option--price">200,00</div>
+                </div>
+              {%- endif -%}
+
               <div class="product-form__input product-form__quantity{% if settings.inputs_shadow_vertical_offset != 0 and settings.inputs_shadow_vertical_offset < 0 %} product-form__quantity-top{% endif %}" {{ block.shopify_attributes }}>
                 <quantity-input class="quantity">
                   <button class="quantity__button quantity__button--left no-js-hidden" name="minus" type="button">
@@ -519,47 +532,13 @@
                     {{ 'products.product.delivery_info' | t }}
                   {% endif %}
                 </div>
-              </div> 
+              </div>
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte quick-add-hidden">
                 {{ product.description }}
               </div>
             {%- endif -%}
-            <product-description-mob>
-              <div class="product_description-wrapper-mob">
-                {% for block in section.blocks %}
-                  {%- case block.type -%}
-                    {%- when 'sub_header' -%}
-                      <h2 class="product__proscons-title">{{ block.settings.sub-header }}</h2>
-                    {%- when 'product_description' -%}
-                    {% if product.description != blank %}
-                    <div id="description-mob" class="product__description-mob">
-                      {{ product.description }}
-                    </div>
-                    <button id="read-description-mob" onclick="opendescription_mob()">Weiterlesen</button>
-                  {% endif %}
-                    {%- when 'product_specification' -%}
-                      {%- if block.settings.specification_content != blank -%}
-                        <span class="product__specification rte">
-                          <strong>{{ block.settings.specification_name }}</strong>
-                          {{ block.settings.specification_content }}
-                        </span>
-                      {%- endif -%}
-                    {%- when 'product_pro_con' -%}  
-                      {% liquid assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
-                      {%- if pro_con != blank -%}
-                        <div class="product__procon">
-                          <h2 class="product__proscons-title">{{ 'products.product.pro_or_con' | t }}</h2>
-                          <div class="product__procon-inner">
-                            {{- pro_con -}}
-                          </div>  
-                        </div>
-                      {%- endif -%}
-                  {%- endcase -%}
-                {% endfor %}
-              </div>
-            </product-description-mob>
           {%- when 'custom_liquid' -%}
             {{ block.settings.custom_liquid }}
           {%- when 'collapsible_tab' -%}
@@ -837,8 +816,22 @@
       </div>
     </div>
   </div>
-  <div class="product-page-rebuy" data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
   <product_description>
+
+    {%- if product.metafields.custom.extra_product_url != blank -%}
+      <div class="product_combi_product--container">
+        <div class="product_combi_product border-radius shadow">
+          <div class="product_combi_product__img">
+            <img src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/gartencenter-pflanze-im-topf.png?v=1674153917" loading="lazy" width="80" height="80" alt="gartencenter pflanze im topf">
+          </div>
+          <div class="product_combi_product__text">
+            {{ product.metafields.custom.extra_product_text }} <a href="{{ product.metafields.custom.extra_product_url }}">hier zusätzlich bestellen</a>.
+          </div>
+        </div>
+      </div>
+    {%- endif -%}
+
+    <div class="product-page-rebuy" data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
     <div class="product_description-wrapper-desk">
       {% for block in section.blocks %}
         {%- case block.type -%}
@@ -861,15 +854,48 @@
               assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
             %}
             {%- if block.settings.product_pro_con != blank -%}
-              <h2 class="product__proscons-title">{{ 'products.product.pro_or_con' | t }}</h2>
+              <div class="h2 product__proscons-title">{{ 'products.product.pro_or_con' | t }}</div>
               <div class="product__procon">{{- pro_con -}}</div>
             {%- endif -%} 
           {%- when 'sub_header' -%}
-            <h2 class="product__proscons-title">{{ block.settings.sub-header }}</h2>   
+            <div class="product__proscons-title h2">{{ block.settings.sub-header }}</div>   
         {%- endcase -%}
       {% endfor %}
     </div>
+    {%- if product.metafields.custom.standort != blank and product.metafields.custom.pflege != blank and product.metafields.custom.wasserbedarf != blank and product.metafields.custom.blattfarbe != blank and product.metafields.custom.zimmerpflanzen_nach_wuchshohe != blank and product.metafields.custom.blutenbildung != blank -%}
+      <div class="product-specification-container">
+        <div class="h2 product-specification-h2">Produktspezifikationen</div>
+        {%- if product.metafields.custom.standort != blank -%}
+          <div class="product-specification odd"><b>Stanfort</b> <span>{{ product.metafields.custom.standort | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+  
+        {%- if product.metafields.custom.pflege != blank -%}
+          <div class="product-specification even"><b>Pflege</b> <span>{{ product.metafields.custom.pflege | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+  
+        {%- if product.metafields.custom.wasserbedarf != blank -%}
+          <div class="product-specification odd"><b>Wasserbedarf</b> <span>{{ product.metafields.custom.wasserbedarf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+        
+        {%- if product.metafields.custom.blattfarbe != blank -%}
+          <div class="product-specification even"><b>Blattfarbe</b> <span>{{ product.metafields.custom.blattfarbe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+  
+        {%- if product.metafields.custom.wuchsgeschwindigkeit != blank -%}
+          <div class="product-specification odd"><b>Wuchsgeschwindigkeit</b> <span>{{ product.metafields.custom.wuchsgeschwindigkeit | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+        
+        {%- if product.metafields.custom.zimmerpflanzen_nach_wuchshohe != blank -%}
+          <div class="product-specification even"><b>Zimmerpflanzen nach Wuchshöhe</b> <span>{{ product.metafields.custom.zimmerpflanzen_nach_wuchshohe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+  
+        {%- if product.metafields.custom.blutenbildung != blank -%}
+          <div class="product-specification odd"><b>Blütenbildung</b> <span>{{ product.metafields.custom.blutenbildung | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+      </div>
+    {%- endif -%}
   </product_description>
+
   <product-modal id="ProductModal-{{ section.id }}" class="product-media-modal media-modal">
     <div class="product-media-modal__dialog" role="dialog" aria-label="{{ 'products.modal.label' | t }}" aria-modal="true" tabindex="-1">
       <button id="ModalClose-{{ section.id }}" type="button" class="product-media-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
@@ -951,7 +977,7 @@
       var btntext = document.getElementById("read-description-desk");
       element.classList.toggle("is-open");
       if (element.classList.contains('is-open')) {
-        btntext.innerHTML = "« Lese weniger";
+        btntext.innerHTML = "« Weniger anzeigen";
       } else {
         btntext.innerHTML = "Weiterlesen »";
       }
@@ -962,7 +988,7 @@
       var btntext = document.getElementById("read-description-mob");
       element.classList.toggle("is-open");
       if (element.classList.contains('is-open')) {
-        btntext.innerHTML = "« Lese weniger";
+        btntext.innerHTML = "« Weniger anzeigen";
       } else {
         btntext.innerHTML = "Weiterlesen »";
       }
@@ -992,10 +1018,6 @@
       {% if product.selected_or_first_available_variant.sku != blank -%}
         "sku": {{ product.selected_or_first_available_variant.sku | json }},
       {%- endif %}
-      "brand": {
-        "@type": "Brand",
-        "name": {{ product.vendor | json }}
-      },
       "offers": [
         {%- for variant in product.variants -%}
           {

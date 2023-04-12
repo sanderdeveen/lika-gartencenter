@@ -1,0 +1,210 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+      }
+    },
+    "78522835-5857-4965-a8f5-25bca2689fd3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922695635124__78522835-5857-4965-a8f5-25bca2689fd3-1675074213c086b7ef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien gießen<\/p>"
+          }
+        },
+        "template--15922695635124__78522835-5857-4965-a8f5-25bca2689fd3-1675074213c086b7ef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien sollten regelmäßig gegossen werden. Sie können Ihre Hortensie am besten zweimal pro Woche in kleinen Mengen (etwa 250 ml pro Einheit) gießen. In den Sommermonaten und an sehr heißen Tagen gießt man am besten früh morgens und abends. Dann befindet sich die Pflanze nämlich im Ruhezustand. Wichtig ist, dass die Hortensienerde immer leicht feucht bleibt und keine Staunässe entsteht, damit die Pflanze Sauerstoff aufnehmen kann.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922695635124__78522835-5857-4965-a8f5-25bca2689fd3-1675074213c086b7ef-0",
+        "template--15922695635124__78522835-5857-4965-a8f5-25bca2689fd3-1675074213c086b7ef-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "6c6fa767-ee1f-4ab5-a71f-9822104f9f4c": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "9a23ccd4-dbd4-4889-83e4-4befb9249dae": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hortensien-giessen-wasser-ratgeber-neu.jpg",
+            "text": "Schneeballhortensie 'Invincibelle'",
+            "url": "shopify:\/\/products\/schneeballhortensie-invincibelle"
+          }
+        }
+      },
+      "block_order": [
+        "9a23ccd4-dbd4-4889-83e4-4befb9249dae"
+      ],
+      "settings": {
+      }
+    },
+    "e805574b-694e-4a5c-8d58-fe0dc01bf3d1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922695635124__e805574b-694e-4a5c-8d58-fe0dc01bf3d1-1675940708332a6e8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien düngen<\/p>"
+          }
+        },
+        "template--15922695635124__e805574b-694e-4a5c-8d58-fe0dc01bf3d1-1675940708332a6e8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um im Sommer eine volle Blütenpracht genießen zu können, müssen Hortensien gedüngt werden. Der beste Zeitpunkt zum Düngen ist das Frühjahr (März oder April), gleich nach dem Rückschnitt. Anfang Juli können Sie Ihre Hortensie eventuell ein zweites Mal düngen, sofern Sie sich an die empfohlene Menge halten.<\/p>"
+          }
+        },
+        "d16fe28e-cddf-42ac-94e5-c82de878456f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zum Düngen von Hortensien kann spezieller Hortensiendünger oder organischer Dünger verwendet werden. Organische Dünger haben einen tierischen oder pflanzlichen Ursprung und enthalten sehr viele Nährstoffe und Spurenelemente. Dieser Dünger wirkt etwa drei Monate.<\/p>"
+          }
+        },
+        "831a405c-cfb3-4d6e-bc2d-be087fe24784": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensienpflege im Winter<\/p>"
+          }
+        },
+        "c2403217-2c84-4d64-b031-ad2ffd018041": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien können im Garten grundsätzlich in der Erde überwintern. Bei jungen Pflanzen und Kübelpflanze empfiehlt es sich jedoch, sie zusätzlich zu schützen. Hortensien müssen nicht vor dem Winter zurückgeschnitten werden. Der Rückschnitt findet erst im Frühjahr (März oder April) statt.<\/p>"
+          }
+        },
+        "50111ad8-b7e5-41fb-bd02-9ce2f813262e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie mehr zum <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> erfahren möchten, lesen Sie sich bitte unsere praktische Schritt-für-Schritt-Anleitung durch.<\/p>"
+          }
+        },
+        "df491f76-1843-4981-b008-7f2501f3599a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Krankheiten und Schädlinge an Hortensien<\/p>"
+          }
+        },
+        "fb2b665f-6ab0-4194-a320-ab139fe21471": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grundsätzlich sind Hortensien nicht besonders anfällig für Krankheiten und Schädlinge, vorausgesetzt sie werden ausreichend gegossen und regelmäßig gedüngt. Allerdings steigt bei einer Überdüngung das Risiko auf Krankheiten und Schädlingsbefall. Man sollte es also nicht übertreiben. Mit unseren Schädlingsbekämpfungsmitteln sorgen Sie dafür, dass Ihre Hortensie nicht von ungebetenen Gästen heimgesucht wird.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922695635124__e805574b-694e-4a5c-8d58-fe0dc01bf3d1-1675940708332a6e8c-0",
+        "template--15922695635124__e805574b-694e-4a5c-8d58-fe0dc01bf3d1-1675940708332a6e8c-1",
+        "d16fe28e-cddf-42ac-94e5-c82de878456f",
+        "831a405c-cfb3-4d6e-bc2d-be087fe24784",
+        "c2403217-2c84-4d64-b031-ad2ffd018041",
+        "50111ad8-b7e5-41fb-bd02-9ce2f813262e",
+        "df491f76-1843-4981-b008-7f2501f3599a",
+        "fb2b665f-6ab0-4194-a320-ab139fe21471"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "0e7125ae-fc91-4838-b64b-99a091673b46": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blattfleckenkrankheit bekämpfen",
+        "image": "shopify:\/\/shop_images\/blattfleck-hortensienblatter.jpg",
+        "content": "<p>Die Blattfleckenkrankheit wird durch <strong>Pilze<\/strong> verursacht. Dadurch entstehen Flecken auf den Blättern, die sich immer weiter ausbreiten. Schließlich werden auch die neuen Blätter und Triebe, die sich im Frühjahr bilden, vom Pilz befallen und sterben ab. Die Bekämpfung der Blattfleckenkrankheit ist kompliziert. Deshalb sollte man unbedingt versuchen, einem Befall vorzubeugen. Sollte die Pflanze schon befallen sein, kann man die befallenen Blätter und Triebe abschneiden und im Hausmüll entsorgen. Werfen Sie die abgeschnittenen Pflanzenteile <strong>NICHT<\/strong> auf den Komposthaufen, damit sich der Pilz nicht auf die anderen Pflanzen im Garten ausbreiten kann. Zur effektiven Bekämpfung stehen außerdem Schädlingsbekämpfungsmittel, wie Compo Ortiva Spezial Pilz-frei AF, zur Verfügung.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "0405f3c4-f67d-4efb-b26d-c54a39bc0f03": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Wollläuse bekämpfen",
+        "image": "shopify:\/\/shop_images\/wolllaeuse-bekaempfen-hortensien-pflege.jpg",
+        "content": "<p>Wollläuse sind <strong>Schildläuse<\/strong>, die im Mai oder Juni die Blätter befallen und mit einem <strong>weißen Gespinst<\/strong> bedecken. Dieses Gespinst sieht aus wie Wolle und enthält Larven. Aus diesen Larven schlüpfen dann wieder neue Läuse, die die Hortensie schädigen. Wollläuse sind sehr schwer zu bekämpfen. Die beste Methode ist, die kleinen Kügelchen gleich im Anfangsstadium abzuschneiden. Man kann die Läuse aber auch mit dem Gartenschlauch vom Stamm spritzen. Zudem empfiehlt es sich, die Hortensie mit Kompost, Dünger und reichlich Wasser zu versorgen. Durch gute Pflege werden Hortensien nämlich viel widerstandsfähiger gegen Schädlinge.<\/p><p><\/p>",
+        "url": "shopify:\/\/products\/ahorn-pacific-sunset",
+        "btn_text": ""
+      }
+    },
+    "0d532de2-83ce-40f6-9ba5-82e336a3e72f": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Gelbe Blätter an Hortensien",
+        "image": "shopify:\/\/shop_images\/gelbe-blaetter-an-hortensien-hortensienpflege.jpg",
+        "content": "<p>Gelbe Blätter sind bei Hortensien oft ein <strong>Zeichen für Nährstoff- oder Wassermangel<\/strong>. Es kann aber auch sein, dass der Boden zu <strong>kalkhaltig<\/strong> ist. Das beste Mittel gegen gelbe Blätter ist, die Hortensie regelmäßig zu gießen. Zusätzlich dazu kann man sie mit eisen- und magnesiumhaltigem Dünger düngen. Aber das wirkt nur für kurze Zeit.<\/p>",
+        "url": "shopify:\/\/products\/ahorn-pacific-sunset",
+        "btn_text": ""
+      }
+    },
+    "7934562e-597b-46d1-b98b-4da059d5c978": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Vertrocknete Blätter an Hortensien",
+        "image": "shopify:\/\/shop_images\/vertrocknete-blaetter-an-hortensien-hortensienpflege.jpg",
+        "content": "<p>Es kann auch vorkommen, dass die Blattränder der Hortensie <strong>eintrocknen<\/strong> oder die Blätter <strong>braun<\/strong> werden. Das kann verschiedene Ursachen haben: Hitze, pralle Sonne, zu wenig Wasser oder weil die Pflanze schlichtweg verblüht ist. Wir empfehlen Ihnen, die Hortensie umzusetzen\/umzustellen (halbschattiger Standort) oder sie mehr zu gießen.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "4d684dff-5896-4683-9a0a-1edb4230fe2e": {
+      "type": "author",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "78522835-5857-4965-a8f5-25bca2689fd3",
+    "6c6fa767-ee1f-4ab5-a71f-9822104f9f4c",
+    "e805574b-694e-4a5c-8d58-fe0dc01bf3d1",
+    "0e7125ae-fc91-4838-b64b-99a091673b46",
+    "0405f3c4-f67d-4efb-b26d-c54a39bc0f03",
+    "0d532de2-83ce-40f6-9ba5-82e336a3e72f",
+    "7934562e-597b-46d1-b98b-4da059d5c978",
+    "4d684dff-5896-4683-9a0a-1edb4230fe2e"
+  ]
+}

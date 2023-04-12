@@ -37,11 +37,8 @@ menu-drawer > details[open] > summary::before {
   top: 100%;
   width: calc(100vw - 4rem);
   padding: 0;
-  border-width: 0 var(--drawer-border-width) 0 0;
   background-color: rgb(var(--color-background));
   overflow-x: hidden;
-  border-style: solid;
-  border-color: rgba(var(--color-foreground), var(--drawer-border-opacity));
   filter: drop-shadow(
     var(--drawer-shadow-horizontal-offset)
     var(--drawer-shadow-vertical-offset)
@@ -79,6 +76,10 @@ details[open].menu-opening > .menu-drawer__submenu {
   visibility: hidden; /* hide menus from screen readers when hidden by submenu */
 }
 
+.menu-drawer__navigation .slider--tablet {
+  margin-bottom: 0 !important;
+}
+
 @media screen and (min-width: 750px) {
   .menu-drawer {
     width: 40rem;
@@ -94,16 +95,55 @@ details[open].menu-opening > .menu-drawer__submenu {
   height: 100%;
 }
 
+.menu-drawer__inner-icon {
+  position: relative;
+}
+
+.menu-drawer__inner-icon:before {
+  content: "";
+  background-color: #2E463B;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: auto;
+  left: 0;
+  height: 6.5rem;
+  z-index: 1;
+}
+
+.menu-drawer__inner-icon svg {
+  position: absolute;
+  top: 1.6rem;
+  right: 1.6rem;
+}
+
+.menu-drawer__navigation {
+  background-color: #fff;
+  position: relative;
+}
+
 .menu-drawer__navigation-container {
   /* display: grid;
   grid-template-rows: 1fr auto;
   align-content: space-between; */
   overflow-y: auto;
   height: 100%;
+  background-color: #2E463B;
 }
 
-.menu-drawer__navigation {
-  padding: 6rem 0;
+.menu-drawer__navigation-container .button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-drawer__navigation-container .btn-container {
+  margin: 0;
+  padding: 1.6rem;
+  background-color: #FFF;
+}
+
+.btn-container a {
+  margin: 1rem 0;
 }
 
 .menu-drawer__inner-submenu {
@@ -235,7 +275,8 @@ details[open].menu-opening > .menu-drawer__submenu {
 }
 
 .menu-drawer__utility-links {
-  padding: 1rem;
+  border-bottom: 1px solid #2E463B;
+  background-color: #FFF !important;
   background-color: rgba(var(--color-foreground), 0.03);
 }
 
@@ -261,6 +302,10 @@ details[open].menu-opening > .menu-drawer__submenu {
   margin-right: 1rem;
 }
 
+.header-block__details-content {
+  padding-bottom: 12rem;
+}
+
 .menu-drawer__account:hover .icon-account {
   transform: scale(1.07);
 }
@@ -268,7 +313,6 @@ details[open].menu-opening > .menu-drawer__submenu {
 .menu-drawer .list-social {
   justify-content: flex-start;
   margin-left: -1.25rem;
-  margin-top: 2rem;
 }
 
 .menu-drawer .list-social:empty {
@@ -277,4 +321,86 @@ details[open].menu-opening > .menu-drawer__submenu {
 
 .menu-drawer .list-social__link {
   padding: 1.3rem 1.25rem;
+}
+
+/* Style the tab */
+.tab {
+  margin-top: 6.5rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+.tab::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  right: auto;
+  height: 45px;
+  width: 100vw;
+  z-index: -1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab span {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0.6rem 0;
+  text-align: center;
+}
+
+.tab span:hover {
+  box-shadow: none !important;
+}
+
+/* Create an active/current tablink class */
+.tab span.active {
+  border-bottom: 2px solid #2E463B !important;
+  font-weight: 600;
+}
+
+.tablinks {
+  margin: 0.8rem 1.2rem 0.8rem 1.2rem;
+  padding-bottom: 0.8rem !important;
+}
+
+/* Style the tab content */
+.tabcontent {
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  display: none;
+  padding: 1.6rem;
+  border-top: none;
+}
+
+.sub-menu-blocks {
+  gap: 1.6rem;
+}
+
+.sub-menu-blocks a {
+  font-weight: 700;
+  flex: 33.333%;
+  background-color: #FFF;
+  overflow: hidden;
+  border-radius: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.sub-menu-blocks img {
+  width: 100%;
+  height: auto;
+  display: block;
+  min-height: 7rem;
+  max-height: 7rem;
+  object-fit: cover;
+}
+.sub-menu-blocks span {
+  padding: 0.6rem;
+  font-size: 1.4rem;
+  line-height: 120%;
 }

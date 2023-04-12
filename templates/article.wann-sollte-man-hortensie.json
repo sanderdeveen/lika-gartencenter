@@ -1,0 +1,250 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+      }
+    },
+    "bf61a386-fc3d-4014-8cce-1b3ec47d6ded": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensienarten<\/p>"
+          }
+        },
+        "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zunächst einmal sollte man wissen, um welche Hortensienart <em>(Hydrangea)<\/em> es sich handelt. Hortensien werden nämlich in zwei verschiedene Gruppen (Schnittgruppen) eingeteilt. So gibt es Hortensien, die am einjährigen Holz neue Blüten bilden, wie etwa die <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensie<\/a> und die <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensie<\/a>. Diese Hortensienarten blühen an den neuen Trieben, die sich im Frühjahr gebildet haben.<\/p><p>Andererseits gibt es Hortensienarten, die am <strong>mehrjährigen Holz<\/strong> blühen, das heißt, an den alten Trieben aus dem Vorjahr und den Jahren davor. Zu diesen Sorten zählen beispielsweise die <a href=\"\/collections\/kletterhortensien\" title=\"Kletterhortensien\">Kletterhortensie<\/a>, die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblatthortensie<\/a> und die meisten Garten- oder <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensien<\/a>.<\/p><p>In diesem Beitrag erfahren Sie mehr über die verschiedenen Hortensienarten.<\/p>"
+          }
+        },
+        "9712aea7-8006-4f62-ba55-8300e49df4eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wann können Hortensien am besten umgepflanzt werden?<\/p>"
+          }
+        },
+        "f4d3094b-aed0-459e-82d4-de176cbe4e71": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der beste Zeitpunkt zum Umsetzen von Hortensien ist das <strong>Frühjahr<\/strong>, also im <strong>März oder April<\/strong>. Man kann Hortensien aber auch im <strong>Herbst (Oktober\/November)<\/strong> umpflanzen. Die Art und Weise hängt von der Jahreszeit ab, wobei man jeweils unterschiedliche Aspekte beachten sollte.<\/p>"
+          }
+        },
+        "54b69380-1cb2-4f57-84b5-2a61f1910509": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien im Frühjahr umsetzen<\/p>"
+          }
+        },
+        "8bd5648b-6c68-489c-b4ed-66b22c50a13b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir empfehlen Ihnen, Hortensien im Frühjahr umzusetzen. Das Umpflanzen ist dann wesentlich einfacher, da die Hortensie zu diesem Zeitpunkt noch keine Blätter trägt. Auch das Risiko von <strong>Frostschäden<\/strong> ist im Frühjahr wesentlich geringer als im Herbst. Außerdem befindet sich die Hortensie nach dem Winter noch in der Ruhephase und erhält somit genügend Zeit, sich vor dem Austrieb zu erholen.<\/p>"
+          }
+        },
+        "b156901e-35d0-42b4-a55a-aa72756a457a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien im Herbst umsetzen<\/p>"
+          }
+        },
+        "653cbf34-fdd6-46ca-9c2c-248c97a0b15b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien können auch im Herbst umgepflanzt werden. Allerdings sind in dieser Jahreszeit mehr Risiken damit verbunden, da die Pflanze im Herbst nicht die Gelegenheit erhält, sich im sich langsam erwärmenden Boden zu regenerieren. Dadurch steigt die Gefahr von Frostschäden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-0",
+        "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-1",
+        "9712aea7-8006-4f62-ba55-8300e49df4eb",
+        "f4d3094b-aed0-459e-82d4-de176cbe4e71",
+        "54b69380-1cb2-4f57-84b5-2a61f1910509",
+        "8bd5648b-6c68-489c-b4ed-66b22c50a13b",
+        "b156901e-35d0-42b4-a55a-aa72756a457a",
+        "653cbf34-fdd6-46ca-9c2c-248c97a0b15b"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "16eee4fc-cbd4-44ed-a1f8-71b9b77e60b1": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "1866bb91-050f-42d7-b9b9-461e18f4d1b4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hortensien-im-herbst-umsetzen.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1866bb91-050f-42d7-b9b9-461e18f4d1b4"
+      ],
+      "settings": {
+      }
+    },
+    "3be195a6-167d-46e5-b065-feb00d57e2f3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757370036__3be195a6-167d-46e5-b065-feb00d57e2f3-1675952973e3726dfa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wie pflanzt man Hortensien richtig um?<\/p>"
+          }
+        },
+        "template--15922757370036__3be195a6-167d-46e5-b065-feb00d57e2f3-1675952973e3726dfa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beim Umpflanzen von Hortensien sollte man einige Grundregeln beachten, damit die Pflanze keinen Schaden nimmt. Der richtige Zeitpunkt ist dabei ganz wichtig. Bevor die Hortensie umgepflanzt werden kann, muss der neue Standort sorgfältig ausgewählt werden. Suchen Sie einen halbschattigen Platz, dessen Durchmesser dem der Pflanze entspricht. Bei Jungpflanzen sind das etwa <strong>30 bis 40 cm<\/strong> und bei größeren Sträuchern etwa <strong>80 bis 90 cm<\/strong>.<\/p><p>Graben Sie an der Stelle, an der die Hortensie gepflanzt werden soll, ein Loch und füllen Sie es mit Hortensienerde oder mischen Sie etwas Gartentorf unter die Gartenerde. Zugleich kann auch etwas Hortensienblau hinzugefügt werden. Setzen Sie die Hortensie in das Pflanzloch, schaufeln Sie es zu und treten Sie die lockere Erde fest. Feuchten Sie die Erde leicht an, um sicherzustellen, dass die Pflanze problemlos und effektiv Wasser aufnehmen kann.<\/p>"
+          }
+        },
+        "61bc6cc4-3ab2-4abd-8f48-c03ca98e1324": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Schritt-für-Schritt-Anleitung<\/p>"
+          }
+        },
+        "3bc17e26-da6d-4147-9448-4e684e3d3249": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beim Pflanzen von Hortensien müssen einige Punkte beachtet werden. Standort und Bodenbeschaffenheit sind ganz entscheidend für ein gesundes Wachstum und eine optimale Blüte der Hortensie. Auch die Methode spielt eine wichtige Rolle. Weitere Informationen dazu finden Sie in unserem Blogbeitrag zum <a href=\"\/blogs\/ratgeber\/hortensien-pflanzen-wann-und-wie\" title=\"Hortensien pflanzen: Wann und wie?\">Pflanzen von Hortensien<\/a>.<\/p>"
+          }
+        },
+        "28e0a9b1-1916-4664-ba4f-aa15f8cbb137": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Der ideale neue Standort<\/p>"
+          }
+        },
+        "d2dade6f-ab9b-4638-aee9-5c972195bb63": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bevor man die Hortensie umpflanzt, sollte man sich Gedanken über den neuen <strong>Standort<\/strong> machen. Achten Sie dabei auf die richtige Beschaffenheit des Bodens, damit die Pflanze keinen Schaden nimmt. <strong>Saure Böden<\/strong> sorgen dafür, dass blaue Hortensien blau bleiben, während sie sich in <strong>neutralen Böden<\/strong> rosa verfärben.<\/p><p>Außerdem gedeihen Hortensien am besten in humusreichen (sprich: nährstoffreichen) Böden. Der Pokon Flüssigdünger reichert den Boden mit Huminsäuren, Pflanzenextrakten und Spurenelementen an und versorgt die Pflanze mit den lebensnotwendigen Nährstoffen. Für eine bessere Wasserdurchlässigkeit des Bodens kann eventuell eine Schicht Compo Drainage- und Pflanzgranulat hinzugefügt werden.<\/p><p>Man sollte der Hortensie eine Umgebung bieten, in der sie sich regenerieren und optimal gedeihen kann. Da Hortensien viel Wasser benötigen, sollte ihr Standort nicht überdacht sein, sodass sie ausreichend mit Regenwasser versorgt werden. Wichtig ist auch, dass die Hortensie genügend Sonne abbekommt, aber auch wieder nicht zu viel. Ein <strong>halbschattiger Standort<\/strong> ist daher ideal.<\/p>"
+          }
+        },
+        "e8ba05bf-12ac-415e-bb82-e695f0dc23eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hortensien nach dem Umpflanzen zurückschneiden<\/p>"
+          }
+        },
+        "4ceb094a-3eac-4411-a4e8-300a7dcbf304": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Was oft vergessen wird, ist, die Hortensie nach dem Umpflanzen auch zurückzuschneiden. Gerade das ist aber wichtig, da beim Umpflanzen zwangsläufig auch die Wurzeln gekürzt werden. Dadurch kann die Pflanze insgesamt weniger und auch nur kleinere Mengen Wasser aufnehmen und dauert es einige Zeit, bevor sich die Hortensie vom Umsetzen erholt hat. Deshalb ist das <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> nach dem Umpflanzen unerlässlich.<\/p><p>Durch den radikalen Rückschnitt wird die Verdunstung über Blätter und Blüten eingeschränkt. Wenn die Pflanze weniger Feuchtigkeit verdunstet, bleiben ihr mehr Wasser und Nährstoffe für die Regeneration erhalten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757370036__3be195a6-167d-46e5-b065-feb00d57e2f3-1675952973e3726dfa-0",
+        "template--15922757370036__3be195a6-167d-46e5-b065-feb00d57e2f3-1675952973e3726dfa-1",
+        "61bc6cc4-3ab2-4abd-8f48-c03ca98e1324",
+        "3bc17e26-da6d-4147-9448-4e684e3d3249",
+        "28e0a9b1-1916-4664-ba4f-aa15f8cbb137",
+        "d2dade6f-ab9b-4638-aee9-5c972195bb63",
+        "e8ba05bf-12ac-415e-bb82-e695f0dc23eb",
+        "4ceb094a-3eac-4411-a4e8-300a7dcbf304"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "315f7f13-081b-4ed2-8027-588a93ca2e87": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "400b05b9-ab6d-4ea3-ac5f-70692b4600a4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hortensien-zurueckschneiden-ratgeber-gardena.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "400b05b9-ab6d-4ea3-ac5f-70692b4600a4"
+      ],
+      "settings": {
+      }
+    },
+    "8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Die richtige Pflege nach dem Umpflanzen<\/p>"
+          }
+        },
+        "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ohne die richtige Pflege können sich die Wurzeln der Hortensie nach dem Umsetzen nicht erholen. Deshalb ist es wichtig, die Hortensie nach dem Umpflanzen mit ausreichend Wasser und zusätzlichen Nährstoffen zu versorgen. Tun Sie dies ungefähr <strong>zweimal pro Woche<\/strong>. Außerdem sollte der Boden immer <strong>leicht feucht<\/strong> gehalten werden, damit die Pflanze leichter Wasser aufnehmen kann. Die Farbe der Hortensie wird übrigens durch den pH-Wert des Bodens bestimmt und kann somit nach Wunsch angepasst werden. Weitere Tipps zur <a href=\"\/blogs\/ratgeber\/hortensienpflege-dungen-giessen-krankheiten\" title=\"Hortensienpflege: Düngen, Gießen, Krankheiten\">richtigen Pflege von Hortensien<\/a> finden Sie in unserem anderen Blogbeitrag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-0",
+        "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "a634f0f1-c9cd-470e-b444-f948cc45070e": {
+      "type": "author",
+      "settings": {
+        "author": "lika"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bf61a386-fc3d-4014-8cce-1b3ec47d6ded",
+    "16eee4fc-cbd4-44ed-a1f8-71b9b77e60b1",
+    "3be195a6-167d-46e5-b065-feb00d57e2f3",
+    "315f7f13-081b-4ed2-8027-588a93ca2e87",
+    "8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b",
+    "a634f0f1-c9cd-470e-b444-f948cc45070e"
+  ]
+}

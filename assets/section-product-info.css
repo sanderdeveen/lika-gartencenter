@@ -13,6 +13,13 @@
     margin: 4rem 1rem 1rem 1rem;
     padding: 3.5rem 1rem 1rem 1rem;
   }
+  .product-information h2 {
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    width: max-content;
+    top: -3rem;
+  }
 }
 
 .product-information img {

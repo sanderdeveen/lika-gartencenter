@@ -116,12 +116,6 @@
   --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1),0 1px 2px 0 rgba(0, 0, 0, 0.06);
 }
 
-.buy_container .cart__items-rebuy {
-  margin: 0;
-  padding: 0;
-
-}
-
 .buy_container--price {
   padding: 0.8rem;
   display: flex;
@@ -136,7 +130,7 @@
 }
 
 .buy-container-btn {
-  width: fit-content;
+  width: 100%;
 }
 
 .buy_container .widget-type-product {
@@ -168,48 +162,6 @@
   border-radius: 0.4rem;
   color: #FFF !important;
   padding: 0.8rem 1.6rem !important;
-}
-
-.buy_container .rebuy-product-block {
-  border-radius: 0.4rem;
-  background-color: #FFF;
-}
-
-@media screen and (min-width: 768px) {
-  .buy_container .rebuy-product-media { grid-area: Photo; }
-  .buy_container .rebuy-product-info { grid-area: info; }
-  .buy_container .rebuy-product-options { grid-area: Options; }
-  .buy_container .rebuy-product-actions { grid-area: Actions; }
-
-  .buy_container .rebuy-product-block {
-    grid-template-areas:
-    "Photo info info info"
-    ". Options Options Options"
-    ". Actions Actions Actions" !important;
-  }
-
-  .buy_container .rebuy-product-block {
-    display: grid !important;
-    width: 100% !important;
-    grid-template-columns: 1fr 1fr 1fr 1fr !important;
-    grid-template-rows: 1fr !important;
-    grid-template-areas:
-    "Photo info info info"
-    ". Options Options Options"
-    ". Actions Actions Actions";
-    gap: 0.4rem !important;
-    padding: 1rem !important;
-  }
-  .buy_container .rebuy-product-media {
-    width: 10rem !important;
-    float: none !important;
-  }
-  .rebuy-product-info,
-  .rebuy-product-options,
-  .rebuy-product-actions {
-    width: 100% !important;
-    float: none !important;
-  }
 }
 
 .product__procon-inner {

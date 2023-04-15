@@ -269,6 +269,137 @@
         "padding_bottom": 0
       }
     },
+    "f9e9166b-e2f9-4d10-be9a-8d3dff190e8a": {
+      "type": "faq",
+      "blocks": {
+        "template--18545610031453__f9e9166b-e2f9-4d10-be9a-8d3dff190e8a-1681305121ea3ea1c1-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Gartenpflanzen brauchen wenig Wasser?",
+            "custom_liquid_1": "",
+            "content": "<p>Viele Pflanzenarten haben sich auf einen Lebensraum mit geringen Niederschlägen und zeitweise hohen Temperaturen spezialisiert. Wenn Sie auf der Suche nach Gartenpflanzen sind, die wenig Wasser brauchen, empfehlen wir Ihnen Stauden wie Fetthenne, Pfingstrosen, Sonnenhut, Strauchmalven und Lavendel.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "64dbef8a-cd3f-4155-9f65-d6cb68dbcbfe": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Gartenpflanzen sind extrem giftig für Hunde?",
+            "custom_liquid_1": "",
+            "content": "<p>Für Ihren Hund sind einige Gartenpflanzen lebensgefährlich, weil sie Vergiftungen mit Symptomen wie Durchfall und Erbrechen hervorrufen. Dazu gehören Gehölzpflanzen wie <a href=\"\/products\/feuer-geissblatt\" title=\"Feuer-Geißblatt\">Feuer-Geißblatt Lonicera heckrottii<\/a>, Rhododendron, <a href=\"\/products\/eibenhecke\" title=\"Eibenhecke\">Eibe<\/a> und Europäischer Pfeifenstrauch, der auch Bauernjasmin genannt wird. Ganz wichtig ist, dass Ihr Haustier keine Pflanzenteile von Osterglocken verschluckt.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "dc97e6a1-4f23-4071-b74a-8914c5a787b2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie oft Gartenpflanzen düngen?",
+            "custom_liquid_1": "",
+            "content": "<p>Der Nährstoffbedarf unterscheidet sich je nach Pflanzenart und Entwicklungsstadium. Das Pflanzenwachstum lässt sich am besten fördern, wenn in kurzen Zeitabständen und in geringer Konzentration gedüngt wird. Als Faustregel gilt, dass starkwüchsige, blühfreudige Pflanzen in der Hauptwachstumsphase sogar wöchentlich gedüngt werden müssen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "d7872496-4599-46dd-ae87-6f93b6233e75": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann sollte man Gartenpflanzen gießen?",
+            "custom_liquid_1": "",
+            "content": "<p>Regelmäßige Wassergaben in den frühen Morgenstunden sind für das Wachstum und die Blütenentwicklung der Gartenpflanzen notwendig. Der Wassermangel bewirkt, dass weniger Nährstoffe aufgenommen werden und die geschwächten Pflanzen kaum blühen.<\/p><p><strong>Tipp<\/strong>: Oftmals geht man davon aus, dass das Gießen nicht notwendig ist, weil es geregnet hat. Kontrollieren Sie nach dem Regen die Bodenfeuchte mit einem Spaten. Reicht die Regenmenge nicht aus, um den gesamten Wurzelbereich zu durchfeuchten, muss zusätzlich gegossen oder beregnet werden.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "ec75905c-1f20-4862-af7f-c84bfa686fd2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Gartenpflanzen vertragen viel Sonne?",
+            "custom_liquid_1": "",
+            "content": "<p>Echte Sonnenanbeter unter den Gartenpflanzen sind <a href=\"\/collections\/stauden\" title=\"Stauden\">Stauden<\/a> und <a href=\"\/collections\/kletterpflanzen\" title=\"Kletterpflanzen\">Kletterpflanzen<\/a>. Vorteilhaft ist, dass diese Pflanzenarten fast die ganze Gartensaison über bunt blühen und dekorative Blattakzente setzen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18545610031453__f9e9166b-e2f9-4d10-be9a-8d3dff190e8a-1681305121ea3ea1c1-0",
+        "64dbef8a-cd3f-4155-9f65-d6cb68dbcbfe",
+        "dc97e6a1-4f23-4071-b74a-8914c5a787b2",
+        "d7872496-4599-46dd-ae87-6f93b6233e75",
+        "ec75905c-1f20-4862-af7f-c84bfa686fd2"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen über Gartenpflanzen"
+      }
+    },
+    "ddc42f7b-34af-41c0-bfd1-0d23070170ad": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "e52246a9-4728-4e5c-bc3a-5e4c13c02334": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gartenpflanzen-sortiment-gartencenter-de.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e52246a9-4728-4e5c-bc3a-5e4c13c02334"
+      ],
+      "settings": {
+      }
+    },
+    "49f4aee2-668a-4c1e-b9c1-45fc64a8c821": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Gartenpflanzen winterhart<\/p>"
+          }
+        },
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie in einer Region Deutschlands leben, in der es regelmäßig zu starken Frösten und Schneefällen kommt, sollten Sie darauf achten, dass Ihre Gartenpflanzen winterhart sind. Auf diese Weise reduzieren Sie Verluste durch Frostschäden und sparen sich die Kosten für den Neukauf. Hier erfahren Sie, welche Gartenpflanzen winterhart sind.<\/p>"
+          }
+        },
+        "42f68851-cb17-4b99-8a07-a40ae11c6aa5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Günstige Gartenpflanzen<\/p>"
+          }
+        },
+        "85fe7670-4198-4102-aad8-d8b8a271ebf8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Günstige Gartenpflanzen kaufen Sie am besten bei Gartencenter.de. Wir garantieren Ihnen aber nicht nur den vorteilhaften Preis. Wir versenden gesunde Pflanzen mit kräftigen Wurzeln, die schnell anwachsen. Ohne zu viel Geld auszugeben, können Sie Ihre Beete und Rabatten mit den günstigen Gartenpflanzen neu gestalten. Erstaunlich vorteilhafte Versandkosten und der praktische Lieferservice machen den Kauf von günstigen Gartenpflanzen bei Gartencenter.de zu einem einfachen und unkomplizierten Vergnügen!<\/p>"
+          }
+        },
+        "7f636967-2be8-44cd-a1ea-e74967356e31": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Gartenpflanzen online kaufen<\/p>"
+          }
+        },
+        "b52981c5-8dac-45a2-a067-d48a0f03ffe8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gartencenter.de können Sie eine breite Palette an Gartenpflanzen online kaufen, die Sie in lokalen Gärtnereien in dieser Auswahl nicht finden werden. Angeboten werden beispielsweise Blühsträucher wie Hortensias und Hibisken, aber auch verschiedene Ziergräser wie Pampasgras und Lampenputzergras.<br\/>Überraschen Sie Ihre Gartenfreunde mit einem Pflanzengeschenk! Sie können bei uns Gartenpflanzen online kaufen und direkt an eine Wunschadresse liefern lassen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-0",
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-1",
+        "42f68851-cb17-4b99-8a07-a40ae11c6aa5",
+        "85fe7670-4198-4102-aad8-d8b8a271ebf8",
+        "7f636967-2be8-44cd-a1ea-e74967356e31",
+        "b52981c5-8dac-45a2-a067-d48a0f03ffe8"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
       "type": "services",
       "blocks": {
@@ -324,6 +455,9 @@
     "63f32f95-dde4-49e7-bc58-32c9cef87283",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "f9e9166b-e2f9-4d10-be9a-8d3dff190e8a",
+    "ddc42f7b-34af-41c0-bfd1-0d23070170ad",
+    "49f4aee2-668a-4c1e-b9c1-45fc64a8c821",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

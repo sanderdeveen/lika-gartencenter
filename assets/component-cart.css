@@ -27,6 +27,13 @@ cart-items.is-empty .title-wrapper-with-link,
   width: 100%;
 }
 
+.inc-bob { 
+  display: block;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
 .cart-header--container {
   margin: 0;
   padding: 1rem 0;
@@ -102,7 +109,7 @@ cart-items {
 }
 
 .main-cart-items .cart-item__name {
-  max-width: fit-content;
+  max-width: 40rem;
 }
 
 .main-cart-items .cart-item__totals {

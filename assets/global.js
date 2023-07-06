@@ -919,3 +919,10 @@ customElements.define('variant-radios', VariantRadios);
 if (localStorage.getItem('popup') === null) {
   localStorage.setItem('popup', 'false');
 }
+
+// Store storage location 
+function onProductOptionChange() {
+  var dynamicBox = document.getElementById('myDynamicSelectBox');
+  console.log(dynamicBox.value);
+  localStorage.setItem('mySelectLocalstorageValue', dynamicBox.value);
+}

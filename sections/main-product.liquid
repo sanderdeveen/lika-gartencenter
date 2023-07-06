@@ -892,6 +892,18 @@
         {%- if product.metafields.custom.blutenbildung != blank -%}
           <div class="product-specification odd"><b>Blütenbildung</b> <span>{{ product.metafields.custom.blutenbildung | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
         {%- endif -%}
+      
+        {%- if product.metafields.custom.stacheln != blank -%}
+          <div class="product-specification even"><b>Stacheln</b> <span>{{ product.metafields.custom.stacheln | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+
+        {%- if product.metafields.custom.durchmesser_ubertopf != blank -%}
+          <div class="product-specification odd"><b>Durchmesser Pflanztopf</b> <span>{{ product.metafields.custom.durchmesser_ubertopf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
+
+        {%- if product.metafields.custom.durchmesser_pflanztopf != blank -%}
+          <div class="product-specification even"><b>Durchmesser Übertopf</b> <span>{{ product.metafields.custom.durchmesser_pflanztopf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
+        {%- endif -%}
       </div>
     {%- endif -%}
   </product_description>

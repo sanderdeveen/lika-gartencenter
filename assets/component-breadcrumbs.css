@@ -71,6 +71,7 @@
 .breadcrumbs__divider {
   display: flex;
   text-align: center;
+  width: 1.6rem;
 }
 
 .breadcrumbs__divider .icon-chevron-right {

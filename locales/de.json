@@ -159,7 +159,7 @@
       "choose_product_options": "Optionen für {{ product_name }} auswählen",
       "in_stock": "Auf Lager",
       "no_stock": "Ausverkauft",
-      "delivery_info": "Versand innerhalb von 0-2 Werktagen"
+      "delivery_info": "Versand innerhalb von 0-4 Werktagen"
     },
     "modal": {
       "label": "Medien-Galerie"
@@ -272,6 +272,7 @@
       "new_subtotal": "Neue Zwischensumme",
       "note": "Spezielle Bestellanweisungen",
       "checkout": "Zum warenkorb",
+      "checkout_cart": "Auschecken",
       "empty": "Warenkorb ist leer",
       "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",

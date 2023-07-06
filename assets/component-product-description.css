@@ -216,9 +216,6 @@
   .product__specification {
     flex-direction: row;
   }
-  .product__specification strong {
-    width: 35%;
-  }
   .product__specification p { 
     width: 65%;
   }

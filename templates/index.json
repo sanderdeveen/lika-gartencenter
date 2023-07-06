@@ -82,7 +82,7 @@
           "settings": {
             "heading": "Gartencenter.de",
             "heading_type": "h1",
-            "text": "<p>Warum noch ins <strong>Gartencenter<\/strong> fahren, wenn das <strong>Gartencenter<\/strong> auch zu Ihnen kommen kann? Von der Topfpflanze bis zum Traumgarten, in ganz Deutschland bis an die Haustür geliefert.<\/p>",
+            "text": "<p>Warum noch ins <strong>Gartencenter<\/strong> fahren, wenn das <strong>Gartencenter<\/strong> auch zu Ihnen nach Hause kommen kann? Ob Balkonpflanze oder kompletter Garten – wir sind gerne für Sie da. Worauf warten Sie noch? Ärmel hoch und los geht‘s!<\/p>",
             "r_text_1": "",
             "r_url_1": "",
             "r_text_2": "",
@@ -91,7 +91,7 @@
             "r_url_3": "",
             "r_text_4": "",
             "r_url_4": "",
-            "button_label_1": "Gartenpflanzen ansehen",
+            "button_label_1": "Zu den Gartenpflanzen",
             "button_link_1": "shopify:\/\/collections\/gartenpflanzen",
             "show_icon": true
           }
@@ -99,9 +99,9 @@
         "2f676c27-96c0-42d3-baaa-5aab5294c2c9": {
           "type": "block",
           "settings": {
-            "heading": "Produkte shoppen",
+            "heading": "Unser Sortiment",
             "heading_type": "h2",
-            "text": "<p>Seit 2009 in den Niederlanden bewährt, neu in Deutschland. Wir liefern alles, was Sie für einen grünen Job im und am Haus brauchen.<\/p>",
+            "text": "<p>Wir liefern bereits seit 2009 die schönsten Gartenpflanzen, Zimmerpflanzen, Bäume, Rollrasen und vieles mehr bis vor die Haustür. Genießen Sie die Vorteile eines virtuellen Gartencenters und entdecken Sie unser umfangreiches Angebot!<\/p>",
             "r_image_1": "shopify:\/\/shop_images\/sonnenstauden.jpg",
             "r_text_1": "Gartenpflanzen",
             "r_url_1": "shopify:\/\/collections\/gartenpflanzen",
@@ -383,6 +383,73 @@
         "btn_text": "Sehen Sie sich den Bambus 'Moontears' boobux an"
       }
     },
+    "aa3ab91d-1116-44b5-8b7d-979a46449048": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15760788684980__aa3ab91d-1116-44b5-8b7d-979a46449048-1682421927b051f8cf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Gartencenter.de – Online-Bestellung, beste Beratung<\/p>"
+          }
+        },
+        "template--15760788684980__aa3ab91d-1116-44b5-8b7d-979a46449048-1682421927b051f8cf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gartencenter.de möchten wir Ihnen den Kauf von Pflanzen und <a href=\"\/collections\/gartenzubehoer\" title=\"Gartenzubehör\">Gartenzubehör<\/a> so einfach und bequem wie möglich machen. Wir beraten Sie gerne und zeigen Ihnen, welche Pflanzen am besten zu Ihnen und Ihrem Garten, Ihrer Wohnung oder Terrasse passen. Online-Anbieter von Bäumen und Pflanzen gibt es ja genug, aber eine rasend schnelle Lieferung bis in den Garten bei bestem Service und einwandfreier Qualität findet man nicht überall. Gartencenter.de hat sich genau darauf spezialisiert und bietet Ihnen ein einzigartiges Online-Einkaufserlebnis ohne mühsames Schleppen und das zu sehr günstigen Preisen. Kurzum, bestellen Sie die schönsten <a href=\"\/collections\/zimmerpflanzen\" title=\"Zimmerpflanzen\">Zimmer-<\/a> und <a href=\"\/collections\/gartenpflanzen\" title=\"Gartenpflanzen\">Gartenpflanzen<\/a> bequem online bei Gartencenter.de!<\/p>"
+          }
+        },
+        "0a842c1c-1e48-4fea-86a6-5232b6fc9420": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflanzen online bestellen<\/p>"
+          }
+        },
+        "ab16f578-3a23-4bd4-9dc0-7f27c0901c99": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gartencenter.de können Sie Ihre Pflanzen einfach, bequem und sicher online bestellen. Sie finden bei uns eine große Auswahl an hochwertigen Pflanzen. Neben den über 1000 verschiedenen <a href=\"\/collections\/gartenpflanzen\" title=\"Gartenpflanzen\">Gartenpflanzen<\/a>, <a href=\"\/collections\/zimmerpflanzen\" title=\"Zimmerpflanzen\">Zimmerpflanzen<\/a> und <a href=\"\/collections\/baeume\" title=\"Bäume\">Bäumen<\/a> können Sie bei Gartencenter.de unter anderem auch <a href=\"\/collections\/rollrasen\" title=\"Rollrasen\">Rollrasen<\/a>, <a href=\"\/collections\/fertighecken\" title=\"Fertighecken\">Fertighecken<\/a> und <a href=\"\/collections\/blumenerde\" title=\"Blumenerde\">Blumenerde bestellen<\/a>. Ihre Bestellung wird sorgfältig verpackt und direkt zu Ihnen nach Hause geliefert, wobei Sie den gewünschten Lieferzeitpunkt selbst wählen können. Wir transportieren alle Arten von Pflanzen – ob groß oder klein – und liefern sie problemlos bis vor die Haustür, wann und wo immer Sie es wünschen.<\/p>"
+          }
+        },
+        "7562af5c-58ce-4ba0-ae56-67737a5a0a30": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflanz- und Pflegetipps von unseren Experten<\/p>"
+          }
+        },
+        "ce79f0a3-cdd9-4024-ad73-5a909af7a823": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser fachkundiges Team steht Ihnen gerne mit praktischen Pflanz- und Pflegetipps sowie informativen <a href=\"\/blogs\/ratgeber\" title=\"Ratgeber\">Blogbeiträgen<\/a> über das Zurückschneiden von <a href=\"\/collections\/hortensien\" title=\"Hortensien\">Hortensien<\/a>, die Wahl des richtigen <a href=\"\/collections\/baeume\" title=\"Bäume\">Baumes<\/a>, die geeignetsten Blumen und <a href=\"\/collections\/gartenpflanzen\" title=\"Gartenpflanzen\">Pflanzen<\/a> für Ihren Garten, die richtige Rasenpflege und zu vielen weiteren Themen zur Seite. Entdecken Sie die zahlreichen Vorteile unseres Online-Gartencenters!<\/p>"
+          }
+        },
+        "9f8e8a57-f0b8-4fc8-aba2-29db11a3b359": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Unsere Mission<\/p>"
+          }
+        },
+        "1551d200-acf9-40e8-9f62-d05b0fc13094": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie auch immer das Gefühl, dass andere Gärten schöner und gepflegter aussehen als der eigene? Hier ein Bäumchen, dort ein Strauch, ein Stückchen Rasen für die Kinder, ein paar Kräuter für die Küche und irgendwo vielleicht noch eine Grillecke oder Outdoor-Küche.<br\/><br\/>Haben Sie auch immer das Gefühl, dass andere Gärten schöner und gepflegter aussehen als der eigene? Dann wird es höchste Zeit, ihn ein bisschen auf Vordermann zu bringen! Aber wie und wo soll man anfangen? Von der stundenlangen Sucherei im Gartencenter, dem Dreck im Auto und dem Muskelkater danach ganz zu schweigen! Dabei muss das nicht sein, wenn es nach uns geht.<br\/><br\/>Bei Gartencenter.de sind wir nämlich davon überzeugt, dass wirklich jeder seinen grünen Daumen entdecken und Spaß an der Gartenarbeit haben kann. Man muss nur wissen, wie es geht. Deshalb möchten wir Sie inspirieren, motivieren, begeistern, unterstützen und Ihnen alles so leicht wie möglich machen. Denn seien wir mal ehrlich:<br\/><br\/>Wenn Sie alles in einem übersichtlichen, gut sortierten Online-Gartencenter bequem von zu Hause aus bestellen können. Dabei von fachkundigen Mitarbeiter*innen beraten werden. Alles bis vor die Haustür geliefert bekommen. Sich jederzeit praktische Pflanz- und Pflegetipps holen können und bei jedem einzelnen Schritt fachkundig unterstützt werden, damit Sie so richtig stolz auf Ihr Gartenprojekt sein können...<br\/><br\/>Dann steht Ihrer Karriere als Hobbygärtner*in doch wirklich nichts mehr im Wege, oder? Dank Gartencenter.de gibt es wirklich keinen Grund mehr, es nicht zu versuchen. Worauf warten Sie also noch? Krempeln Sie die Ärmel hoch und es kann losgehen! Entdecken Sie noch heute Ihren grünen Daumen!<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788684980__aa3ab91d-1116-44b5-8b7d-979a46449048-1682421927b051f8cf-0",
+        "template--15760788684980__aa3ab91d-1116-44b5-8b7d-979a46449048-1682421927b051f8cf-1",
+        "0a842c1c-1e48-4fea-86a6-5232b6fc9420",
+        "ab16f578-3a23-4bd4-9dc0-7f27c0901c99",
+        "7562af5c-58ce-4ba0-ae56-67737a5a0a30",
+        "ce79f0a3-cdd9-4024-ad73-5a909af7a823",
+        "9f8e8a57-f0b8-4fc8-aba2-29db11a3b359",
+        "1551d200-acf9-40e8-9f62-d05b0fc13094"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "b92431a4-5c58-461b-9379-d9dc1c8d14fe": {
       "type": "services",
       "blocks": {
@@ -437,6 +504,7 @@
     "24506853-e956-4826-b2be-b7be1e988bb3",
     "2cf55425-fde3-4749-9643-f7b5d4676adc",
     "e1dd53eb-f0ce-4ca8-bb9c-f3ed4b3ab1b7",
+    "aa3ab91d-1116-44b5-8b7d-979a46449048",
     "b92431a4-5c58-461b-9379-d9dc1c8d14fe",
     "ce3aa1f4-8698-4f4a-a328-1eb4e98a5ac8"
   ]

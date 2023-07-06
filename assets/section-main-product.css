@@ -177,6 +177,7 @@
   font-weight: 700;
   font-size: 1.4rem;
   border-radius: 0.4rem;
+  flex-wrap: inherit;
 }
 
 .tooltip .tooltiptext {
@@ -704,7 +705,6 @@ fieldset.product-form__input .form__label {
   border-radius: 5rem;
   background-image: linear-gradient(90deg, #D6883A 66px, #F29F40 0, #F29F40 100%);
   padding: 1.8rem 2.8rem;
-  width: 100%;
 }
 
 @media screen and (min-width: 568px) {
@@ -1892,4 +1892,4 @@ a.offer-badge {
   width: 100% !important;
   border-radius: 0.4rem !important;
   max-width: inherit !important;
-}li
+}

@@ -117,13 +117,53 @@
         "color_scheme": "background-1"
       }
     },
+    "b086ad86-ebe4-492d-89b5-a0cd7aa95668": {
+      "type": "faq",
+      "blocks": {
+        "template--19236606837085__b086ad86-ebe4-492d-89b5-a0cd7aa95668-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was ist eine Fertighecke?",
+            "custom_liquid_1": "",
+            "content": "<p>Fertighecken bestehen aus einzelnen Heckenelementen, bei denen sich die Heckenpflanzen an einem Gitter empor gerankt haben. Dadurch weist die Hecke schon bei der Lieferung einen dichten Wuchs und die gewünschte Höhe auf. Fertighecken sind mit verschiedenen Kletterpflanzen, wie z. B. Efeu, Feuerdorn, Spindelstrauch oder Sternjasmin, erhältlich.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "79f83cfa-f6d4-40e7-b761-4200e144ceda": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Fertighecken sind am schönsten?",
+            "custom_liquid_1": "",
+            "content": "<p>Welche Fertighecken die schönsten sind, ist eine Frage des persönlichen Geschmacks. Was für den einen schön ist, findet der andere hässlich. Aber nicht nur der Geschmack spielt bei der Wahl einer Fertighecke eine Rolle, auch die unterschiedlichen Eigenschaften der Pflanzen sollten berücksichtigt werden. Wuchshöhe, Preis oder ob die Pflanzen immergrün oder laubabwerfend sind, können für den Kauf entscheidend sein. Um Ihnen die Wahl etwas zu erleichtern, haben wir hier unsere beliebtesten Fertighecken für Sie aufgelistet.<\/p><h4>Unsere Topseller<\/h4><ol><li><a href=\"\/products\/hainbuche-fertighecke\" title=\"Hainbuche (Fertighecke)\">Hainbuche - Carpinus betulus<\/a><\/li><li><a href=\"\/products\/sternjasmin-fertighecke\" title=\"Sternjasmin (Fertighecke)\">Sternjasmin - Trachelospermum jasminoides<\/a><\/li><li><a href=\"\/products\/grossblaettriger-irischer-efeu-fertighecke\" title=\"Großblättriger Irischer Efeu (Fertighecke)\">Großblättriger Irischer Efeu - Hedera hibernica<\/a><\/li><\/ol>",
+            "custom_liquid_2": ""
+          }
+        },
+        "abffc105-d9b8-4ab9-9afd-a0f4434f2b3f": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Fertighecke ist für mich die richtige?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Wahl der richtigen Hecke ist gar nicht so einfach. Die folgenden Eigenschaften können dabei ausschlaggebend sein:<\/p><ul><li>Die gewünschte Wuchshöhe der Hecke<\/li><li>Laubabwerfend oder immergrün<\/li><li>Mit oder ohne Blüten<\/li><li>Die Wuchsgeschwindigkeit der Hecke<\/li><li>Holz- oder Metallpfosten<\/li><li>Bodenart<\/li><\/ul><p>Sehen Sie sich unsere Beispielfotos an und lassen Sie sich inspirieren!<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__b086ad86-ebe4-492d-89b5-a0cd7aa95668-faq-1",
+        "79f83cfa-f6d4-40e7-b761-4200e144ceda",
+        "abffc105-d9b8-4ab9-9afd-a0f4434f2b3f"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Fertighecken"
+      }
+    },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
       "type": "rich-text",
       "blocks": {
         "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Alle Fertighecken<\/p>"
+            "heading": "<p>Hier finden Sie alle Fertighecken<\/p>"
           }
         }
       },
@@ -158,6 +198,488 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "0f69a166-3bf6-42de-a918-f38db51a2625": {
+      "type": "faq",
+      "blocks": {
+        "template--19236606837085__0f69a166-3bf6-42de-a918-f38db51a2625-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie werden Fertighecken gepflanzt?",
+            "custom_liquid_1": "",
+            "content": "<p>Das Pflanzen\/Aufstellen von Fertighecken ist relativ einfach. Die Heckenelemente werden mithilfe von speziellen Montagehaltern an zwei Pfosten befestigt. In unserem Blog-Beitrag „Fertighecke pflanzen in 12 Schritten“ erklären wir Ihnen Schritt für Schritt, wie‘s geht.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "28f84dbd-a3d6-4ec9-ba20-d2add681f37e": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche immergrünen Fertighecken gibt es?",
+            "custom_liquid_1": "",
+            "content": "<p>Eine sehr beliebte immergrüne Fertighecke ist die Sternjasmin-Hecke. Diese Pflanze behält das ganze Jahr über ihre schönen, glänzenden Blätter und bezaubert im Sommer mit duftenden weißen Blüten. Der Sternjasmin ist eine sehr beliebte Heckenpflanze.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "301e9f41-ad9f-42f5-9449-da8799dd9692": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was kostet eine Fertighecke?",
+            "custom_liquid_1": "",
+            "content": "<p>Fertighecken sind in verschiedenen Varianten, Größen und Preiskategorien erhältlich. In unserer Produktübersicht sind die Preise der unterschiedlichen Heckenelemente übersichtlich aufgelistet.<\/p><p>Hier sehen Sie ein Rechenbeispiel für eine 4 Meter lange Fertighecke mit beidseitiger Wandmontage.<\/p><p>Schematische Ansicht: Wand x | x | x Wand<\/p><ul><li>Fertighecken-Element 120 x 180, 3 Stück: 159,99 bis 219,99 Euro<\/li><li>Hartholz-Pfosten: 2 x 32,99 = 65,98 Euro<\/li><li>Montagehalter für Pfosten: 2 x 9,99 = 19,98 Euro<\/li><li>Wandhalter: 4 x 4,99 = 19,96 Euro<\/li><\/ul><p><strong>Gesamtpreis der Fertighecke (günstigste Variante): 585,89 Euro<\/strong><\/p><p>Haben Sie etwas mehr Geduld und möchten Sie Ihre (Efeu-)Hecke selbst heranziehen, dann sind Jungpflanzen eine gute Wahl. Hier sehen Sie ein Rechenbeispiel für eine Efeuhecke aus Jungpflanzen und Gitterelementen.<\/p><p>Schematische Ansicht: | x | x |<\/p><ul><li>Großblättriger Efeu: 125-150 cm, 5 Stück pro Meter: 18 x 16,99 = 305,82 Euro (Um Kosten zu sparen, können Sie eventuell eine kleinere Pflanzengröße wählen.)<\/li><li>Gitterelement 180 x 90 cm: 2 x 54,99 = 109,98 Euro<\/li><li>Holzpfosten: 3 x 40,00 = 120,00 Euro<\/li><li>Montagehalter: 3 Stück pro Pfosten: 0,59 x 12 = 7,08 Euro<\/li><\/ul><p><strong>Gesamtpreis der Selbstbau-Hecke: 542,88 Euro<\/strong><\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__0f69a166-3bf6-42de-a918-f38db51a2625-faq-1",
+        "28f84dbd-a3d6-4ec9-ba20-d2add681f37e",
+        "301e9f41-ad9f-42f5-9449-da8799dd9692"
+      ],
+      "settings": {
+        "heading": "Weitere Fragen zu Fertighecken"
+      }
+    },
+    "fe39a953-6bbd-4c53-abdb-35f7bc5191b8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606837085__fe39a953-6bbd-4c53-abdb-35f7bc5191b8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Immergrüne Fertighecke als Sichtschutz<\/h2>"
+          }
+        },
+        "template--19236606837085__fe39a953-6bbd-4c53-abdb-35f7bc5191b8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine Fertighecke – was ist das eigentlich? Eine Fertighecke ist – wie der Name schon sagt – <strong>eine fertig gewachsene Hecke<\/strong>. Die Heckenelemente bestehen aus einem Metallgitter, an dem sich Hecken- oder <a href=\"\/collections\/kletterpflanzen\" title=\"Kletterpflanzen\">Kletterpflanzen<\/a> empor ranken. Die einzelnen Elemente werden an Pfosten befestigt, sodass man im Handumdrehen eine vollständig bewachsene Hecke hat. Die Pflanzen sind schon etwas größer und die Gitter bereits dicht bewachsen. Deshalb sind Fertighecken verständlicherweise auch teurer als einzelne Heckenpflanzen. Der große Vorteil ist jedoch, dass man den Sträuchern nicht jahrelang beim Wachsen zusehen muss und sofort <strong>einen perfekten Sichtschutz<\/strong> hat.<\/p>"
+          }
+        },
+        "5904cc2b-6763-4871-b9d0-5050ea649f56": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Das benötigt man für eine Fertighecke:<\/p>"
+          }
+        },
+        "a7136af9-d8de-48ee-aa2a-266f43001994": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Heckenelement<\/li><li><a href=\"\/products\/hartholzpfosten-fuer-fertighecken\" title=\"Hartholzpfosten für Fertighecken\">Hartholz-Pfosten<\/a><\/li><li><a href=\"\/products\/montagehalter-mittelpfosten-gruen-2-stueck\" title=\"Montagehalter für Mittelpfosten grün - 2 Stück\">Montagehalter<\/a><\/li><li><a href=\"\/products\/wandhalter-verzinkt\" title=\"Wandhalter verzinkt\">Wandhalter<\/a><\/li><\/ul>"
+          }
+        },
+        "8317d8fd-df5f-445e-935f-f93538a72623": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fertighecken sind in verschiedenen Wuchshöhen und mit verschiedenen Hecken- oder Kletterpflanzen erhältlich. Es gibt sie beispielsweise mit <a href=\"\/collections\/efeuhecke\" title=\"Efeuhecke\">Efeu<\/a>, <a href=\"\/products\/feuerdorn-darts-red-fertighecke\" title=\"Feuerdorn 'Dart's Red' (Fertighecke)\">Feuerdorn<\/a> oder <a href=\"\/products\/spindelstrauch-darts-blanket-fertighecke\" title=\"Spindelstrauch 'Dart's Blanket' (Fertighecke)\">Spindelstrauch<\/a>. Bei diesen Gewächsen handelt es sich um immergrüne Pflanzen. Das bedeutet, dass sie auch im Winter ihre Blätter behalten. Aber nicht alle Fertighecken sind immergrün, wie etwa die <a href=\"\/products\/hainbuche-fertighecke\" title=\"Hainbuche (Fertighecke)\">Hainbuche<\/a>. Eine Hainbuchenhecke verliert im Winter ihre Blätter.<\/p>"
+          }
+        },
+        "0f2bc4a1-46e2-4a0d-9152-fef10ea45caa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fertighecken sind äußerst beliebt als Sichtschutz und natürliche Abgrenzung zu den Nachbarn. Man kann sie relativ einfach selbst pflanzen und sie sind gut für die Umwelt. Hier finden Sie die wichtigsten Eigenschaften und Vorteile auf einen Blick.<\/p>"
+          }
+        },
+        "d410e739-9397-4065-b319-961b74f66301": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Die wichtigsten Eigenschaften von Fertighecken<\/h2>"
+          }
+        },
+        "39f88f8f-c648-4583-9b31-184ae69d4049": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Eigenschaften<\/h3>"
+          }
+        },
+        "1a4a218e-1adb-4b07-81e3-7c5e2ed6100f": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Sofort eine dicht bewachsene Hecke<\/li><li>Verschiedene Wuchshöhen und Pflanzenarten erhältlich<\/li><li>Aus zertifiziertem, nachhaltigem Anbau<\/li><li>Können ganzjährig gepflanzt werden (ausgenommen Frostperioden)<\/li><li>Umweltfreundlich<\/li><li>10 Jahre Garantie<\/li><li>Wurzelballen in biologisch abbaubaren Pflanzgefäßen aus Kokosfaser<\/li><\/ul>"
+          }
+        },
+        "e6f5a5f0-f310-48aa-9303-1265bddf079d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Vorteile<\/h3>"
+          }
+        },
+        "765d964e-5f81-4ada-9ec7-1a053170f5dc": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Sofortiger Sichtschutz und eine grüne Hecke<\/li><li>Schnell und einfach zu pflanzen\/aufzustelle<\/li><li>Fördert den Erhalt der Artenvielfalt<\/li><li>Trägt zu einer gesunden Umwelt bei<\/li><li>Trägt zu einer Verbesserung der Luftqualität bei<\/li><li>Verringert die Feinstaubbelastung (bis zu 60 %)<\/li><li>Ein wichtiger Beitrag zur Begrünung von Wohngebieten<\/li><\/ul>"
+          }
+        },
+        "3671d9c9-5920-4bb5-8aa4-ac5f9cd9e7b5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Fertighecke aus Efeu<\/h2>"
+          }
+        },
+        "9ccdb3a9-77b5-4f1b-b645-7c314eddc0e5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Efeu ist eine beliebte Pflanze, die sich sehr gut für Fertighecken eignet. Es handelt sich um eine immergrüne Kletterpflanze mit einer kriechenden Wuchsform. Die Triebe bilden feine Haftwurzeln aus, mit denen sich die Pflanze an Wänden, Zäunen, Steinen oder Baumstämmen festhält. Der Efeu wird gerne als Bodendecker gepflanzt, eignet sich aufgrund seiner Klettereigenschaften aber auch hervorragend als Heckenpflanze.<\/p>"
+          }
+        },
+        "5260602d-8eec-49d2-8389-7bf5db7e5eee": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Die Vorteile von Efeu als Fertighecke<\/h3>"
+          }
+        },
+        "1fe6063d-fe31-450a-a20e-94c82c3d7ed3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Verwendung von Efeu als Heckenpflanze hat viele Vorteile. Der wichtigste ist sicherlich die Tatsache, dass eine Hecke aus Efeu ganzjährig grün bleibt. Die immergrüne Hecke bietet dadurch das ganze Jahr über einen perfekten Sichtschutz.<\/p>"
+          }
+        },
+        "942d7eac-3009-439b-a584-754ec223d77e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Efeu bevorzugt zwar halbschattige bis schattige Standplätze, gedeiht aber auch in der Sonne. In der vollen Sonne können sich die Blätter des Efeus heller färben. Der Efeu ist absolut winterhart, verträgt auch sehr niedrige Temperaturen und muss im Winter nicht mit Winterschutzvlies abgedeckt werden. Der Efeu ist eine pflegeleichte Pflanze, muss aufgrund seiner Schnellwüchsigkeit jedoch ab und zu zurückgeschnitten werden. Der Rückschnitt erfolgt vorzugsweise zweimal im Jahr (Frühjahr und Herbst), damit die Fertighecke ihr Form behält. Damit die Hecke gesund und blickdicht bleibt, empfiehlt es sich, sie einmal im Jahr zu düngen.<\/p>"
+          }
+        },
+        "3a5656e5-ccb0-4e97-aaaf-80b6cad73779": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Warum Sie sich für eine Fertighecke aus Efeu entscheiden sollten<\/h3>"
+          }
+        },
+        "83aa2710-a8d2-4efd-94fb-7f3a240b0f12": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Immergrün<\/li><li>Pflegeleicht<\/li><li>Feste, ledrige Blätter<\/li><li>Kriechender Wuchs<\/li><\/ul>"
+          }
+        },
+        "a92a1ce7-455e-4e80-b768-4cd866b99cd4": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/efeu-woerner-hedera-helix-blatt.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "5d06c309-91d0-4cdc-94f4-a3dce90f0d69": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Fertighecke aus Hainbuchen<\/h2>"
+          }
+        },
+        "33cd845f-c920-4eb4-bbe5-32cef0d73c30": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Hainbuche (<em>Carpinus betulus<\/em>) ist eine beliebte Heckenpflanze, die gerne als natürlicher Sichtschutz gepflanzt wird. Die spitz zulaufenden Blätter mit doppelt gesägtem Blattrand sind im Sommer grün und verfärben sich im Herbst in ein wunderschönes Goldgelb. Die Hainbuchenhecke verliert im Winter ihre Blätter.<\/p>"
+          }
+        },
+        "d5560eb9-69d6-4663-99b4-8acd33e6cb3e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Die Vorteile der Hainbuche als Fertighecke<\/h3>"
+          }
+        },
+        "54f0e9f6-b1d9-4623-b054-3909094f1eff": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der große Vorteil einer Hainbuchen-Fertighecke besteht darin, dass man sofort einen perfekten Sichtschutz hat und nicht erst darauf warten muss, bis sich die Jungpflanzen zu einer schönen dichten Hecke entwickelt haben. Das kann bei der Hainbuche nämlich etwas länger dauern. Für alle, die nicht so lange warten möchten, ist eine Fertighecke die perfekte Lösung.<\/p>"
+          }
+        },
+        "7e732b54-23b5-4fcb-b60a-f22c61d370e8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Hainbuche ist zudem eine robuste Pflanze, die auch gut mit einer wechselnden Bodenfeuchte umgehen kann. Die Hainbuchenhecke gedeiht deshalb auch in schweren und lehmhaltigen Böden. Dadurch eignet sie sich besonders für <strong>Neubausiedlungen<\/strong>. Die Hainbuche verliert im Winter ihre Blätter. Ihre wunderschöne Herbstfärbung macht die Hainbuchenhecke zu einem attraktiven Hingucker im Garten.<\/p>"
+          }
+        },
+        "5821d8f3-b767-4392-9818-7e7ae8ba5fa0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Warum Sie sich für eine Fertighecke aus Hainbuchen entscheiden sollten<\/h3>"
+          }
+        },
+        "0cc7faab-7e64-4dc2-8316-d5a48faf7fea": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Kann gut mit wechselnder Bodenfeuchte umgehen, verträgt auch nasse Böden<\/li><li>Spitz zulaufende Blätter mit schöner Herbstfärbung<\/li><li>Treibt im Frühjahr früher aus als andere Buchenhecken<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__fe39a953-6bbd-4c53-abdb-35f7bc5191b8-heading-1",
+        "template--19236606837085__fe39a953-6bbd-4c53-abdb-35f7bc5191b8-text-1",
+        "5904cc2b-6763-4871-b9d0-5050ea649f56",
+        "a7136af9-d8de-48ee-aa2a-266f43001994",
+        "8317d8fd-df5f-445e-935f-f93538a72623",
+        "0f2bc4a1-46e2-4a0d-9152-fef10ea45caa",
+        "d410e739-9397-4065-b319-961b74f66301",
+        "39f88f8f-c648-4583-9b31-184ae69d4049",
+        "1a4a218e-1adb-4b07-81e3-7c5e2ed6100f",
+        "e6f5a5f0-f310-48aa-9303-1265bddf079d",
+        "765d964e-5f81-4ada-9ec7-1a053170f5dc",
+        "3671d9c9-5920-4bb5-8aa4-ac5f9cd9e7b5",
+        "9ccdb3a9-77b5-4f1b-b645-7c314eddc0e5",
+        "5260602d-8eec-49d2-8389-7bf5db7e5eee",
+        "1fe6063d-fe31-450a-a20e-94c82c3d7ed3",
+        "942d7eac-3009-439b-a584-754ec223d77e",
+        "3a5656e5-ccb0-4e97-aaaf-80b6cad73779",
+        "83aa2710-a8d2-4efd-94fb-7f3a240b0f12",
+        "a92a1ce7-455e-4e80-b768-4cd866b99cd4",
+        "5d06c309-91d0-4cdc-94f4-a3dce90f0d69",
+        "33cd845f-c920-4eb4-bbe5-32cef0d73c30",
+        "d5560eb9-69d6-4663-99b4-8acd33e6cb3e",
+        "54f0e9f6-b1d9-4623-b054-3909094f1eff",
+        "7e732b54-23b5-4fcb-b60a-f22c61d370e8",
+        "5821d8f3-b767-4392-9818-7e7ae8ba5fa0",
+        "0cc7faab-7e64-4dc2-8316-d5a48faf7fea"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0418cfb1-b2cb-45e0-9991-78c6e6259cc2": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Heckenelement in Hartholz-Pflanzkasten, hoch",
+        "image": "shopify:\/\/shop_images\/heckenelement-in-hartholz-pflanzkasten-hoch.jpg",
+        "content": "<p>Es gibt auch Fertighecken, die nicht in den Boden gepflanzt werden müssen. Diese Heckenelemente befinden sich in einem Pflanzkasten aus Hartholz und sind in <strong>verschiedenen Varianten erhältlich<\/strong> (hoch und niedrig). Sie werden bereits eingepflanzt und vollständig bewachsen als komplettes Set fix und fertig geliefert. Der perfekte Sichtschutz für Balkon oder Terrasse!<\/p>",
+        "url": "shopify:\/\/products\/heckenelement-in-hartholz-pflanzkasten-hoch",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "b46095fc-0500-44e3-a289-6fe27ab7d6ae": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606837085__b46095fc-0500-44e3-a289-6fe27ab7d6ae-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Fertighecken – Auswahlhilfe<\/h2>"
+          }
+        },
+        "template--19236606837085__b46095fc-0500-44e3-a289-6fe27ab7d6ae-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei der Wahl einer Fertighecke gibt es einiges zu beachten, damit man keine Enttäuschungen erlebt und möglichst lange Freude am neuen Grün im Garten hat. Um Ihnen bei der Auswahl der richtigen Fertighecke behilflich zu sein, haben wir hier einen kleinen Überblick für Sie zusammengestellt.<\/p>"
+          }
+        },
+        "d4decf7f-9236-4ee1-bc63-aa3522ee6561": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>1. Laubabwerfend oder immergrün<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__b46095fc-0500-44e3-a289-6fe27ab7d6ae-heading-1",
+        "template--19236606837085__b46095fc-0500-44e3-a289-6fe27ab7d6ae-text-1",
+        "d4decf7f-9236-4ee1-bc63-aa3522ee6561"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "4cb422e0-d730-4268-877f-db08ce56cddb": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "6796be1a-af01-4bdb-836b-c08c6be420f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuche-fertighecke-laubafwerfend.jpg",
+            "text": "Laubabwerfende Hecke aus Hainbuchen",
+            "url": "shopify:\/\/products\/hainbuche-fertighecke"
+          }
+        },
+        "a22543fc-91b6-44bd-a17b-6c9341855e4e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hedera-helix-woerner-fertighecke-immergrun.jpg",
+            "text": "Immergrüne Hecke aus Efeu 'Woerner‘",
+            "url": "shopify:\/\/products\/efeu-woerner-fertighecke"
+          }
+        }
+      },
+      "block_order": [
+        "6796be1a-af01-4bdb-836b-c08c6be420f4",
+        "a22543fc-91b6-44bd-a17b-6c9341855e4e"
+      ],
+      "settings": {
+      }
+    },
+    "253d09b2-6f57-40bb-9c18-f5b0dcc5270f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606837085__253d09b2-6f57-40bb-9c18-f5b0dcc5270f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>2. Mit oder ohne Blüten<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__253d09b2-6f57-40bb-9c18-f5b0dcc5270f-heading-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "9b805065-74f3-43d4-984b-641f72bcc8dc": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "7201930b-405d-4d4a-a30a-438f26ef28cf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pyracantha-darts-red-fertighecke-bluten.jpg",
+            "text": "Feuerdorn mit weißen Blüten",
+            "url": "shopify:\/\/products\/feuerdorn-darts-red-fertighecke"
+          }
+        },
+        "056fe5fd-8a87-45d9-8f50-557ad3454ad5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spindelstrauch-dart-s-blanket-fertighecke.jpg",
+            "text": "Spindelstrauch 'Dart's Blanket'",
+            "url": "shopify:\/\/products\/spindelstrauch-darts-blanket-fertighecke"
+          }
+        }
+      },
+      "block_order": [
+        "7201930b-405d-4d4a-a30a-438f26ef28cf",
+        "056fe5fd-8a87-45d9-8f50-557ad3454ad5"
+      ],
+      "settings": {
+      }
+    },
+    "ad67b802-6f6d-4277-92d2-81ddbd712536": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606837085__ad67b802-6f6d-4277-92d2-81ddbd712536-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>3. Art des Untergrundes<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__ad67b802-6f6d-4277-92d2-81ddbd712536-heading-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "00094874-95a2-4938-b4dd-c4d5c94e38f2": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "2ffdd820-8e4f-4535-ba00-f4f6cbf48e93": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuchen-garten-fertighecken-untergrundes.jpg",
+            "text": "Hainbuche - Carpinus betulus",
+            "url": "shopify:\/\/products\/hainbuche-fertighecke"
+          }
+        },
+        "78d6fc7f-2f5b-4a75-a719-ee42d328991e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/garten-efeu-fertighecke-gruen.jpg",
+            "text": "Efeu 'Woerner'",
+            "url": "shopify:\/\/products\/efeu-woerner-fertighecke"
+          }
+        }
+      },
+      "block_order": [
+        "2ffdd820-8e4f-4535-ba00-f4f6cbf48e93",
+        "78d6fc7f-2f5b-4a75-a719-ee42d328991e"
+      ],
+      "settings": {
+      }
+    },
+    "ae98dbea-cc2b-419d-ab6f-4ea109ed0ade": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606837085__ae98dbea-cc2b-419d-ab6f-4ea109ed0ade-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>4. Vogelfreundliche Hecken<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__ae98dbea-cc2b-419d-ab6f-4ea109ed0ade-heading-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "0cd44aff-0627-4f47-a3d3-e160f6883b36": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "9bc4170b-de76-4111-a4b3-26dc3aff7e73": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pyracantha-darts-red-feuerdorn.jpg",
+            "text": "Feuerdorn mit roten Beeren",
+            "url": "shopify:\/\/products\/feuerdorn-darts-red-fertighecke"
+          }
+        },
+        "0a2dcb1b-7fc5-4401-a21e-2f686d5edd46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hedera-fertighecke-gruen-blatt.jpg",
+            "text": "Hedera hibernica",
+            "url": "shopify:\/\/products\/grossblaettriger-irischer-efeu"
+          }
+        }
+      },
+      "block_order": [
+        "9bc4170b-de76-4111-a4b3-26dc3aff7e73",
+        "0a2dcb1b-7fc5-4401-a21e-2f686d5edd46"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "d8dde5ab-2770-4e73-b6fc-09f2c1bbb5ab": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606837085__d8dde5ab-2770-4e73-b6fc-09f2c1bbb5ab-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Bestellung und Lieferung<\/h2>"
+          }
+        },
+        "template--19236606837085__d8dde5ab-2770-4e73-b6fc-09f2c1bbb5ab-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Fertighecken werden innerhalb von 3 Werktagen von einem auf Pflanzen spezialisierten Spediteur zu Ihnen nach Hause geliefert. Da die Fertighecke auf Paletten geliefert wird, muss der Lieferort mit dem LKW (Maße: 16,5 x 4,00 x 2,55 m L x H x B) erreichbar sein. Wenn eine Zufahrt mit dem LKW nicht möglich ist, muss dies bei der Bestellung angegeben werden. Sollte sich nachträglich herausstellen, dass die Zufahrt per LKW nicht möglich ist, werden eventuell anfallende Mehrkosten in Rechnung gestellt.<\/p>"
+          }
+        },
+        "69ecab06-c609-464c-a63e-c653dd83936e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Fertighecke kaufen<\/h2>"
+          }
+        },
+        "0f3fb93a-0d89-4a18-91d9-6e5f14a0b048": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie sich für eine Fertighecke entschieden und möchten Sie gerne mehr darüber erfahren? In unserem Ratgeber finden Sie praktische Tipps und eine Schritt-für-Schritt-Anleitung zum Pflanzen von Fertighecken. Bei eventuellen weiteren Fragen können Sie sich jederzeit an uns wenden. Unsere Mitarbeiter*innen helfen Ihnen gerne weiter!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606837085__d8dde5ab-2770-4e73-b6fc-09f2c1bbb5ab-heading-1",
+        "template--19236606837085__d8dde5ab-2770-4e73-b6fc-09f2c1bbb5ab-text-1",
+        "69ecab06-c609-464c-a63e-c653dd83936e",
+        "0f3fb93a-0d89-4a18-91d9-6e5f14a0b048"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -235,7 +757,7 @@
         "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
       ],
       "settings": {
-        "heading": "GEEIGNETES ZUBEHÖR",
+        "heading": "GEEIGENETS ZÜBEHOR",
         "text": ""
       }
     },
@@ -291,8 +813,21 @@
     "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
     "16636997769ffcaf8a",
     "banner",
+    "b086ad86-ebe4-492d-89b5-a0cd7aa95668",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "0f69a166-3bf6-42de-a918-f38db51a2625",
+    "fe39a953-6bbd-4c53-abdb-35f7bc5191b8",
+    "0418cfb1-b2cb-45e0-9991-78c6e6259cc2",
+    "b46095fc-0500-44e3-a289-6fe27ab7d6ae",
+    "4cb422e0-d730-4268-877f-db08ce56cddb",
+    "253d09b2-6f57-40bb-9c18-f5b0dcc5270f",
+    "9b805065-74f3-43d4-984b-641f72bcc8dc",
+    "ad67b802-6f6d-4277-92d2-81ddbd712536",
+    "00094874-95a2-4938-b4dd-c4d5c94e38f2",
+    "ae98dbea-cc2b-419d-ab6f-4ea109ed0ade",
+    "0cd44aff-0627-4f47-a3d3-e160f6883b36",
+    "d8dde5ab-2770-4e73-b6fc-09f2c1bbb5ab",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"

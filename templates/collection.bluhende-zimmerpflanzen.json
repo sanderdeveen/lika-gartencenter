@@ -115,7 +115,7 @@
         "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Alle blühende Zimmerpflanzen<\/p>"
+            "heading": "<p>Alle blühenden Zimmerpflanzen<\/p>"
           }
         }
       },
@@ -150,6 +150,413 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "63f32f95-dde4-49e7-bc58-32c9cef87283": {
+      "type": "populair-collections",
+      "blocks": {
+        "5144845a-8e9b-4dc9-8fe1-73e0591be614": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/pflegeleichte-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Pflegeleichte-Zimmerpflanzen.jpg",
+            "header": "Pflegeleichte Zimmerpflanzen"
+          }
+        },
+        "259f95d0-031b-481b-a58b-31bc94849285": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/zimmerpflanzen-fuer-im-schatten",
+            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-fur-im-Schatten.jpg",
+            "header": "Schattenliebende Zimmerpflanzen"
+          }
+        },
+        "19f2f3d4-2b57-4ca5-9b0b-00b9da3731cb": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/zimmerpflanzen-fur-halbschatten",
+            "image": "shopify:\/\/shop_images\/zimmerpflanzen-fuer-halbschatten.jpg",
+            "header": "Zimmerpflanzen für Halbschatten"
+          }
+        },
+        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/sonnenliebende-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Sonnenliebende-Zimmerpflanzen.jpg",
+            "header": "Sonnenliebende Zimmerpflanzen"
+          }
+        },
+        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/grosse-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen.jpg",
+            "header": "Große Zimmerpflanzen"
+          }
+        },
+        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/luftreinigende-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Luftreinigende-Zimmerpflanzen.jpg",
+            "header": "Luftreinigende Zimmerpflanzen"
+          }
+        },
+        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/tierfreundliche-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Tierfreundliche-Zimmerpflanzen.jpg",
+            "header": "Tierfreundliche Zimmerpflanzen"
+          }
+        },
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/zimmerpflanzen-zubehoer",
+            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-zubehor.jpg",
+            "header": "Zimmerpflanzen-zubehör"
+          }
+        },
+        "079242a0-00b1-45ee-bb78-075abfc71e02": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/kakteen-und-sukkulenten",
+            "image": "shopify:\/\/shop_images\/kakteen-und-sukkulenten_94717e0a-d292-48ce-ac61-8073829c0dfe.jpg",
+            "header": "Kakteen und Sukkulenten"
+          }
+        }
+      },
+      "block_order": [
+        "5144845a-8e9b-4dc9-8fe1-73e0591be614",
+        "259f95d0-031b-481b-a58b-31bc94849285",
+        "19f2f3d4-2b57-4ca5-9b0b-00b9da3731cb",
+        "23c966c2-e802-465a-b22c-96c8052a3fc7",
+        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2",
+        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51",
+        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
+        "079242a0-00b1-45ee-bb78-075abfc71e02"
+      ],
+      "settings": {
+        "header": "Weitere Zimmerpflanzen",
+        "text": "",
+        "mobile_swipe": false
+      }
+    },
+    "0e125353-93f2-4d13-a7f9-eed40ee9dd71": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606476637__0e125353-93f2-4d13-a7f9-eed40ee9dd71-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Top 10 der blühenden Zimmerpflanzen<\/h2>"
+          }
+        },
+        "template--19236606476637__0e125353-93f2-4d13-a7f9-eed40ee9dd71-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Blühende Zimmerpflanzen sind eine sehr vorteilhafte Alternative zu Schnittblumen. Im Gegensatz zu Schnittblumen, die nach kurzer Zeit verwelken und entsorgt werden müssen, kann man sich an dem Blumenschmuck der Zimmerpflanzen lange erfreuen. Das Schöne an blühenden Zimmerpflanzen ist, dass man sich bei guter Pflege und einem idealen Standort auch in Zukunft an den <strong>exotischen Blüten<\/strong> erfreuen kann. Zimmerpflanzen, die wieder blühen, belohnen Sie für Ihre Pflege. Im Folgenden stellen wir Ihnen die 10 schönsten blühenden Zimmerpflanzen aus dem Sortiment von Gartencenter.de vor. Außerdem geben wir Ihnen die nötigen Pflegetipps, damit Ihre Grünpflanzen gut gedeihen und blühen. <br\/><\/p>"
+          }
+        },
+        "104840d5-3364-4d1d-8005-160126d52944": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Einblatt<\/h3>"
+          }
+        },
+        "63bca655-f5dc-4908-8a47-7dd4553b1a68": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das <a href=\"\/products\/einblatt\" title=\"Einblatt\">Einblatt Spathiphyllum<\/a> entwickelt im Frühjahr und im Herbst eine Kolbenblüte mit einem weiß-grünen Hochblatt. Voraussetzung dafür ist ein halbschattiger Standort. Bei der Pflege ist besonders auf regelmäßiges Gießen zu achten. Die Blumenerde darf nie austrocknen. Während der Blütezeit benötigt die Pflanze zusätzliche Nährstoffe, deshalb empfehlen wir die Verwendung von <a href=\"\/products\/compo-grunpflanzen-und-palmendunger\" title=\"COMPO Grünpflanzen- und Palmendünger\">COMPO Grünpflanzen- und Palmendünger<\/a>. Raumtemperaturen unter 15 °C verträgt das Einblatt nicht. Besprühen Sie die tropische Pflanze, wenn die Raumluft zu trocken ist.<br\/><\/p>"
+          }
+        },
+        "5b26ef7e-b614-42a2-a793-9e3825cc1223": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Flamingoblume<\/h3>"
+          }
+        },
+        "44de475d-b661-490d-8152-b6f8265bac4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/rote-flamingoblume\" title=\"Rote Flamingoblume\">rote Flamingoblume<\/a> beeindruckt mit einem <strong>glänzend roten Hochblatt<\/strong> und den kolbenförmigen Blütenstand. Pralle Sonne und trockene Zugluft sollten vermieden werden, damit sich eine blühfreudige Pflanze entwickeln kann. Die optimale Zimmertemperatur liegt im Sommer bei 20 bis 25 °C und im Winter bei 16 bis 18 °C. In der kühleren Jahreszeit wird die Blütenbildung angeregt. Vermeiden Sie, dass der Wurzelballen der tropischen Pflanze austrocknet. Mit einer Pflanzensprayflasche können Sie lokal die Luftfeuchtigkeit erhöhen. <\/p><p>Topfen Sie jährlich in leicht saure Erde mit krümeliger Struktur um. Ältere Flamingoblumen und Pflanzen, die in Hydrogranulat wachsen, müssen nicht so oft umgetopft werden. Ideal ist, wenn Sie wenig, aber häufig gießen. Im Sommer sollte man das Wasser mit etwas Flüssigdünger anreichern. Im Winter ist eine monatliche Düngung ausreichend. <\/p>"
+          }
+        },
+        "073fc642-d03d-45d8-b460-754e59c3a210": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Orchidee<\/h3>"
+          }
+        },
+        "e2021fe9-0a50-4299-916e-7fe56d47fc17": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welche Pflegemaßnahmen bei der <a href=\"\/products\/weisse-orchidee\" title=\"Weiße Orchidee\">weißen Phalaenopsis<\/a> zum Blüherfolg führen? Topfen Sie Orchideen grundsätzlich in spezielle Orchideenerde mit Rindenanteilen, die den Luftwurzeln ausreichend Halt und Luft bietet. Geben Sie nicht zu viel Wasser und vermeiden Sie auf jeden Fall die Bildung von Staunässe. Trockene Heizungsluft im Winter und die direkte Sonneneinstrahlung von Frühjahr bis Herbst schwächen die Pflanzen, sodass keine oder nur wenige Blüten gebildet werden. Eine Schattierung schützt vor Sonnenbrand auf den Blättern.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606476637__0e125353-93f2-4d13-a7f9-eed40ee9dd71-heading-1",
+        "template--19236606476637__0e125353-93f2-4d13-a7f9-eed40ee9dd71-text-1",
+        "104840d5-3364-4d1d-8005-160126d52944",
+        "63bca655-f5dc-4908-8a47-7dd4553b1a68",
+        "5b26ef7e-b614-42a2-a793-9e3825cc1223",
+        "44de475d-b661-490d-8152-b6f8265bac4c",
+        "073fc642-d03d-45d8-b460-754e59c3a210",
+        "e2021fe9-0a50-4299-916e-7fe56d47fc17"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f2279a66-dddc-4afc-b141-3ca6efe5178a": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "30c291eb-a386-44f2-8fa8-8d9ef8a7f591": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flamingoblume-rot-bluhend.jpg",
+            "text": "Rote Flamingoblume",
+            "url": "shopify:\/\/products\/rote-flamingoblume"
+          }
+        },
+        "9cda40dd-dd3e-414c-8db0-57017002ce31": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weissen-orchidee-phalaenopsis-bluemen.jpg",
+            "text": "Weißen Phalaenopsis",
+            "url": "shopify:\/\/products\/weisse-orchidee"
+          }
+        }
+      },
+      "block_order": [
+        "30c291eb-a386-44f2-8fa8-8d9ef8a7f591",
+        "9cda40dd-dd3e-414c-8db0-57017002ce31"
+      ],
+      "settings": {
+      }
+    },
+    "7209fad3-67dc-47a3-9974-a27827e37677": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606476637__7209fad3-67dc-47a3-9974-a27827e37677-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Aglaonema<\/h3>"
+          }
+        },
+        "template--19236606476637__7209fad3-67dc-47a3-9974-a27827e37677-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein Standort im Schatten oder Halbschatten ist eine Grundvoraussetzung für die Blüte des <a href=\"\/products\/kolbenfaden\" title=\"Kolbenfaden\">Kolbenfadens 'Silver Queen'<\/a>. Ob die Pflanze zu viel Sonne abbekommt, erkennt man an der Verfärbung der Blätter. Die relativ unscheinbaren Kolbenblüten mit der Spatha und die <strong>roten Beerenfrüchte<\/strong> entwickeln sich auch, wenn man einmal das Gießen vergessen hat. Aufgrund des langsamen Wachstums sind geringe Nährstoffmengen und damit seltene Düngergaben ausreichend.<\/p>"
+          }
+        },
+        "e870deba-e544-405d-8025-eb6b73bda96a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Bromelie<\/h3>"
+          }
+        },
+        "6c7f43d1-9cca-46a0-a759-1f5b8a5cd1d5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für alle Blumenliebhaber, die in <strong>eine exotische Blume<\/strong> mit hohem Zierwert und geringem Pflegeaufwand investieren möchten, ist die <a href=\"\/products\/bromelie-hope\" title=\"Bromelie\">Bromelie Guzmania 'Hope'<\/a> ein guter Tipp. Die pflegeleichte Pflanze braucht keinen Dünger. Sie bevorzugt aber einen warmen Standort im Wohnzimmer ohne direkte Mittagssonne. 'Hope' treibt bei hoher Luftfeuchtigkeit eine rote Blüte aus dem Blatttrichter. Gießen Sie das kalkfreie Wasser direkt in den Trichter und topfen Sie alle 2 Jahre um. Vermeiden Sie unbedingt Staunässe, um Fäulnis zu verhindern. <\/p>"
+          }
+        },
+        "00236958-f69a-4459-b031-ab17f6232c5d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Begonie<\/h3>"
+          }
+        },
+        "70691659-4d30-4f43-9600-b560c9945f4d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/forellenbegonie\" title=\"Forellenbegonie\">Forellenbegonie Begonia maculata<\/a> entwickelt hübsche kleine, <strong>rosafarbene Blüten<\/strong>, wenn alle Wachstumsbedingungen stimmen. Sie braucht morgens und abends Sonne und verträgt nur die direkte Wintersonne. Die Temperaturen sollten nicht unter 10 °C fallen. Sorgen Sie für eine hohe Luftfeuchtigkeit und düngen Sie von April bis September alle 4 bis 8 Wochen. Trockene Heizungsluft wird besonders schlecht vertragen. Abhilfe schafft das Besprühen der Blätter mit kalkarmem Wasser. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606476637__7209fad3-67dc-47a3-9974-a27827e37677-heading-1",
+        "template--19236606476637__7209fad3-67dc-47a3-9974-a27827e37677-text-1",
+        "e870deba-e544-405d-8025-eb6b73bda96a",
+        "6c7f43d1-9cca-46a0-a759-1f5b8a5cd1d5",
+        "00236958-f69a-4459-b031-ab17f6232c5d",
+        "70691659-4d30-4f43-9600-b560c9945f4d"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "50759fc6-c743-4362-bfbe-7eeead4fab44": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "6ebfb0ab-0d81-4ed9-8b45-6d1b9c409397": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/forellenbegonie-begonia-maculata-bluemen.jpg",
+            "text": "Forellenbegonie",
+            "url": "shopify:\/\/products\/forellenbegonie"
+          }
+        },
+        "b1c40e9c-b744-414f-b460-a0753d24f8f2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bromelie-guzmania-hope-bluemen.jpg",
+            "text": "Bromelie",
+            "url": "shopify:\/\/products\/bromelie-hope"
+          }
+        }
+      },
+      "block_order": [
+        "6ebfb0ab-0d81-4ed9-8b45-6d1b9c409397",
+        "b1c40e9c-b744-414f-b460-a0753d24f8f2"
+      ],
+      "settings": {
+      }
+    },
+    "7ac5c9e2-a1ed-4d08-b947-d66d0b43410d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606476637__7ac5c9e2-a1ed-4d08-b947-d66d0b43410d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Bergpalme<\/h3>"
+          }
+        },
+        "template--19236606476637__7ac5c9e2-a1ed-4d08-b947-d66d0b43410d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/bergpalme\" title=\"Bergpalme\">Bergpalme Chamaedorea<\/a> bevorzugt Halb- und Vollschatten. Im Frühjahr und Sommer während der Hauptwachstumsperiode benötigt sie zusätzliche Nährstoffe und mehr Wasser. In dieser Zeit sollte die Topferde immer feucht sein. In trockenen Räumen können Sie die Blätter mit einem Feinzerstäuber befeuchten, um die Luftfeuchtigkeit im Pflanzenbereich zu erhöhen. Diese optimale Pflege muss einige Zeit beibehalten werden. Die Bergpalme braucht zwei bis drei Jahre, bis sie zum ersten Mal blüht. Je nach Geschlecht der Pflanze kann es sich um männliche oder weibliche (duftende) Blüten handeln.<\/p>"
+          }
+        },
+        "3c75e0d9-4e8e-434e-97a8-a9b661d6e6fa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Calathea<\/h3>"
+          }
+        },
+        "936fdad1-f152-4d83-bd4a-b663cb28c15f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die ungiftige Korbmarante, die im Handel auch als Pfeilwurz bezeichnet wird, ist wegen ihrer auffälligen Blattfarben und -zeichnungen eine der attraktivsten Blattschmuckpflanzen in unserem Sortiment. Weniger bekannt ist, dass einige Arten auch blühen. Voraussetzung dafür sind eine gute Pflege und hell-diffuse Lichtverhältnisse, die den natürlichen Bedingungen der Herkunftsregion entsprechen. Wenn Ihre Korbmarante blüht, haben Sie mit der Pflege alles richtig gemacht und können stolz auf sich sein! <\/p><p>Die folgenden drei Arten gehören zu den seltener blühenden Vertretern der Calathea:<\/p><ul><li>Die <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante Calathea orbifolia<\/a> stammt aus den Regenwäldern Brasiliens. Diese Herkunft deutet bereits auf erhöhten Luftfeuchtigkeits- und Gießwasserbedarf hin. Unter tropischen Bäumen gibt es kein direktes Sonnenlicht, sondern Schatten. Die Pfauen-Korbmarante bevorzugt gleichmäßig warme Temperaturen. Kälte und Zugluft durch undichte Fenster beeinträchtigen Blüte und Wachstum.<\/li><\/ul><p><\/p><ul><li>Unter Zimmerbedingungen bildet die <a href=\"\/products\/lanzenblaettrige-korbmarante\" title=\"Lanzenblättrige Korbmarante\">Lanzenblättrige Korbmarante Calathea insignis (lancifolia)<\/a> relativ selten kleine gelbe Blüten. Tauchen Sie den Blumentopf in Wasser, damit sich der Wurzelballen der Lanzenblättrigen Korbmarante vollsaugen kann. Achten Sie darauf, dass das Wasser wieder abfließt und sich keine Staunässe bildet. Die Luftfeuchtigkeit muss mindestens 50 % betragen. Von April bis August ist eine Düngung pro Monat ausreichend.<\/li><\/ul><p><\/p><ul><li><a href=\"\/products\/zebra-korbmarante\" title=\"Zebra-Korbmarante\">Zebra-Korbmarante Calathea zebrina<\/a> entwickelt aufrechte Blütenstände mit vielen Einzelblüten, deren violette Blütenblätter auffallen. Diese Art blüht sehr selten. Wie alle Calathlea-Arten bevorzugt sie hohe Luftfeuchtigkeit, Schatten, sowie feuchte Topferde.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606476637__7ac5c9e2-a1ed-4d08-b947-d66d0b43410d-heading-1",
+        "template--19236606476637__7ac5c9e2-a1ed-4d08-b947-d66d0b43410d-text-1",
+        "3c75e0d9-4e8e-434e-97a8-a9b661d6e6fa",
+        "936fdad1-f152-4d83-bd4a-b663cb28c15f"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "78dc49e6-377a-4d16-a791-9fcea74ffba9": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "ccb9879b-455b-4650-9610-7077ea86eee7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bergpalme-chamaedorea.jpg",
+            "text": "Bergpalme",
+            "url": "shopify:\/\/products\/bergpalme"
+          }
+        },
+        "c7a5d9c2-bdff-418f-8936-e7008ac3a75b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zebra-korbmarante-bluemen.jpg",
+            "text": "Zebra-Korbmarante",
+            "url": "shopify:\/\/products\/zebra-korbmarante"
+          }
+        }
+      },
+      "block_order": [
+        "ccb9879b-455b-4650-9610-7077ea86eee7",
+        "c7a5d9c2-bdff-418f-8936-e7008ac3a75b"
+      ],
+      "settings": {
+      }
+    },
+    "b5a46192-51d4-481e-9ca4-4e845b5cca25": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606476637__b5a46192-51d4-481e-9ca4-4e845b5cca25-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Alokasie Elefantenohr \/ Pfeilblatt<\/h3>"
+          }
+        },
+        "template--19236606476637__b5a46192-51d4-481e-9ca4-4e845b5cca25-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Zimmerpflanzen der Gattung Alocasia werden auch Pfeilblatt, Riesen-Taro und Elefantenohr genannt. Die Trivialnamen beziehen sich auf die <strong>besondere Blattform<\/strong> und die dicken Blattadern. Unter günstigen Bedingungen und bei guter Pflege kann die Grünpflanze auch blühen. Wie für Aronstabgewächse typisch, bilden sich weißliche Kolben mit einem Hüllblatt. Schneiden Sie die verblühten Blüten unbedingt ab, damit die Pflanze durch die Samenbildung nicht geschwächt wird. Raumtemperaturen von 20 bis 25 °C während der Vegetationsperiode und Wintertemperaturen nicht unter 18 °C sind ideal. Alokasien brauchen täglich mindestens 5 Stunden Sonnenlicht.<\/p><ul><li>Das pflegeleichte <a href=\"\/products\/elefantenohr-1\" title=\"Elefantenohr\">Elefantenohr Alocasia macrorrhiza<\/a> ist eigentlich eine attraktive Blattschmuckpflanze. Ausreichendes Gießen, aber keine Staunässe ist eine Grundregel, die unbedingt eingehalten werden sollte. <\/li><\/ul><p><\/p><ul><li>Die auffallend schattierten Blattstängel schmücken das <a href=\"\/products\/elefantenohr\" title=\"Elefantenohr Zebrina\">Elefantenohr Alocasia zebrina<\/a>. Drehen Sie die Pflanze, wenn sie zu stark in Richtung Sonne wächst. Aronstabgewächs-typische Blüten entwickeln sich nur unter optimalen Lichtverhältnissen. Sorgen Sie für eine feuchte, aber keine nasse Topferde. Temperaturen unter 5 °C sind kritisch. Alocasia zebrina ist eine sehr wuchsfreudige Elefantenohrart und braucht zusätzliche Nährstoffe sowie schwach saure Blumenerde. <\/li><\/ul><p><\/p><ul><li>Die <a href=\"\/products\/pfeilblatt\" title=\"Pfeilblatt\">Blattschmuckpflanze Alocasie 'Polly'<\/a> ist eine Kreuzung und an den graugrünen Blattadern und der dunkelgrünen Blattfarbe zu erkennen. Wie alle Alokasien verträgt sie weder Staunässe noch Kälte. Wenn sich an einem günstigen, sonnigen Standort ein Blütenkolben mit einem gelblichen Hochblatt bildet, ist das ein Zeichen für beste Pflege!<\/li><\/ul>"
+          }
+        },
+        "f1192980-a7d7-4ada-b65c-2719761eab89": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Sansevieria<\/h3>"
+          }
+        },
+        "bd6b4c71-de41-474a-a91b-33fb75238c11": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sansevierien vertragen Sonne, Schatten und Halbschatten. Darum gehören sie zu den Anfängerpflanzen, bei denen neue Homegärtner ihre ersten Erfahrungen mit Zimmerpflanzen machen können. Wegen der Unkompliziertheit in Bezug auf Pflege und Wasserbedarf gelingt es hin und wieder, ältere Pflanzen zum Blühen zu bringen. Leider wird Ihre Pflege lediglich mit einem kleinen, aber duftenden Blütenschmuck belohnt, den man nach dem Verblühen abschneiden sollte.<\/p><p>Das Versprühen von Wasser ist bei Sansevierien nicht notwendig, weil eine geringe Luftfeuchtigkeit gut vertragen wird. Entscheidend ist, dass Sie den Bogenhanf im Frühjahr und Sommer regelmäßig gießen. Je heller die Sansevierie steht, umso mehr Wasser braucht sie. Nach der Saison kommt sie mit wenig Wasser aus.<\/p>"
+          }
+        },
+        "6c0ea8d8-03b9-4b3f-bfdd-4f80248d19ef": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Der <a href=\"\/products\/bogenhanf-cylindrica\" title=\"Bogenhanf 'Cylindrica'\">Bogenhanf Sansevieria cylindrica<\/a> entwickelt bei artgerechten Standort- und Pflegebedingungen im Frühjahr einen oder mehrere Blütentriebe mit vielen kleinen, zartweißen Blüten. Der rispenartige Stängel trägt mehrere kleine Einzelblüten, die etwas lilienartig geformt sind und sich nachts öffnen. Der klebrige Nektar duftet süß.<\/li><\/ul><p><\/p><ul><li>Der robuste <a href=\"\/products\/bunte-bogenhanf\" title=\"Bunte Bogenhanf\">Bunte Bogenhanf Sansevieria trifasciata<\/a> entwickelt ährige Blütenstände mit 3 bis 8 weißen Blüten. Entscheidend ist, dass Sie die Pflanze im Frühjahr und Sommer regelmäßig gießen. Nach der Saison braucht diese Sansevieria wenig Wasser. <\/li><\/ul><p><\/p><ul><li>Der <a href=\"\/products\/bogenhanf\" title=\"Bogenhanf\">Bogenhanf Sansevieria zeylanica<\/a> verträgt einem hellen Platz oder Halbschatten und braucht in der „Regenzeit“ also von Frühjahr bis Sommer regelmäßig Wasser. Die Blüte der Sansevieria zeylanica ist beeindruckend. Stark duftende, cremeweiße Blüten stehen an einer 30 bis 61 cm langen Rispe.<\/li><\/ul>"
+          }
+        },
+        "c53fb6ea-a737-46cf-a83d-8f4b78000069": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Tipps, damit Sie eine blühende Zimmerpflanze bekommen<\/h2>"
+          }
+        },
+        "62ee15e3-0a39-4617-b2e6-d01fec3b3602": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie versorgen Ihre Zimmerpflanze regelmäßig mit Wasser und Dünger und haben auch das Umtopfen nicht vergessen? Manchmal ist die ausbleibende Blütenbildung ein Zeichen dafür, dass der Standort der Zimmerpflanze nicht den Lichtbedürfnissen entspricht. Zu wenig Licht ist ein wichtiger Grund für das Ausbleiben der Blüten. Stellen Sie den Blumentopf an einen anderen Platz, vielleicht mit etwas Morgen- und Abendsonne. Informieren Sie sich in den Produktspezifikationen über die Ansprüche in Bezug auf die Lichtverhältnisse. Staunässe führt zum Faulen der Wurzeln. Stress durch Trockenheit schwächt die Pflanzen. Ihre gute Pflege und die Beachtung der Pflanzenansprüche garantieren den Blüherfolg!<\/p>"
+          }
+        },
+        "a724f0ee-aaab-4d7f-8548-7f58200c5e60": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Blühende Zimmerpflanzen online kaufen auf Gartencenter.de<\/p>"
+          }
+        },
+        "26277ad3-f96e-4838-a1fa-6fc3d43636bd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schicken Sie uns eine <a href=\"\/pages\/kontakt\" title=\"Kontakt\">E-Mail<\/a>. Wir beantworten gerne Ihre Fragen zu blühenden und nicht blühenden Zimmerpflanzen. Lesen Sie auch unsere Tipps zum Thema Pflanzenpflege! Sind Sie auf der Suche nach einer neuen blühenden Zimmerpflanze oder einer Alternative für einen Blumenstrauß? Mit dem Kauf einer Zimmerpflanze bei Gartencenter.de können Sie sich und anderen eine Freude bereiten. Bestellen Sie bequem online und lassen Sie die Pflanzen an eine Wunschadresse liefern.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606476637__b5a46192-51d4-481e-9ca4-4e845b5cca25-heading-1",
+        "template--19236606476637__b5a46192-51d4-481e-9ca4-4e845b5cca25-text-1",
+        "f1192980-a7d7-4ada-b65c-2719761eab89",
+        "bd6b4c71-de41-474a-a91b-33fb75238c11",
+        "6c0ea8d8-03b9-4b3f-bfdd-4f80248d19ef",
+        "c53fb6ea-a737-46cf-a83d-8f4b78000069",
+        "62ee15e3-0a39-4617-b2e6-d01fec3b3602",
+        "a724f0ee-aaab-4d7f-8548-7f58200c5e60",
+        "26277ad3-f96e-4838-a1fa-6fc3d43636bd"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
@@ -231,90 +638,6 @@
         "text": ""
       }
     },
-    "63f32f95-dde4-49e7-bc58-32c9cef87283": {
-      "type": "populair-collections",
-      "blocks": {
-        "5144845a-8e9b-4dc9-8fe1-73e0591be614": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/pflegeleichte-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Pflegeleichte-Zimmerpflanzen.jpg",
-            "header": "Pflegeleichte Zimmerpflanzen"
-          }
-        },
-        "259f95d0-031b-481b-a58b-31bc94849285": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/zimmerpflanzen-fuer-im-schatten",
-            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-fur-im-Schatten.jpg",
-            "header": "Schattenliebende Zimmerpflanzen"
-          }
-        },
-        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/sonnenliebende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Sonnenliebende-Zimmerpflanzen.jpg",
-            "header": "Sonnenliebende Zimmerpflanzen"
-          }
-        },
-        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/grosse-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen.jpg",
-            "header": "Große Zimmerpflanzen"
-          }
-        },
-        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/luftreinigende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Luftreinigende-Zimmerpflanzen.jpg",
-            "header": "Luftreinigende Zimmerpflanzen"
-          }
-        },
-        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/bluehende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Bluhende-Zimmerpflanzen.jpg",
-            "header": "Blühende Zimmerpflanzen"
-          }
-        },
-        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/tierfreundliche-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Tierfreundliche-Zimmerpflanzen.jpg",
-            "header": "Tierfreundliche Zimmerpflanzen"
-          }
-        },
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/zimmerpflanzen-zubehoer",
-            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-zubehor.jpg",
-            "header": "Zimmerpflanzen-zubehör"
-          }
-        }
-      },
-      "block_order": [
-        "5144845a-8e9b-4dc9-8fe1-73e0591be614",
-        "259f95d0-031b-481b-a58b-31bc94849285",
-        "23c966c2-e802-465a-b22c-96c8052a3fc7",
-        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2",
-        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51",
-        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
-        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376"
-      ],
-      "settings": {
-        "header": "Weitere Zimmerpflanzen",
-        "text": "",
-        "mobile_swipe": false
-      }
-    },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
       "type": "services",
       "blocks": {
@@ -369,8 +692,15 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
-    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "63f32f95-dde4-49e7-bc58-32c9cef87283",
+    "0e125353-93f2-4d13-a7f9-eed40ee9dd71",
+    "f2279a66-dddc-4afc-b141-3ca6efe5178a",
+    "7209fad3-67dc-47a3-9974-a27827e37677",
+    "50759fc6-c743-4362-bfbe-7eeead4fab44",
+    "7ac5c9e2-a1ed-4d08-b947-d66d0b43410d",
+    "78dc49e6-377a-4d16-a791-9fcea74ffba9",
+    "b5a46192-51d4-481e-9ca4-4e845b5cca25",
+    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

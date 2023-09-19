@@ -115,7 +115,7 @@
         "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Alle Schattenliebende Zimmerpflanzen<\/p>"
+            "heading": "<p>Alle Zimmerpflanzen für den Schatten<\/p>"
           }
         }
       },
@@ -148,6 +148,354 @@
         "enable_filtering": true,
         "filter_type": "drawer",
         "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "63f32f95-dde4-49e7-bc58-32c9cef87283": {
+      "type": "populair-collections",
+      "blocks": {
+        "5144845a-8e9b-4dc9-8fe1-73e0591be614": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/pflegeleichte-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Pflegeleichte-Zimmerpflanzen.jpg",
+            "header": "Pflegeleichte Zimmerpflanzen"
+          }
+        },
+        "9a87fb82-ebcd-4be2-8964-17ac4067d2ab": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/zimmerpflanzen-fur-halbschatten",
+            "image": "shopify:\/\/shop_images\/zimmerpflanzen-fuer-halbschatten.jpg",
+            "header": "Zimmerpflanzen für Halbschatten"
+          }
+        },
+        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/sonnenliebende-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Sonnenliebende-Zimmerpflanzen.jpg",
+            "header": "Sonnenliebende Zimmerpflanzen"
+          }
+        },
+        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/grosse-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen.jpg",
+            "header": "Große Zimmerpflanzen"
+          }
+        },
+        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/luftreinigende-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Luftreinigende-Zimmerpflanzen.jpg",
+            "header": "Luftreinigende Zimmerpflanzen"
+          }
+        },
+        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bluehende-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Bluhende-Zimmerpflanzen.jpg",
+            "header": "Blühende Zimmerpflanzen"
+          }
+        },
+        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/tierfreundliche-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/Tierfreundliche-Zimmerpflanzen.jpg",
+            "header": "Tierfreundliche Zimmerpflanzen"
+          }
+        },
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/zimmerpflanzen-zubehoer",
+            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-zubehor.jpg",
+            "header": "Zimmerpflanzen-zubehör"
+          }
+        },
+        "445d60e4-9255-4013-863e-e560f5c7cf4c": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/kakteen-und-sukkulenten",
+            "image": "shopify:\/\/shop_images\/kakteen-und-sukkulenten_94717e0a-d292-48ce-ac61-8073829c0dfe.jpg",
+            "header": "Kakteen und Sukkulenten"
+          }
+        }
+      },
+      "block_order": [
+        "5144845a-8e9b-4dc9-8fe1-73e0591be614",
+        "9a87fb82-ebcd-4be2-8964-17ac4067d2ab",
+        "23c966c2-e802-465a-b22c-96c8052a3fc7",
+        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2",
+        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51",
+        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
+        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
+        "445d60e4-9255-4013-863e-e560f5c7cf4c"
+      ],
+      "settings": {
+        "header": "Weitere Zimmerpflanzen",
+        "text": "",
+        "mobile_swipe": false
+      }
+    },
+    "89fe50bf-53e6-431d-85ea-da9ebd7da160": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236608967005__89fe50bf-53e6-431d-85ea-da9ebd7da160-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Was sind Schattenpflanzen?<\/h2>"
+          }
+        },
+        "template--19236608967005__89fe50bf-53e6-431d-85ea-da9ebd7da160-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schattenpflanzen kommen in tropischen und subtropischen Wäldern vor. Sie wachsen in den unteren Bereichen der Bäume und haben sich an die begrenzten Lichtverhältnisse in ihrem Lebensraum angepasst. Diese tropischen Pflanzenarten eignen sich für dunkle Räume, da sie nur <strong>wenig Sonnenlicht benötigen<\/strong>. Normale Zimmerpflanzen würden unter den dort herrschenden eingeschränkten Lichtverhältnissen kaum gedeihen. <\/p><p>Die Schattenpflanzen entwickeln ein besonders dunkelgrünes, sonnenempfindliches Laub, das eine auffallend dekorative Wirkung hat. Sie begrünen Wohnungen, Büros und andere öffentliche Räume mit wenigen und kleinen Fenstern, die nicht nach Süden ausgerichtet sind. Fast alle Schattenpflanzen sind pflegeleicht. Sie haben einen geringen Wasser- und Düngerbedarf. Zimmerpflanzen für den Schatten sind immergrün und leben bei guter Pflege sehr lange. Der Kauf von Schattenpflanzen lohnt sich also.<br\/><\/p>"
+          }
+        },
+        "925ea150-49da-40db-840a-7186491fa94a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Top 7 Zimmerpflanzen für Schatten<\/h2>"
+          }
+        },
+        "d62e0dd8-76bb-4beb-a052-b14b502eec40": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier möchten wir Ihnen kurz unsere 7 besten und meistgekauften Zimmerpflanzen für den Schatten vorstellen. Verschiedene Arten von Blattpflanzen für den Innenbereich in unterschiedlichen Größen stehen zur Auswahl. Das Zimmerpflanzensortiment reicht von hohen, großblättrigen Bodenpflanzen über kleine Schattenpflanzen für Regale und Fensterbänke.<\/p>"
+          }
+        },
+        "962eb489-bd98-42a7-a879-6ed28f6d315b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Dracaena - Drachenbaum<\/h3>"
+          }
+        },
+        "49d04b3d-5b30-4277-9d1f-48f3f7999269": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vier verschiedene Arten von Drachenbäumen sind hier im Online-Shop erhältlich. Sie unterscheiden sich in Wuchs, Blattform und Blattfärbung.<\/p><ul><li>Der <a href=\"\/products\/drachenbaum\" title=\"Drachenbaum 'Lemon Lime'\">Drachenbaum 'Lemon Lime' Dracaena deremensis<\/a> besitzt typischerweise dunkel- und hellgrün gestreifte Blätter.<\/li><li>Sehr gut können Sie den <a href=\"\/products\/drachenbaum-1\" title=\"Drachenbaum 'Marginata'\">Drachenbaum 'Marginata' Dracaena marginata<\/a> an den schmalen langen Blättern erkennen, die wie ein Schopf auf dem Stängel sitzen.<\/li><li>Mit seinen breiten, dunkelgrünen und kürzeren Blättern fällt der <a href=\"\/products\/drachenbaum-compacta\" title=\"Drachenbaum 'Compacta'\">Drachenbaum 'Compacta' Dracaena deremensis<\/a> sehr gut auf.<\/li><li>Die dicken hellgrünen getupften und dunkelgrün gestreiften Blätter des <a href=\"\/products\/junger-drachenbaum\" title=\"Junger Drachenbaum\">Verzweigten Drachenbaums Dracaena surculosa<\/a> und sein Wuchs unterscheiden sich von den anderen Dracaena-Arten. Man könnte meinen, dass diese Schattenpflanze nicht zur Gattung der Drachenbäume gehört.<\/li><\/ul>"
+          }
+        },
+        "0884894f-dcdb-4b21-9c13-118754d3f945": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Rhapis - Steckenpalme<\/h3>"
+          }
+        },
+        "1118668f-383c-48ab-9829-a8aa1af3dec0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Typisch für diese ostasiatische Palmenart sind die dunkelgrünen fächerartigen Blätter, die in längliche Segmente gefaltet sind. Rhapis ist eine Zimmerpflanze für den Schatten. Größere Pflanzen bis 2 m Höhe können auf den Boden gestellt werden. Kleinere Steckenpalmen kommen auf Pflanzentischen besser zur Geltung. Die schattenbevorzugende <a href=\"\/products\/steckenpalme\" title=\"Steckenpalme\">Steckenpalme<\/a> ist ein idealer natürlicher Raumteiler, mit dem sich beispielsweise ein Lesebereich oder ein Essbereich abtrennen lässt.<\/p>"
+          }
+        },
+        "e148e9dc-cd2e-43aa-858c-73b2db155249": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Aglaonema - Kolbenfaden<\/h3>"
+          }
+        },
+        "fa015594-d316-4359-b449-7070269cd3b0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/kolbenfaden\" title=\"Kolbenfaden\">Aglaonema 'Silver Queen'<\/a>, besser bekannt als Kolbenfaden, ist eine ideale schattenliebende Fensterbankpflanze. Auch auf (Schreib-)Tischen und Sideboards setzt die Schattenpflanze mit ihren grün und graugrün panaschierten Blättern farbige Akzente. Der Kolbenfaden ist tolerant, wenn das Gießen einmal vergessen wird. Bei guter Pflege und geeignetem Standort können sich Blüten entwickeln. Wie der Name schon sagt, bildet sich ein Hochblatt mit einem Blütenkolben.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236608967005__89fe50bf-53e6-431d-85ea-da9ebd7da160-heading-1",
+        "template--19236608967005__89fe50bf-53e6-431d-85ea-da9ebd7da160-text-1",
+        "925ea150-49da-40db-840a-7186491fa94a",
+        "d62e0dd8-76bb-4beb-a052-b14b502eec40",
+        "962eb489-bd98-42a7-a879-6ed28f6d315b",
+        "49d04b3d-5b30-4277-9d1f-48f3f7999269",
+        "0884894f-dcdb-4b21-9c13-118754d3f945",
+        "1118668f-383c-48ab-9829-a8aa1af3dec0",
+        "e148e9dc-cd2e-43aa-858c-73b2db155249",
+        "fa015594-d316-4359-b449-7070269cd3b0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "c3d14e9c-e2a1-4aad-8f06-877f5cda1206": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "e7eb2299-2282-47b9-88e0-d90797de3f46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rhapis-excelsa-steckenpalme-blatt.jpg",
+            "text": "Steckenpalme",
+            "url": "shopify:\/\/products\/steckenpalme"
+          }
+        },
+        "7e71f057-a177-41ed-aee3-be8742275673": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/drachenbaum-lemon-lime-blatt.jpg",
+            "text": "Drachenbaum 'Lemon Lime'",
+            "url": "shopify:\/\/products\/drachenbaum"
+          }
+        }
+      },
+      "block_order": [
+        "e7eb2299-2282-47b9-88e0-d90797de3f46",
+        "7e71f057-a177-41ed-aee3-be8742275673"
+      ],
+      "settings": {
+      }
+    },
+    "64fce2e0-7f72-424f-bd01-d6fa7593cff1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236608967005__64fce2e0-7f72-424f-bd01-d6fa7593cff1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Calathea - Korbmarante<\/h3>"
+          }
+        },
+        "template--19236608967005__64fce2e0-7f72-424f-bd01-d6fa7593cff1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Typisch für alle Korbmaranten ist, dass sich die Blätter nachts aufrichten oder einrollen, um sich am Morgen wieder zu entfalten. Diese Blattbewegungen sind manchmal als Rascheln zu hören. Korbmaranten brauchen ein feuchtes Substrat und warme Zimmertemperaturen. Hier im Online-Shop von Gartencenter.de finden Sie drei verschiedene Calathea-Arten.<\/p><ul><li>Die <a href=\"\/products\/lanzenblaettrige-korbmarante\" title=\"Lanzenblättrige Korbmarante\">Lanzenblättrige Korbmarante Calathea 'Insignis'<\/a> ist die dekorativste Korbmarante. Diese Zimmerpflanze für den Schatten erkennen Sie an der dunkelroten Blattunterseite und der hellgrünen Oberseite mit den dunkelgrünen Flecken. Diese wunderschöne Blattschmuckpflanze lässt sich leicht pflegen. Falls sich die Pflanze nicht entwickelt, ist ein Standortwechsel notwendig. <\/li><li>Rundliche, graugrüne und grün gestreifte Blätter hat die <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante Calathea orbifoli<\/a>. Die glänzenden Blätter dieser Schattenpflanze sind sehr dekorativ. Auch diese Korbmarante bevorzugt den Schatten und gedeiht sehr gut in dunklen Räumen.<\/li><li>Die <a href=\"\/products\/zebra-korbmarante\" title=\"Zebra-Korbmarante\">Zebra-Korbmarante Calathea 'Zebrina'<\/a> eignet sich für Bad und Küche, da sie Räume mit hoher Luftfeuchtigkeit bevorzugt. Alternativ empfehlen wir das Einsprühen mit kalkfreiem Wasser. Die Zebra-Korbmarante verdankt ihren Namen den dunkelgrünen Streifen auf den graugrünen Blättern.<\/li><\/ul>"
+          }
+        },
+        "29551f3c-7da2-4e74-bab1-9f1d9a3d5218": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Monstera - Fensterblatt<\/h3>"
+          }
+        },
+        "5b81d21d-e15e-4c21-ad12-d51ea176435f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Im Sortiment von Gartencenter.de finden Sie drei verschiedene Monstera-Pflanzen. Dabei handelt es sich um das an einem Kokosstab befestige <a href=\"\/products\/fensterblatt-mit-kokosstab\" title=\"Fensterblatt mit Kokosstab\">Fensterblatt Monstera pertusem<\/a>, ein Fensterblatt ohne Kletterhilfe und die <a href=\"\/products\/lochpflanze\" title=\"Lochpflanze\">Lochpflanze Monstera 'Monkey Leaf'<\/a>. Alle drei Monsteras sind ausgewiesene Zimmerpflanzen, die Schatten bevorzugen. Darum eignen sich diese exotischen Blattpflanzen für alle Raumbereiche mit wenig Tageslicht. <\/p>"
+          }
+        },
+        "a59aea0b-4959-4f98-a462-7434545affe8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Kentiapalme - Howea forsteriana<\/h3>"
+          }
+        },
+        "705989dd-9f93-41f9-9bf4-b7f2163bbb4d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Palmenliebhaber müssen nicht auf Palmen verzichten: Auch für Räume mit relativ wenig Sonnenlicht gibt es Palmen! Die aus Australien stammende <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Kentiapalme Howea forsteriana<\/a> ist eine Zimmerpflanze, die Schatten sehr gut verträgt. Große Exemplare der Kentiapalme können in dekorative Pflanzkübel auf den Boden gestellt werden. Kleinere Pflanzen kommen auf Beistelltischen sehr gut zur Geltung. Die Palmwedel der Howea wirken leicht und luftig. Obwohl die Kentia eine ausgesprochene Schattenpflanze ist, sollte der Wurzelballen immer feucht gehalten werden.<\/p>"
+          }
+        },
+        "78deaba3-8d9d-490a-b987-20dc75d242dd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Sansevieria - Schwiegermutterzunge<\/h3>"
+          }
+        },
+        "bb5bb68c-eb57-4807-a6a8-d2c4a5a13a27": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der <a href=\"\/products\/bogenhanf-cylindrica\" title=\"Bogenhanf 'Cylindrica'\">Bogenhanf Sansevieria cylindrica<\/a>, der auch als Schwiegermutterzunge bezeichnet wird, gehört wegen des aufrechten Wuchses seiner stielrunden Blätter zu den platzsparenden Zimmerpflanzen. Die langen, röhrenförmigen Blätter stehen aufrecht im Topf und sind graugrün mit grünen Querstreifen. Diese klassische Zimmerpflanze aus den Sechzigerjahren wirkt perfekt auf kleinen Beistelltischen, Retro-Anrichten und Fensterbänken. Sehr dekorativ sieht die Kombination mit runden Übertöpfen in den passenden Farben aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236608967005__64fce2e0-7f72-424f-bd01-d6fa7593cff1-heading-1",
+        "template--19236608967005__64fce2e0-7f72-424f-bd01-d6fa7593cff1-text-1",
+        "29551f3c-7da2-4e74-bab1-9f1d9a3d5218",
+        "5b81d21d-e15e-4c21-ad12-d51ea176435f",
+        "a59aea0b-4959-4f98-a462-7434545affe8",
+        "705989dd-9f93-41f9-9bf4-b7f2163bbb4d",
+        "78deaba3-8d9d-490a-b987-20dc75d242dd",
+        "bb5bb68c-eb57-4807-a6a8-d2c4a5a13a27"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f0c29aa7-cd98-4fca-9ad7-2bc0940f432d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "9d6a2435-535b-415f-8eb9-8b199ee31f81": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/philodendron-monstera-fensterblatt-blatt.jpg",
+            "text": "Fensterblatt",
+            "url": "shopify:\/\/products\/fensterblatt"
+          }
+        },
+        "ffee0751-2b13-4268-9049-394b5b28af22": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sansevieria-trifasciata-blatt.jpg",
+            "text": "Bunte Bogenhanf",
+            "url": "shopify:\/\/products\/bunte-bogenhanf"
+          }
+        }
+      },
+      "block_order": [
+        "9d6a2435-535b-415f-8eb9-8b199ee31f81",
+        "ffee0751-2b13-4268-9049-394b5b28af22"
+      ],
+      "settings": {
+      }
+    },
+    "db3482a3-ec32-4466-a78e-35297e89b011": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236608967005__db3482a3-ec32-4466-a78e-35297e89b011-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Warum brauchen Sie eine Schattenpflanze?<\/h2>"
+          }
+        },
+        "template--19236608967005__db3482a3-ec32-4466-a78e-35297e89b011-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nicht alle Räume haben Fenster, die für Pflanzen günstig ausgerichtet sind. Manchmal ist der Platz in Fensternähe nicht ausreichend oder die Fensterbank fehlt. Mit Zimmerpflanzen für den Schatten können auch Räume begrünt werden, in denen das durch die Fenster einfallende Tageslicht durch Jalousien oder Lamellen vor Einblick und Sonne geschützt ist. Mit den Zimmerpflanzen, die Schatten vertragen, können Sie den gesamten Raumbereich <strong>dekorieren und gestalten<\/strong>. Die Grünzonen beschränken sich also nicht nur auf den Fensterbereich. Übrigens: Schattenpflanzen sind auch für grüne Inseln in Salons, Restaurants und Büros geeignet.<\/p>"
+          }
+        },
+        "c7321a6a-ef47-4674-bddb-61f43963d196": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pflege von Schattenpflanzen<\/p>"
+          }
+        },
+        "f17e0e86-b829-479f-adf4-40592977934d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grundsätzlich unterscheidet sich die Pflege von Schattenpflanzen nicht von der Pflege <a href=\"\/collections\/sonnenliebende-zimmerpflanzen\" title=\"Sonnenliebende Zimmerpflanzen\">sonnenliebender Zimmerpflanzen<\/a>. Gießen, Düngen und Umtopfen sowie das Entfernen abgestorbene Pflanzenteile sind die Hauptaufgaben des Zimmergärtners. Verwenden Sie zimmerwarmes Gießwasser. Schattenpflanzen brauchen deutlich weniger Wasser und müssen seltener gegossen werden. Das liegt daran, dass die Verdunstung unter dunkleren Lichtverhältnissen geringer ist und die Pflanzen langsamer wachsen. Auch der Bedarf an Pflanzennährstoffen ist geringer. Stehen die pflegeleichten Zimmerpflanzen im Schatten, müssen sie nur alle paar Jahre umgetopft werden.<\/p>"
+          }
+        },
+        "a8067b65-f2e3-419b-818a-00ceb2b45c51": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Zimmerpflanzen für Schatten online kaufen auf Gartencenter.de<\/p>"
+          }
+        },
+        "6b313c81-5052-4125-901f-a3106beb998a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Brauchen Sie eine neue Schattenpflanze, weil Ihre alte Zimmerpflanze zu groß geworden ist? Möchten Sie Räume mit wenig Tageslicht zu Hause oder am Arbeitsplatz begrünen? Dann können Sie bei Gartencenter.de viele verschiedene Zimmerpflanzen für den Schatten kaufen. Neben dem traditionellen Fensterblatt bietet Gartencenter.de große Kentiapalmen und verschiedene Drachenbäume an. Alle schattenliebenden Zimmerpflanzen sind in mehreren Größen erhältlich, sodass Sie je nach Platzkapazität die geeigneten Arten aussuchen können. Verschönern und beleben Sie Ihr Zuhause mit Zimmerpflanzen, die perfekt an die Lichtbedingungen Ihrer Wohnung angepasst sind. Gestalten Sie einen grünen Raumteiler oder pflanzen Sie mehrere Schattenpflanzen zusammen in einen größeren Pflanzkübel.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236608967005__db3482a3-ec32-4466-a78e-35297e89b011-heading-1",
+        "template--19236608967005__db3482a3-ec32-4466-a78e-35297e89b011-text-1",
+        "c7321a6a-ef47-4674-bddb-61f43963d196",
+        "f17e0e86-b829-479f-adf4-40592977934d",
+        "a8067b65-f2e3-419b-818a-00ceb2b45c51",
+        "6b313c81-5052-4125-901f-a3106beb998a"
+      ],
+      "settings": {
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -231,90 +579,6 @@
         "text": ""
       }
     },
-    "63f32f95-dde4-49e7-bc58-32c9cef87283": {
-      "type": "populair-collections",
-      "blocks": {
-        "5144845a-8e9b-4dc9-8fe1-73e0591be614": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/pflegeleichte-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Pflegeleichte-Zimmerpflanzen.jpg",
-            "header": "Pflegeleichte Zimmerpflanzen"
-          }
-        },
-        "259f95d0-031b-481b-a58b-31bc94849285": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/zimmerpflanzen-fuer-im-schatten",
-            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-fur-im-Schatten.jpg",
-            "header": "Schattenliebende Zimmerpflanzen"
-          }
-        },
-        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/sonnenliebende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Sonnenliebende-Zimmerpflanzen.jpg",
-            "header": "Sonnenliebende Zimmerpflanzen"
-          }
-        },
-        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/grosse-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Grosse-Zimmerpflanzen.jpg",
-            "header": "Große Zimmerpflanzen"
-          }
-        },
-        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/luftreinigende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Luftreinigende-Zimmerpflanzen.jpg",
-            "header": "Luftreinigende Zimmerpflanzen"
-          }
-        },
-        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/bluehende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Bluhende-Zimmerpflanzen.jpg",
-            "header": "Blühende Zimmerpflanzen"
-          }
-        },
-        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/tierfreundliche-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Tierfreundliche-Zimmerpflanzen.jpg",
-            "header": "Tierfreundliche Zimmerpflanzen"
-          }
-        },
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376": {
-          "type": "collection_grid_links",
-          "settings": {
-            "url": "shopify:\/\/collections\/zimmerpflanzen-zubehoer",
-            "image": "shopify:\/\/shop_images\/Zimmerpflanzen-zubehor.jpg",
-            "header": "Zimmerpflanzen-zubehör"
-          }
-        }
-      },
-      "block_order": [
-        "5144845a-8e9b-4dc9-8fe1-73e0591be614",
-        "259f95d0-031b-481b-a58b-31bc94849285",
-        "23c966c2-e802-465a-b22c-96c8052a3fc7",
-        "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2",
-        "8897d4b5-2bb5-4b47-a5dc-cc684a983d51",
-        "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
-        "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376"
-      ],
-      "settings": {
-        "header": "Weitere Zimmerpflanzen",
-        "text": "",
-        "mobile_swipe": false
-      }
-    },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
       "type": "services",
       "blocks": {
@@ -369,8 +633,13 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
-    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "63f32f95-dde4-49e7-bc58-32c9cef87283",
+    "89fe50bf-53e6-431d-85ea-da9ebd7da160",
+    "c3d14e9c-e2a1-4aad-8f06-877f5cda1206",
+    "64fce2e0-7f72-424f-bd01-d6fa7593cff1",
+    "f0c29aa7-cd98-4fca-9ad7-2bc0940f432d",
+    "db3482a3-ec32-4466-a78e-35297e89b011",
+    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

@@ -160,6 +160,99 @@
         "padding_bottom": 0
       }
     },
+    "1334b491-9af3-4928-a994-a47ff53d94e8": {
+      "type": "faq",
+      "blocks": {
+        "template--19236606771549__1334b491-9af3-4928-a994-a47ff53d94e8-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viel kostet eine Efeuhecke?",
+            "custom_liquid_1": "",
+            "content": "<p>Der genaue Preis einer Efeuhecke hängt von der Efeu-Art, der Höhe der gewünschten Hecke und dem verwendeten Material ab. Auch die Art der Hecke (Selbstbau oder Fertighecke) ist für den Preis entscheidend.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "d0c4e579-e9a5-4028-936f-8f2602f80977": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie lange braucht Efeu zum Anwachsen?",
+            "custom_liquid_1": "",
+            "content": "<p>Efeu ist eine schnellwüchsige Pflanze und wächst etwa 50 cm pro Jahr.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "0c2e28e2-3003-4119-b387-8d1a0e184bd0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viel Platz benötigen Efeu-Pflanzen?",
+            "custom_liquid_1": "",
+            "content": "<p>Wir empfehlen Ihnen, 5 Pflanzen pro Heckenmeter zu pflanzen, um eine dicht bewachsene Hecke zu erhalten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606771549__1334b491-9af3-4928-a994-a47ff53d94e8-faq-1",
+        "d0c4e579-e9a5-4028-936f-8f2602f80977",
+        "0c2e28e2-3003-4119-b387-8d1a0e184bd0"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Efeuhecken"
+      }
+    },
+    "2f52f22d-8f1e-4503-aab7-65607d4454a6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606771549__2f52f22d-8f1e-4503-aab7-65607d4454a6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Efeuhecke kaufen<\/h2>"
+          }
+        },
+        "template--19236606771549__2f52f22d-8f1e-4503-aab7-65607d4454a6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Efeu erfreut sich in den letzten Jahren einer immer größerer Beliebtheit als Heckenpflanze. Die <strong>immergrüne Pflanze<\/strong> behält auch im Winter ihre Blätter und bietet somit das ganze Jahr über einen perfekten Sichtschutz. Ein weiterer Vorteil ist, dass Efeu in so gut wie jedem Boden gedeiht. Man muss also nicht unbedingt wissen, welche Bodenart man im eigenen Garten hat. Zudem ist der Efeu eine sehr robuste Pflanze, die unempfindlich gegenüber Krankheiten und Schädlingen ist und somit überall problemlos wächst.<\/p>"
+          }
+        },
+        "3121bd89-7416-46be-88fe-1359c9a9972c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Vorteile:<\/h3>"
+          }
+        },
+        "88f13894-8f37-44a5-8b8e-8a4f5b9d27d4": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Ganzjährig grün<\/li><li>Pflegeleicht<\/li><li>Unempfindlich gegenüber Krankheiten<\/li><li>Begrünt den Garten und fördert die Artenvielfalt<\/li><li>Schnell und einfach zu pflanzen\/aufzustellen<\/li><li>In verschiedenen Größen erhältlich und für jeden Garten geeignet<\/li><li>Große Auswahl an verschiedenen Efeu-Arten<\/li><li>Sofortiger Sichtschutz mit unseren <a href=\"\/collections\/fertighecken\" title=\"Fertighecken\">Fertighecken<\/a><\/li><\/ul>"
+          }
+        },
+        "7b01f0a6-aa35-4f65-9468-6bf8a8e65f59": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Gut zu wissen!<\/h3>"
+          }
+        },
+        "76db6fc3-2282-4e94-b619-ef27c4e11dd3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Efeu wächst so gut wie überall. Er stellt keine besonderen Ansprüche an den Boden und gedeiht an <strong>sonnigen<\/strong>, <strong>halbschattigen<\/strong> und <strong>schattigen Standorten<\/strong>. Der perfekte Sichtschutz für jeden Garten!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606771549__2f52f22d-8f1e-4503-aab7-65607d4454a6-heading-1",
+        "template--19236606771549__2f52f22d-8f1e-4503-aab7-65607d4454a6-text-1",
+        "3121bd89-7416-46be-88fe-1359c9a9972c",
+        "88f13894-8f37-44a5-8b8e-8a4f5b9d27d4",
+        "7b01f0a6-aa35-4f65-9468-6bf8a8e65f59",
+        "76db6fc3-2282-4e94-b619-ef27c4e11dd3"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
       "type": "product-bestsellers",
       "blocks": {
@@ -181,44 +274,31 @@
             "usp": "Schonend verpackt"
           }
         },
-        "814a43a7-5393-483e-bf08-56cbfca4b2bf": {
-          "type": "usp",
-          "settings": {
-            "usp": "Umfangreicher Käuferschutz"
-          }
-        },
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-heckenturbo",
+            "product": "gewohnlicher-efeu",
             "enable_quick_add": true
           }
         },
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bambus-ziergraeser-langzeit-duenger",
+            "product": "zweifarbiger-efeu-goldchild",
             "enable_quick_add": true
           }
         },
         "c890bba4-50af-4e12-8125-df199ebcbfc2": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-sana-qualitaets-blumenerde",
+            "product": "grossblaettriger-irischer-efeu",
             "enable_quick_add": true
           }
         },
         "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
           "type": "product_selection",
           "settings": {
-            "product": "compo-bio-universal-langzeit-duenger-mit-schafwolle",
-            "enable_quick_add": true
-          }
-        },
-        "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
-          "type": "product_selection",
-          "settings": {
-            "product": "compo-turbo-rasenduenger",
+            "product": "nordafrikanischer-efeu-goldchild",
             "enable_quick_add": true
           }
         }
@@ -227,16 +307,120 @@
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-0",
         "f82042d1-6860-47d6-8b85-ad21a2691446",
         "81d44e77-5d26-436c-84a8-719d20032a9a",
-        "814a43a7-5393-483e-bf08-56cbfca4b2bf",
         "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1",
         "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0",
         "c890bba4-50af-4e12-8125-df199ebcbfc2",
-        "8f2619a4-25a8-44c9-a774-9a87ae7b2eea",
-        "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
+        "8f2619a4-25a8-44c9-a774-9a87ae7b2eea"
       ],
       "settings": {
-        "heading": "GEEIGNETES ZUBEHÖR",
+        "heading": "TOPSELLER EFEU",
         "text": ""
+      }
+    },
+    "9b9664ad-947f-42a5-a8ac-6210527c37a1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606771549__9b9664ad-947f-42a5-a8ac-6210527c37a1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Efeuhecke anlegen<\/h2>"
+          }
+        },
+        "template--19236606771549__9b9664ad-947f-42a5-a8ac-6210527c37a1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mit Efeu lässt sich im Handumdrehen ein blickdichter grüner Sichtschutz realisieren. Es gibt verschiedene Möglichkeiten, eine Efeuhecke anzulegen. Entweder mit bereits vollständig bewachsenen Fertighecken-Elementen oder mit selbst gepflanzten Efeu-Pflanzen, die man an einem Gitterzaun empor wachsen lässt. Für welche Methode Sie sich auch entscheiden, das Anlegen der Hecke erfordert grundsätzlich die folgenden Schritte:<\/p>"
+          }
+        },
+        "24ba5fc5-67b0-4f77-a433-61fa2d30b17a": {
+          "type": "ordered_list",
+          "settings": {
+            "ordered_list": "<ol><li>Pflanzgraben ausheben.<\/li><li>Zaunpfosten im gewünschten Abstand aufstellen (abhängig von der Größe der Gitterelemente).<\/li><li>Gitterelemente an den Pfosten befestigen.<\/li><li>Efeu Pflanzen im gewünschten Abstand in den Pflanzgraben setzen.<\/li><li>Die ausgehobenen Erde im Verhältnis 2:1 mit <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts Blumenerde<\/a> mischen und den Pflanzgraben damit auffüllen. Die Erde vorsichtig fest drücken.<\/li><li>Die Pflanzen vorsichtig am Gitter anbinden, damit sie schneller nach oben klettern. Dazu kann beispielsweise unser Gartendraht verwendet werden.<\/li><li>Pflanzen gießen.<\/li><\/ol>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606771549__9b9664ad-947f-42a5-a8ac-6210527c37a1-heading-1",
+        "template--19236606771549__9b9664ad-947f-42a5-a8ac-6210527c37a1-text-1",
+        "24ba5fc5-67b0-4f77-a433-61fa2d30b17a"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "bf83da79-7561-437e-a57a-40279bfd95ca": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606771549__bf83da79-7561-437e-a57a-40279bfd95ca-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Efeu-Fertighecke<\/h2>"
+          }
+        },
+        "template--19236606771549__bf83da79-7561-437e-a57a-40279bfd95ca-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine <a href=\"\/collections\/fertighecken\" title=\"Fertighecken\">Fertighecke<\/a> aus Efeu ist die schnellste und einfachste Methode, eine blickdichte Hecke zu erhalten. Bei unseren Fertighecken sind die Gitter bereits vollständig mit Efeu bewachsen. Diese Pflanzen sind schon einige Jahre alt und wesentlich größer und kräftiger als einzelne Efeu-Pflänzchen, die noch an den Gittern empor wachsen müssen. Unsere Fertighecken werden fix und fertig als blickdichter Sichtschutz zu Ihnen nach Hause geliefert. Die Montage der Heckenelemente ist relativ einfach. Die Gitterelemente werden mithilfe von Montagehaltern an Pfosten befestigt. In unserem Blog-Beitrag „Fertighecke pflanzen“ erfahren Sie mehr darüber.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606771549__bf83da79-7561-437e-a57a-40279bfd95ca-heading-1",
+        "template--19236606771549__bf83da79-7561-437e-a57a-40279bfd95ca-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "7ae23dbb-7f58-4297-947d-d478a2ac904b": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Efeuhecke im Pflanzkasten",
+        "image": "shopify:\/\/shop_images\/fertighecken-elemente-im-hartholz-pflanzkasten.jpg",
+        "content": "<p>Unsere hohen oder niedrigen Fertighecken-Elemente im Hartholz-Pflanzkasten (verschiedene Größen erhältlich) werden nicht in die Erde gepflanzt und können überall aufgestellt werden. Die Heckenelemente sind bereits eingepflanzt, stabil befestigt und vollständig bewachsen. Die Hecke wird fix und fertig montiert (inklusive Pflanzkasten, Pfosten, Montagehalterungen und Blumenerde) zu Ihnen nach Hause geliefert. Der einfachste grüne Sichtschutz und auch für kleine Gärten, Balkone oder Terrasse bestens geeignet!<\/p>",
+        "url": "shopify:\/\/products\/gewohnlicher-efeu",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "7e3735ef-6859-4fab-a0e1-9698ae9cfda1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236606771549__7e3735ef-6859-4fab-a0e1-9698ae9cfda1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Efeuhecken richtig pflegen<\/p>"
+          }
+        },
+        "template--19236606771549__7e3735ef-6859-4fab-a0e1-9698ae9cfda1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie bereits mehrmals erwähnt, ist der Efeu eine genügsame Pflanze, die mit sehr wenig Pflege auskommt. Dennoch ist es wichtig, die Efeuhecke regelmäßig zurückzuschneiden, um sie in Form zu halten. Efeu wächst relativ schnell und sollte zweimal im Jahr zurückgeschnitten werden. Sobald die Pflanzen die gewünschte Höhe erreicht haben, sorgt der Rückschnitt auch dafür, dass die Hecke in die Breite wächst.<\/p>"
+          }
+        },
+        "14da6346-00bf-4416-a425-4f4e8b3af75c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Durch ihr schnelles Wachstum haben die Pflanzen einen erhöhten Nährstoffbedarf. Deshalb empfehlen wir Ihnen, die Efeuhecke nach jedem Schnitt zu düngen, damit die Pflanzen mit allen Nährstoffen versorgt werden, die sie für ein gesundes Wachstum benötigen.<\/p>"
+          }
+        },
+        "2c42f764-ff93-4490-b589-edbeaa4b62b3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Und schließlich spielt auch die richtige Bewässerung eine Rolle. Ausgewachsener Efeu ist durchaus selbst in der Lage, seinen Wasserhaushalt zu regulieren und muss nur an richtig heißen Sommertagen ab und zu gegossen werden. Jungpflanzen dahingegen benötigen regelmäßige Wassergaben, um gut anzuwachsen und sich dauerhaft schön und gesund entwickeln zu können.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236606771549__7e3735ef-6859-4fab-a0e1-9698ae9cfda1-heading-1",
+        "template--19236606771549__7e3735ef-6859-4fab-a0e1-9698ae9cfda1-text-1",
+        "14da6346-00bf-4416-a425-4f4e8b3af75c",
+        "2c42f764-ff93-4490-b589-edbeaa4b62b3"
+      ],
+      "settings": {
+        "padding_top": 38,
+        "padding_bottom": 12
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -293,7 +477,13 @@
     "banner",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
+    "1334b491-9af3-4928-a994-a47ff53d94e8",
+    "2f52f22d-8f1e-4503-aab7-65607d4454a6",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
+    "9b9664ad-947f-42a5-a8ac-6210527c37a1",
+    "bf83da79-7561-437e-a57a-40279bfd95ca",
+    "7ae23dbb-7f58-4297-947d-d478a2ac904b",
+    "7e3735ef-6859-4fab-a0e1-9698ae9cfda1",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

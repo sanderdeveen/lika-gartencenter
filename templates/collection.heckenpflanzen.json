@@ -163,7 +163,7 @@
         "fccbe396-31a8-454c-9c65-ea5f20aba2db": {
           "type": "collection_grid_links",
           "settings": {
-            "url": "shopify:\/\/collections\/buchshecke",
+            "url": "shopify:\/\/collections\/buchsbaumhecke",
             "image": "shopify:\/\/shop_images\/buchshecke.jpg",
             "header": "Buchshecke"
           }
@@ -183,6 +183,14 @@
             "image": "shopify:\/\/shop_images\/stechpalme.jpg",
             "header": "Stechpalme"
           }
+        },
+        "170667ff-ff59-448c-8d92-108e611e3c00": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/fertighecken",
+            "image": "shopify:\/\/shop_images\/fertighecken-euonymus-garten.jpg",
+            "header": "Fertighecken"
+          }
         }
       },
       "block_order": [
@@ -194,7 +202,8 @@
         "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
         "fccbe396-31a8-454c-9c65-ea5f20aba2db",
         "20e6a384-4db0-4744-b5f7-223fcbbaa00b",
-        "eb9d327e-3e23-425a-961a-cd6f2e1a2182"
+        "eb9d327e-3e23-425a-961a-cd6f2e1a2182",
+        "170667ff-ff59-448c-8d92-108e611e3c00"
       ],
       "settings": {
         "header": "Wir beraten Sie gerne bei der Auswahl der richtigen Heckenpflanze",
@@ -562,8 +571,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/hedera-helix-woerner-fertighecke_497804c8-d151-4c9b-a23c-7be5c85a06e0.jpg",
-            "text": "Hedera helix Woerner Fertighecke",
-            "url": ""
+            "text": "Efeu 'Woerner' Fertighecke",
+            "url": "shopify:\/\/products\/efeu-woerner-fertighecke"
           }
         }
       },

@@ -80,13 +80,21 @@
         "5860303b-bd94-4b42-b3a3-de28689f954c": {
           "type": "breadcrumb_link",
           "settings": {
-            "breadcrumb_text": "Zimmerpflanzen",
-            "breadcrumb_link": "shopify:\/\/collections\/zimmerpflanzen"
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "2988e64a-4b5f-4086-8c43-39b5bc1ae12e": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "",
+            "breadcrumb_link": ""
           }
         }
       },
       "block_order": [
-        "5860303b-bd94-4b42-b3a3-de28689f954c"
+        "5860303b-bd94-4b42-b3a3-de28689f954c",
+        "2988e64a-4b5f-4086-8c43-39b5bc1ae12e"
       ],
       "settings": {
         "menu": "main-menu",
@@ -323,7 +331,7 @@
         "c1d60394-f840-4b87-b4cc-2ba97444fb4b": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Bewässerung<\/li><\/ul><p>Fast alle blühenden Gartenpflanzen benötigen in dieser kritischen Entwicklungsphase ausreichend Wasser. Trockenheit durch ausbleibenden Regen, kann zum vorzeitigen Verwelken der Blumen führen. Kübel- und Balkonpflanzen haben generell einen höheren Wasserbedarf. Regelmäßiges Gießen fördert das gleichmäßige Wachstum und damit den Blüherfolg.<\/p><ul><li>Schnitt<\/li><\/ul><p>Blüten entwickeln sich vor allem an jungen Trieben. Blühende Ziergehölze, aber auch Stauden wie Lavendel brauchen einen Rückschnitt, um das Wachstum anzuregen.<\/p><ul><li>Düngen<\/li><\/ul><p>Optimal mit Nährstoffen versorgte, blühende Gartenpflanzen entwickeln einen reichen Blütenflor. COMPO BIO Universal Langzeit-Dünger mit Schafwolle ist ein organischer Dünger, der die Pflanzen über 5 Monate mit Nährstoffen versorgt. Er fördert die Humusbildung und die Entwicklung der Bodenmikroorganismen.<\/p><ul><li>Unkraut entfernen<\/li><\/ul><p>Zwischen den Pflanzen eines Blumengartens kann sich das Unkraut etwas verstecken und ungestört vermehren. Regelmäßiges Harken oder Jäten sorgt für einen gepflegten Gesamteindruck.<\/p>"
+            "text": "<ul><li><strong>Bewässerung<\/strong><\/li><\/ul><p>Fast alle blühenden Gartenpflanzen benötigen in dieser kritischen Entwicklungsphase ausreichend Wasser. Trockenheit durch ausbleibenden Regen, kann zum vorzeitigen Verwelken der Blumen führen. Kübel- und Balkonpflanzen haben generell einen höheren Wasserbedarf. Regelmäßiges Gießen fördert das gleichmäßige Wachstum und damit den Blüherfolg.<\/p><ul><li><strong>Schnitt<\/strong><\/li><\/ul><p>Blüten entwickeln sich vor allem an jungen Trieben. Blühende Ziergehölze, aber auch Stauden wie Lavendel brauchen einen Rückschnitt, um das Wachstum anzuregen.<\/p><ul><li><strong>Düngen<\/strong><\/li><\/ul><p>Optimal mit Nährstoffen versorgte, blühende Gartenpflanzen entwickeln einen reichen Blütenflor. <a href=\"\/products\/compo-bio-universal-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Universal Langzeit-Dünger mit Schafwolle\">COMPO BIO Universal Langzeit-Dünger mit Schafwolle<\/a> ist ein organischer Dünger, der die Pflanzen über 5 Monate mit Nährstoffen versorgt. Er fördert die Humusbildung und die Entwicklung der Bodenmikroorganismen.<\/p><ul><li><strong>Unkraut entfernen<\/strong><\/li><\/ul><p>Zwischen den Pflanzen eines Blumengartens kann sich das Unkraut etwas verstecken und ungestört vermehren. Regelmäßiges Harken oder Jäten sorgt für einen gepflegten Gesamteindruck.<\/p>"
           }
         },
         "21defbfd-0e93-4ea3-a6a5-a5fa86ace102": {

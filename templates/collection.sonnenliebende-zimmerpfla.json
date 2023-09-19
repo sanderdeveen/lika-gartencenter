@@ -250,12 +250,12 @@
             "header": "Schattenliebende Zimmerpflanzen"
           }
         },
-        "23c966c2-e802-465a-b22c-96c8052a3fc7": {
+        "46d45759-efd4-4c9c-b3c3-8590614e9c46": {
           "type": "collection_grid_links",
           "settings": {
-            "url": "shopify:\/\/collections\/sonnenliebende-zimmerpflanzen",
-            "image": "shopify:\/\/shop_images\/Sonnenliebende-Zimmerpflanzen.jpg",
-            "header": "Sonnenliebende Zimmerpflanzen"
+            "url": "shopify:\/\/collections\/zimmerpflanzen-fur-halbschatten",
+            "image": "shopify:\/\/shop_images\/zimmerpflanzen-fuer-halbschatten.jpg",
+            "header": "Zimmerpflanzen für Halbschatten"
           }
         },
         "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2": {
@@ -297,17 +297,26 @@
             "image": "shopify:\/\/shop_images\/Zimmerpflanzen-zubehor.jpg",
             "header": "Zimmerpflanzen-zubehör"
           }
+        },
+        "33237bd7-f94d-4ea4-95f2-ed614482c0fb": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/kakteen-und-sukkulenten",
+            "image": "shopify:\/\/shop_images\/kakteen-und-sukkulenten_94717e0a-d292-48ce-ac61-8073829c0dfe.jpg",
+            "header": "Kakteen und Sukkulenten"
+          }
         }
       },
       "block_order": [
         "5144845a-8e9b-4dc9-8fe1-73e0591be614",
         "259f95d0-031b-481b-a58b-31bc94849285",
-        "23c966c2-e802-465a-b22c-96c8052a3fc7",
+        "46d45759-efd4-4c9c-b3c3-8590614e9c46",
         "ce6202dc-d4e1-4328-bac4-b5535b8f2cb2",
         "8897d4b5-2bb5-4b47-a5dc-cc684a983d51",
         "template--15760788390068__63f32f95-dde4-49e7-bc58-32c9cef87283-16667790513e0d1a25-0",
         "5df261cc-69a6-46f8-8ff6-b7a2413f2c4c",
-        "1fabdcfd-c62e-4ac1-9df1-a932c9589376"
+        "1fabdcfd-c62e-4ac1-9df1-a932c9589376",
+        "33237bd7-f94d-4ea4-95f2-ed614482c0fb"
       ],
       "settings": {
         "header": "Weitere Zimmerpflanzen",

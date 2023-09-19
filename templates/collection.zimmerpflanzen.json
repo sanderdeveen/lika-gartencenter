@@ -242,83 +242,258 @@
         "padding_bottom": 0
       }
     },
-    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99": {
-      "type": "product-bestsellers",
+    "32870685-d8a2-4cbf-91da-7b8cf355c816": {
+      "type": "inspiration-photo-block",
       "blocks": {
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-0": {
-          "type": "usp",
+        "e62076ce-844b-4eb0-99dd-bb95ed584463": {
+          "type": "image",
           "settings": {
-            "usp": "3 Monate Pflanzengarantie"
-          }
-        },
-        "f82042d1-6860-47d6-8b85-ad21a2691446": {
-          "type": "usp",
-          "settings": {
-            "usp": "Beste Qualität aus Holland"
-          }
-        },
-        "81d44e77-5d26-436c-84a8-719d20032a9a": {
-          "type": "usp",
-          "settings": {
-            "usp": "Schonend verpackt"
-          }
-        },
-        "814a43a7-5393-483e-bf08-56cbfca4b2bf": {
-          "type": "usp",
-          "settings": {
-            "usp": "Umfangreicher Käuferschutz"
-          }
-        },
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1": {
-          "type": "product_selection",
-          "settings": {
-            "product": "compo-sana-gruenpflanzen-und-palmenerde",
-            "enable_quick_add": true
-          }
-        },
-        "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0": {
-          "type": "product_selection",
-          "settings": {
-            "product": "compo-bio-granuplant-drainage-und-pflanzgranulat",
-            "enable_quick_add": true
-          }
-        },
-        "c890bba4-50af-4e12-8125-df199ebcbfc2": {
-          "type": "product_selection",
-          "settings": {
-            "product": "compo-grunpflanzen-und-palmendunger",
-            "enable_quick_add": true
-          }
-        },
-        "8f2619a4-25a8-44c9-a774-9a87ae7b2eea": {
-          "type": "product_selection",
-          "settings": {
-            "product": "aqua-care-transparent",
-            "enable_quick_add": true
-          }
-        },
-        "41a277e3-4cd6-43cd-8b6e-8cd3363006c7": {
-          "type": "product_selection",
-          "settings": {
-            "product": "elho-b-for-soft-rund-anthrazit",
-            "enable_quick_add": true
+            "image": "shopify:\/\/shop_images\/zimmerpflanzen-und-zubehoer.jpg",
+            "text": "",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-0",
-        "f82042d1-6860-47d6-8b85-ad21a2691446",
-        "81d44e77-5d26-436c-84a8-719d20032a9a",
-        "814a43a7-5393-483e-bf08-56cbfca4b2bf",
-        "template--15853886898356__30e646ab-2b8a-480f-9f93-d6ff5f19bf99-1666866421d8119df5-1",
-        "ec3ef4b5-fb32-4be0-95de-29e7bf2ca2a0",
-        "c890bba4-50af-4e12-8125-df199ebcbfc2",
-        "8f2619a4-25a8-44c9-a774-9a87ae7b2eea",
-        "41a277e3-4cd6-43cd-8b6e-8cd3363006c7"
+        "e62076ce-844b-4eb0-99dd-bb95ed584463"
       ],
       "settings": {
-        "heading": "GEEIGNETES ZUBEHÖR",
-        "text": ""
+      }
+    },
+    "2894d26b-91d1-4855-a84c-ea00b79ec553": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__2894d26b-91d1-4855-a84c-ea00b79ec553-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche Vorteile Zimmerpflanzen bieten?<\/h2>"
+          }
+        },
+        "template--19236609032541__2894d26b-91d1-4855-a84c-ea00b79ec553-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Neben den dekorativen Vorteilen der Zimmerpflanzen sind noch einige weitere Pluspunkte zu nennen:<\/p><ul><li>Zimmerpflanzen bringen die Farbe Grün in unsere Lebens- und Arbeitsräume. Nachgewiesener Maßen wirken sich die Grüntöne positiv auf unsere Stimmung, die Zufriedenheit und das Konzentrationsvermögen aus.<\/li><\/ul><p><\/p><ul><li>Zimmerpflanzen tragen zu einem besseren Raumklima und einer angenehmeren Atmosphäre bei, indem sie die Luftfeuchtigkeit erhöhen. Blattpflanzen nehmen das Gießwasser auf und geben es in Form von Wasserdampf an die Raumluft ab. Dabei wandeln sie CO2 in Sauerstoff um.<\/li><\/ul><p><\/p><ul><li>Einige Pflanzenarten sind dafür bekannt, dass sie Schadstoffe aus der Raumluft binden. Dazu gehören Zimmerpflanzenarten, die eine besonders luftreinigende Wirkung auf Zigarettenrauch haben.<\/li><\/ul><p><\/p><ul><li>Das dichte Blattwerk der Zimmerpflanzen verhindert die Ausbreitung von Schallwellen. Der Nachhall von Geräuschen wird so weit reduziert, dass die Raumakustik in Wohn- und Büroräumen verbessert wird. Die Nebengeräusche sind deutlich leiser und angenehmer zu hören.<\/li><\/ul><p><\/p><ul><li>Wissenschaftliche Untersuchungen zeigen, dass das Immunsystem insbesondere von Kindern gestärkt wird, wenn sie in Wohnungen mit Grünpflanzen aufwachsen.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__2894d26b-91d1-4855-a84c-ea00b79ec553-heading-1",
+        "template--19236609032541__2894d26b-91d1-4855-a84c-ea00b79ec553-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "61a73454-5a98-461a-95dd-3ac302e70acc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__61a73454-5a98-461a-95dd-3ac302e70acc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Alle Zimmerpflanzen übersichtlich nach Kategorie sortiert<\/h2>"
+          }
+        },
+        "template--19236609032541__61a73454-5a98-461a-95dd-3ac302e70acc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jede Art von Zimmerpflanze hat ganz bestimmte Anforderungen an Temperatur und Licht. Aus diesem Grund sollten Sie beim Kauf von Zimmerpflanzen die arttypischen Ansprüche an die Wachstumsbedingungen berücksichtigen.<\/p>"
+          }
+        },
+        "0896b0ab-d440-4922-bb63-985428879a65": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gartencenter.de bietet Ihnen ein umfangreiches Sortiment an Zimmerpflanzen und hat die Auswahl durch eine praktische Einteilung in Kategorien für Sie sehr einfach gemacht. Je nach Stellplatz können Sie die geeigneten Zimmerpflanzen aussuchen. So gibt es z. B. <a href=\"\/collections\/zimmerpflanzen-fur-halbschatten\" title=\"Zimmerpflanzen für Halbschatten\">halbschatten<\/a>- und <a href=\"\/collections\/zimmerpflanzen-fuer-im-schatten\" title=\"Schattenliebende Zimmerpflanzen\">schattenliebende Zimmerpflanzen<\/a> für die dunkleren Bereiche des Zimmers oder für Fenster, die nach Norden ausgerichtet sind. In der Nähe eines Fensters oder einer Balkontür mit Südausrichtung sollten <a href=\"\/collections\/sonnenliebende-zimmerpflanzen\" title=\"Sonnenliebende Zimmerpflanzen\">sonnenliebenden Zimmerpflanzen<\/a> stehen.<br\/><\/p>"
+          }
+        },
+        "c3ac38a3-1df2-4155-8bce-d66b1629e4dc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Tipp<\/strong>: In der Kategorie <a href=\"\/collections\/tierfreundliche-zimmerpflanzen\" title=\"Tierfreundliche Zimmerpflanzen\">Tierfreundliche Zimmerpflanzen<\/a> haben für alle Tierliebhaberinnen und Tierliebhaber eine Übersicht mit Pflanzenarten zusammengestellt, die als haustierfreundlich gelten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__61a73454-5a98-461a-95dd-3ac302e70acc-heading-1",
+        "template--19236609032541__61a73454-5a98-461a-95dd-3ac302e70acc-text-1",
+        "0896b0ab-d440-4922-bb63-985428879a65",
+        "c3ac38a3-1df2-4155-8bce-d66b1629e4dc"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5904d85f-c9b0-44b2-bd43-f9477903900a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__5904d85f-c9b0-44b2-bd43-f9477903900a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche Zimmerpflanzen sind beliebt?<\/h2>"
+          }
+        },
+        "template--19236609032541__5904d85f-c9b0-44b2-bd43-f9477903900a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welche Zimmerpflanze gefällt oder nicht ist eine sehr persönliche Ansichtssache. Im Allgemeinen kann man aber sagen, dass es genau wie bei den Einrichtungsstilen gewisse Trends gibt. Derzeit ist der Retro-Style der 60er Jahre sehr aktuell. Dementsprechend werden jetzt die Zimmerpflanzen gekauft, die damals in jedem Wohnzimmer zu finden waren. An die folgenden Trendpflanzen können sich die älteren Zimmerpflanzenfreunde sicher noch erinnern:<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__5904d85f-c9b0-44b2-bd43-f9477903900a-heading-1",
+        "template--19236609032541__5904d85f-c9b0-44b2-bd43-f9477903900a-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ab5b7884-64cc-44d2-949c-d1a0c72d7171": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bogenhanf bzw. Sanseverie",
+        "image": "shopify:\/\/shop_images\/bogenhanf-cylindrica.jpg",
+        "content": "<p>Schon zu Omas Zeiten hat man auf pflegeleichte Zimmerpflanzen gesetzt. Der <a href=\"\/products\/bogenhanf-cylindrica\" title=\"Bogenhanf 'Cylindrica'\">Bogenhanf<\/a> verzeiht es Ihnen, wenn Sie das Gießen einmal vergessen haben. Der aufrechte, kompakte Wuchs passt perfekt zu minimalistischen Möbeln der 60er Jahre.<\/p>",
+        "url": "shopify:\/\/products\/bogenhanf-cylindrica",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "d04eff6f-f5f2-471d-9e7a-3786fc914bc6": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Fensterblatt bzw. Monstera",
+        "image": "shopify:\/\/shop_images\/fensterblatt-philodendron-monstera.jpg",
+        "content": "<p>Diese Zimmerpflanze war in Vergessenheit geraten. Sie gehörte wie keine andere zum Interieur der 60er Jahre. Das Fensterblatt stammt aus dem Unterholz mittel- und südamerikanischer Wälder. Die <a href=\"\/products\/fensterblatt\" title=\"Fensterblatt\">Monstera<\/a> bevorzugt daher Standorte in der Morgen- oder Abendsonne. Bei direkter Sonneneinstrahlung kann es zu Verbrennungen an den Blättern der Pflanze kommen.<br\/><\/p>",
+        "url": "shopify:\/\/products\/fensterblatt",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "97b4a3d8-dd22-4065-91fa-52177c3d11d0": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Kakteen und Sukkulenten",
+        "image": "shopify:\/\/shop_images\/kakteen-sukkulenten-mix-15-stueck-5_5-cm-beton-dekotopf.png",
+        "content": "<p>Wir haben ein umfangreiches Sortiment verschiedener Kakteen- und Sukkulentenarten zusammengestellt. Besonders dekorativ wirkt der <a href=\"\/products\/kakteen-und-sukkulenten-mix-15-stueck-im-betontopf-5-5-cm\" title=\"Kakteen und Sukkulenten Mix 15 Stück im Betontopf 5,5 cm Ø\">Mix mit 15 verschiedenen Arten in den kleinen dekorativen Töpfchen<\/a>.<\/p>",
+        "url": "shopify:\/\/products\/kakteen-und-sukkulenten-mix-15-stueck-im-betontopf-5-5-cm",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "4ea0d027-4635-42ec-a2c4-c00b389048d5": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Baumfreund bzw. Philodendron",
+        "image": "shopify:\/\/shop_images\/baumfreund.jpg",
+        "content": "<p>Die Blumenampel ist für Vintage-Freunde ein Must-have. Und ganz traditionell sollte auch ein <a href=\"\/products\/philodendron\" title=\"Baumfreund\">Baumfreund<\/a> aus der Ampel ranken.<\/p>",
+        "url": "shopify:\/\/products\/philodendron",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "af7199cb-0034-4120-b231-fef355000ee0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__af7199cb-0034-4120-b231-fef355000ee0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Zimmerpflanzen pflegen<\/h2>"
+          }
+        },
+        "template--19236609032541__af7199cb-0034-4120-b231-fef355000ee0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine angepasste Pflege, also die Wasser- und Düngergaben, der Rückschnitt und die Kontrolle auf Schädlingsbefall braucht mehr oder weniger jede Pflanze. Sie ist entscheidend für die Gesundheit, das Wachstum und die Blühfreude. Gießen und Düngen Sie „individuell“, d. h. nach Bedarf der Pflanze. <a href=\"\/collections\/kakteen-und-sukkulenten\" title=\"Kakteen und Sukkulenten\">Kakteen und Sukkulenten<\/a> sind diesbezüglich sehr anspruchslos. Dagegen vertragen die <a href=\"\/collections\/bluehende-zimmerpflanzen\" title=\"Blühende Zimmerpflanzen\">blühenden Zimmerpflanzen<\/a> die Trockenheit weniger gut und brauchen zusätzlichen Dünger.<\/p>"
+          }
+        },
+        "aede661f-1ea0-4815-92aa-f7b383d7d5bc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie Ihre Wohnung mit Zimmerpflanzen dekorieren möchten und wenig Zeit für die Pflanzenpflege haben, empfehlen wir Ihnen unser Pflanzensortiment, das wir unter der Rubrik <a href=\"\/collections\/pflegeleichte-zimmerpflanzen\" title=\"Pflegeleichte Zimmerpflanzen\">Pflegeleichte Zimmerpflanzen<\/a> für Sie zusammengestellt haben.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__af7199cb-0034-4120-b231-fef355000ee0-heading-1",
+        "template--19236609032541__af7199cb-0034-4120-b231-fef355000ee0-text-1",
+        "aede661f-1ea0-4815-92aa-f7b383d7d5bc"
+      ],
+      "settings": {
+        "padding_top": 11,
+        "padding_bottom": 0
+      }
+    },
+    "6a490319-80e4-4621-87d8-53c14aeefe02": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__6a490319-80e4-4621-87d8-53c14aeefe02-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Eine Zimmerpflanze als Geschenk<\/h2>"
+          }
+        },
+        "template--19236609032541__6a490319-80e4-4621-87d8-53c14aeefe02-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Diese Geschenkidee kommt bei Pflanzenliebhabern immer gut an: Verschenken Sie eine Zimmerpflanze. Der Beschenkte wird sich oft an Ihr Geschenk erinnern und kann sich täglich am Wachsen und Gedeihen erfreuen. Wer sich nicht sicher ist, ob er seinen Liebsten für Zimmerpflanzen begeistern kann, macht mit einer <a href=\"\/collections\/pflegeleichte-zimmerpflanzen\" title=\"Pflegeleichte Zimmerpflanzen\">pflegeleichten Grünpflanze<\/a> sicher nichts falsch. <a href=\"\/collections\/bluehende-zimmerpflanzen\" title=\"Blühende Zimmerpflanzen\">Blühende Zimmerpflanzen<\/a> kommen bei Gartenfreunden immer gut an!<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__6a490319-80e4-4621-87d8-53c14aeefe02-heading-1",
+        "template--19236609032541__6a490319-80e4-4621-87d8-53c14aeefe02-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f2cb78b2-1a3a-484b-ad09-c7d77f9541d6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__f2cb78b2-1a3a-484b-ad09-c7d77f9541d6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Warum eine Zimmerpflanze online kaufen?<\/h2>"
+          }
+        },
+        "template--19236609032541__f2cb78b2-1a3a-484b-ad09-c7d77f9541d6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Auswahl an Zimmerpflanzen ist unglaublich umfangreich und einige Pflanzen lassen sich kaum selbst transportieren. Deshalb bietet Ihnen der Onlinekauf von Zimmerpflanzen sehr viele Vorteile. Gartencenter.de bietet ein sehr umfangreiches Sortiment an gesunden und kräftigen Zimmerpflanzen sowie einen ausgezeichneten Lieferservice, sodass Sie sich kaum kümmern müssen.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__f2cb78b2-1a3a-484b-ad09-c7d77f9541d6-heading-1",
+        "template--19236609032541__f2cb78b2-1a3a-484b-ad09-c7d77f9541d6-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f7f2a53a-1a7e-4d37-8954-9d6d0e8bfe33": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19236609032541__f7f2a53a-1a7e-4d37-8954-9d6d0e8bfe33-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Zimmerpflanzen kaufen auf Gartencenter.de<\/h2>"
+          }
+        },
+        "template--19236609032541__f7f2a53a-1a7e-4d37-8954-9d6d0e8bfe33-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gartencenter.de können Sie schnell und bequem eine Zimmerpflanze online kaufen. Ganz gleich ob Sie sich lieber für pflegeleichte Blattpflanzen, blühende Zimmerpflanzen oder Kakteen und Sukkulenten entscheiden. Der Vorteil ist, dass die Kategorien die Auswahl je nach Lichtverhältnissen am zukünftigen Standort erleichtern. Übrigens können Sie sich hier auch die <a href=\"\/products\/compo-grunpflanzen-und-palmendunger\" title=\"COMPO Grünpflanzen- und Palmendünger\">Grünpflanzenerde<\/a> und das <a href=\"\/products\/compo-bio-granuplant-drainage-und-pflanzgranulat\" title=\"COMPO BIO GRANUPLANT Drainage- und Pflanzgranulat\">Drainage- und Pflanzgranulat<\/a> bestellen.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19236609032541__f7f2a53a-1a7e-4d37-8954-9d6d0e8bfe33-heading-1",
+        "template--19236609032541__f7f2a53a-1a7e-4d37-8954-9d6d0e8bfe33-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "51f5e1f3-16a0-481d-a69e-f38506219494": {
@@ -376,7 +551,18 @@
     "63f32f95-dde4-49e7-bc58-32c9cef87283",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
-    "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
+    "32870685-d8a2-4cbf-91da-7b8cf355c816",
+    "2894d26b-91d1-4855-a84c-ea00b79ec553",
+    "61a73454-5a98-461a-95dd-3ac302e70acc",
+    "5904d85f-c9b0-44b2-bd43-f9477903900a",
+    "ab5b7884-64cc-44d2-949c-d1a0c72d7171",
+    "d04eff6f-f5f2-471d-9e7a-3786fc914bc6",
+    "97b4a3d8-dd22-4065-91fa-52177c3d11d0",
+    "4ea0d027-4635-42ec-a2c4-c00b389048d5",
+    "af7199cb-0034-4120-b231-fef355000ee0",
+    "6a490319-80e4-4621-87d8-53c14aeefe02",
+    "f2cb78b2-1a3a-484b-ad09-c7d77f9541d6",
+    "f7f2a53a-1a7e-4d37-8954-9d6d0e8bfe33",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

@@ -1,0 +1,571 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller Japanische Gartenpflanzen",
+        "featured_product_one": "japanisches-blutgras",
+        "featured_product_two": "japan-segge",
+        "featured_product_three": "japanische-blutenskimmie",
+        "color_scheme": "background-1"
+      }
+    },
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle Japanische Gartenpflanzen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15853886898356__d74b5527-e2dd-4700-8ce8-a035fb9ccb39-1666877257aac32ede-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "49f4aee2-668a-4c1e-b9c1-45fc64a8c821": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Ein japanischer Garten-Traum<\/h2>"
+          }
+        },
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Im Laufe der Jahrhunderte haben japanische Gartenkünstler die Gärten von Palästen und Tempeln perfektioniert. In Japan heimische Pflanzen und die Elemente Stein und Wasser wurden kombiniert, um eine perfekte Miniatur der japanischen Landschaft zu schaffen. Bis heute erfreut sich die japanische Gartenkunst mit ihrer natürlichen Ästhetik und dem Verzicht auf künstlichen Schmuck weltweit großer Beliebtheit. In Deutschland gibt es einige große japanische Gärten, die uns diese herausragende Gartenkultur näher bringen. Japanische Gärten strahlen Ruhe und fernöstliches Flair aus und sind wegen ihrer Einfachheit und Ursprünglichkeit beliebte Wohlfühlorte.<br\/><\/p>"
+          }
+        },
+        "42f68851-cb17-4b99-8a07-a40ae11c6aa5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Eine besondere Gartenform: Japanische Minigärten<\/h2>"
+          }
+        },
+        "85fe7670-4198-4102-aad8-d8b8a271ebf8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ursprünglich wurden japanische Minigärten, auch Tsubo-Gärten genannt, auf den relativ kleinen Flächen an Wohnhäusern und in Innenhöfen angelegt. Damit alle Pflanzengruppen vertreten waren, wurden Bäume und Sträucher durch gezielten Formschnitt in ihrem Wuchs begrenzt oder niedrig wachsende Arten gepflanzt. So entstanden „vollständige“ Gärten als Ort der Erholung und Naturbegegnung in ausgewogener Harmonie, aber in kleinem Maßstab. Darum ist das Gestaltungskonzept eines japanischen Minigartens auch für viele deutsche Hausbesitzer interessant. Trotz Kleinformat findet man all die Pflanzenarten, die auch in großen Gärten gedeihen: Bodendecker, Gräser, Bambus und eine unglaubliche Vielfalt an Ziersträuchern und Formbäumen. Auch Terrassen und große Balkons lassen sich mit japanischen Gartenpflanzen in Kübeln so gestalten, dass eine ausgewogene Begrünung im asiatischen Stil erreicht wird.<\/p>"
+          }
+        },
+        "7f636967-2be8-44cd-a1ea-e74967356e31": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Welche japanischen Gartenpflanzen sind für einen kleinen asiatischen Garten geeignet?<\/h3>"
+          }
+        },
+        "b52981c5-8dac-45a2-a067-d48a0f03ffe8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Achten Sie darauf, dass die Blütenfarben der Bodendecker und Ziergehölze aufeinander abgestimmt sind. Idealerweise sollten sich die Blütezeiten während der Gartensaison abwechseln. Auch das Zusammenspiel von Blattformen und -farben sorgt für Abwechslung. Grün ist nicht gleich Grün. Übrigens: In japanischen Gärten spielen blühende Stauden keine Rolle. <br\/><\/p>"
+          }
+        },
+        "c6705c08-99b5-452d-bda6-fb6b8d4fcfc3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für ein harmonisches Gesamtbild können Sie diese japanischen Gartenpflanzen miteinander kombinieren:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-0",
+        "template--18545610031453__49f4aee2-668a-4c1e-b9c1-45fc64a8c821-1681305587f8d1aff9-1",
+        "42f68851-cb17-4b99-8a07-a40ae11c6aa5",
+        "85fe7670-4198-4102-aad8-d8b8a271ebf8",
+        "7f636967-2be8-44cd-a1ea-e74967356e31",
+        "b52981c5-8dac-45a2-a067-d48a0f03ffe8",
+        "c6705c08-99b5-452d-bda6-fb6b8d4fcfc3"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5c8b4fbf-44c2-4455-92ce-8b14a22d3a93": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bodendecker: Japan Segge",
+        "image": "shopify:\/\/shop_images\/carex-morrowii-japan-segge-blaetter.jpg",
+        "content": "<p>Die <a href=\"\/products\/japan-segge\" title=\"Japan Segge\">Japan Segge<\/a> ist ein <strong>idealer Bodendecker<\/strong> unter Hecken und Bäumen, denn das immergrüne Sauergras verträgt auch Halbschatten. Mit den leuchtend grünen Grashalmen lassen sich kontrastreiche, helle Grünflächen gestalten. Die maximale Wuchshöhe der Bodendecker-Segge beträgt 50 cm.<\/p>",
+        "url": "shopify:\/\/products\/japan-segge",
+        "btn_text": "Sehen Sie sich die Japan Segge an"
+      }
+    },
+    "0b8686ed-a008-4b27-967f-d756d9ad71c5": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Gräser: Japanischen Blutgras",
+        "image": "shopify:\/\/shop_images\/japanisches-blutgrasimperata-cylindrica-red-baron-blatt_b73b65d6-20a7-4d20-a52c-eabbdeea1bdd.jpg",
+        "content": "<p>Großflächige Farbakzente erreichen Sie mit dem <a href=\"\/products\/japanisches-blutgras\" title=\"Japanisches Blutgras\">Japanischen Blutgras<\/a>! <strong>Blutrot<\/strong> und grün leuchten die Grashalme, wenn die Sonne darauf scheint. Mit einer Wuchshöhe von bis zu 60 cm kann dieses Schmuckgras auch in Kästen und Kübeln gepflanzt werden.<\/p>",
+        "url": "shopify:\/\/products\/japanisches-blutgras",
+        "btn_text": "Sehen Sie sich die Japanisches Blutgras an"
+      }
+    },
+    "9dcf6edc-8fad-4eae-bfc3-d3005ee603e3": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blattschmucksträucher: Harlekin-Weide",
+        "image": "shopify:\/\/shop_images\/harlekin-weide_b4cd305f-93d4-4a7c-a636-b143df238662.jpg",
+        "content": "<p>Die <a href=\"\/products\/harlekin-weide-1\" title=\"Harlekin-Weide\">Harlekin-Weide 'Hakuro-nishiki'<\/a> besticht durch die <strong>wechselnde Blattfärbung<\/strong>. Der Austrieb ist rosa. Im Sommer färbt sich das Laub weiß bis graugrün. Die Blattfarben dieser Weide bilden einen schönen Kontrast zu den dunkelgrünen japanischen Gartenpflanzen. Da dieser Zierstrauch bis zu 3 m hoch werden kann, sollte er an der Grundstücksgrenze gepflanzt werden.<\/p>",
+        "url": "shopify:\/\/products\/harlekin-weide-1",
+        "btn_text": "Sehen Sie sich die Harlekin-Weide an"
+      }
+    },
+    "a0bc2f39-3be6-4b31-b80c-f29810803da9": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blütensträucher: Japanische Lavendelheide",
+        "image": "shopify:\/\/shop_images\/japanische-lavendelheide-flaming-silver_e74a3e76-1ad0-4394-9552-ce50607b0802.jpg",
+        "content": "<p>Die <a href=\"\/products\/japanische-lavendelheide-flaming-silver\" title=\"Japanische Lavendelheide 'Flaming Silver'\">Japanische Lavendelheide<\/a> ist ein dicht wachsender Zierstrauch mit <strong>schön gefärbten Blättern<\/strong> und hübschen weißen Glockenblüten von April bis Mai. Dicht gepflanzt bildet die Heide einen schönen Bodendecker. Die Lavendelheide gedeiht auch gut in Kübeln.<\/p>",
+        "url": "shopify:\/\/products\/japanische-lavendelheide-flaming-silver",
+        "btn_text": "Sehen Sie sich die Japanische Lavendelheide an"
+      }
+    },
+    "6588c482-763f-48f5-b8f0-0e5ae59b686e": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bambusgehölze: Japanische Pfeilbambus",
+        "image": "shopify:\/\/shop_images\/wuchender-japanischer-pfeilbambus_446cbb9c-df29-4864-9d9b-9745127b06b7.jpg",
+        "content": "<p>Der wuchernde, aber anspruchslose <a href=\"\/products\/wuchernder-japanischer-pfeilbambus\" title=\"Wuchernder Japanischer Pfeilbambus\">Japanische Pfeilbambus<\/a> ist winterhart und <strong>immergrün<\/strong>. Diese Bambusart füllt große Gartenflächen aus. Der pflegeleichte Sichtschutz wächst zu einem undurchdringlichen Bambusgebüsch heran.<\/p>",
+        "url": "shopify:\/\/products\/wuchernder-japanischer-pfeilbambus",
+        "btn_text": "Sehen Sie sich den Japanische Pfeilbambus an"
+      }
+    },
+    "05378826-c8d8-4763-add3-b58617571c34": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Immergrüne Sträucher: Japanische Kamelie",
+        "image": "shopify:\/\/shop_images\/kamelie-rosa_d47df321-4b6d-461c-bc70-e05d7e3ef7ac.jpg",
+        "content": "<p>Die <a href=\"\/products\/kamelie-rosa\" title=\"Kamelie Rosa\">Japanische Kamelie<\/a> ist eigentlich eine Baumart, die für <strong>Langlebigkeit<\/strong> steht, aber etwas kälteempfindlich ist. An windgeschützten Standorten können sich die Hybridsorten sehr gut entwickeln und zu kleinen Bäumchen heranwachsen. Die gefüllten rosa Blüten erscheinen bereits im Februar.<\/p>",
+        "url": "shopify:\/\/products\/kamelie-rosa",
+        "btn_text": "Sehen Sie sich die Japanische Kamelie an"
+      }
+    },
+    "4f067ebf-90dd-498d-aa70-ccf9c8c52d84": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blattschmuckbäume: Japanischer Ahorn",
+        "image": "shopify:\/\/shop_images\/japanischer-ahorn-rot-blatt_8e22dd1a-8671-4ee2-ad0b-0c0e87168edb.jpg",
+        "content": "<p>Der <a href=\"\/products\/japanischer-ahorn-rot\" title=\"Japanischer Ahorn rot\">Japanischer Ahorn<\/a> beweist, dass der Zierwert von Gehölzen auch durch die Form und Farbe der Blätter bestimmt wird. Mit seinen roten Blättern ist das bekannte Ziergehölz ein <strong>leuchtender Blickfang<\/strong> während der gesamten Gartensaison.<\/p>",
+        "url": "shopify:\/\/products\/japanischer-ahorn-rot",
+        "btn_text": "Sehen Sie sich die Japanischer Ahorn an"
+      }
+    },
+    "6b1dc8fd-a775-4162-b069-a167ee9d858e": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Kletterpflanzen: Japanische Blauregen",
+        "image": "shopify:\/\/shop_images\/japanischer-blauregen_00d65c22-45f7-4014-8892-9bac9dfc6b98.jpg",
+        "content": "<p>Dieser <a href=\"\/products\/japanischer-blauregen\" title=\"Japanischer Blauregen\">Japanische Blauregen<\/a> bildet wunderschöne <strong>rosafarbene Blütentrauben<\/strong>. Die schnell wachsende Kletterpflanze strebt dem Licht entgegen. Allerdings muss der Blauregen zweimal im Jahr zurückgeschnitten werden.<\/p>",
+        "url": "shopify:\/\/products\/japanischer-blauregen",
+        "btn_text": "Sehen Sie sich die Japanische Blauregen an"
+      }
+    },
+    "86c6ea80-f498-4f01-a6b6-cf54d2f3184d": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blütenbäume: Japanische Zierkirsche",
+        "image": "shopify:\/\/shop_images\/japanische-zierkirsche-kanzan-mehrstammig-2.jpg",
+        "content": "<p>Die mehrstämmige <a href=\"\/products\/japanische-zierkirsche-kanzan-mehrstaemmig\" title=\"Japanische Zierkirsche 'Kanzan' mehrstämmig\">Japanische Zierkirsche 'Kanzan'<\/a> bietet im Frühjahr einen bezaubernden, stark duftenden Blütenschmuck in Rosa! Der halb offene Kronenaufbau und die <strong>goldgelbe Herbstfärbung<\/strong> schmücken den Garten auch nach der Blüte. 'Kanzan' eignet sich als Solitärgehölz für kleine Hausgärten und Vorgärten.<\/p>",
+        "url": "shopify:\/\/products\/japanische-zierkirsche-kanzan-mehrstaemmig",
+        "btn_text": "Sehen Sie sich die Japanische Zierkirsche an"
+      }
+    },
+    "ce51d7ae-6151-45cb-a18d-7b4f4ca13d88": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19344312729949__ce51d7ae-6151-45cb-a18d-7b4f4ca13d88-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Wie Sie einen japanischen Mini-Garten als Hausgarten gestalten können?<\/h3>"
+          }
+        },
+        "template--19344312729949__ce51d7ae-6151-45cb-a18d-7b4f4ca13d88-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wer einen kleinen Garten oder eine etwas größere Terrasse hat, kann sich mit einem japanischen Minigarten eine Insel der Ruhe mit asiatischem Flair schaffen. Bei diesem Gartentyp geht es um eine schlichte Perfektion! Lassen Sie sich von diesem Anspruch aber nicht abschrecken. Ist der japanische Minigarten erst einmal angelegt, fällt der Pflegeaufwand relativ gering aus.<br\/><\/p>"
+          }
+        },
+        "134cadf5-76a5-4dec-bcdf-9347a2350036": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Starten Sie mit der Planung Ihres japanischen Mini-Gartens<\/h2>"
+          }
+        },
+        "81cbdeeb-8ccc-4494-9a30-ebb07cd63750": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für diesen Gartentyp gilt: Weniger ist mehr. Im Prinzip geht es um eine überlegte und nicht überladene Anordnung der japanischen Gartenpflanzen in Kombination mit dekorativen Elementen. Die gesamte Palette japanischer Gartenpflanzen in einem Tsubo-Garten würde unruhig wirken. Es ist fast wie bei der Einrichtung eines Wohnzimmers: Überlegen Sie sich, wo sich Sitzplätze, Steininseln oder Wasserbecken befinden sollen. Ordnen Sie die verschiedenen Pflanzen diesen Plätzen zu.<br\/><\/p>"
+          }
+        },
+        "a57a06da-cf1c-4ebd-962c-54d9d8edbf79": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kleinere japanische Pflanzenarten werden in Gruppen gepflanzt, da sie in einer Flächenbepflanzung viel besser zur Geltung kommen. Ergänzen Sie diese mit einigen höher wachsenden Solitärpflanzen. Größere Sträucher und Bäume wirken in Einzelstellung am besten. Höher wachsende Pflanzen gehören in den hinteren Bereich oder in die Nähe von Zäunen und Mauern. Jede japanische Gartenpflanze braucht Platz zum Wachsen und muss gesehen werden können! Sorgen Sie für eine gute Übersicht durch ausreichende Pflanzabstände. <\/p>"
+          }
+        },
+        "d2937419-12fc-4310-8390-f28f3384440f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kombinieren Sie verschiedene Wuchsformen sowie Blüten- und Blattfarben. Laubabwerfende und immergrüne Gehölze ergänzen sich gut, damit der kleine japanische Garten auch im Winter seinen Reiz nicht verliert.<br\/>Kein Element, ob Pflanze oder Dekoration, sollte den Garten dominieren.<\/p>"
+          }
+        },
+        "e736cd5c-8bcd-44e6-9b3f-1aa6f5961eb9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche Rolle spielt das Wasser in einem japanischen Garten?<\/h2>"
+          }
+        },
+        "cb1a8376-e8b1-4f2e-9d8a-e0f56400c6a0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In den japanischen Fels- und Wassergärten spielen Teiche, Wasserfälle und Bachläufe eine zentrale Rolle. Als Quelle des Lebens und der Reinheit befanden sie sich ursprünglich am Eingang des Gartens und boten den Besuchern die Möglichkeit zur Erfrischung und rituellen Reinigung. <br\/>Auch der gestalterische Effekt ist vorteilhaft: Die Wasserfläche spiegelt die japanischen Gartenpflanzen und lässt die kleinen Minigärten viel größer erscheinen. Ein kleines Wasserbecken inmitten der Pflanzen sieht atemberaubend schön aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19344312729949__ce51d7ae-6151-45cb-a18d-7b4f4ca13d88-heading-1",
+        "template--19344312729949__ce51d7ae-6151-45cb-a18d-7b4f4ca13d88-text-1",
+        "134cadf5-76a5-4dec-bcdf-9347a2350036",
+        "81cbdeeb-8ccc-4494-9a30-ebb07cd63750",
+        "a57a06da-cf1c-4ebd-962c-54d9d8edbf79",
+        "d2937419-12fc-4310-8390-f28f3384440f",
+        "e736cd5c-8bcd-44e6-9b3f-1aa6f5961eb9",
+        "cb1a8376-e8b1-4f2e-9d8a-e0f56400c6a0"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "db7665bd-a466-4104-b4c6-7526f09ea709": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "d5e12008-66b1-4863-bb91-384153760c03": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/japanische-gartenpflanzen-garten.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "d5e12008-66b1-4863-bb91-384153760c03"
+      ],
+      "settings": {
+      }
+    },
+    "aa441df5-b880-4a21-94f2-547281fd772c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19344312729949__aa441df5-b880-4a21-94f2-547281fd772c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Ruhe und Harmonie mit dekorativen Elementen im Asia-Style<\/h2>"
+          }
+        },
+        "template--19344312729949__aa441df5-b880-4a21-94f2-547281fd772c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie wäre es mit einem ruhigen Lieblingsplatz im asiatischen Stil? Japanische Gärten werden durch Ziersteine, Bänke und Brücken akzentuiert. Ergänzen Sie Ihren japanischen Minigarten dezent mit einigen dekorativen Elementen.<\/p>"
+          }
+        },
+        "dab2e1d5-c953-4513-adbf-6aa0acf96ead": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Wie Sie japanische Gartenpflanzen pflegen<\/h3>"
+          }
+        },
+        "ce54e4bb-c506-44e9-8560-80a9d2fc586e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Natürlich brauchen auch japanische Gartenpflanzen eine helfende Hand. Die wichtigsten Arbeiten unterscheiden sich nicht von der normalen Gartenpflege. Dafür entfallen die zeitaufwändige Pflege der blühenden Stauden und das wöchentliche Mähen des Rasens.<\/p>"
+          }
+        },
+        "0701c08d-fcff-4e6c-a623-6185fa59623b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>Schnitt<\/h4>"
+          }
+        },
+        "3f6d9233-3f29-4456-bebc-726dfbc46ece": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vorab sei gesagt: Ein japanischer Garten verlangt Pflege. Die meiste Zeit wird für den Formschnitt benötigt. Auf diese Weise wird verhindert, dass die Sträucher und Bäume zu hoch oder zu breit werden, oder dass die Krone der in Form geschnittenen Bäume verloren geht. Ein Rückschnitt fördert den Neuaustrieb mit frischen Blättern und Blüten. Überhängende Bambushalme sollten gekürzt oder entfernt werden, damit die kompakte Form erhalten bleibt.<br\/><\/p>"
+          }
+        },
+        "5de391c8-1f0e-49e3-8c89-53e4f44d3aa7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>Düngung<\/h4>"
+          }
+        },
+        "d31afe00-197e-4148-9876-611738d0e70d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Düngen Sie japanische Gartenpflanzen je nach Bedarf. Verwenden Sie vorzugsweise Spezialdünger. Beispielsweise brauchen Sie den <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus & Ziergräser Langzeit-Dünger<\/a> nur einmal jährlich im Frühjahr zu verabreichen, da die Nährstoffe langsam freigesetzt werden. Der <a href=\"\/products\/compo-bio-organischer-gartenduenger\" title=\"COMPO BIO Organischer Gartendünger\">COMPO BIO Organischer Gartendünger<\/a> deckt den Humusbedarf und sorgt für gesunde, kräftige Pflanzen.<br\/><\/p>"
+          }
+        },
+        "a405e242-c8c4-49ed-a2c7-b442c5fbc3af": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>Wassergaben<\/h4>"
+          }
+        },
+        "81568b7b-7da9-4c10-9e2b-2cb14f3e26f3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unterstützen Sie die Neupflanzung durch regelmäßige und reichliche Bewässerung, damit sich ein kräftiges Wurzelsystem entwickeln kann. Auch nach dem Anwachsen ist ein Austrocknen des Wurzelballens zu vermeiden. Auf diese Weise wird die Entwicklung der Pflanzen und Sträucher nicht gehemmt und Sie erhalten umso schneller einen gut entwickelten japanischen Garten. Einmal angewachsen, brauchen Sträucher und Bäume in der Regel etwas weniger Wasser und überstehen Trockenperioden besser.<\/p>"
+          }
+        },
+        "531afc9e-b7c2-471f-ab68-4930f1f2953f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Auf Gartencenter.de Japanische Gartenpflanzen kaufen<\/h3>"
+          }
+        },
+        "3321cc3c-e41a-443b-be0f-7a1331b399f0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie japanische Gartenpflanzen kaufen? Gartencenter.de verkauft japanische Pflanzenarten für Gärten und Terrassen, darunter verschiedene Bambus- und Ahornarten, Azaleen, Seggen und vieles mehr. Stöbern Sie in unserem Sortiment, wählen Sie Ihre Favoriten aus und lassen Sie sich die komplette Neubepflanzung bequem nach Hause liefern.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19344312729949__aa441df5-b880-4a21-94f2-547281fd772c-heading-1",
+        "template--19344312729949__aa441df5-b880-4a21-94f2-547281fd772c-text-1",
+        "dab2e1d5-c953-4513-adbf-6aa0acf96ead",
+        "ce54e4bb-c506-44e9-8560-80a9d2fc586e",
+        "0701c08d-fcff-4e6c-a623-6185fa59623b",
+        "3f6d9233-3f29-4456-bebc-726dfbc46ece",
+        "5de391c8-1f0e-49e3-8c89-53e4f44d3aa7",
+        "d31afe00-197e-4148-9876-611738d0e70d",
+        "a405e242-c8c4-49ed-a2c7-b442c5fbc3af",
+        "81568b7b-7da9-4c10-9e2b-2cb14f3e26f3",
+        "531afc9e-b7c2-471f-ab68-4930f1f2953f",
+        "3321cc3c-e41a-443b-be0f-7a1331b399f0"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "46aebeb0-a067-4c86-813f-c06b2ccd0d52": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "facc2640-c767-49dd-a0cc-49bb88740457": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/japanische-garten-inspiration.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "48149459-27a8-47f5-a5d0-40905dac7aa9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/japanische-garten_inspiration-ahorn.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "facc2640-c767-49dd-a0cc-49bb88740457",
+        "48149459-27a8-47f5-a5d0-40905dac7aa9"
+      ],
+      "settings": {
+      }
+    },
+    "51f5e1f3-16a0-481d-a69e-f38506219494": {
+      "type": "services",
+      "blocks": {
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "2d2d806f-5324-4b18-b252-400979e2e760": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "c3d5f12f-9b87-4fc6-9ca6-3a62f7f01659",
+        "09a944f5-543a-4b3a-b041-9c26c5ca19c3",
+        "2d2d806f-5324-4b18-b252-400979e2e760",
+        "template--15853886898356__51f5e1f3-16a0-481d-a69e-f38506219494-16668697791193f27d-0"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
+    "product-grid",
+    "49f4aee2-668a-4c1e-b9c1-45fc64a8c821",
+    "5c8b4fbf-44c2-4455-92ce-8b14a22d3a93",
+    "0b8686ed-a008-4b27-967f-d756d9ad71c5",
+    "9dcf6edc-8fad-4eae-bfc3-d3005ee603e3",
+    "a0bc2f39-3be6-4b31-b80c-f29810803da9",
+    "6588c482-763f-48f5-b8f0-0e5ae59b686e",
+    "05378826-c8d8-4763-add3-b58617571c34",
+    "4f067ebf-90dd-498d-aa70-ccf9c8c52d84",
+    "6b1dc8fd-a775-4162-b069-a167ee9d858e",
+    "86c6ea80-f498-4f01-a6b6-cf54d2f3184d",
+    "ce51d7ae-6151-45cb-a18d-7b4f4ca13d88",
+    "db7665bd-a466-4104-b4c6-7526f09ea709",
+    "aa441df5-b880-4a21-94f2-547281fd772c",
+    "46aebeb0-a067-4c86-813f-c06b2ccd0d52",
+    "51f5e1f3-16a0-481d-a69e-f38506219494",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
+  ]
+}

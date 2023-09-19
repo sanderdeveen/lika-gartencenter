@@ -1,0 +1,221 @@
+<style>
+    .popup-container {
+      position: fixed;
+      bottom: -100%;
+      left: 0;
+      right: 0;
+      padding: 20px 20px 6px;
+      background-color: #2e463b;
+      color: #FFF;
+      display: none;
+      text-align: left;
+      z-index: 1;
+      font-size: 18px;
+    }
+    @media screen and (min-width: 900px) {
+      .popup-container {
+          border-radius: 4px 4px 0 0;
+          width: 360px;
+          right: 10px;
+          left: auto;
+      }
+    }
+
+    .popup-container .h2 {
+      color: #FFF;
+      font-size: 36px;
+    }
+    .popup-container p {
+      margin: 0;
+    }
+    .popup-container .h2 span {
+      color: #f29f40;
+    }
+
+    .close-button {
+      position: absolute;
+      top: -20px;
+      right: 20px;
+      cursor: pointer;
+      border-radius: 35px;
+      padding: 10px;
+      border: none; 
+      background: #f29f40;
+      width: 36px;
+      height: 36px;
+    }
+    .button-reject:hover,
+    .close-button:hover {
+      cursor: pointer;
+    }
+    .close-button svg {
+      width: 14px;
+      height: 14px;
+    }
+    .close-button * {
+      color: #FFF;
+    }
+    #emailForm {
+      margin-top: 10px;
+    }
+
+    #emailInput {
+      font-size: 16px;
+      width: 100%;
+      padding: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      height: 4.6rem;
+    }
+
+    #emailInput:focus-visible {
+        outline: none;
+        box-shadow: none;
+    }
+
+    #submitButton {
+      font-size: 16px;
+      cursor: pointer;
+      width: 100%;
+    }
+    .button-reject {
+      margin-top: 10px;
+      width: 100%;
+      background: transparent;
+      border: none;
+      color: #fff;
+      font-size: 16px;
+    }
+    #thankYouMessage {
+      border-radius: 4px 4px 0 0;
+      color: #FFF;
+      padding: 1rem 1.2rem;
+      background-color: #2e463b;
+      right: 10px;
+      bottom: 0;
+      left: 10px;
+      display: none;
+      font-size: 18px;
+    }
+    @media screen and (min-width: 900px) {
+      #thankYouMessage {
+        width: 360px;
+        left: auto;
+      }
+    }
+</style>
+
+<div class="popup-container" id="popupContainer">
+  <button class="close-button" id="closeButton">{%- render 'global-icon', icon: 'close-white' -%}</button>
+  <span class="h2"><span>{{ 'popup.text.header_orange' | t }}</span> {{ 'popup.text.header' | t }}</span>
+  <p>{{ 'popup.text.paragraph' | t }}</p>
+  
+  <form id="emailForm">
+    <input type="email" id="emailInput" placeholder="{{ 'popup.text.placeholder' | t }} *" required>
+    <button class="button button-primary" type="submit" id="submitButton">{{ 'popup.text.submit' | t }}</button>
+    <button class="button-reject" type="reject" id="reject">{{ 'popup.text.reject' | t }}</button>
+  </form>
+</div>
+
+<span id="thankYouMessage">Vielen Dank, dass Sie unseren Newsletter abonniert haben! Bitte schauen Sie in Ihr Postfach.</span>
+
+<script>
+const closeButton = document.getElementById('closeButton');
+const rejectButton = document.getElementById('reject');
+const popupContainer = document.getElementById('popupContainer');
+
+// Function to show the popup
+function showPopup() {
+  if (!popupClosed) {
+    popupContainer.style.transition = 'bottom 0.5s ease-in-out'; // Add a smooth transition
+    popupContainer.style.bottom = '0'; // Move the popup up from the bottom
+  }
+}
+
+// Check if the popup has been closed
+const popupClosed = localStorage.getItem('popupClosed');
+const emailForm = document.getElementById('emailForm');
+const thankYouMessage = document.getElementById('thankYouMessage'); // Reference to the thank you message element
+const bearerToken = 'e56b6f91-9a66-4060-9c4a-a6fecdd60da0';
+const submitForm = document.getElementById('submitButton');
+
+if (!popupClosed) {
+  // Check if the device screen width is below 900px (mobile)
+  if (window.innerWidth) {
+    setTimeout(showPopup, 3000); // Display the popup after 3 seconds
+  }
+
+  popupContainer.style.display = 'block';
+
+  closeButton.addEventListener('click', () => {
+    popupContainer.style.display = 'none';
+    localStorage.setItem('popupClosed', true);
+  });
+
+  rejectButton.addEventListener('click', () => {
+    popupContainer.style.display = 'none';
+    localStorage.setItem('popupClosed', true);
+  });
+
+  submitForm.addEventListener('click', () => {
+    popupContainer.style.display = 'none';
+    localStorage.setItem('popupClosed', true);
+  });
+
+}
+
+emailForm.addEventListener('submit', async (event) => {
+  event.preventDefault();
+
+  const emailInput = document.getElementById('emailInput');
+  const email = emailInput.value;
+  const createdAt = new Date().toISOString();
+  const location = 'POPUP';
+  const source = 'gartencenter.de';
+
+  const data = {
+    email,
+    created_at: createdAt,
+    location,
+    source
+  };
+
+  const webhookUrl = 'https://mh.tuincentrum.nl/api/subscribe';
+
+  try {
+    const response = await fetch(webhookUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${bearerToken}`,
+        'X-Requested-With': 'XMLHttpRequest'
+      },
+      body: JSON.stringify(data)
+    });
+
+  if (response.ok) {
+    // Hide the email form
+    popupContainer.style.display = 'none';
+
+    // Show the thank-you message
+    thankYouMessage.style.display = 'block';
+
+    // Set the thank-you message to fixed position
+    thankYouMessage.style.position = 'fixed';
+
+    // Remove the thank-you message after 5 seconds
+    setTimeout(function() {
+      thankYouMessage.style.display = 'none';
+    }, 15000);
+  } else {
+    console.error('Error sending data');
+  }
+
+  } catch (error) {
+    console.error('An error occurred:', error);
+  }
+});
+</script>
+
+
+

@@ -1,0 +1,66 @@
+<style>
+  .tip-section {
+    margin: 10px;
+    gap: 10px;
+    background-color: #fff;
+    padding: 16px;
+    align-items: flex-start;
+    border-radius: 10px;
+    max-width: 1280px;
+  }
+  .tip-section svg {
+    width: 200px;
+  }
+  .tip-section h4,
+  .tip-section p {
+    margin: 0;
+  }
+
+
+  @media screen and (min-width: 900px) {
+    .tip-section svg {
+      width: 80px;
+    }
+    .tip-section {
+      margin: 30px auto 0;
+    }
+  }
+</style>
+<div
+  class="container flex tip-section shadow">
+  {%- render 'global-icon' icon: 'green-tip' -%}
+  <div>
+    {% if section.settings.subheading != blank %}
+      <h4>
+        {{ section.settings.subheading }}
+      </h4>
+    {% endif %}
+    {% if section.settings.text != blank %}
+      <p>
+        {{ section.settings.text }}
+      </p>
+    {% endif %}
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "green-tip",
+    "settings": [
+      {
+        "type": "text",
+        "label": "Subheading",
+        "id": "subheading"
+      }, {
+        "type": "richtext",
+        "label": "text",
+        "id": "text"
+      }
+    ],
+    "presets": [
+      {
+        "name": "tip"
+      }
+    ]
+  }
+{% endschema %}

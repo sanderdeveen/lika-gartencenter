@@ -293,53 +293,25 @@
     </script>
 
     <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
-    
-    {% comment %}
-    // Frequently bought together.
-    
-    {% endcomment %}
-
-    {% comment %}Prevent unwanted console.log messages from Rebuy{% endcomment %}
     <script>
       if (typeof window.Rebuy == 'undefined') {
       window.Rebuy = {}; 
      } window.Rebuy.disable_attribution = true;
      </script>
     {% render 'taginstall-body' %}
-
-  {%- comment -%} 
-  <div>
-    {%- for item in cart.items -%}
-      {%- assign item_sku = item.sku | slice: 0, 3 | escape | downcase | remove: "&nbsp;" -%}
-      {% if item_sku == 'bob' %}
-        <style>
-          .rebuy-cart__flyout-footer:before {
-            content: "Da Sie einen Baum hinzugefügt haben, betragen die Versandkosten 200,00.";
-            display: block;
-            width: 100%;
-          }
-          .totals-postage-costs {
-            display: none !important;
-          }
-          .totals-postage-costs_has_bob {
-            display: flex !important;
-          }
-
-        </style>
-      {% endif %}
-    {%- endfor -%}  
-  </div>
-  {%- endcomment -%}
-  <style>
-    .rebuy-modal-visible {
-      overflow: auto !important;
-    }
-    .overflow-hidden {
-      overflow: hidden !important;
-    }
-  </style>
-
-
-
+    <style>
+      .rebuy-modal-visible {
+        overflow: auto !important;
+      }
+      .overflow-hidden {
+        overflow: hidden !important;
+      }
+      .rebuy-cart__background {
+        display: none !important;
+      }
+    </style>
+  {% comment %} Email popup deployteq {% endcomment %}
+  {%- render 'email-pupup-deployteq' -%}
+  
 </body>
 </html>

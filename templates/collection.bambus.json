@@ -536,8 +536,8 @@
         "4b70555e-39bd-4e00-9ad0-08a71840f6a3"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 15,
+        "padding_bottom": 15
       }
     },
     "80809c0f-bba2-473e-a7f3-853df3dacb04": {
@@ -588,7 +588,7 @@
         "template--15855049801908__3376df90-0178-4667-b2be-835718e15eb6-16672238445befc0fb-1"
       ],
       "settings": {
-        "padding_top": 12,
+        "padding_top": 13,
         "padding_bottom": 12
       }
     },

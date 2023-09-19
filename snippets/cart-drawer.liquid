@@ -250,6 +250,11 @@
                           {%- if current_variant_bob_cart == "bob" or current_variant_bob_cart == "BOB" -%}
                             <span class="hulkapps-reminder-msg">Da Sie einen Baum hinzugefügt haben, betragen die Versandkosten 200,00.</span>
                           {%- endif -%}
+                          {%- if current_variant_bob_cart == "mob" or current_variant_bob_cart == "MOB" -%}
+                            {%- unless item.variant.sku == "mob-livepicturegozwart" or item.variant.sku == "mob-8718819890089" or item.variant.sku == "mob-livepicturegowit" -%}
+                              <span class="hulkapps-reminder-msg">Da Sie eine Hecke hinzugefügt haben, betragen die Versandkosten 175,00. {{ item.variant.sku }} </span>
+                            {%- endunless -%}
+                          {%- endif -%}
                         </td>
                       </tr>
 
@@ -296,7 +301,7 @@
             {% else %}
               <ul>
                 <li>Product totaal bob false  {{ cart.total_price | money_with_currency }} <span class="totals__subtotal h2">{{ 'sections.cart.subtotal' | t }} &lpar;{{ cart.item_count }} {{ 'sections.cart.total_products' | t }}&rpar;</span></li>
-                <li>verzend kosten <span>{{ '6,99' | money_with_currency }}<span></li>
+                <li>verzend kosten <span>{{ '7,99' | money_with_currency }}<span></li>
               </ul>
             {% endif %}
           {% endcomment %}

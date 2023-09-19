@@ -314,10 +314,32 @@
                 </div>
               {%- else -%}
                 <ul class="product-usp-fallback list-unstyled">
-                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_1' | t }}</li>
-                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_2' | t }}</li>
-                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_3' | t }}</li>
-                  <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_4' | t }}</li>
+                  {%- assign has_heckenpflanzen = false -%}
+                  {%- assign has_baume = false -%}
+                  {% for tag in product.tags %}
+                    {%- if tag contains 'Heckenpflanzen' -%}
+                      {%- assign has_heckenpflanzen = true -%}
+                    {%- elsif tag == 'Baume' or tag == 'Bäume'-%}
+                      {%- assign has_baume = true -%}
+                    {%- endif -%}
+                  {% endfor %}
+
+                  {% if has_heckenpflanzen %}
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Keine Schlepperei mehr</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Umfangreicher Käuferschutz</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Schonend verpackt</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Jetzt bestellen, später bezahlen</li>
+                  {% elsif has_baume %}
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Bäume direkt vom Züchter</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Umfangreicher Käuferschutz</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Schonend verpackt</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} Jetzt bestellen, später bezahlen</li>
+                  {% else %}
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_1' | t }}</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_2' | t }}</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_3' | t }}</li>
+                    <li>{%- render 'global-icon' icon: 'checkmark' -%} {{ 'products.product.usp_fallback_4' | t }}</li>
+                  {% endif %}
                 </ul>
               {%- endif -%}
             </div>
@@ -380,6 +402,17 @@
                   <span>Versandkosten <i>{%- render 'global-icon' icon: 'exclamation_mark' -%}Mehr Informationen</i></span>
                   <div class="product-form__input-option--price">200,00</div>
                 </div>
+              {%- endif -%}
+
+              {%- if current_variant_bob == "mob" or current_variant_bob == "MOB" -%}
+                {% unless current_variant.sku == "mob-livepicturegozwart" or current_variant.sku == "mob-8718819890089" or current_variant.sku == "mob-livepicturegowit" %}
+                  <div class="product-form__input-option product-form__input-option-has_extra_costs tooltip">
+                    <span class="tooltiptext">Um Fertighecken ordentlich zu liefern, arbeiten wir mit einem speziellen Fertigenheckentransporter. Der Lieferzuschlag beträgt 175 Euro pro Bestellung.</span>
+                    <img src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/lkw-gartencenter_a8ea1fc9-59b5-4112-9f63-d545178dee74.png?v=1678701932" alt="lwk Gartencenter.de" width="74" height="54" loading="lazy">
+                    <span>Versandkosten <i>{%- render 'global-icon' icon: 'exclamation_mark' -%}Mehr Informationen</i></span>
+                    <div class="product-form__input-option--price">175,00</div>
+                  </div>
+                {% endunless %}
               {%- endif -%}
 
               <div class="product-form__input product-form__quantity{% if settings.inputs_shadow_vertical_offset != 0 and settings.inputs_shadow_vertical_offset < 0 %} product-form__quantity-top{% endif %}" {{ block.shopify_attributes }}>
@@ -818,94 +851,195 @@
   </div>
   <product_description>
 
-    {%- if product.metafields.custom.extra_product_url != blank -%}
-      <div class="product_combi_product--container">
-        <div class="product_combi_product border-radius shadow">
-          <div class="product_combi_product__img">
-            <img src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/gartencenter-pflanze-im-topf.png?v=1674153917" loading="lazy" width="80" height="80" alt="gartencenter pflanze im topf">
-          </div>
-          <div class="product_combi_product__text">
-            {{ product.metafields.custom.extra_product_text }} <a href="{{ product.metafields.custom.extra_product_url }}">hier zusätzlich bestellen</a>.
-          </div>
+  {%- if product.metafields.custom.extra_product_url != blank -%}
+    <div class="product_combi_product--container">
+      <div class="product_combi_product border-radius shadow">
+        <div class="product_combi_product__img">
+          <img src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/gartencenter-pflanze-im-topf.png?v=1674153917" loading="lazy" width="80" height="80" alt="gartencenter pflanze im topf">
+        </div>
+        <div class="product_combi_product__text">
+          {{ product.metafields.custom.extra_product_text }} <a href="{{ product.metafields.custom.extra_product_url }}">hier zusätzlich bestellen</a>.
         </div>
       </div>
-    {%- endif -%}
-
-    <div class="product-page-rebuy" data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
-    <div class="product_description-wrapper-desk">
-      {% for block in section.blocks %}
-        {%- case block.type -%}
-          {%- when 'product_description' -%}
-            {% if product.description != blank %}
-              <div id="description-desk" class="product__description-desk">
-                {{ product.description }}
-              </div>
-              <button id="read-description-desk" onclick="opendescription_desk()">Weiterlesen »</button>
-            {% endif %}
-          {%- when 'product_specification' -%}
-            {%- if block.settings.specification_content != blank -%}
-              <span class="product__specification rte">
-                <strong>{{ block.settings.specification_name }}</strong>
-                {{ block.settings.specification_content }}
-              </span>
-            {%- endif -%}
-          {%- when 'product_pro_con' -%}  
-            {% liquid
-              assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
-            %}
-            {%- if block.settings.product_pro_con != blank -%}
-              <div class="h2 product__proscons-title">{{ 'products.product.pro_or_con' | t }}</div>
-              <div class="product__procon">{{- pro_con -}}</div>
-            {%- endif -%} 
-          {%- when 'sub_header' -%}
-            <div class="product__proscons-title h2">{{ block.settings.sub-header }}</div>   
-        {%- endcase -%}
-      {% endfor %}
     </div>
-    {%- if product.metafields.custom.standort != blank and product.metafields.custom.pflege != blank and product.metafields.custom.wasserbedarf != blank and product.metafields.custom.blattfarbe != blank and product.metafields.custom.zimmerpflanzen_nach_wuchshohe != blank and product.metafields.custom.blutenbildung != blank -%}
-      <div class="product-specification-container">
-        <div class="h2 product-specification-h2">Produktspezifikationen</div>
-        {%- if product.metafields.custom.standort != blank -%}
-          <div class="product-specification odd"><b>Stanfort</b> <span>{{ product.metafields.custom.standort | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-  
-        {%- if product.metafields.custom.pflege != blank -%}
-          <div class="product-specification even"><b>Pflege</b> <span>{{ product.metafields.custom.pflege | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-  
-        {%- if product.metafields.custom.wasserbedarf != blank -%}
-          <div class="product-specification odd"><b>Wasserbedarf</b> <span>{{ product.metafields.custom.wasserbedarf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-        
-        {%- if product.metafields.custom.blattfarbe != blank -%}
-          <div class="product-specification even"><b>Blattfarbe</b> <span>{{ product.metafields.custom.blattfarbe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-  
-        {%- if product.metafields.custom.wuchsgeschwindigkeit != blank -%}
-          <div class="product-specification odd"><b>Wuchsgeschwindigkeit</b> <span>{{ product.metafields.custom.wuchsgeschwindigkeit | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-        
-        {%- if product.metafields.custom.zimmerpflanzen_nach_wuchshohe != blank -%}
-          <div class="product-specification even"><b>Zimmerpflanzen nach Wuchshöhe</b> <span>{{ product.metafields.custom.zimmerpflanzen_nach_wuchshohe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-  
-        {%- if product.metafields.custom.blutenbildung != blank -%}
-          <div class="product-specification odd"><b>Blütenbildung</b> <span>{{ product.metafields.custom.blutenbildung | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-      
-        {%- if product.metafields.custom.stacheln != blank -%}
-          <div class="product-specification even"><b>Stacheln</b> <span>{{ product.metafields.custom.stacheln | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
+  {%- endif -%}
 
-        {%- if product.metafields.custom.durchmesser_ubertopf != blank -%}
-          <div class="product-specification odd"><b>Durchmesser Pflanztopf</b> <span>{{ product.metafields.custom.durchmesser_ubertopf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-
-        {%- if product.metafields.custom.durchmesser_pflanztopf != blank -%}
-          <div class="product-specification even"><b>Durchmesser Übertopf</b> <span>{{ product.metafields.custom.durchmesser_pflanztopf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " }}</span></div>
-        {%- endif -%}
-      </div>
+  <div class="product-page-rebuy" data-rebuy-id="69639" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
+  <div class="product_description-wrapper-desk">
+    {% for block in section.blocks %}
+      {%- case block.type -%}
+        {%- when 'product_description' -%}
+          {% if product.description != blank %}
+            <div id="description-desk" class="product__description-desk">
+              {{ product.description }}
+            </div>
+            <button id="read-description-desk" onclick="opendescription_desk()">Weiterlesen »</button>
+          {% endif %}
+        {%- when 'product_specification' -%}
+          {%- if block.settings.specification_content != blank -%}
+            <span class="product__specification rte">
+              <strong>{{ block.settings.specification_name }}</strong>
+              {{ block.settings.specification_content }}
+            </span>
+          {%- endif -%}
+        {%- when 'product_pro_con' -%}  
+          {% liquid
+            assign pro_con = block.settings.product_pro_con | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>'
+          %}
+          {%- if block.settings.product_pro_con != blank -%}
+            <div class="h2 product__proscons-title">{{ 'products.product.pro_or_con' | t }}</div>
+            <div class="product__procon">{{- pro_con -}}</div>
+          {%- endif -%} 
+        {%- when 'sub_header' -%}
+          <div class="product__proscons-title h2">{{ block.settings.sub-header }}</div>   
+      {%- endcase -%}
+    {% endfor %}
+  </div>
+    
+  {%- capture metafields -%}
+    {%- assign metafield_standort = product.metafields.custom.standort | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_pflege = product.metafields.custom.pflege | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_wasserbedarf = product.metafields.custom.wasserbedarf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_blattfarbe = product.metafields.custom.blattfarbe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_wuchsgeschwindigkeit = product.metafields.custom.wuchsgeschwindigkeit | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_zimmerpflanzen_nach_wuchshohe = product.metafields.custom.zimmerpflanzen_nach_wuchshohe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_blutenbildung = product.metafields.custom.blutenbildung | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_stacheln = product.metafields.custom.stacheln | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_durchmesser_ubertopf = product.metafields.custom.durchmesser_ubertopf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_durchmesser_pflanztopf = product.metafields.custom.durchmesser_pflanztopf | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_fruitsmaak = product.metafields.custom.fruitsmaak | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_oogsttijd = product.metafields.custom.oogsttijd | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_bestuiving = product.metafields.custom.bestuiving | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_winterlevering = product.metafields.custom.specificatie_winterlevering | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_zomerlevering = product.metafields.custom.specificatie_zomerlevering | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_herfstkleur = product.metafields.custom.specificatie_herfstkleur | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_wintergroen = product.metafields.custom.specificatie_wintergroen | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_tuintype = product.metafields.custom.specificatie_tuintype | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specifactie_snoeimethode = product.metafields.custom.specifactie_snoeimethode | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_snoeiperiode = product.metafields.custom.specificatie_snoeiperiode | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_vruchtdragend = product.metafields.custom.specificatie_vruchtdragend | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_bloeiwijze = product.metafields.custom.specificatie_bloeiwijze | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_bloeiperiode = product.metafields.custom.specificatie_bloeiperiode | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_bodemvochtigheid = product.metafields.custom.specificatie_bodemvochtigheid | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_specificatie_windgevoeligheid = product.metafields.custom.specificatie_windgevoeligheid | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_boom_bodemtype_voorkeur = product.metafields.custom.boom_bodemtype_voorkeur | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_boom_winterhard = product.metafields.custom.boom_winterhard | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+  {%- endcapture -%}
+  
+  {%- unless metafields != blank -%}
+  <div class="product-specification-container">
+    <div class="h2 product-specification-h2">Produktspezifikationen</div>
+    {%- if metafield_standort != blank -%}
+      <div class="product-specification"><b>Standort</b> <span>{{ metafield_standort }}</span></div>
     {%- endif -%}
+    
+    {%- if metafield_pflege != blank -%}
+      <div class="product-specification"><b>Pflege</b> <span>{{ metafield_pflege }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_wasserbedarf != blank -%}
+      <div class="product-specification"><b>Wasserbedarf</b> <span>{{ metafield_wasserbedarf }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_blattfarbe != blank -%}
+      <div class="product-specification"><b>Blattfarbe</b> <span>{{ metafield_blattfarbe }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_wuchsgeschwindigkeit != blank -%}
+      <div class="product-specification"><b>Wuchsgeschwindigkeit</b> <span>{{ metafield_wuchsgeschwindigkeit }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_zimmerpflanzen_nach_wuchshohe != blank -%}
+      <div class="product-specification"><b>Zimmerpflanzen nach Wuchshöhe</b> <span>{{ metafield_zimmerpflanzen_nach_wuchshohe }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_blutenbildung != blank -%}
+      <div class="product-specification"><b>Blütenbildung</b> <span>{{ metafield_blutenbildung }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_stacheln != blank -%}
+      <div class="product-specification"><b>Stacheln</b> <span>{{ metafield_stacheln }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_durchmesser_ubertopf != blank -%}
+      <div class="product-specification"><b>Durchmesser Pflanztopf</b> <span>{{ metafield_durchmesser_ubertopf }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_durchmesser_pflanztopf != blank -%}
+      <div class="product-specification"><b>Durchmesser Übertopf</b> <span>{{ metafield_durchmesser_pflanztopf }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_fruitsmaak != blank -%}
+      <div class="product-specification"><b>Obst schmecken</b> <span>{{ metafield_fruitsmaak }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_oogsttijd != blank -%}
+      <div class="product-specification"><b>Obsterntezeit</b> <span>{{ metafield_oogsttijd }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_bestuiving != blank -%}
+      <div class="product-specification"><b>Bestäubung</b> <span>{{ metafield_bestuiving }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_winterlevering != blank -%}
+      <div class="product-specification"><b>Lieferung Winter</b> <span>{{ metafield_specificatie_winterlevering }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_zomerlevering != blank -%}
+      <div class="product-specification"><b>Lieferung Sommer</b> <span>{{ metafield_specificatie_zomerlevering }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_herfstkleur != blank -%}
+      <div class="product-specification"><b>Herbstfarbe</b> <span>{{ metafield_specificatie_herfstkleur }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_wintergroen != blank -%}
+      <div class="product-specification"><b>Immergrün</b> <span>{{ metafield_specificatie_wintergroen }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_tuintype != blank -%}
+      <div class="product-specification"><b>Gartentyp</b> <span>{{ metafield_specificatie_tuintype }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specifactie_snoeimethode != blank -%}
+      <div class="product-specification"><b>Schnittmethode</b> <span>{{ metafield_specifactie_snoeimethode }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_snoeiperiode != blank -%}
+      <div class="product-specification"><b>Schnittperiode</b> <span>{{ metafield_specificatie_snoeiperiode }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_vruchtdragend != blank -%}
+      <div class="product-specification"><b>Früchte</b> <span>{{ metafield_specificatie_vruchtdragend }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_bloeiwijze != blank -%}
+      <div class="product-specification"><b>Blütenstand</b> <span>{{ metafield_specificatie_bloeiwijze }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_bloeiperiode != blank -%}
+      <div class="product-specification"><b>Blütezeit</b> <span>{{ metafield_specificatie_bloeiperiode }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_bodemvochtigheid != blank -%}
+      <div class="product-specification"><b>Bodenfeuchtigkeit</b> <span>{{ metafield_specificatie_bodemvochtigheid }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_specificatie_windgevoeligheid != blank -%}
+      <div class="product-specification"><b>Windempfindlichkeit</b> <span>{{ metafield_specificatie_windgevoeligheid }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_boom_bodemtype_voorkeur != blank -%}
+      <div class="product-specification"><b>Bevorzugte Bodenart</b> <span>{{ metafield_boom_bodemtype_voorkeur }}</span></div>
+    {%- endif -%}
+    
+    {%- if metafield_boom_winterhard != blank -%}
+      <div class="product-specification"><b>Winterhärte</b> <span>{{ metafield_boom_winterhard }}</span></div>
+    {%- endif -%}
+  </div>
+  {%- endunless -%}
+  
+
   </product_description>
 
   <product-modal id="ProductModal-{{ section.id }}" class="product-media-modal media-modal">

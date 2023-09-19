@@ -7,6 +7,10 @@
   justify-content: space-between;
 }
 
+.totals-postage_costs.bold {
+  font-weight: 600;
+}
+
 .cart-drawer .totals {
   flex-wrap: wrap;
   gap: 0.6rem;
@@ -62,10 +66,6 @@
 .totals__subtotal {
   margin-right: auto;
   font-size: 1.6rem;
-}
-
-.totals__subtotal-value {
-  font-weight: 600;
 }
 
 .totals__subtotal-value,

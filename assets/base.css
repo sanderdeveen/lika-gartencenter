@@ -192,6 +192,22 @@
   padding: 0 1rem;
 }
 
+.flex {
+  display: flex;
+}
+.flex--wrap {
+  flex-wrap: wrap;
+}
+.justify-content--between {
+  justify-content: center;
+} 
+.align-items--center {
+  align-items: center;
+}
+.gap-10 {
+  gap: 10px;
+}
+
 @media screen and (min-width: 900px) {
   .body-index .page-usp {
     padding: 1rem;
@@ -359,7 +375,7 @@ body {
 }
 
 .populair-collection {
-  margin: 3rem auto 0 auto;
+  margin: 3rem auto;
 }
 
 .populair-collection .page-title {
@@ -3607,4 +3623,8 @@ div.cc-window.cc-banner {
 .selectRegion:focus-visible {
   box-shadow: none;
   outline: none;
+}
+
+.rebuy-cart__background {
+  display: none !important;
 }

@@ -1765,12 +1765,12 @@ a.product__text {
   overflow-wrap: break-word;
 }
 
-.product-specification.odd {
+.product-specification:nth-child(odd) {
   background-color: #f2f0ef;
 }
 
-.product-specification.even {
-  background-color: #FFF;
+.product-specification:nth-child(even) {
+  background-color: #fff;
 }
 
 .product_combi_product {

@@ -38,7 +38,12 @@
   transform: translateX(100%);
   transition: transform var(--duration-default) ease;
   position: relative;
+}
+
+@media screen and (min-width: 900px) {
+.drawer__inner {
   min-width: 40rem;
+}
 }
 
 .drawer__inner-empty {
@@ -133,7 +138,6 @@ cart-drawer:not(.is-empty) .cart-drawer__collection {
 }
 
 .drawer__footer {
-  max-width: 40rem;
   background-color: rgb(var(--color-background));
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.2);
   padding: 1.4rem 1rem;
@@ -245,7 +249,7 @@ cart-drawer {
 }
 
 .cart-drawer tbody {
-  padding-bottom: 12rem;
+  padding-bottom: 21rem;
 }
 
 .cart-drawer thead {

@@ -1,19 +1,27 @@
-<link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="{{ 'section-rich-text.css' | asset_url }}" media="print" onload="this.media='all'">
+<link
+  rel="stylesheet"
+  href="{{ 'component-rte.css' | asset_url }}"
+  media="print"
+  onload="this.media='all'">
+<link
+  rel="stylesheet"
+  href="{{ 'section-rich-text.css' | asset_url }}"
+  media="print"
+  onload="this.media='all'">
 
 <noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'section-rich-text.css' | asset_url | stylesheet_tag }}</noscript>
 
 {%- style -%}
   .section-{{ section.id }}-padding {
-    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
-    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+    padding-top: {{ section.settings.padding_top -}} px;
+    padding-bottom: {{ section.settings.padding_bottom  -}} px;
   }
 
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
-      padding-top: {{ section.settings.padding_top }}px;
-      padding-bottom: {{ section.settings.padding_bottom }}px;
+      padding-top: {{ section.settings.padding_top -}} px;
+      padding-bottom: {{ section.settings.padding_bottom -}} px;
     }
   }
 {%- endstyle -%}
@@ -25,77 +33,299 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-              <h2 class="rich-text__heading rte" {{ block.shopify_attributes }}>
-                {{ block.settings.heading | replace: 'p>', 'span>' }}
-              </h2>
+            <h2 class="rich-text__heading rte" {{ block.shopify_attributes }}>
+              {{ block.settings.heading | replace: 'p>', 'span>' }}
+            </h2>
+            {%- when 'custom_liquid' -%}
+              <div class="rich_text_custom-liquid">{{ block.settings.custom_liquid }}</div>
             {%- when 'caption' -%}
-              <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
-                {{ block.settings.caption | escape }}
-              </p>
+            <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
+              {{ block.settings.caption | escape }}
+            </p>
             {%- when 'text' -%}
-              <div class="rich-text__text rte" {{ block.shopify_attributes }}>
-                {{ block.settings.text }}
-              </div>
+            <div class="rich-text__text rte" {{ block.shopify_attributes }}>
+              {{ block.settings.text }}
+            </div>
             {%- when 'button' -%}
-              <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %} {% if block.settings.button_left %} rich-text__buttons--left {% endif %}" {{ block.shopify_attributes }}>
-                {%- if block.settings.button_label != blank -%}
-                  <a {% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} {%- if block.settings.no_follow == true -%} rel="nofollow" target="blank" {%- endif -%} href="{{ block.settings.button_link }}"{% endif %} class="button {{ block.settings.button_scheme }}">{{ block.settings.button_label | escape }}</a>
-                {%- endif -%}
-                {%- if block.settings.button_label_2 != blank -%}
-                  <a {% if block.settings.button_link_2 == blank %} role="link" aria-disabled="true"{% else %} {%- if block.settings.no_follow_2 == true -%} rel="nofollow" target="blank" {%- endif -%} href="{{ block.settings.button_link_2 }}"{% endif %} class="button {{ block.settings.button_scheme_2 }}">{{ block.settings.button_label_2 | escape }}</a>
-                {%- endif -%}
-              </div>
-              {%- when 'unordered_list'-%}
-                {%- assign unordered_list = block.settings.unordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
-                <ul class="rte rich-text__unorderedlist">
-                  {{ unordered_list }}
-                </ul>
-              {%- when 'ordered_list'-%}
-                {%- assign ordered_list = block.settings.ordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
-                <ol class="rte rich-text__orderedlist">
-                  {{ ordered_list }}
-                </ol>
-              {% when 'image'%}
-                <div class="grid grid--{{ block.settings.columns_mobile }}-col-tablet-down grid--{{ block.settings.columns_desktop }}-col-desktop ">
-                  {%- if block.settings.image_url != blank -%}
-                    <a class="rich-text__image-url grid__item" href="{{ block.settings.image_url }}">
-                      <img
-                        srcset="{%- if block.settings.image.width >= 375 -%}{{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
-                        {%- if block.settings.image.width >= 750 -%}{{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
-                        {%- if block.settings.image.width >= 1100 -%}{{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
-                        {%- if block.settings.image.width >= 1500 -%}{{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
-                        {%- if block.settings.image.width >= 1780 -%}{{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
-                        {%- if block.settings.image.width >= 2000 -%}{{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
-                        {%- if block.settings.image.width >= 3000 -%}{{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
-                        {%- if block.settings.image.width >= 3840 -%}{{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
-                        {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
-                        src="{{ block.settings.image | image_url: width: 1500 }}"
-                        loading="lazy"
-                        alt="{{ block.settings.image.alt | escape }}"
-                        width="-webkit-fill-available"
-                        height="auto"
-                      >
-                    </a>
+            <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %} {% if block.settings.button_left %} rich-text__buttons--left {% endif %}" {{ block.shopify_attributes }}>
+              {%- if block.settings.button_label != blank -%}
+                <a
+                  {% if block.settings.button_link == blank %}
+                  role="link"
+                  aria-disabled="true"
+                  {% else %}
+                  {%- if block.settings.no_follow == true -%}
+                  rel="nofollow"
+                  target="blank"
+                  {%- endif -%}
+                  href="{{ block.settings.button_link }}"
+                  {% endif %}
+                  class="button {{ block.settings.button_scheme }}">{{ block.settings.button_label | escape }}</a>
+              {%- endif -%}
+              {%- if block.settings.button_label_2 != blank -%}
+                <a
+                  {% if block.settings.button_link_2 == blank %}
+                  role="link"
+                  aria-disabled="true"
+                  {% else %}
+                  {%- if block.settings.no_follow_2 == true -%}
+                  rel="nofollow"
+                  target="blank"
+                  {%- endif -%}
+                  href="{{ block.settings.button_link_2 }}"
+                  {% endif %}
+                  class="button {{ block.settings.button_scheme_2 }}">{{ block.settings.button_label_2 | escape }}</a>
+              {%- endif -%}
+            </div>
+            {%- when 'unordered_list' -%}
+            {%- assign unordered_list = block.settings.unordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
+            <ul class="rte rich-text__unorderedlist">
+              {{ unordered_list }}
+            </ul>
+            {%- when 'ordered_list' -%}
+            {%- assign ordered_list = block.settings.ordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
+            <ol class="rte rich-text__orderedlist {% if block.settings.fat_number %}rich-text__orderedlist-fat{%- endif -%}">
+              {{ ordered_list }}
+            </ol>
+            {%- when 'check_list' -%}
+
+            {%- assign check_list = block.settings.check_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
+            <ul class="rich-text__checklist">
+              {{ check_list }}
+            </ul>
+
+            {% when 'image' %}
+            <div class="grid grid--{{ block.settings.columns_mobile }}-col-tablet-down grid--{{ block.settings.columns_desktop }}-col-desktop ">
+              {%- if block.settings.image_url != blank -%}
+                <a class="rich-text__image-url grid__item" href="{{ block.settings.image_url }}">
+                  <img
+                    srcset="{%- if block.settings.image.width >= 375 -%}
+                    {{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
+                  {%- if block.settings.image.width >= 750 -%}
+                    {{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
+                  {%- if block.settings.image.width >= 1100 -%}
+                    {{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
+                  {%- if block.settings.image.width >= 1500 -%}
+                    {{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
+                  {%- if block.settings.image.width >= 1780 -%}
+                    {{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
+                  {%- if block.settings.image.width >= 2000 -%}
+                    {{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
+                  {%- if block.settings.image.width >= 3000 -%}
+                    {{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
+                  {%- if block.settings.image.width >= 3840 -%}
+                    {{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
+                  {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
+                  src="{{ block.settings.image | image_url: width: 1500 }}"
+                  loading="lazy"
+                  alt="{{ block.settings.image.alt | escape }}"
+                  width="-webkit-fill-available"
+                  height="auto">
+                </a>
+              {%- else -%}
+                <img
+                  class="rich-text__image grid__item"
+                  srcset="{%- if block.settings.image.width >= 375 -%}
+                  {{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
+                {%- if block.settings.image.width >= 750 -%}
+                  {{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
+                {%- if block.settings.image.width >= 1100 -%}
+                  {{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
+                {%- if block.settings.image.width >= 1500 -%}
+                  {{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
+                {%- if block.settings.image.width >= 1780 -%}
+                  {{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
+                {%- if block.settings.image.width >= 2000 -%}
+                  {{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
+                {%- if block.settings.image.width >= 3000 -%}
+                  {{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
+                {%- if block.settings.image.width >= 3840 -%}
+                  {{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
+                {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
+                sizes="100vw"
+                src="{{ block.settings.image | image_url: width: 1500 }}"
+                loading="lazy"
+                alt="{{ block.settings.image.alt | escape }}"
+                width="{{ block.settings.image.width }}"
+                height="{{ block.settings.image.width | divided_by: block.settings.image.aspect_ratio }}">
+              {%- endif -%}
+            </div>
+            {% when 'click_image' %}
+            <style>
+              .click_image_pulse:before {
+                background-color: {{ block.settings.bg_pulse }}
+                ;
+              }
+            </style>
+            <div class="click_image_container">
+              <div class="click_image_container-inner">
+                <div class="click_image_inner_1">
+                  {%- if block.settings.click_image_1 != blank -%}
+                    <img
+                      class="click_image_inner"
+                      srcset="{%- if block.settings.click_image_1.width >= 375 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 375 }} 375w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 750 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 750 }} 750w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 1100 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 1100 }} 1100w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 1500 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 1500 }} 1500w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 1780 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 1780 }} 1780w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 2000 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 2000 }} 2000w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 3000 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 3000 }} 3000w,{%- endif -%}
+                    {%- if block.settings.click_image_1.width >= 3840 -%}
+                      {{ block.settings.click_image_1 | image_url: width: 3840 }} 3840w,{%- endif -%}
+                    {{ block.settings.click_image_1 | image_url }} {{ block.settings.click_image_1.width }}"
+                    sizes="100vw"
+                    src="{{ block.settings.click_image_1 | image_url: width: 1500 }}"
+                    loading="lazy"
+                    alt="{{ block.settings.click_image_1.alt | escape }}"
+                    width="{{ block.settings.click_image_1.width }}"
+                    height="{{ block.settings.click_image_1.width | divided_by: block.settings.click_image_1.aspect_ratio }}">
                   {%- else -%}
-                    <img class="rich-text__image grid__item"
-                      srcset="{%- if block.settings.image.width >= 375 -%}{{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
-                      {%- if block.settings.image.width >= 750 -%}{{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
-                      {%- if block.settings.image.width >= 1100 -%}{{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
-                      {%- if block.settings.image.width >= 1500 -%}{{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
-                      {%- if block.settings.image.width >= 1780 -%}{{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
-                      {%- if block.settings.image.width >= 2000 -%}{{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
-                      {%- if block.settings.image.width >= 3000 -%}{{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
-                      {%- if block.settings.image.width >= 3840 -%}{{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
-                      {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
-                      sizes="100vw"
-                      src="{{ block.settings.image | image_url: width: 1500 }}"
-                      loading="lazy"
-                      alt="{{ block.settings.image.alt | escape }}"
-                      width="{{ block.settings.image.width }}"
-                      height="{{ block.settings.image.width | divided_by: block.settings.image.aspect_ratio }}"
-                    >
+                    {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+                  {%- endif -%}
+                  {%- if block.settings.product_1 != blank -%}
+                    <button
+                      class="click_image_pulse"
+                      style="left: {{ block.settings.x_as_1 }}%; top: {{ block.settings.y_as_1 }}%; background-color: {{ block.settings.bg_pulse }};"
+                      onclick="scrollToProduct1()"
+                      onmouseover="hoverProduct(1)"
+                      onmouseout="unhoverProduct(1)">1
+                    </button>
+                  {%- endif -%}
+
+                  {%- if block.settings.product_2 != blank -%}
+                    <button
+                      class="click_image_pulse"
+                      style="left: {{ block.settings.x_as_2 }}%; top: {{ block.settings.y_as_2 }}%; background-color: {{ block.settings.bg_pulse }};"
+                      onclick="scrollToProduct2()"
+                      onmouseover="hoverProduct(2)"
+                      onmouseout="unhoverProduct(2)">2
+                    </button>
+                  {%- endif -%}
+
+                  {%- if block.settings.product_3 != blank -%}
+                    <button
+                      class="click_image_pulse"
+                      style="left: {{ block.settings.x_as_3 }}%; top: {{ block.settings.y_as_3 }}%; background-color: {{ block.settings.bg_pulse }};"
+                      onclick="scrollToProduct3()"
+                      onmouseover="hoverProduct(3)"
+                      onmouseout="unhoverProduct(3)">3
+                    </button>
                   {%- endif -%}
                 </div>
+                <div class="click_image_inner_2">
+                  {%- assign product_1 = block.settings.product_1 -%}
+                  {%- assign product_2 = block.settings.product_2 -%}
+                  {%- assign product_3 = block.settings.product_3 -%}
+
+                  {%- if product_1 != blank -%}
+                    <a
+                      id="product_1"
+                      class="click_image_product"
+                      href="{{ product_1.url }}">
+                      <media-gallery>
+                        {%- liquid
+                            assign media_to_render = product_1.featured_media.id
+                            for variant in product_1.variants
+                              assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                            endfor
+                          -%}
+                        {%- for media in product_1.media -%}
+                          {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
+                            <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
+                              {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
+                            </div>
+                          {%- endif -%}
+                        {%- endfor -%}
+                      </media-gallery>
+                      <div class="click_image_product--info">
+                        <span class="h3">
+                          {{ product_1.title }}</span>
+                        {% liquid assign pro_con = product_1.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
+                        {%- if pro_con != blank -%}
+                          <div class="product__procon">{{- pro_con -}}</div>
+                        {%- endif -%}
+                      </div>
+                      <div class="click_image_product">
+                        {%- render 'price', product: product_1, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                      </div>
+                    </a>
+                  {%- endif -%}
+                  {%- if product_2 != blank -%}
+                    <a
+                      id="product_2"
+                      class="click_image_product"
+                      href="{{ product_2.url }}">
+                      <media-gallery>
+                        {%- liquid
+                            assign media_to_render = product_2.featured_media.id
+                            for variant in product_2.variants
+                              assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                            endfor
+                          -%}
+                        {%- for media in product_2.media -%}
+                          {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
+                            <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
+                              {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
+                            </div>
+                          {%- endif -%}
+                        {%- endfor -%}
+                      </media-gallery>
+                      <div class="click_image_product--info">
+                        <span class="h3">
+                          {{ product_2.title }}</span>
+                        {% liquid assign pro_con = product_2.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
+                        {%- if pro_con != blank -%}
+                          <div class="product__procon">{{- pro_con -}}</div>
+                        {%- endif -%}
+                      </div>
+                      <div class="click_image_product">
+                        {%- render 'price', product: product_2, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                      </div>
+                    </a>
+                  {%- endif -%}
+                  {%- if product_3 != blank -%}
+                    <a
+                      id="product_3"
+                      class="click_image_product"
+                      href="{{ product_3.url }}">
+                      <media-gallery>
+                        {%- liquid
+                            assign media_to_render = product_3.featured_media.id
+                            for variant in product_3.variants
+                              assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                            endfor
+                          -%}
+                        {%- for media in product_3.media -%}
+                          {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
+                            <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
+                              {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
+                            </div>
+                          {%- endif -%}
+                        {%- endfor -%}
+                      </media-gallery>
+                      <div class="click_image_product--info">
+                        <span class="h3">
+                          {{ product_3.title }}</span>
+                        {% liquid assign pro_con = product_3.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
+                        {%- if pro_con != blank -%}
+                          <div class="product__procon">{{- pro_con -}}</div>
+                        {%- endif -%}
+                      </div>
+                      <div class="click_image_product">
+                        {%- render 'price', product: product_3, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                      </div>
+                    </a>
+                  {%- endif -%}
+                </div>
+              </div>
+            </div>
           {%- endcase -%}
         {%- endfor -%}
       </div>
@@ -103,274 +333,416 @@
   </div>
 </div>
 
+<script>
+  // Get all the li elements inside the ul with class "rich-text__checklist"
+  const listItems = document.querySelectorAll(".rich-text__checklist li");
+
+// Loop through each li element and update its content
+  listItems.forEach(item => {
+    item.innerHTML = `{%- render 'global-icon', icon: 'checkmark' -%} ${
+      item.innerHTML
+    }`;
+  });
+
+
+
+  function isMobileDevice() {
+    return window.innerWidth <= 1250; // You can adjust this threshold to your preference
+  }function scrollToProductWithOffset(elementId, offset) {
+    if (isMobileDevice()) {
+      const productElement = document.getElementById(elementId);
+      if (productElement) {
+        const topOffset = productElement.getBoundingClientRect().top + window.pageYOffset - offset;
+        window.scrollTo({top: topOffset, behavior: 'smooth'});
+      }
+    }
+  }
+
+  function scrollToProduct1() {
+    scrollToProductWithOffset('product_1', 40);
+  }
+
+  function scrollToProduct2() {
+    scrollToProductWithOffset('product_2', 40);
+  }
+
+  function scrollToProduct3() {
+    scrollToProductWithOffset('product_3', 40);
+  }
+
+
+
+  function hoverProduct(productNumber) {
+    var product = document.getElementById('product_' + productNumber);
+    if (product) {
+      product.classList.add('is-hover');
+    }
+  }
+
+  function unhoverProduct(productNumber) {
+    var product = document.getElementById('product_' + productNumber);
+    if (product) {
+      product.classList.remove('is-hover');
+    }
+  }
+</script>
+
 {% schema %}
-{
-  "name": "t:sections.rich-text.name",
-  "tag": "section",
-  "class": "section",
-  "settings": [
-    {
-      "type": "header",
-      "content": "t:sections.all.padding.section_padding_heading"
-    },
-    {
-      "type": "range",
-      "id": "padding_top",
-      "min": 0,
-      "max": 100,
-      "step": 1,
-      "unit": "px",
-      "label": "t:sections.all.padding.padding_top",
-      "default": 12
-    },
-    {
-      "type": "range",
-      "id": "padding_bottom",
-      "min": 0,
-      "max": 100,
-      "step": 1,
-      "unit": "px",
-      "label": "t:sections.all.padding.padding_bottom",
-      "default": 12
-    }
-  ],
-  "blocks": [
-    {
-      "type": "heading",
-      "name": "t:sections.rich-text.blocks.heading.name",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "heading",
-          "default": "<p>Talk about your brand</p>",
-          "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
-        }
-      ]
-    },
-    {
-      "type": "caption",
-      "name": "t:sections.rich-text.blocks.caption.name",
-      "settings": [
-        {
-          "type": "text",
-          "id": "caption",
-          "default": "Add a tagline",
-          "label": "t:sections.rich-text.blocks.caption.settings.text.label"
-        },
-        {
-          "type": "select",
-          "id": "text_style",
-          "options": [
-            {
-              "value": "subtitle",
-              "label": "t:sections.rich-text.blocks.caption.settings.text_style.options__1.label"
-            },
-            {
-              "value": "caption-with-letter-spacing",
-              "label": "t:sections.rich-text.blocks.caption.settings.text_style.options__2.label"
-            }
-          ],
-          "default": "caption-with-letter-spacing",
-          "label": "t:sections.rich-text.blocks.caption.settings.text_style.label"
-        },
-        {
-          "type": "select",
-          "id": "text_size",
-          "options": [
-            {
-              "value": "small",
-              "label": "t:sections.rich-text.blocks.caption.settings.caption_size.options__1.label"
-            },
-            {
-              "value": "medium",
-              "label": "t:sections.rich-text.blocks.caption.settings.caption_size.options__2.label"
-            },
-            {
-              "value": "large",
-              "label": "t:sections.rich-text.blocks.caption.settings.caption_size.options__3.label"
-            }
-          ],
-          "default": "medium",
-          "label": "t:sections.rich-text.blocks.caption.settings.caption_size.label"
-        },
-        {
-          "type": "richtext",
-          "label": "Unordered list",
-          "id": "unordered_list"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "name": "t:sections.rich-text.blocks.text.name",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "text",
-          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-          "label": "t:sections.rich-text.blocks.text.settings.text.label"
-        }
-      ]
-    },
-    {
-      "type": "button",
-      "name": "t:sections.rich-text.blocks.buttons.name",
-      "settings": [
-        {
-          "type": "text",
-          "id": "button_label",
-          "default": "Button label",
-          "label": "t:sections.rich-text.blocks.buttons.settings.button_label_1.label",
-          "info": "t:sections.rich-text.blocks.buttons.settings.button_label_1.info"
-        },
-        {
-          "type": "url",
-          "id": "button_link",
-          "label": "t:sections.rich-text.blocks.buttons.settings.button_link_1.label"
-        },
-        {
-          "type": "checkbox",
-          "id": "no_follow",
-          "default": false,
-          "label": "Uses no follow url"
-        },
-        {
-          "type": "select",
-          "id": "button_scheme",
-          "options": [
-            {
-              "value": "button",
-              "label": "Button normal"
-            },
-            {
-              "value": "button-outline",
-              "label": "Button outline"
-            },
-            {
-              "value": "link",
-              "label": "Show regular link"
-            }
-          ],
-          "default": "button",
-          "label": "Choose button"
-        },
-        {
-          "type": "text",
-          "id": "button_label_2",
-          "label": "t:sections.rich-text.blocks.buttons.settings.button_label_2.label",
-          "info": "t:sections.rich-text.blocks.buttons.settings.button_label_2.info"
-        },
-        {
-          "type": "url",
-          "id": "button_link_2",
-          "label": "t:sections.rich-text.blocks.buttons.settings.button_link_2.label"
-        },
-        {
-          "type": "checkbox",
-          "id": "no_follow_2",
-          "default": false,
-          "label": "Uses no follow url"
-        },
-        {
-          "type": "select",
-          "id": "button_scheme_2",
-          "options": [
-            {
-              "value": "button",
-              "label": "Button normal"
-            },
-            {
-              "value": "button-outline",
-              "label": "Button outline"
-            },
-            {
-              "value": "link",
-              "label": "Show regular link"
-            }
-          ],
-          "default": "button",
-          "label": "Choose button"
-        }
-      ]
-    },
-    {
-      "type": "unordered_list",
-      "name": "Unordered list",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "unordered_list",
-          "label": "Unordered list",
-          "info": "Start with - and end with *"
-        }
-      ]
-    },
-    {
-      "type": "ordered_list",
-      "name": "Ordered list",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "ordered_list",
-          "label": "Ordered list",
-          "info": "Start with - and end with *"
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "name": "Image",
-      "settings": [
-        {
-          "type": "url",
-          "label": "image url",
-          "id": "image_url"
-        },
-        {
-          "type": "image_picker",
-          "label": "Image",
-          "id": "image"
-        },
-        {
-          "type": "select",
-          "id": "columns_mobile",
-          "options": [
-            {
-              "value": "1",
-              "label": "100%"
-            },
-            {
-              "value": "2",
-              "label": "50%"
-            }
-          ],
-          "default": "1",
-          "label": "Mobile width"
-        },
-        {
-          "type": "range",
-          "id": "columns_desktop",
-          "min": 1,
-          "max": 6,
-          "step": 1,
-          "default": 3,
-          "label": "t:sections.multicolumn.settings.columns_desktop.label"
-        }
-      ]
-    }
-  ],
-  "presets": [
-    {
-      "name": "t:sections.rich-text.presets.name",
-      "blocks": [
-        {
-          "type": "heading"
-        },
-        {
-          "type": "text"
-        }
-      ]
-    }
-  ]
-}
+  {
+    "name": "t:sections.rich-text.name",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+      {
+        "type": "header",
+        "content": "t:sections.all.padding.section_padding_heading"
+      }, {
+        "type": "range",
+        "id": "padding_top",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_top",
+        "default": 12
+      }, {
+        "type": "range",
+        "id": "padding_bottom",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_bottom",
+        "default": 12
+      }
+    ],
+    "blocks": [
+      {
+        "type": "custom_liquid",
+        "name": "Custom html",
+        "settings": [
+          {
+            "type": "liquid",
+            "id": "custom_liquid",
+            "label": "t:sections.custom-liquid.settings.custom_liquid.label",
+            "info": "t:sections.custom-liquid.settings.custom_liquid.info"
+          }
+        ]
+      },
+      {
+        "type": "click_image",
+        "name": "Clickable images",
+        "settings": [
+          {
+            "type": "color",
+            "label": "Background Color for click_image_pulse",
+            "id": "bg_pulse",
+            "default": "#86B765"
+          },
+          {
+            "type": "image_picker",
+            "label": "Image 1",
+            "id": "click_image_1"
+          },
+          {
+            "type": "product",
+            "label": "product 1",
+            "id": "product_1"
+          },
+          {
+            "type": "range",
+            "label": "X Position",
+            "id": "x_as_1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "default": 0
+          }, {
+            "type": "range",
+            "label": "Y Position",
+            "id": "y_as_1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "default": 0
+          }, {
+            "type": "product",
+            "label": "product 2",
+            "id": "product_2"
+          }, {
+            "type": "range",
+            "label": "X Position",
+            "id": "x_as_2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "default": 0
+          }, {
+            "type": "range",
+            "label": "Y Position",
+            "id": "y_as_2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "default": 0
+          }, {
+            "type": "product",
+            "label": "product 3",
+            "id": "product_3"
+          }, {
+            "type": "range",
+            "label": "X Position",
+            "id": "x_as_3",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "default": 0
+          }, {
+            "type": "range",
+            "label": "Y Position",
+            "id": "y_as_3",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "default": 0
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "name": "t:sections.rich-text.blocks.heading.name",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "heading",
+            "default": "<p>Talk about your brand</p>",
+            "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+          }
+        ]
+      },
+      {
+        "type": "caption",
+        "name": "t:sections.rich-text.blocks.caption.name",
+        "settings": [
+          {
+            "type": "text",
+            "id": "caption",
+            "default": "Add a tagline",
+            "label": "t:sections.rich-text.blocks.caption.settings.text.label"
+          }, {
+            "type": "select",
+            "id": "text_style",
+            "options": [
+              {
+                "value": "subtitle",
+                "label": "t:sections.rich-text.blocks.caption.settings.text_style.options__1.label"
+              }, {
+                "value": "caption-with-letter-spacing",
+                "label": "t:sections.rich-text.blocks.caption.settings.text_style.options__2.label"
+              }
+            ],
+            "default": "caption-with-letter-spacing",
+            "label": "t:sections.rich-text.blocks.caption.settings.text_style.label"
+          }, {
+            "type": "select",
+            "id": "text_size",
+            "options": [
+              {
+                "value": "small",
+                "label": "t:sections.rich-text.blocks.caption.settings.caption_size.options__1.label"
+              }, {
+                "value": "medium",
+                "label": "t:sections.rich-text.blocks.caption.settings.caption_size.options__2.label"
+              }, {
+                "value": "large",
+                "label": "t:sections.rich-text.blocks.caption.settings.caption_size.options__3.label"
+              }
+            ],
+            "default": "medium",
+            "label": "t:sections.rich-text.blocks.caption.settings.caption_size.label"
+          }, {
+            "type": "richtext",
+            "label": "Unordered list",
+            "id": "unordered_list"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "name": "t:sections.rich-text.blocks.text.name",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "text",
+            "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "label": "t:sections.rich-text.blocks.text.settings.text.label"
+          }
+        ]
+      }, {
+        "type": "button",
+        "name": "t:sections.rich-text.blocks.buttons.name",
+        "settings": [
+          {
+            "type": "text",
+            "id": "button_label",
+            "default": "Button label",
+            "label": "t:sections.rich-text.blocks.buttons.settings.button_label_1.label",
+            "info": "t:sections.rich-text.blocks.buttons.settings.button_label_1.info"
+          },
+          {
+            "type": "url",
+            "id": "button_link",
+            "label": "t:sections.rich-text.blocks.buttons.settings.button_link_1.label"
+          },
+          {
+            "type": "checkbox",
+            "id": "no_follow",
+            "default": false,
+            "label": "Uses no follow url"
+          },
+          {
+            "type": "select",
+            "id": "button_scheme",
+            "options": [
+              {
+                "value": "button",
+                "label": "Button normal"
+              }, {
+                "value": "button-outline",
+                "label": "Button outline"
+              }, {
+                "value": "link",
+                "label": "Show regular link"
+              }
+            ],
+            "default": "button",
+            "label": "Choose button"
+          }, {
+            "type": "text",
+            "id": "button_label_2",
+            "label": "t:sections.rich-text.blocks.buttons.settings.button_label_2.label",
+            "info": "t:sections.rich-text.blocks.buttons.settings.button_label_2.info"
+          }, {
+            "type": "url",
+            "id": "button_link_2",
+            "label": "t:sections.rich-text.blocks.buttons.settings.button_link_2.label"
+          }, {
+            "type": "checkbox",
+            "id": "no_follow_2",
+            "default": false,
+            "label": "Uses no follow url"
+          }, {
+            "type": "select",
+            "id": "button_scheme_2",
+            "options": [
+              {
+                "value": "button",
+                "label": "Button normal"
+              }, {
+                "value": "button-outline",
+                "label": "Button outline"
+              }, {
+                "value": "link",
+                "label": "Show regular link"
+              }
+            ],
+            "default": "button",
+            "label": "Choose button"
+          }
+        ]
+      }, {
+        "type": "unordered_list",
+        "name": "Unordered list",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "unordered_list",
+            "label": "Unordered list",
+            "info": "Start with - and end with *"
+          }
+        ]
+      }, {
+        "type": "ordered_list",
+        "name": "Ordered list",
+        "settings": [
+          {
+            "type": "checkbox",
+            "id": "fat_number",
+            "label": "shows fat numbers"
+          }, {
+            "type": "richtext",
+            "id": "ordered_list",
+            "label": "Ordered list",
+            "info": "Start with - and end with *"
+          }
+        ]
+      }, {
+        "type": "check_list",
+        "name": "Check list",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "check_list",
+            "label": "Check list",
+            "info": "Start with - and end with *"
+          }
+        ]
+      }, {
+        "type": "image",
+        "name": "Image",
+        "settings": [
+          {
+            "type": "url",
+            "label": "image url",
+            "id": "image_url"
+          }, {
+            "type": "image_picker",
+            "label": "Image",
+            "id": "image"
+          }, {
+            "type": "select",
+            "id": "columns_mobile",
+            "options": [
+              {
+                "value": "1",
+                "label": "100%"
+              }, {
+                "value": "2",
+                "label": "50%"
+              }
+            ],
+            "default": "1",
+            "label": "Mobile width"
+          }, {
+            "type": "range",
+            "id": "columns_desktop",
+            "min": 1,
+            "max": 6,
+            "step": 1,
+            "default": 3,
+            "label": "t:sections.multicolumn.settings.columns_desktop.label"
+          }
+
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "t:sections.rich-text.presets.name",
+        "blocks": [
+          {
+            "type": "heading"
+          }, {
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  }
 {% endschema %}

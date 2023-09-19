@@ -24,8 +24,6 @@
         height="{{ image_width | divided_by: section.settings.contact_img.aspect_ratio }}"
       >
     </a>
-  {%- else -%}
-    {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
   {%- endif -%}
   <div class="product-information--information">
     {%- if section.settings.content -%}

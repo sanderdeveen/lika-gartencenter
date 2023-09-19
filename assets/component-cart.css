@@ -16,7 +16,6 @@ cart-items.is-empty .title-wrapper-with-link,
 
 .cart__footer .totals {
   flex-direction: column;
-  font-weight: 600;
 }
 
 .inc-vat {

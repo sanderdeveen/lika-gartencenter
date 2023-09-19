@@ -2736,5 +2736,15 @@
         "name": "Einklappbarer Inhalt"
       }
     }
+  },
+  "popup": {
+    "text": {
+      "header": "Rabatt?",
+      "header_orange": "10 %",
+      "paragraph": "Abonnieren Sie unseren Newsletter:",
+      "placeholder": "Hier E-Mail-Adressse eingeben",
+      "submit": "Ja, ich möchte 10 % Rabatt erhalten!",
+      "reject": "Angebot ablennen"
+    }
   }
 }

@@ -109,7 +109,7 @@
       "in_stock": "In stock",
       "no_stock": "No stock",
       "delivery_info": "Shipping within 0-2 business days",
-      "usp_fallback_1": "Free shipping from 75 euros",
+      "usp_fallback_1": "Free shipping from 100 euros",
       "usp_fallback_2": "Extensive buyer protection",
       "usp_fallback_3": "Packed gently",
       "usp_fallback_4": "Order now, pay later",
@@ -450,6 +450,16 @@
       "expired": "Expired",
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
+    }
+  },
+  "popup": {
+    "text": {
+      "header": "Rabatt?",
+      "header_orange": "10 %",
+      "paragraph": "Abonnieren Sie unseren Newsletter:",
+      "placeholder": "Hier E-Mail-Adressse eingeben",
+      "submit": "Ja, ich möchte 10 % Rabatt erhalten!",
+      "reject": "Angebot ablennen"
     }
   }
 }

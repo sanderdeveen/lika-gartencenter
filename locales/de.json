@@ -105,7 +105,7 @@
   },
   "products": {
     "product": {
-      "usp_fallback_1": "Ab 75 Euro kostenlose Lieferung",
+      "usp_fallback_1": "Ab 100 Euro kostenlose Lieferung",
       "usp_fallback_2": "Umfangreicher Käuferschutz",
       "usp_fallback_3": "Schonend verpackt",
       "usp_fallback_4": "Jetzt bestellen, später bezahlen",
@@ -193,7 +193,7 @@
       "filter_selected_accessibility": "{{ type }} ({{ count }} Filter ausgewählt)",
       "show_more": "Mehr anzeigen",
       "show_less": "Weniger anzeigen",
-      "versand_werktagen": "Versand innerhalb von 0-2 Werktagen"
+      "versand_werktagen": "Versand innerhalb von 0-4 Werktagen"
     }
   },
   "templates": {
@@ -202,7 +202,7 @@
     },
     "usp_mob": {
       "header_1": "Schnelle Lieferung",
-      "text_2": "In ganz Deutschland bis an die Haustür geliefert. Ihre Bestellung wird ab einem Warenwert von € 75 versandkostenfrei geliefert. Für eine Lieferung unter diesem Wert werden Ihnen € 6,99  Versandkosten berechnet.",
+      "text_2": "In ganz Deutschland bis an die Haustür geliefert. Ihre Bestellung wird ab einem Warenwert von € 100 versandkostenfrei geliefert. Für eine Lieferung unter diesem Wert werden Ihnen € 7,99  Versandkosten berechnet.",
       "header_2": "Umfangreicher Käuferschutz",
       "text_3": "Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.",
       "header_3": "Kontakt"
@@ -470,6 +470,16 @@
         "price_descending": "Preis absteigend",
         "manual": "Ausgewählt"
       }
+    }
+  },
+  "popup": {
+    "text": {
+      "header": "Rabatt?",
+      "header_orange": "10 %",
+      "paragraph": "Abonnieren Sie unseren Newsletter:",
+      "placeholder": "Hier E-Mail-Adressse eingeben",
+      "submit": "Ja, ich möchte 10 % Rabatt erhalten!",
+      "reject": "Angebot ablennen"
     }
   }
 }

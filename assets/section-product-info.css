@@ -8,6 +8,17 @@
   border: 2px solid #2E463B;
 }
 
+.product-information--header {
+  background-color: #2E463B;
+  border: 2px solid #2E463B;
+  color: #FFF;
+  font-size: 16px;
+  margin: 0 0 10px 0;
+  border-radius: 0.4rem;
+  padding: 0.8rem;
+  top: -24px !important;
+}
+
 @media screen and (min-width: 768px) {
   .product-information {
     margin: 4rem 1rem 1rem 1rem;
@@ -48,7 +59,7 @@
 
 @media screen and (min-width: 1350px) {
   .product-information {
-    margin: 5rem auto 0 auto;
+    margin: 5rem auto 3rem auto;
   }
 }
 

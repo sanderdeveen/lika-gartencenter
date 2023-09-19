@@ -15,6 +15,25 @@
 <noscript>{{ 'disclosure.css' | asset_url | stylesheet_tag }}</noscript>
 
 {%- style -%}
+      #emailInputFooter {
+      font-size: 16px;
+      width: 100%;
+      padding: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      height: 4.6rem;
+    }
+
+    #emailInputFooter:focus-visible {
+        outline: none;
+        box-shadow: none;
+    }
+    #submitButtonFooter {
+      width: 100% !important;
+    }
+    #thankYouMessageFooter {
+      display: none;
+    }
   .footer {
     margin-top: {{ section.settings.margin_top | times: 0.75 | round: 0 }}px;
   }
@@ -262,10 +281,10 @@
             {%- if section.settings.newsletter_enable -%}
               <div class="footer-block__newsletter">
                 {%- if section.settings.newsletter_heading != blank -%}
-                  <h4 class="footer-block__heading">{{ section.settings.newsletter_heading | escape }}</h4>
+                  <h4 class="footer-block__heading"><span>10 %</span> Rabatt?</h4>
                 {%- endif -%}
-                <p>Bleiben Sie immer up-to-date und profitieren Sie von vielen Vorteilen.</p>
-                {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
+                <p>Abonnieren Sie unseren Newsletter:</p>
+                {% comment %} {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
                   <input type="hidden" name="contact[tags]" value="newsletter">
                   <div class="newsletter-form__field-wrapper">
                     <div class="field">
@@ -303,7 +322,66 @@
                   {%- if form.posted_successfully? -%}
                     <span class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success' | t }}</span>
                   {%- endif -%}
-                {%- endform -%}
+                {%- endform -%} {% endcomment %}
+                  <form id="emailFormFooter">
+                    <input type="email" id="emailInputFooter" placeholder="{{ 'popup.text.placeholder' | t }}" required>
+                    <button class="button button-primary" type="submit" id="submitButtonFooter">{{ 'popup.text.submit' | t }}</button>
+                  </form>
+                  <span id="thankYouMessageFooter">Vielen Dank, dass Sie unseren Newsletter abonniert haben! Bitte schauen Sie in Ihr Postfach.</span>
+                  <script>
+                  const footerEmailForm = document.getElementById('emailFormFooter');
+                  const footerEmailInput = document.getElementById('emailInputFooter');
+                  const footerSubmitButton = document.getElementById('submitButtonFooter');
+                  const footerThankYouMessage = document.getElementById('thankYouMessageFooter');
+                  const footerBearerToken = 'e56b6f91-9a66-4060-9c4a-a6fecdd60da0';
+                  const footerWebhookUrl = 'https://mh.tuincentrum.nl/api/subscribe'; // Update this URL to match your webhook URL
+
+                  footerEmailForm.addEventListener('submit', async (event) => {
+                    event.preventDefault();
+
+                    const email = footerEmailInput.value;
+                    const createdAt = new Date().toISOString();
+                    const location = 'FOOTER';
+                    const source = 'gartencenter.de';
+
+                    const data = {
+                      email,
+                      created_at: createdAt,
+                      location,
+                      source
+                    };
+
+                    try {
+                      const response = await fetch(footerWebhookUrl, {
+                        method: 'POST',
+                        headers: {
+                          'Content-Type': 'application/json',
+                          'Authorization': `Bearer ${footerBearerToken}`,
+                          'X-Requested-With': 'XMLHttpRequest'
+                        },
+                        body: JSON.stringify(data)
+                      });
+
+                      if (response.ok) {
+                        // Hide the email form
+                        footerEmailForm.style.display = 'none';
+
+                        // Show the thank-you message
+                        footerThankYouMessage.style.display = 'block';
+
+                        // Set the thank-you message to block position
+                        footerThankYouMessage.style.display = 'block';
+
+                      } else {
+                        console.error('Error sending data');
+                      }
+
+                    } catch (error) {
+                      console.error('An error occurred:', error);
+                    }
+                  });
+                  </script>
+
               </div>
               <a class="footer-icon" href="/">
               {%- render 'global-icon',

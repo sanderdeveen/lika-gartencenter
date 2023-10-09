@@ -122,6 +122,14 @@
               "menu_img": "shopify:\/\/shop_images\/Gartenpflanzen-alles-entdecken.jpg"
             }
           },
+          "b147acaf-55fc-433b-809b-782ed5f9e0a0": {
+            "type": "menu_gartenpflanzen",
+            "settings": {
+              "url": "shopify:\/\/collections\/blumenzwiebeln",
+              "url_text": "Blumenzwiebeln",
+              "menu_img": "shopify:\/\/shop_images\/blumenzwiebeln-menu.png"
+            }
+          },
           "69ee2ddd-7145-46da-b03a-7cee5fe378eb": {
             "type": "menu_gartenpflanzen",
             "settings": {
@@ -293,7 +301,7 @@
           "94025969-5062-4140-82a1-3da377b750ab": {
             "type": "menu_zimmerpflanzen",
             "settings": {
-              "url": "shopify:\/\/collections",
+              "url": "shopify:\/\/collections\/zimmerpflanzen-zubehoer",
               "url_text": "Zimmerpflanzen Zubehör",
               "menu_img": "shopify:\/\/shop_images\/Zimmerpflanzen-Zubehor-Elho.jpg"
             }
@@ -481,10 +489,19 @@
               "url_text": "Alles entdecken",
               "menu_img": "shopify:\/\/shop_images\/Gartenzubehoer-alles-entdecken.jpg"
             }
+          },
+          "59c642dd-ba2f-420b-af2c-65ae50951df2": {
+            "type": "menu_blumenzwiebeln",
+            "settings": {
+              "url": "shopify:\/\/collections\/blumenzwiebeln",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/blumenzwiebeln-menu.png"
+            }
           }
         },
         "block_order": [
           "e14c9c38-82a0-42c3-b7a7-4bf02f3f5a20",
+          "b147acaf-55fc-433b-809b-782ed5f9e0a0",
           "69ee2ddd-7145-46da-b03a-7cee5fe378eb",
           "4a455564-a419-488b-91e9-b9f183094784",
           "80111416-7517-4cbb-9bb6-52f07099551b",
@@ -529,7 +546,8 @@
           "91033417-5023-42dc-986e-b5712e327184",
           "39152a8c-fa51-46bb-b1f4-3d08cc3c1bb7",
           "1875891c-7a8c-4946-bbb6-396cd92b74bb",
-          "70241251-3358-4963-abe3-62c8ba785525"
+          "70241251-3358-4963-abe3-62c8ba785525",
+          "59c642dd-ba2f-420b-af2c-65ae50951df2"
         ],
         "settings": {
           "color_scheme": "background-1",

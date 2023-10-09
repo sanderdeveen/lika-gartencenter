@@ -129,6 +129,7 @@
                   {% comment %} Start liquid for mobile menu tabs {% endcomment %}
                   <div class="tab slider slider--tablet">
                     <span class="slider__slide tablinks" onclick="openSubMenu(event, 'Gartenpflanzen')" id="defaultOpen">{{ 'sections.header.gardenplants' | t }}</span>
+                    <span class="slider__slide tablinks" onclick="openSubMenu(event, 'Blumenzwiebeln')" id="defaultOpen">{{ 'sections.header.blumenzwiebeln' | t }}</span>
                     <span class="slider__slide tablinks" onclick="openSubMenu(event, 'Zimmerpflanzen')">{{ 'sections.header.houseplants' | t }}</span>
                     <span class="slider__slide tablinks" onclick="openSubMenu(event, 'Baume')">{{ 'sections.header.three' | t }}</span>
                     <span class="slider__slide tablinks" onclick="openSubMenu(event, 'Rasen')">{{ 'sections.header.lawn' | t }}</span>
@@ -143,6 +144,34 @@
                       {% for block in section.blocks %}
                         {%- case block.type -%}
                           {%- when 'menu_gartenpflanzen' -%}
+                            {%- assign menu_url = block.settings.url | remove: "collections" | remove: "/" | replace: "-", " " -%}
+                            <a class="grid__item shadow full-unstyled-link" href="{{ block.settings.url }}">
+                              {%- if block.settings.menu_img != blank -%}
+                                {{ block.settings.menu_img | image_url: width: 175, height: 70 | image_tag:
+                                  loading: 'lazy'
+                                }}
+                                {%- else -%}
+                                <div style="background-color: lightgray; width: 100%; height: 70px;">
+                                </div>
+                              {%- endif -%}
+                              <span>
+                                {%- if block.settings.url_text != blank -%}
+                                  {{ block.settings.url_text }}
+                                {% else %}
+                                  {{ menu_url }}
+                                {%- endif -%}
+                              </span>
+                            </a>
+                        {%- endcase -%}
+                      {% endfor %}
+                    </div>
+                  </div>
+
+                  <div id="Blumenzwiebeln" class="tabcontent">
+                    <div class="list-unstyled sub-menu-blocks grid grid--2-col-tablet-down">
+                      {% for block in section.blocks %}
+                        {%- case block.type -%}
+                          {%- when 'menu_blumenzwiebeln' -%}
                             {%- assign menu_url = block.settings.url | remove: "collections" | remove: "/" | replace: "-", " " -%}
                             <a class="grid__item shadow full-unstyled-link" href="{{ block.settings.url }}">
                               {%- if block.settings.menu_img != blank -%}
@@ -835,6 +864,27 @@
     {
       "type": "menu_gartenpflanzen",
       "name": "Menu item gartenpflanzen",
+      "settings": [
+        {
+          "type": "url",
+          "id": "url",
+          "label": "Url"
+        },
+        {
+          "type": "text",
+          "id": "url_text",
+          "label": "Url text ( Optional )"
+        },
+        {
+          "type": "image_picker",
+          "id": "menu_img",
+          "label": "Image use 175x70 png"
+        }
+      ]
+    },
+    {
+      "type": "menu_blumenzwiebeln",
+      "name": "Menu item blumenzwiebeln",
       "settings": [
         {
           "type": "url",

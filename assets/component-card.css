@@ -235,13 +235,11 @@
   -webkit-box-orient: vertical;
   font-weight: 700;
   color: #000;
+  overflow: hidden;
 }
 
 .card__heading .full-unstyled-link {
-  overflow: hidden;
   max-height: 6rem;
-  width: 100%;
-  text-overflow: ellipsis;
 }
 
 .article-template__reading-time {

@@ -37,6 +37,282 @@
         "related_title": "Lieferungen"
       }
     },
+    "00ab38f1-4be7-479d-aa46-bfb88efeaab1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878440285__00ab38f1-4be7-479d-aa46-bfb88efeaab1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Viele verschiedene Farben und Sorten<\/h2>"
+          }
+        },
+        "template--19733878440285__00ab38f1-4be7-479d-aa46-bfb88efeaab1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien sind beliebte Gartenpflanzen. Es gibt wohl kaum einen Ziergarten, in dem nicht mindestens eine Hortensie wächst. Die üppigen Blüher sind in vielen verschiedenen Sorten und Arten erhältlich. Häufig vertretene Farben sind Rosa, Violett und Blau. Vor allem <a href=\"\/products\/bauernhortensie-blau\" title=\"Bauernhortensie blau\">blaue Bauernhortensien<\/a> erfreuen sich unglaublich großer Beliebtheit. Aber auch <a href=\"\/products\/bauernhortensie-rosa\" title=\"Bauernhortensie rosa\">rosa Bauernhortensien<\/a> sind in zahlreichen heimischen Gärten zu finden. Je nachdem, ob Sie Ihre Hortensie lieber im Beet oder als Kübel- oder Topfpflanze kultivieren möchten, gibt es unterschiedliche Sorten, die sich besser oder weniger gut dafür eignen. Welche Hortensienart am besten zu Ihnen passt, hängt davon ab, welche Farbe Sie bevorzugen und wo die Hortensie gepflanzt werden soll.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878440285__00ab38f1-4be7-479d-aa46-bfb88efeaab1-heading-1",
+        "template--19733878440285__00ab38f1-4be7-479d-aa46-bfb88efeaab1-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "35310fcc-3e30-49a4-8752-62121eaa206a": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Hortensien für Kübel oder Topf",
+        "text_first": "",
+        "product_1": "bauernhortensie-magical-sapphire",
+        "product_2": "bauernhortensie-blau",
+        "product_3": "bauernhortensie-magical-amethyst",
+        "button_text_first": "",
+        "url_first": "",
+        "header_second": "Hortensien fürs Beet",
+        "text_second": "",
+        "product_4": "schneeball-hortensie-annabelle",
+        "product_5": "rispenhortensie-grandiflora",
+        "product_6": "eichenblaettrige-hortensie",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "22d40f15-577c-42bd-9c12-8d70b2fbaacc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878440285__22d40f15-577c-42bd-9c12-8d70b2fbaacc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Die Farbe der Hortensie selbst beeinflussen<\/h2>"
+          }
+        },
+        "template--19733878440285__22d40f15-577c-42bd-9c12-8d70b2fbaacc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie bereits eine üppig blühende Hortensie in Ihrem Garten, aber gefällt Ihnen die Farbe nicht mehr? Dann ist es gut zu wissen, dass man die Blütenfarbe selbst beeinflussen kann. So lässt sich etwa eine rosa Hortensie in ein Exemplar mit leuchtend blauen Blüten verwandeln, oder eine blaue Hortensie in einen Strauch mit romantischen rosa Blüten verzaubern.<\/p>"
+          }
+        },
+        "5961e34f-e26d-48e8-a9fb-1d72a5f78ac9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Blütenfarbe der Hortensie steht also nicht fest. Die Pflanzen verfügen zwar über eine bestimmte „Ausgangsfarbe“, wie sich die Blüten allerdings entwickeln, hängt größtenteils vom Boden ab. Bei niedrigem pH-Wert färben sich die Blüten blau, bei einem neutralen pH-Wert behalten sie ihre Ausgangsfarbe und bei einem hohen pH-Wert ändern sie ihre Farbe in einen rötlich\/rosafarbenen Farbton.<\/p>"
+          }
+        },
+        "4d2ff5d8-261a-4fec-8543-b5ac5608e121": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- pH Wert unter 4,5 = Blau<\/p><p>- pH Wert zwischen 4,5 und 5,5 = Ausgangsfarbe<\/p><p>- pH Wert über 5,5 = Rot\/Rosa<\/p>"
+          }
+        },
+        "b4315757-5959-4440-96e6-fba9a2a89f6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um den pH-Wert Ihres Gartenbodens festzustellen, können Sie ein pH-Messgerät verwenden. Dann wissen Sie sofort, was zu tun ist, um der Hortensie eine andere Farbe zu geben.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878440285__22d40f15-577c-42bd-9c12-8d70b2fbaacc-heading-1",
+        "template--19733878440285__22d40f15-577c-42bd-9c12-8d70b2fbaacc-text-1",
+        "5961e34f-e26d-48e8-a9fb-1d72a5f78ac9",
+        "4d2ff5d8-261a-4fec-8543-b5ac5608e121",
+        "b4315757-5959-4440-96e6-fba9a2a89f6a"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "62346346-ddc1-4710-9cf6-38a2b93b6ad7": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "c8b69957-5526-439e-b0d9-7c68271542aa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rosa-hortensien_037d701c-2f92-49c1-bbb3-580b813a63dc.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "03e543d7-09b9-48e8-a6e9-7e0890c4500b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hortensien-blau.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "c8b69957-5526-439e-b0d9-7c68271542aa",
+        "03e543d7-09b9-48e8-a6e9-7e0890c4500b"
+      ],
+      "settings": {
+      }
+    },
+    "e174c934-6404-4e81-a6e1-302b4b3e0d24": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878440285__e174c934-6404-4e81-a6e1-302b4b3e0d24-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Blaue und rosa Hortensien die Farbe wechseln lassen<\/h2>"
+          }
+        },
+        "template--19733878440285__e174c934-6404-4e81-a6e1-302b4b3e0d24-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie aus einer <a href=\"\/collections\/rosa-hortensien\" title=\"Rosa Hortensien\">rosa Hortensie<\/a> eine blaue machen wollen (oder umgekehrt), müssen Sie den pH-Wert des Bodens ändern. Das ist aber noch nicht alles. Manchmal reicht diese Maßnahme alleine nicht aus. Wir erklären Ihnen Schritt für Schritt, was zu tun ist. Bitte beachten Sie auch, dass die Pflanze ihre Farbe nicht von einem auf den anderen Tag wechselt und auch der Farbton eine wichtige Rolle spielt. Eine hellrosa Hortensie kann niemals dunkelblau werden. Das helle Rosa wird sich mit viel Geduld und den entsprechenden Substraten allmählich in Richtung Hellblau verändern.<\/p>"
+          }
+        },
+        "9971479b-cb11-4084-bdd1-19a2df380dd5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Aus Blau wird Rosa<\/h3>"
+          }
+        },
+        "e72b37b0-0d0d-4af6-8a6f-79fc279e0626": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie eine blaue Hortensie haben, die rosa werden soll, müssen Sie dafür sorgen, dass der Boden weniger sauer wird. Das erreichen Sie relativ einfach dadurch, den Boden mit Kalk anzureichern. Wie viel Kalk Sie hinzufügen müssen, hängt vom pH-Wert des Bodens ab. Die Blüten Ihrer Hortensie werden sich allmählich von Blau über diverse Lilaschattierungen in Rosa verfärben. <\/p>"
+          }
+        },
+        "34005cc1-3e91-4090-97fc-34546fe77d56": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/products\/bauernhortensie-rosa",
+            "image": "shopify:\/\/shop_images\/rosa-hortensien-farben-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "8c80e1ab-77a0-45a7-8cae-2956c31eecb5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Aus Rosa wird Blau<\/h3>"
+          }
+        },
+        "b4f8ba0f-3314-475c-8274-fb1092cacaee": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine rosa Hortensie in eine blaue zu verwandeln, ist schon etwas komplizierter. Nur den pH-Wert zu ändern, reicht da leider nicht aus. Der Boden sollte nämlich nicht nur sauer, sondern auch eisenhaltig sein. Dazu kann die Erde mit Aluminium angereichert werden. Aluminium ist unter anderem in Alaun enthalten, Sie können aber auch einfach ein paar alte Nägel in die Erde stecken. Um die Sache zu vereinfachen, empfehlen wir Ihnen, Compo Blaue Hortensien zu verwenden. Darin ist alles enthalten, was Hortensien blau macht. Der Blaufärber eignet sich übrigens auch dazu, blauen Hortensien ein noch strahlenderes Blau zu verleihen.<\/p>"
+          }
+        },
+        "5eb3f539-223f-4c56-b1a7-9f3ff2855bf8": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/products\/bauernhortensie-blau",
+            "image": "shopify:\/\/shop_images\/hortensien-blau-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "8b56c7ce-46e4-4e27-82b6-de22684053c1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Spezielle Züchtungen, die ihre Farbe wechseln<\/h2>"
+          }
+        },
+        "d21ffea6-eba5-4d62-9856-fb3247c32efc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Neben der pH-Wert-abhängigen Farbveränderung gibt es auch spezielle Züchtungen, die ihre Farbe von selbst ändern, wie etwa die <a href=\"\/products\/bauernhortensie-magical-amethyst\" title=\"Bauernhortensie 'Magical Amethyst'\">Hydrangea macrophylla 'Magical Amethyst'<\/a>. Diese Hortensie wechselt ihre Farbe im Laufe der Blütezeit, die bis zu 6 Monate dauern kann, sogar mehrmals.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878440285__e174c934-6404-4e81-a6e1-302b4b3e0d24-heading-1",
+        "template--19733878440285__e174c934-6404-4e81-a6e1-302b4b3e0d24-text-1",
+        "9971479b-cb11-4084-bdd1-19a2df380dd5",
+        "e72b37b0-0d0d-4af6-8a6f-79fc279e0626",
+        "34005cc1-3e91-4090-97fc-34546fe77d56",
+        "8c80e1ab-77a0-45a7-8cae-2956c31eecb5",
+        "b4f8ba0f-3314-475c-8274-fb1092cacaee",
+        "5eb3f539-223f-4c56-b1a7-9f3ff2855bf8",
+        "8b56c7ce-46e4-4e27-82b6-de22684053c1",
+        "d21ffea6-eba5-4d62-9856-fb3247c32efc"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "d2a18515-720d-47db-849b-4624b1b6c7ff": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "",
+        "text_first": "",
+        "product_1": "bauernhortensie-magical-sapphire",
+        "product_2": "bauernhortensie-magical-noblesse",
+        "product_3": "bauernhortensie-magical-amethyst",
+        "button_text_first": "Langblühende Hortensien",
+        "url_first": "shopify:\/\/collections\/langbluehende-hortensien",
+        "header_second": "",
+        "text_second": "",
+        "product_4": "",
+        "product_5": "",
+        "product_6": "",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "e9a42218-30ad-4687-8f69-aa561e2ef1cb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878440285__e9a42218-30ad-4687-8f69-aa561e2ef1cb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Die Blütenpracht noch länger genießen<\/h2>"
+          }
+        },
+        "template--19733878440285__e9a42218-30ad-4687-8f69-aa561e2ef1cb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Ihre Hortensien den ganzen Sommer ausgiebig geblüht und möchten Sie die bunte Blütenpracht noch länger genießen? Dann ist das Trocknen von Hortensien eine wunderbare Möglichkeit. Getrocknete Hortensien sind ein dekorativer Blickfang in den eigenen vier Wänden. Beim Trocknen kann sich die Farbe allerdings nochmals verändern. Inwieweit, hängt von der Trocknungsmethode ab.<\/p>"
+          }
+        },
+        "964f8b04-56d1-4d54-8a58-7a5da10e4732": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Haben Sie noch Fragen?<\/h2>"
+          }
+        },
+        "4ef5266c-cc1f-4091-b3d5-6959a9235281": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie noch mehr zur Pflege oder zum Ändern der Farbe von Hortensien erfahren möchten, nehmen Sie bitte <a href=\"\/pages\/kontakt\" title=\"Kontakt\">Kontakt<\/a> mit uns auf. Unsere Pflanzenexpert* innen helfen Ihnen gerne weiter! Noch mehr Wissenswertes über Hortensien finden Sie auch in unseren anderen Blogbeiträgen. Hier erfahren Sie beispielsweise mehr zum <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> oder über die verschiedenen Hortensienarten. So können Sie die bunte Blütenpracht noch mehr genießen!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878440285__e9a42218-30ad-4687-8f69-aa561e2ef1cb-heading-1",
+        "template--19733878440285__e9a42218-30ad-4687-8f69-aa561e2ef1cb-text-1",
+        "964f8b04-56d1-4d54-8a58-7a5da10e4732",
+        "4ef5266c-cc1f-4091-b3d5-6959a9235281"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
     "2b18f3dc-069b-4cbd-82b7-aef7abc33f0d": {
       "type": "author",
       "settings": {
@@ -46,6 +322,13 @@
   },
   "order": [
     "main",
+    "00ab38f1-4be7-479d-aa46-bfb88efeaab1",
+    "35310fcc-3e30-49a4-8752-62121eaa206a",
+    "22d40f15-577c-42bd-9c12-8d70b2fbaacc",
+    "62346346-ddc1-4710-9cf6-38a2b93b6ad7",
+    "e174c934-6404-4e81-a6e1-302b4b3e0d24",
+    "d2a18515-720d-47db-849b-4624b1b6c7ff",
+    "e9a42218-30ad-4687-8f69-aa561e2ef1cb",
     "2b18f3dc-069b-4cbd-82b7-aef7abc33f0d"
   ]
 }

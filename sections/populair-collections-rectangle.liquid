@@ -1,0 +1,144 @@
+{{ 'template-collection.css' | asset_url | stylesheet_tag }}
+<link rel="stylesheet" href="{{ 'component-facets.css' | asset_url }}" media="print" onload="this.media='all'">
+<style>
+  .rectangle-text {
+    gap: 6px;
+    align-items: center;
+  }
+  .rectangle-text figure {
+    width: 20px;
+  }
+  .collection_grid_links_sub-tekst {
+    padding: 0 !important;
+  }
+</style>
+{%- if section.settings.mobile_swipe == true -%}
+  <link rel="stylesheet" href="{{ 'component-slider.css' | asset_url }}" media="print" onload="this.media='all'">
+  <style>
+  @media screen and (max-width: 749px) {
+
+    .slider.slider--mobile { 
+      margin-right: -1rem; 
+    }
+    .invert-peek {
+      min-width: 55%;
+    }
+  }
+  </style>
+{%- endif -%}
+<div class="page-width populair-collection">
+  {%- if section.settings.header != blank -%}
+    <h2 class="page-title">{{ section.settings.header}}</h2>
+  {%- endif -%}
+  {%- if section.settings.text != blank -%}
+    <div class="cat-intro">{{ section.settings.text }}</div>
+  {%- endif -%}
+
+  <div class="product-grid-container grid grid--2-col-tablet-down grid--5-col-desktop populair-collection--section {% if section.settings.mobile_swipe == true -%}slider slider--mobile{%- endif -%}">
+    {%- for block in section.blocks -%}
+      {%- case block.type -%}
+        {%- when 'collection_grid_links' -%}
+          <a class="grid__item full-unstyled-link shadow collection_grid_link {% if section.settings.mobile_swipe == true -%}slider__slide invert-peek{%- endif -%}" href="{{ block.settings.url }}">
+            {% if block.settings.image != blank %}
+              {%- render 'format-image',
+                image_obj: block.settings.image,
+                image_alt: block.settings.header,
+                image_sizes_arr: '485x646|244x324',
+                image_aspect: 'img--adapt img--square',
+                image_breakpoints_arr: '320|1000',
+                image_size: "485x646",
+                image_crop: "center"
+              -%}
+            {% else %}
+              <figure class="img--adapt img--square">
+                {{- 'lifestyle-1' | placeholder_svg_tag -}}
+              </figure>
+            {% endif %}
+              {%- if block.settings.header != blank -%}
+                <span class="collection_grid_links_tekst">{{ block.settings.header }}</span>
+              {%- endif -%}
+              {%- if block.settings.sub_header != blank -%}
+                <div class="flex rectangle-text">
+                  <figure>
+                      {%- render 'global-icon',
+                        icon: 'shopping-bag'
+                      -%}
+                  </figure>
+                  <div>
+                    <span class="collection_grid_links_sub-tekst">{{ block.settings.sub_header }}</span>
+                  </div>
+                </div>
+              {%- endif -%}
+
+          </a>
+      {%- endcase -%} 
+    {%- endfor -%}  
+  </div>
+
+</div>
+
+{% schema %}
+{
+  "name": "Populair collection", 
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "header",
+      "label": "Header",
+      "default": "Unsere belieptesten Kategorien"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text"
+    },
+    {
+      "type": "checkbox",
+      "id": "mobile_swipe",
+      "label": "Swipe on mobile",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "collection_grid_links",
+      "name": "Collection grid links",
+      "settings": [
+        {
+          "type": "url",
+          "id": "url",
+          "label": "url"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "use 485x646"
+        },
+        {
+          "type": "text",
+          "id": "header",
+          "label": "Collection header"
+        },
+        {
+          "type": "text",
+          "id": "sub_header",
+          "label": "Collection sub header"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Populair collections rectangle",
+      "blocks": [
+        {
+          "type": "collection_grid_links"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

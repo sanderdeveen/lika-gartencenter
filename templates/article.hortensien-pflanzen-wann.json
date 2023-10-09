@@ -112,6 +112,7 @@
         "ac8a1164-7da4-43db-9459-c9e8644fa38a": {
           "type": "ordered_list",
           "settings": {
+            "fat_number": true,
             "ordered_list": "<p>- Graben Sie ein Pflanzloch, das etwa zwei bis dreimal so groß ist wie der Wurzelballen.*<\/p><p>- Füllen Sie das Pflanzloch etwa zur Hälfte mit <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">Hortensienerde<\/a> auf.*<\/p><p>- Mischen Sie die Hortensienerde mit der ausgehobenen Erde?*<\/p><p>- Tauchen Sie den Wurzelballen der Hortensie in einen Eimer Wasser, damit er sich vollsaugen kann.*<\/p><p>- Setzen Sie die Hortensie in das Pflanzloch.*<\/p><p>- Füllen Sie das restliche Pflanzloch mit Hortensienerde auf und treten Sie die Erde fest.*<\/p><p>- Gießen Sie die Hortensie in der Anfangszeit jeden Tag, damit die Pflanze richtig einwurzeln kann.*<\/p>"
           }
         },
@@ -130,6 +131,7 @@
         "e8cd7ab2-e0eb-4517-a629-2a8d04c28679": {
           "type": "ordered_list",
           "settings": {
+            "fat_number": true,
             "ordered_list": "<p>- Wählen Sie ein Pflanzgefäß, das wesentlich größer als der Wurzelballen der Hortensie ist. Da die Wurzeln der Hortensie sehr schnell wachsen, darf der Topf auf keinen Fall zu klein sein.*<\/p><p>-Füllen Sie eine Schicht <a href=\"\/products\/compo-bio-granuplant-drainage-und-pflanzgranulat\" title=\"COMPO BIO GRANUPLANT Drainage- und Pflanzgranulat\">Compo Drainage und Pflanzgranulat<\/a> ins Pflanzgefäß, um Staunässe zu verhindern.*<\/p><p>- Füllen Sie das Pflanzgefäß zu 2\/3 mit Hortensienerde auf.*<\/p><p>-Tauchen Sie den Wurzelballen der Hortensie in einen Eimer Wasser, damit er sich vollsaugen kann.*<\/p><p>-Setzen Sie die Hortensie in den Topf. Füllen Sie den Topf mit Hortensienerde auf und drücken Sie die Erde rundum fest.*<\/p><p>-Gießen Sie die Hortensie in der Anfangszeit jeden Tag, damit die Pflanze richtig einwurzeln kann.*<\/p>"
           }
         },
@@ -148,7 +150,7 @@
         "b30a338f-e6bd-4916-9b97-6218c0da4c79": {
           "type": "text",
           "settings": {
-            "text": "<p>Es ist soweit! Ihre Hortensie ist eingesetzt und Sie können schon bald die üppige Blütenpracht in Ihrem Garten, auf Ihrer Terrasse oder Ihrem Balkon genießen. Aber das ist noch lange kein Grund, die Füße hochzulegen. Hortensien müssen nämlich (wie alle Pflanzen) richtig gepflegt werden, damit sie optimal gedeihen können. Ausgiebiges Wässern nach dem Pflanzen, regelmäßiges Gießen und zweimal im Jahr düngen sind die Grundvoraussetzungen für eine gesunde, üppig blühende Hortensie. In unserem Blogbeitrag über <a href=\"\/blogs\/ratgeber\/hortensienpflege-dungen-giessen-krankheiten\" title=\"Hortensienpflege: Düngen, Gießen, Krankheiten\">Hortensien-Pflege<\/a> erfahren Sie mehr zur richtigen Pflege von Hortensien.<\/p><p>Aber auch das Zurückschneiden ist wichtig. Denn, wie und wann schneidet man Hortensien im Topf oder im Beet eigentlich zurück? Die Art und Weise des Rückschnitts hängt von der jeweiligen Hortensiensorte ab. In unserem Blogartikel zum <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> erfahren Sie mehr über die verschiedenen Schnittgruppen und den besten Schnittzeitpunkt.<\/p>"
+            "text": "<p>Es ist soweit! Ihre Hortensie ist eingesetzt und Sie können schon bald die üppige Blütenpracht in Ihrem Garten, auf Ihrer Terrasse oder Ihrem Balkon genießen. Aber das ist noch lange kein Grund, die Füße hochzulegen. Hortensien müssen nämlich (wie alle Pflanzen) richtig gepflegt werden, damit sie optimal gedeihen können. Ausgiebiges Wässern nach dem Pflanzen, <strong>regelmäßiges Gießen<\/strong> und zweimal im Jahr düngen sind die Grundvoraussetzungen für eine gesunde, üppig blühende Hortensie. In unserem Blogbeitrag über <a href=\"\/blogs\/ratgeber\/hortensienpflege-dungen-giessen-krankheiten\" title=\"Hortensienpflege: Düngen, Gießen, Krankheiten\">Hortensien-Pflege<\/a> erfahren Sie mehr zur richtigen Pflege von Hortensien.<\/p><p>Aber auch das Zurückschneiden ist wichtig. Denn, <strong>wie und wann schneidet man Hortensien im Topf<\/strong> oder im Beet eigentlich zurück? Die Art und Weise des Rückschnitts hängt von der jeweiligen Hortensiensorte ab. In unserem Blogartikel zum <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> erfahren Sie mehr über die verschiedenen Schnittgruppen und den besten Schnittzeitpunkt.<\/p>"
           }
         },
         "ba84d784-b196-430e-8805-4eef623082af": {
@@ -199,12 +201,93 @@
           "settings": {
             "url": "shopify:\/\/collections\/hortensien",
             "image": "shopify:\/\/shop_images\/langbluehende-hortensien.jpg",
-            "collection_name": ""
+            "collection_name": "Hortensien"
+          }
+        },
+        "8f09c382-535f-4266-8656-eab4d45c3700": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/bauernhortensien",
+            "image": "shopify:\/\/shop_images\/bauern-hortensie-rot-blume.jpg",
+            "collection_name": "Bauernhortensien"
+          }
+        },
+        "1ec454ff-0160-43b4-985c-ef7921280974": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/schneeballhortensien",
+            "image": "shopify:\/\/shop_images\/schneeball-hortensie-annabelle-blume-weiss.jpg",
+            "collection_name": "Schneeballhortensien"
+          }
+        },
+        "6cf48267-2e3c-4eb3-8e56-c8c1f69586ed": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/rispenhortensien",
+            "image": "shopify:\/\/shop_images\/rispenhortensie-grandiflora-blume.jpg",
+            "collection_name": "Rispenhortensien"
+          }
+        },
+        "2a3faf0f-6488-43d8-a12c-d8c267a4744b": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/kletterhortensien",
+            "image": "shopify:\/\/shop_images\/kletterhortensie-petiolaris-blatt.jpg",
+            "collection_name": "Kletterhortensien"
+          }
+        },
+        "11471c12-e964-47a9-8fc4-e3336b3cf2b6": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/weisse-hortensien",
+            "image": "shopify:\/\/shop_images\/weisse-hortensien.jpg",
+            "collection_name": "Weiße Hortensien"
+          }
+        },
+        "ea493fee-cfd0-4d40-8fde-fc4ec4a86a08": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/rosa-hortensien",
+            "image": "shopify:\/\/shop_images\/rosa-hortensien.jpg",
+            "collection_name": "Rosa Hortensien"
+          }
+        },
+        "898c8b73-6f20-4a57-afcb-d2e75b738503": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/magical-hortensien",
+            "image": "shopify:\/\/shop_images\/magical-hortensien.jpg",
+            "collection_name": "Magical-Hortensien"
+          }
+        },
+        "0bb0e91b-5b84-4fd3-a946-0935592eb181": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/langbluehende-hortensien",
+            "image": "shopify:\/\/shop_images\/langbluehende-hortensien.jpg",
+            "collection_name": "Langblühende Hortensien"
+          }
+        },
+        "7debce8c-468d-4b1b-905c-31a89d400300": {
+          "type": "collection",
+          "settings": {
+            "url": "shopify:\/\/collections\/hortensien-fuer-sonnige-standorte",
+            "image": "shopify:\/\/shop_images\/hortensien-fuer-sonnige-standorte.jpg",
+            "collection_name": "Hortensien für sonnige Standorte"
           }
         }
       },
       "block_order": [
-        "228f6fb8-362a-40c0-b617-d49960f30beb"
+        "228f6fb8-362a-40c0-b617-d49960f30beb",
+        "8f09c382-535f-4266-8656-eab4d45c3700",
+        "1ec454ff-0160-43b4-985c-ef7921280974",
+        "6cf48267-2e3c-4eb3-8e56-c8c1f69586ed",
+        "2a3faf0f-6488-43d8-a12c-d8c267a4744b",
+        "11471c12-e964-47a9-8fc4-e3336b3cf2b6",
+        "ea493fee-cfd0-4d40-8fde-fc4ec4a86a08",
+        "898c8b73-6f20-4a57-afcb-d2e75b738503",
+        "0bb0e91b-5b84-4fd3-a946-0935592eb181",
+        "7debce8c-468d-4b1b-905c-31a89d400300"
       ],
       "settings": {
         "heading": "Möchten Sie neue Hortensien pflanzen? Sehen Sie sich unser gesamtes hortensie asortiment an:",
@@ -215,7 +298,7 @@
     "f802cd27-2e2d-4e81-bcf4-c9450b65164f": {
       "type": "author",
       "settings": {
-        "author": "lika"
+        "author": "pim"
       }
     }
   },

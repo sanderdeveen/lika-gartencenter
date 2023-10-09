@@ -101,11 +101,11 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": true,
-        "top_sellers": "",
-        "featured_product_one": "",
-        "featured_product_two": "",
-        "featured_product_three": "",
+        "show_collection_image": false,
+        "top_sellers": "Topseller Blumenzwiebeln",
+        "featured_product_one": "blumenzwiebeln-tasche-bulb-garden-allium-mischung-80-stueck",
+        "featured_product_two": "blumenzwiebeln-box-sweets-for-insects-mischung-50-stueck",
+        "featured_product_three": "triumph-tulpen-mischung-netlon-paket-50-stueck",
         "color_scheme": "background-1"
       }
     },

@@ -34,10 +34,270 @@
         "content"
       ],
       "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "d7846bb5-b786-4c1f-b64b-1ac29a65f8ee": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878210909__d7846bb5-b786-4c1f-b64b-1ac29a65f8ee-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche Hortensienarten eignen sich zum Trocknen?<\/h2>"
+          }
+        },
+        "template--19733878210909__d7846bb5-b786-4c1f-b64b-1ac29a65f8ee-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grundsätzlich eignen sich alle Hortensienarten zum Trocknen. Am Häufigsten sieht man jedoch getrocknete <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensien<\/a>. Diese Hortensienart eignet sich aufgrund ihrer Farbvielfalt besonders gut als farbenfrohe Deko in der Vase. Möchten Sie lieber einen gemischten Strauß? Getrocknete <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensien<\/a> sorgen für Abwechslung und verleihen dem Ganzen eine besonders attraktive Note. Aber auch <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensien<\/a> können wunderbar getrocknet werden. Die großen, weißen Kugeln sind auch in getrocknetem Zustand ein echter Hingucker.<\/p>"
+          }
+        },
+        "7b564cc9-f3d0-4725-9b56-e05438be09a2": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/hortensien-trocknen-schritt-fuer-schritt.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "ed9cb60c-0119-422b-9dd3-feb73845cd35": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann schneidet man Hortensien zum Trocknen?<\/h2>"
+          }
+        },
+        "fe144ce6-8d00-459c-8c5d-4f27b2ee333e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zum Trocknen braucht man natürlich schöne große Blütenstände. Obwohl es vielleicht logisch erscheinen mag, ist es keine gute Idee, damit bis zum <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Rückschnitt der Hortensie<\/a> zu warten, da man Hortensien im Allgemeinen ja erst nach dem Winter zurückschneidet. Wenn man Blüten trocknen möchte, schneidet man sie am besten im Spätsommer oder Herbst. Aber lassen sie die anderen Blüten bis zum Frühjahr stehen, da sie die Pflanze vor eventuellen Frostschäden schützen und dafür sorgen, dass sie im nächsten Jahr wieder in voller Blütenpracht erstrahlt.<\/p><p>Schneiden Sie die Blüten, die getrocknet werden sollen, im <strong>September oder Oktober<\/strong> ab. Prüfen Sie, ob sich die Blüten zum Trocknen eignen. Vertrocknete, braune Blüten sind nicht geeignet und können am Strauch bleiben. Intakte Blüten mit schöner Färbung können näher untersucht werden. Dazu fühlt und hört man an der Blüte. Die Blütenblätter müssen sich fest und hart anfühlen, auch die innersten. Außerdem sollte ein leichtes Knistern zu hören sein, wenn man die Blütenblätter vorsichtig zusammendrückt. Wenn Sie kein Knistern hören, ist die Blüte noch zu frisch.<\/p><p>Wenn man die perfekten Blüten gefunden hat, sollten sie an einem trockenen, sonnigen Tag geschnitten werden. Schneiden Sie die Blüten nicht frühmorgens oder abends, sondern am besten am Vormittag oder frühen Nachmittag, wenn die Luftfeuchtigkeit am geringsten ist.<\/p>"
+          }
+        },
+        "0b217147-9ca8-4908-86be-ab7ea8666ef6": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/products\/bauernhortensie-blau",
+            "image": "shopify:\/\/shop_images\/blau-hortensie-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "b97c4f8b-419b-47ac-8cf4-503797c00c8b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wie trocknet man Hortensienblüten?<\/h2>"
+          }
+        },
+        "0b2e1292-299f-479d-8f88-e5f8db45dc4d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie die geeigneten Blüten abgeschnitten haben, wird es Zeit, sie zu trocknen. Dazu gibt es mehrere Möglichkeiten. Für alle Methoden gilt jedoch, dass die Blätter abgeschnitten werden sollten, da die Blüten dann am schönsten trocknen.<\/p>"
+          }
+        },
+        "76fd738b-c21b-4d2c-b185-f31c02710db5": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Hortensien in der Vase trocknen<\/h3>"
+          }
+        },
+        "1c59aefd-09bd-4201-a92c-27d1cce99588": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die einfachste Methode ist, die Hortensienblüten mit wenig Wasser in der Vase trocknen zu lassen. Stellen Sie die abgeschnittenen Hortensien in ein Gefäß, das circa zwei bis drei Zentimeter mit Wasser gefüllt ist und platzieren Sie es an einem kühlen, dunklen Ort. Durch das Wasser trocknen die Hortensien ganz langsam und behalten dabei größtenteils ihre ursprüngliche Farbe. Diese Art der Trocknung gelingt ohne viel Aufwand, dauert aber eine gewisse Zeit.<\/p>"
+          }
+        },
+        "95d2b5b9-88f3-4e94-b0f1-c559dc46c4ed": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Hortensien hängend trocknen<\/h3>"
+          }
+        },
+        "d2af8cc5-7602-45b2-83de-9bfce104a94d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie nicht so lange warten möchten, können Sie Ihre Hortensien auch zum Trocknen aufhängen. Binden Sie eine Schnur um die Stängel und hängen Sie die einzelnen Blütenstände kopfüber an einem warmen Ort auf. Hängen Sie die Blüten nicht über die Heizung oder in die Sonne, da sie sonst schneller ihre Farbe verlieren. In der warmen Luft verdunstet die Feuchtigkeit sehr schnell, und die dekorativen Blütenbälle sind schon nach <strong>etwa 48 Stunden<\/strong> zur weiteren Verwendung bereit. Bei hoher Luftfeuchtigkeit kann sich die Trockenzeit etwas verlängern.<\/p>"
+          }
+        },
+        "02ec9b8f-36b4-4649-aa75-65401afa4580": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/hortensien-trocknen-in-der-vase.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "5c2664aa-03f9-40df-98ef-70203963a7cd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Sand, Katzenstreu oder Silica-Gel<\/h3>"
+          }
+        },
+        "87de0fd3-d5a9-40e8-9d50-57bc4542056a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die ersten beiden Methoden sind die einfachsten, weil man dazu nichts benötigt, was nicht ohnehin in jedem Haushalt vorhanden ist. Das Trocknen mit Sand, Katzenstreu oder Silica-Gel ist vielleicht etwas aufwendiger, aber die beste Konservierungsmethode, bei der die natürlichen Farben der Hortensienblüten noch besser erhalten bleiben.<\/p><p>Schneiden Sie die Blütenstängel so kurz wie möglich ab. Legen Sie je eine Blüte in einen mit Sand, Katzenstreu oder Silica-Gel gefüllten, luftdicht verschließbaren Behälter. Füllen Sie den Behälter vorsichtig mit demselben Material auf und verschließen Sie ihn. Nach ungefähr einer Woche können die getrockneten Hortensien aus dem Behälter genommen werden. Die Blüten sind dann perfekt getrocknet, ohne ihre ursprüngliche Farbe verloren zu haben.<\/p>"
+          }
+        },
+        "df998463-e108-47de-8b59-1a5c1d40d124": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Nicht trocknen, sondern mit Glycerin haltbar machen<\/h3>"
+          }
+        },
+        "712c8005-b4cf-4c54-9758-e1b2d7bc45fb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien können nicht nur durch Trocknen konserviert werden, man kann sie auch in eine Lösung aus Wasser und Glycerin legen, um die Farbe und Textur der Blüten optimal zu erhalten. Mischen Sie lauwarmes Wasser und Glycerin im Verhältnis 2:1. Schneiden Sie die Blütenstängel schräg an und stellen Sie sie solange in das Glycerinwasser, bis sich die Blütenblätter weich und geschmeidig anfühlen. Die Hortensienblüten sind jetzt optimal konserviert und jahrelang haltbar. Bei dieser Methode verfärben sich die Blütenblätter nur leicht, was für einen besonders schönen Effekt sorgt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878210909__d7846bb5-b786-4c1f-b64b-1ac29a65f8ee-heading-1",
+        "template--19733878210909__d7846bb5-b786-4c1f-b64b-1ac29a65f8ee-text-1",
+        "7b564cc9-f3d0-4725-9b56-e05438be09a2",
+        "ed9cb60c-0119-422b-9dd3-feb73845cd35",
+        "fe144ce6-8d00-459c-8c5d-4f27b2ee333e",
+        "0b217147-9ca8-4908-86be-ab7ea8666ef6",
+        "b97c4f8b-419b-47ac-8cf4-503797c00c8b",
+        "0b2e1292-299f-479d-8f88-e5f8db45dc4d",
+        "76fd738b-c21b-4d2c-b185-f31c02710db5",
+        "1c59aefd-09bd-4201-a92c-27d1cce99588",
+        "95d2b5b9-88f3-4e94-b0f1-c559dc46c4ed",
+        "d2af8cc5-7602-45b2-83de-9bfce104a94d",
+        "02ec9b8f-36b4-4649-aa75-65401afa4580",
+        "5c2664aa-03f9-40df-98ef-70203963a7cd",
+        "87de0fd3-d5a9-40e8-9d50-57bc4542056a",
+        "df998463-e108-47de-8b59-1a5c1d40d124",
+        "712c8005-b4cf-4c54-9758-e1b2d7bc45fb"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "932e9d4e-7da6-4143-aa6a-8f539ce0b7fc": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--19733878210909__932e9d4e-7da6-4143-aa6a-8f539ce0b7fc-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Beste Qualität aus Holland"
+          }
+        },
+        "template--19733878210909__932e9d4e-7da6-4143-aa6a-8f539ce0b7fc-product_selection-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-blau",
+            "enable_quick_add": true
+          }
+        },
+        "ad7fa8dc-75f4-4e10-ac6c-c6c48450101f": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schonend verpackt"
+          }
+        },
+        "1ee8a919-88a6-4c5a-b648-1e77c38e3077": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-weiss",
+            "enable_quick_add": true
+          }
+        },
+        "6563308a-ed6d-44ad-b666-dc2eb5fb18a1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "73a988a7-e138-423c-8341-6de4db51f60d": {
+          "type": "product_selection",
+          "settings": {
+            "product": "bauernhortensie-rosa",
+            "enable_quick_add": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878210909__932e9d4e-7da6-4143-aa6a-8f539ce0b7fc-usp-1",
+        "template--19733878210909__932e9d4e-7da6-4143-aa6a-8f539ce0b7fc-product_selection-1",
+        "ad7fa8dc-75f4-4e10-ac6c-c6c48450101f",
+        "1ee8a919-88a6-4c5a-b648-1e77c38e3077",
+        "6563308a-ed6d-44ad-b666-dc2eb5fb18a1",
+        "73a988a7-e138-423c-8341-6de4db51f60d"
+      ],
+      "settings": {
+        "heading": "DIE SCHÖNSTEN HORTENSIEN ZUM TROCKNEN",
+        "text": ""
+      }
+    },
+    "710a3557-7e74-4489-bc01-b1caade30031": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878210909__710a3557-7e74-4489-bc01-b1caade30031-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Hortensien nach dem Trocknen färben<\/h2>"
+          }
+        },
+        "template--19733878210909__710a3557-7e74-4489-bc01-b1caade30031-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um getrockneten Hortensien eine intensivere Farbe zu verleihen, können sie nach dem Trocknen eingefärbt werden. Dazu eignen sich vor allem helle Hortensien mit weißen oder hellrosa Blütenblättern. Bei dieser Methode werden die getrockneten Hortensienblüten in stark verdünnte Textilfarbe getaucht und danach kopfüber zum Trocknen aufgehängt. Obwohl die Farbintensität durch das Trocknen etwas nachlässt, erhalten Sie auf diese Weise wunderschön gefärbte Hortensien.<\/p>"
+          }
+        },
+        "3daf9059-491a-4f56-9464-b293e9b512a7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Hortensien trocknen: Schritt-für-Schritt-Anleitung<\/h2>"
+          }
+        },
+        "90b3db47-4937-485d-92cc-080161ce6a71": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>-Warten Sie den richtigen Moment ab, um die Blüten abzuschneiden. Die besten Monate sind September und Oktober.*<\/p><p>-Scheiden Sie die schönsten Blüten ab, sobald sie „leicht knistern“. Entfernen Sie die Blätter von den Stielen.*<\/p><p>-Füllen Sie eine Vase etwa 2 bis 3 cm hoch mit Wasser und stellen Sie die Hortensien hinein. Oder wählen Sie eine der anderen Methoden zum Trocknen von Hortensien.*<\/p><p>-Warten Sie, bis die Blüten von selbst vertrocknet sind. Dieser Vorgang kann je nach Luftfeuchtigkeit einige Wochen dauern.*<\/p><p>-Viel Freude an Ihren selbst getrockneten Hortensienblüten!*<\/p>"
+          }
+        },
+        "d9f50248-1885-4d17-a57d-4abdcb53f9e0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Noch Fragen? Wir helfen Ihnen gerne weiter!<\/h2>"
+          }
+        },
+        "312947cb-ca8f-4c78-afc1-de077e248016": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie noch Fragen zum Trocknen von Hortensien oder können wir Ihnen mit anderen Pflanzentipps behilflich sein? Nehmen Sie bitte <a href=\"\/pages\/contact\" title=\"Contact\">Kontakt<\/a> mit uns auf! Wir stehen Ihnen jederzeit gerne mit Rat und Tat zur Seite, um Ihre Gartenträume Wirklichkeit werden zu lassen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878210909__710a3557-7e74-4489-bc01-b1caade30031-heading-1",
+        "template--19733878210909__710a3557-7e74-4489-bc01-b1caade30031-text-1",
+        "3daf9059-491a-4f56-9464-b293e9b512a7",
+        "90b3db47-4937-485d-92cc-080161ce6a71",
+        "d9f50248-1885-4d17-a57d-4abdcb53f9e0",
+        "312947cb-ca8f-4c78-afc1-de077e248016"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "a6746afc-8047-4872-8877-097cfb626d31": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "d7846bb5-b786-4c1f-b64b-1ac29a65f8ee",
+    "932e9d4e-7da6-4143-aa6a-8f539ce0b7fc",
+    "710a3557-7e74-4489-bc01-b1caade30031",
+    "a6746afc-8047-4872-8877-097cfb626d31"
   ]
 }

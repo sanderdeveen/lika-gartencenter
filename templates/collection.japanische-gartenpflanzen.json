@@ -76,6 +76,18 @@
     },
     "16636997769ffcaf8a": {
       "type": "breadcrumbs",
+      "blocks": {
+        "ffedf915-80c1-487f-8e29-795f5a71700b": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "ffedf915-80c1-487f-8e29-795f5a71700b"
+      ],
       "settings": {
         "menu": "main-menu",
         "show_home_link": true,

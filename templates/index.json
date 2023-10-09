@@ -159,6 +159,14 @@
     "24506853-e956-4826-b2be-b7be1e988bb3": {
       "type": "populair-collections",
       "blocks": {
+        "ff7ba78a-0ca0-4913-b9c6-fc2527773af4": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/blumenzwiebeln",
+            "image": "shopify:\/\/shop_images\/blumenzwiebeln.jpg",
+            "header": "Blumenzwiebeln"
+          }
+        },
         "87d76ac2-3211-4d62-a9b8-cdff763b7aa3": {
           "type": "collection_grid_links",
           "settings": {
@@ -273,6 +281,7 @@
         }
       },
       "block_order": [
+        "ff7ba78a-0ca0-4913-b9c6-fc2527773af4",
         "87d76ac2-3211-4d62-a9b8-cdff763b7aa3",
         "f9ca82ab-e92c-4402-bcde-1b2f1286cc8d",
         "88ebd6a8-393a-4b57-9d28-f4807d05d035",

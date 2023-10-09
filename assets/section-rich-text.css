@@ -330,7 +330,7 @@
 .rich-text__orderedlist-fat {
   list-style: none;
   counter-reset: item;
-  padding-left: 6px;
+  padding-left: 16px;
 }
 
 .rich-text__orderedlist-fat li {
@@ -343,11 +343,13 @@
 }
 
 .rich-text__orderedlist-fat li::before {
-  content: counter(item);
+  display: flex;
+  content: counter(item) ".";
   font-weight: 700;
   text-align: center;
   display: inline-block;
   font-size: 24px;
+  min-width: 25px;
 }
 
 .rich-text__unorderedlist {

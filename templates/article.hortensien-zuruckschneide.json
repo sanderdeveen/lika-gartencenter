@@ -34,6 +34,7 @@
         "content"
       ],
       "settings": {
+        "related_title": "Lieferungen"
       }
     },
     "7f1a002a-7b6a-4960-82ad-16ecf05a665f": {
@@ -66,7 +67,7 @@
         "36496251-4d00-4267-9b0a-57488d2f3daf": {
           "type": "text",
           "settings": {
-            "text": "<p>Die meisten Hortensienarten blühen an alten Trieben, dem sogenannten <strong>mehrjährigen Holz<\/strong>. Das bedeutet, dass sich die Blüten an den alten Trieben aus dem Vorjahr bilden. Es gibt aber auch Hortensien, die an neuen Trieben, also am <strong>einjährigen Holz<\/strong>, blühen. Das bedeutet, dass sich die Blüten an den diesjährigen Trieben bilden.<\/p>"
+            "text": "<p>Die meisten Hortensienarten blühen an <strong>alten Trieben<\/strong>, dem sogenannten <strong>mehrjährigen Holz<\/strong>. Das bedeutet, dass sich die Blüten an den alten Trieben aus dem Vorjahr bilden. Es gibt aber auch Hortensien, die an <strong>neuen Trieben<\/strong>, also am <strong>einjährigen Holz<\/strong>, blühen. Das bedeutet, dass sich die Blüten an den diesjährigen Trieben bilden.<\/p>"
           }
         },
         "14ce2c6b-9cda-444a-a418-89d2b0dcb126": {
@@ -139,17 +140,17 @@
         "4907dcbf-3b59-42be-aaf2-2dffc2c73081": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bauernhortensie-in-der-winter.jpg",
-            "text": "",
-            "url": ""
+            "image": "shopify:\/\/shop_images\/hortensien-nicht-zurueckgeschnittene-bauernhortensien.jpg",
+            "text": "Bauernhortensien im Winter",
+            "url": "shopify:\/\/collections\/bauernhortensien"
           }
         },
         "cf16e235-cea0-42ff-926a-4675a24738cf": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bauernhortensie-im-sommer-weiss.jpg",
-            "text": "",
-            "url": ""
+            "image": "shopify:\/\/shop_images\/bauernhortensien-im-sommer-zurueckschitt.jpg",
+            "text": "Bauernhortensien im Sommer",
+            "url": "shopify:\/\/collections\/bauernhortensien"
           }
         }
       },
@@ -184,17 +185,17 @@
         "72b2f6e3-ceeb-4ecf-b8f9-0ff42f2b20b2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/schneeballhortensie-und-rispenhortensie-im-winter.jpg",
-            "text": "",
-            "url": ""
+            "image": "shopify:\/\/shop_images\/schneeball-und-ripsen-hortensien-zurueckschnitt.jpg",
+            "text": "Rispenhortensien im Winter",
+            "url": "shopify:\/\/collections\/rispenhortensien"
           }
         },
         "52b93147-7188-49a5-a2e0-bb7fff8a34dd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/schneeballhortensie-und-rispenhortensie-im-sommer.jpg",
-            "text": "",
-            "url": ""
+            "image": "shopify:\/\/shop_images\/schneeball-hortensien-im-sommer.jpg",
+            "text": "Schneeballhortensien im Sommer",
+            "url": "shopify:\/\/collections\/schneeballhortensien"
           }
         }
       },
@@ -229,30 +230,14 @@
         "16a2b190-3e07-4463-a915-e1817d54ea3d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/zuruckgeschittene-hortensien-bauerenhortensien.jpg",
-            "text": "",
-            "url": ""
+            "image": "shopify:\/\/shop_images\/zurueckgeschnittene-bauernhortensie.jpg",
+            "text": "Zurückgeschnittene Bauernhortensie",
+            "url": "shopify:\/\/collections\/bauernhortensien"
           }
         },
-        "6fcd4780-96d6-4694-9276-77d5208c6989": {
+        "c87b3fdf-af49-421b-b70d-46baa78c024c": {
           "type": "image",
           "settings": {
-            "text": "",
-            "url": ""
-          }
-        },
-        "7ccd4dd2-d553-451d-a03c-b6d552b2ea9a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/zurueckgeschnittene-rispenhortensien.jpg",
-            "text": "",
-            "url": ""
-          }
-        },
-        "9f5f36fb-11d3-48d5-9a6e-d9a74a5d1963": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/zurueckgeschnittene-schneeballhortensie-neu.jpg",
             "text": "",
             "url": ""
           }
@@ -260,9 +245,34 @@
       },
       "block_order": [
         "16a2b190-3e07-4463-a915-e1817d54ea3d",
-        "6fcd4780-96d6-4694-9276-77d5208c6989",
-        "7ccd4dd2-d553-451d-a03c-b6d552b2ea9a",
-        "9f5f36fb-11d3-48d5-9a6e-d9a74a5d1963"
+        "c87b3fdf-af49-421b-b70d-46baa78c024c"
+      ],
+      "settings": {
+      }
+    },
+    "fe5b7310-5585-461b-be36-cdeb9eb85436": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "bf274735-fe90-4c86-9a60-6859c5292bc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zurueckgeschnittene-schneebalhortensie.jpg",
+            "text": "Zurückgeschnittene Schneeballhortensie",
+            "url": "shopify:\/\/collections\/schneeballhortensien"
+          }
+        },
+        "1941d9c1-aa1e-46aa-83e3-732d95631ca6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rispenhortensie-zurueckgeschnitt.jpg",
+            "text": "Zurückgeschnittene Rispenhortensie",
+            "url": "shopify:\/\/collections\/rispenhortensien"
+          }
+        }
+      },
+      "block_order": [
+        "bf274735-fe90-4c86-9a60-6859c5292bc6",
+        "1941d9c1-aa1e-46aa-83e3-732d95631ca6"
       ],
       "settings": {
       }
@@ -279,7 +289,7 @@
         "template--15922757337268__da937ebf-2b17-45a3-a15b-e265f04653e5-1675940708332a6e8c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Der beste Zeitpunkt zum Zurückschneiden von Hortensien ist <strong>nach dem Winter bzw. im frühen Frühjahr (März\/April)<\/strong>. Behalten Sie dabei die Wettervorhersage im Auge, denn nach dem Rückschnitt sollte es nicht mehr frieren, da die Schnittstellen frostempfindlich sind. Der Rückschnitt sollte daher erst nach dem letzten Nachtfrost erfolgen. <\/p>"
+            "text": "<p>Der beste Zeitpunkt zum Zurückschneiden von Hortensien ist <strong>nach dem Winter bzw. im frühen Frühjahr (März\/April)<\/strong>. Behalten Sie dabei die Wettervorhersage im Auge, denn nach dem Rückschnitt sollte es nicht mehr frieren, da die Schnittstellen frostempfindlich sind. Der Rückschnitt sollte daher erst <strong>nach dem letzten Nachtfrost<\/strong> erfolgen. <\/p>"
           }
         },
         "cb6b5a94-400f-4294-b6fc-3f45a1de5f60": {
@@ -369,7 +379,7 @@
         "ebba5c27-e225-47c3-80a0-21727213117a": {
           "type": "text",
           "settings": {
-            "text": "<p>Möchten Sie Ihre Hortensie radikal zurückschneiden, weil sie zu groß geworden ist? Schneiden Sie etwa die Hälfte der alten Triebe bis auf 10 cm über der Strauchbasis zurück, und im nächsten Jahr die andere Hälfte. An den zurückgeschnittenen Trieben bilden sich im selben Jahr keine Blüten mehr. An den neuen Trieben bilden sich erst im nächsten Jahr wieder Blüten. Im darauffolgenden Jahr schneiden Sie dann die andere Hälfte der Zweige zurück.<\/p>"
+            "text": "<p>Möchten Sie Ihre Hortensie radikal zurückschneiden, weil sie zu groß geworden ist? Schneiden Sie etwa die Hälfte der alten Triebe bis auf 10 cm über der Strauchbasis zurück, und im nächsten Jahr die andere Hälfte. An den <strong>zurückgeschnittenen Trieben bilden sich im selben Jahr keine Blüten<\/strong> mehr. An den neuen Trieben bilden sich erst im nächsten Jahr wieder Blüten. Im darauffolgenden Jahr schneiden Sie dann die andere Hälfte der Zweige zurück.<\/p>"
           }
         },
         "261fa446-3794-4f28-918d-eece94b8a86f": {
@@ -402,7 +412,7 @@
         "10644068-d458-4a83-ba90-e97753eb3f94": {
           "type": "unordered_list",
           "settings": {
-            "unordered_list": "<p>- Verwenden Sie zum Zurückschneiden Ihrer Hortensie eine Gardena Comfort Gartenschere*<\/p><p>- Düngen Sie Ihre Hortensie nach dem Rückschnitt mit Hortensiendünger, damit sie ihre volle Blütenpracht entfalten kann*<\/p>"
+            "unordered_list": "<p>- Verwenden Sie zum Zurückschneiden Ihrer Hortensie eine Gartenschere*<\/p><p>- Düngen Sie Ihre Hortensie nach dem Rückschnitt mit <a href=\"\/products\/compo-bio-rhododendron-und-hortensien-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle\">Hortensiendünger<\/a>, damit sie ihre volle Blütenpracht entfalten kann*<\/p>"
           }
         },
         "142418f0-5170-4b28-a324-83a51186f716": {
@@ -467,7 +477,7 @@
       ],
       "settings": {
         "padding_top": 12,
-        "padding_bottom": 12
+        "padding_bottom": 0
       }
     },
     "5df52d8a-e2db-4b1c-a107-99db41f0a6a5": {
@@ -505,7 +515,7 @@
           "settings": {
             "heading": "Welche Pflege benötigen Hortensien?",
             "custom_liquid_1": "",
-            "content": "<p>Hortensien sind relativ pflegeleichte Pflanzen. Wie wichtig das Zurückschneiden ist, wurde in diesem Artikel bereits ausführlich behandelt. Zudem sollten Hortensien zweimal pro Jahr mit Compo Rhodo- und Hortensien Vital gedüngt werden. Und schließlich können blaue Hortensien zusätzlich dazu mit Compo Blaue Hortensien gedüngt werden, damit sie ihre schöne blaue Farbe behalten.<\/p>",
+            "content": "<p>Hortensien sind relativ pflegeleichte Pflanzen. Wie wichtig das Zurückschneiden ist, wurde in diesem Artikel bereits ausführlich behandelt. Zudem sollten Hortensien zweimal pro Jahr mit <a href=\"\/products\/compo-bio-rhododendron-und-hortensien-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle\">COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle<\/a> gedüngt werden. Und schließlich können blaue Hortensien zusätzlich dazu mit Compo Blaue Hortensien gedüngt werden, damit sie ihre schöne blaue Farbe behalten.<\/p>",
             "custom_liquid_2": ""
           }
         }
@@ -526,7 +536,7 @@
         "template--15922757337268__0ee59d20-e841-478f-acdc-311a5d701de5-1675940708332a6e8c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Haben Sie beim Lesen dieses Artikels auch Lust auf Hortensien bekommen? Wir stehen Ihnen gerne mit Ratschlägen und Tipps zum Pflanzen und Umsetzen von Hortensien zur Seite. Bevorzugen Sie andere Gartenpflanzen? Sehen Sie sich gerne bei unseren <a href=\"\/collections\/zierstraeucher\" title=\"Ziersträucher\">Sträuchern<\/a> um.<\/p>"
+            "text": "<p>Haben Sie beim Lesen dieses Artikels auch Lust auf Hortensien bekommen? Wir stehen Ihnen gerne mit Ratschlägen und Tipps zum Pflanzen und Umsetzen von Hortensien zur Seite. Bevorzugen Sie andere Gartenpflanzen? Sehen Sie sich gerne bei unseren <a href=\"\/collections\/stauden\" title=\"Stauden\">Stauden<\/a> und <a href=\"\/collections\/zierstraeucher\" title=\"Ziersträucher\">Sträuchern<\/a> um.<\/p>"
           }
         }
       },
@@ -534,7 +544,7 @@
         "template--15922757337268__0ee59d20-e841-478f-acdc-311a5d701de5-1675940708332a6e8c-1"
       ],
       "settings": {
-        "padding_top": 12,
+        "padding_top": 0,
         "padding_bottom": 12
       }
     },
@@ -555,6 +565,7 @@
     "691ab875-5383-487d-bc15-189c0584659f",
     "ac85399b-1b2e-476e-8932-a72942b3bb6e",
     "1ebbce1f-565f-4a9b-b83f-55a6b3b49370",
+    "fe5b7310-5585-461b-be36-cdeb9eb85436",
     "da937ebf-2b17-45a3-a15b-e265f04653e5",
     "e5db38c4-37b8-42df-9130-237739f6fca4",
     "5df52d8a-e2db-4b1c-a107-99db41f0a6a5",

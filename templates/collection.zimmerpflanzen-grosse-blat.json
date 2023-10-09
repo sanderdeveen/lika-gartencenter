@@ -102,11 +102,29 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller blühenden Gartenpflanzen",
-        "featured_product_one": "lavendel",
-        "featured_product_two": "rhododendron-weiss",
-        "featured_product_three": "bauernhortensie-rosa",
+        "top_sellers": "Topseller großblättrigen Zimmerpflanzen",
+        "featured_product_one": "fensterblatt",
+        "featured_product_two": "korbmarante-orbifolia",
+        "featured_product_three": "elefantenohr-1",
         "color_scheme": "background-1"
+      }
+    },
+    "b9aece5d-4451-403e-9629-cae7daee346f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733881815389__b9aece5d-4451-403e-9629-cae7daee346f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle großblättrigen Zimmerpflanzen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733881815389__b9aece5d-4451-403e-9629-cae7daee346f-heading-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "product-grid": {
@@ -134,248 +152,127 @@
         "padding_bottom": 0
       }
     },
-    "6ebad46d-38a7-4a7c-9710-0e181a486a1f": {
+    "f40dfcbb-b56d-4810-9ce8-2b655f710b73": {
       "type": "rich-text",
       "blocks": {
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-heading-1": {
+        "template--19733881815389__f40dfcbb-b56d-4810-9ce8-2b655f710b73-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Was sind blühende Gartenpflanzen?<\/h2>"
+            "heading": "<h2>Diese Zimmerpflanzen haben große Blätter<\/h2>"
           }
         },
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-text-1": {
+        "template--19733881815389__f40dfcbb-b56d-4810-9ce8-2b655f710b73-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Fast alle Pflanzen blühen und bilden Samen aus. Auf diese Weise vermehren sie sich und sichern ihren Fortbestand. Nicht alle Pflanzenarten brauchen eine auffällige Blüte. Windbestäuber, die nicht auf den Besuch von Insekten angewiesen sind, blühen relativ unauffällig. So kommen Ziergräser und Nadelgehölze dank des Windes auch ohne bunte Blüten aus.<\/p>"
+            "text": "<p>Warum haben viele Zimmerpflanzen große Blätter? Zimmerpflanzen mit großen Blättern stammen in der Regel aus den tropischen und subtropischen Wäldern. Sie wachsen im Unterholz und haben sich mit der Blattgröße an die dort vorherrschenden, begrenzteren Lichtbedingungen angepasst. Mit den großen Blättern gleichen die Zimmerpflanzen das geringere Lichtangebot aus. Mehr Blattfläche bedeutet mehr Chlorophyll. Dadurch kann die Pflanze bei Lichtmangel ausreichend Energie gewinnen. Deshalb können Zimmerpflanzen mit großen Blättern sehr gut in Räumen mit weniger Licht gedeihen.<br\/><\/p>"
           }
         },
-        "64587e66-920b-48cf-a418-05584a6fd661": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pflanzenarten, die auf die Bestäubung durch Insekten angewiesen sind, überbieten sich mit einer Vielfalt an Formen und Farben. Durch diesen „natürlichen Schönheitswettbewerb“ um die Aufmerksamkeit von Bienen, Hummeln und Schmetterlingen hat die Natur eine unglaubliche Blütenvielfalt entwickelt. Aus diesen Wildpflanzen wurden die blühenden Gartenpflanzen gezüchtet, mit denen wir heutzutage unsere Gärten, Terrassen und Balkons schmücken.<br\/><\/p>"
-          }
-        },
-        "ffa977f8-6a69-446a-9826-8b2ba12234ad": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image": "shopify:\/\/shop_images\/bluehende-gartenpflanzen-was-sind-das.jpg",
-            "columns_mobile": "1",
-            "columns_desktop": 1
-          }
-        },
-        "0df422c3-113d-4561-bcfa-7cd210b2e154": {
+        "3bc794c3-fe33-4f63-ae54-be8ee4011727": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Worin besteht die Vielfalt der blühenden Gartenpflanzen?<\/h2>"
+            "heading": "<h2>Unsere Zimmerpflanzen mit großen Blättern<\/h2>"
           }
         },
-        "c54f72cf-929f-40fe-bc6a-6074758e63fe": {
+        "69ff48de-689f-4ea2-bb1f-7798fc45fb22": {
           "type": "text",
           "settings": {
-            "text": "<p>Die <strong>Blütenformen<\/strong> der blühenden Gartenpflanzen sind sehr unterschiedlich. Oft leiten sich die Namen der Pflanzenfamilien von den Formen der Blüten ab. Beispiele hierfür sind die Lippenblütler, die Doldenblütler oder die Rosengewächse.<\/p>"
-          }
-        },
-        "142c1786-ce09-4726-8bf3-dd6ead73d668": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Durch die Pflanzenzüchtung ist ein unglaubliches Spektrum an <strong>Blütenfarben<\/strong> entstanden. Das bedeutet, dass Beete, Rabatten und Kübel in einer farbenfrohen Mischung oder Ton-in-Ton mit blühenden Gartenpflanzen bepflanzt werden können.<\/p>"
-          }
-        },
-        "8bf9b4d4-7946-4f26-97e1-26737b746294": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Jede Pflanzenart und -sorte unterscheidet sich in Bezug auf <strong>Blütezeit und Blühdauer<\/strong>. Zwiebelgewächse starten zeitig im Frühjahr und werden anschließend von blühenden Stauden abgelöst. Ziergehölze wie Rosen blühen bis spät in den Herbst hinein. Hortensienblüten sind mit bis zu 12 Wochen die absoluten Dauerblüher.<br\/>Während Sie sich an der unglaublichen Farbenpracht, dem betörenden <strong>Duft und der Schönheit<\/strong> erfreuen, bieten Sie mit dem Kauf von blühenden Gartenpflanzen vielen Insekten eine zusätzliche <strong>Nahrungsquelle und einen Lebensraum<\/strong>. Blühende Gartenpflanzen locken Bestäuber an. Sie ernähren sich von den eiweißreichen Pollen und dem energiereichen Nektar. Ihr Summen und Brummen bringt Leben in den Garten.<\/p>"
-          }
-        },
-        "4158e973-6edb-44a7-874e-070b34630dcd": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Verschiedene Arten blühender Gartenpflanzen<\/h2>"
-          }
-        },
-        "9cffbfbd-b85f-4d13-baad-83bc9d849955": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Zu den verschiedenen Arten blühender Gartenpflanzen gehören Bodendecker, Zwiebelblumen, Stauden und Ziersträucher. Diese Pflanzenarten unterscheiden sich durch typische Eigenschaften, die bei der Planung eines Blumengartens berücksichtigt werden sollten:<\/p>"
-          }
-        },
-        "da23dbb7-c946-48b0-97a4-a3bd3a10a254": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h3>Lichtverhältnisse und Bodenbeschaffenheit<\/h3>"
-          }
-        },
-        "50b97829-f472-4cec-b7f8-6442976211fb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Jede blühende Gartenpflanze hat unterschiedliche Ansprüche an die Lichtverhältnisse und die Bodenbeschaffenheit. So gedeihen Rhododendren auf humusarmen, alkalischen Böden und an sonnigen Standorten sehr schlecht. Sonnenliebende Gartenpflanzen wie Rosen entwickeln an schattigen Plätzen mit saurer Erde kaum Blüten.<\/p>"
-          }
-        },
-        "2f2e8d82-9b89-4aab-b0aa-b1ef3a6ed484": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h3>Blütezeit und die Blühdauer<\/h3>"
-          }
-        },
-        "361e0bf0-0601-47dc-9aef-73d13e94307b": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Für einen ganzjährig blühenden Garten spielen die Blütezeit und die Blühdauer eine wichtige Rolle. Mit verschiedenen blühenden Gartenpflanzen kann ein Blütenparadies geschaffen werden, in dem sich die Blühphasen immer wieder abwechseln. Jeder neue Blühhöhepunkt verändert den Garten und zu jeder Jahreszeit – auch im Winter – kann man Blumen bewundern.<\/p>"
-          }
-        },
-        "b7acc0f7-a32e-4702-9128-0f689384ffca": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h3>Wuchsform, Wuchshöhe und Platzbedarf<\/h3>"
-          }
-        },
-        "5424ade6-ebe8-46f4-a0f3-a25070bbba99": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Berücksichtigen Sie Wuchsform, Wuchshöhe und Platzbedarf der blühenden Gartenpflanzen, damit sich jede Pflanze gut entwickelt. Hochwachsende Stauden und Ziersträucher gehören in den Hintergrund, wo sie kleinere Gartenpflanzen und Bodendecker nicht überwuchern können. So bekommt jede Blühpflanze mehr Licht und wird nicht verdeckt. Durch diese Staffelung in der Wuchshöhe wirkt das Gesamtbild der Blumen klar und strukturiert.<br\/><\/p>"
-          }
-        },
-        "f68b4cd2-25f8-4e74-8e2f-f8c4c9be06a6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Suchen Sie aus den verschiedenen Arten blühender Gartenpflanzen Ihre Favoriten aus. Berücksichtigen Sie aber auch die oben genannten Eigenschaften, damit ein harmonischer, durchgehend blühender Garten entsteht. Hier zeigen wir Ihnen einige Pflanzenbeispiele:<\/p>"
-          }
-        },
-        "83b9754b-af29-4099-826c-82bdc62df2ef": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Blühende Bodendecker<\/h2>"
-          }
-        },
-        "05dd1523-a6bf-4a09-8493-de9cdd2cbe80": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><a href=\"\/products\/garten-storchschnabel-weiss\" title=\"Garten-Storchschnabel weiß\">Garten-Storchschnabel<\/a><\/li><\/ul><p>Vom Garten-Storchschnabel (Geranium macrorrhizum) gibt es verschiedene Sorten mit unterschiedlichen Blütenfarben. Mit einer Wuchshöhe von nur 25 cm und einem buschigen Wuchs entwickelt dieser Storchschnabel von März bis Oktober ein schönes, dichtes weißes Blütenkissen. Damit eignet sich der blühende Bodendecker für die Unterpflanzung von Bäumen ebenso wie für Grabbepflanzungen und pflegeleichte Rabatten. Bodendecker sparen Zeit, denn der dichte, polsterartige Wuchs hält das Unkraut zurück. Das gelegentliche Harken zwischen den Pflanzen entfällt.<\/p>"
-          }
-        },
-        "e6928fca-83b3-4e34-8817-4ef827e33f24": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Blühende Stauden<\/p>"
-          }
-        },
-        "634187f2-4b26-447f-bef9-7c291aad1437": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><a href=\"\/products\/lavendel\" title=\"Lavendel\">Lavendel<\/a><\/li><\/ul><p>Die wunderbar duftenden Blüten des Lavendels bringen ab Ende Juni den Zauber der Provence in den Garten. Die zahlreichen Lavendelsorten unterscheiden sich in Wuchsform, Blütenfarbe und Blütezeit. Für Beete und Rabatten eignen sich die hochwüchsigen Hybridsorten. Für die Bepflanzungen von Balkonkästen und Kübeln empfehlen wir die kleinwüchsigeren Sorten. Lavendel ist weniger trockenheitsempfindlich und bietet sich für einen pflegeleichten Garten an.<\/p><ul><li><a href=\"\/products\/steppensalbei\" title=\"Steppensalbei\">Steppensalbei<\/a><\/li><\/ul><p>Der Steppensalbei gehört zu den sommerlichen Dauerblühern. Ab Juni entwickeln sich unzählige violette, samtige Blüten. Erst bei Frost kommt die Blühphase zum Stillstand. Diese Salbeiart wird 80 bis 120 cm hoch und breit und kann in den hinteren Teil von Beeten und Rabatten gepflanzt werden, um eine Tiefenwirkung zu erzielen. Für Blumeninseln eignet sich die Beetmitte als Standort.<\/p><ul><li><a href=\"\/collections\/blumenzwiebeln\" title=\"Blumenzwiebeln\">Dahlien<\/a><\/li><\/ul><p>Dahlien gehören zu den beliebtesten sommerblühenden Gartenpflanzen. Sie dürfen in keinem farbenfrohen Blumenbeet fehlen. Zum einen wegen der unglaublichen Farbenpracht, zum anderen wegen der vielfältigen Blütenformen: Es gibt bis zu 15 Dahlien-Klassen mit unterschiedlichen Blütenformen. Dazu gehören zum Beispiel die Pompon-Dahlien, die Anemonenblütigen Dahlien, die Stern-Dahlien und die Halskrausen-Dahlien.<\/p>"
-          }
-        },
-        "f5ae16ac-4290-4116-9483-0f136fb70318": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image": "shopify:\/\/shop_images\/lavendel-bluehende-gartenpflanzen-stauden.jpg",
-            "columns_mobile": "1",
-            "columns_desktop": 1
-          }
-        },
-        "4f73acc8-f3c0-4e7e-8091-3ed7eaaaaca5": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Blühende Ziersträucher<\/p>"
-          }
-        },
-        "1254b4b7-329e-4c28-bd4c-225d31fd3b50": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><a href=\"\/collections\/rhododendron\" title=\"Rhododendron\">Rhododendron<\/a><\/li><\/ul><p>Der immergrüne Rhododendron ist das ganze Jahr über eine Zierde für den Garten und bietet mit seinem attraktiven Blattschmuck Sichtschutz. Der Zierwert wird durch die Blütezeit von Mai bis Juli noch gesteigert. Einige Sorten und Hybriden beginnen sogar schon im März zu blühen.<\/p><p>Die Blüten der Rhododendren füllen somit die Blütenlücke, die nach dem Verblühen der Frühjahrsblüher entsteht. Interessant ist auch die Farbenpracht dieser Pflanzenart. Neben rein weiß-, rot-, rosa- und gelbblühenden Arten gibt es zahlreiche Hybridsorten mit aufregenden Farbverläufen. Durch den schirmtraubigen Blütenstand mit vielen großen Blüten ist das artenreiche Gehölz sehr auffällig. Deshalb kann der blühende Zierstrauch auch als Solitärgehölz gepflanzt werden. Eine blühende Rhododendronhecke als Gartenbegrenzung eignet sich hervorragend für halbschattige Standorte.<\/p><ul><li><a href=\"\/collections\/rosen\" title=\"Rosen\">Rosen<\/a><\/li><\/ul><p>Wer Blumen liebt und einen sonnigen Garten hat, sollte auf Rosen nicht verzichten. Rosen gehören zu den beliebtesten blühenden Gartenpflanzen. Reine Rosenbeete mit verschiedenen Sorten und Arten verströmen nicht nur einen betörenden Duft. <\/p><p>Bemerkenswert ist die Vielseitigkeit dieses Ziergehölzes. So gibt es Kleinstrauchrosen für den Kübel, auf Unterlagen veredelte Rosenbäumchen oder Kletterrosen für Spaliere und Arkaden. Einige Sorten beginnen bereits im April, die meisten im Mai mit der Blütenbildung. Viele Beet- und Strauchrosen sind öfterblühend. Sie sind echte Sommerblüher, die immer wieder neue Blüten hervorbringen. Diese Blühfreude kann noch verstärkt werden, wenn verblühte Rosen regelmäßig entfernt werden. Rosen sind übrigens wunderbare Schnittblumen, die sich in der Vase sehr lange halten.<\/p><ul><li><a href=\"\/collections\/hortensien\" title=\"Hortensien\">Hortensien<\/a><\/li><\/ul><p>Für den halbschattigen blühenden Garten empfehlen wir die Sortenvielfalt der Strauchhortensien, die ein Farbspektakel bieten. Ab Juni entwickeln sich die doldigen Blütenstände in Blau, Weiß, Rosa, Rot und Violett, die bis in den Herbst hinein an dem Zierstrauch verbleiben. Die Blüten der modernen <a href=\"\/collections\/magical-hortensien\" title=\"Magical-Hortensien\">Magical-Hortensiensorten<\/a> zeigen interessante Farbverläufe, die sich im Laufe der Gartensaison verändern. <\/p><p>Hortensien sind reich blühende Gartenpflanzen, die sehr alt und ausladend werden können. Der Pflegeaufwand ist im Verhältnis zur Blütenpracht gering: Die pflegeleichten Hortensien benötigen einen einmaligen Rückschnitt im Frühjahr, etwas Dünger und bei Trockenheit ausreichend Wasser. Hinzu kommt das Laubharken im Herbst. Wer einen sonnigen Garten hat, muss auf Hortensien nicht verzichten. Die sonnentolerante Schneeballhortensie und die Rispenhortensie gibt es nicht nur in Weiß, sondern auch in Rosa und Rot.<\/p><ul><li><a href=\"\/products\/gelber-winterjasmin\" title=\"Gelber Winterjasmin\">Gelber Winterjasmin<\/a><\/li><\/ul><p>Lust auf mehr Blütenpracht im winterlichen Garten? Auch das ist möglich. Der Gelbe Winterjasmin ist ein winterharter Zierstrauch, der von Dezember bis Ende Februar gelbe, duftende Blüten ausbildet.<br\/><\/p>"
-          }
-        },
-        "8a2ec13b-0e79-41af-b06e-ea1e7081ff49": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image": "shopify:\/\/shop_images\/Jasminum-nudiflorum-gelber-winterjasmin.jpg",
-            "columns_mobile": "1",
-            "columns_desktop": 1
-          }
-        },
-        "7c99ef32-6c38-4885-9618-7439ba205fc6": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Tipps zum Pflanzen blühender Gartenpflanzen<\/h2>"
-          }
-        },
-        "5877d11d-ff04-4ceb-a160-734fdb042187": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Pflanzvorbereitung<\/strong><\/li><\/ul><p>Viele Gartenböden haben einen neutralen pH-Wert um 7, mit dem die meisten blühenden Gartenpflanzen gut zurechtkommen. Wie kann man den pH-Wert des Bodens bestimmen? Es gibt spezielle Teststreifen, mit denen man messen kann, ob die Gartenerde sauer, neutral oder alkalisch ist. Sie können sich diese Mühe auch sparen und mit Spezialblumenerde den besonderen Bodenansprüchen der blühenden Gartenpflanzen etwas entgegenkommen. Für Rhododendren und alle anderen Pflanzen, die einen sauren Boden bevorzugen, empfehlen wir <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">COMPO SANA® Rhododendron- und Hortensienerde<\/a>. <\/p><p>Viele Gartenpflanzen bevorzugen einen humusreichen Boden. <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a> bietet neben Humus zusätzliche Nährstoffe, die das Pflanzenwachstum fördern. Dieses Spezialsubstrat eignet sich auch zur Abdeckung der obersten Bodenschicht, wodurch die Unkrautentwicklung gehemmt wird.<\/p>"
-          }
-        },
-        "37a6645d-1496-49e6-8fe1-961f874b8fa2": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Pflanzung<\/strong><\/li><\/ul><p>Graben Sie ein ausreichend großes Pflanzloch. Es sollte etwa 30 % größer sein als der Wurzelballen. Füllen Sie das Pflanzloch mit der gekauften Pflanzerde auf. Ausreichend Wasser beim Pflanzen und in der Anwachsphase garantieren eine gute Pflanzenentwicklung.<\/p>"
-          }
-        },
-        "7dad637a-0a77-408f-8237-aba6530eb32a": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Pflegetipps für blühende Gartenpflanzen<\/h2>"
-          }
-        },
-        "c1d60394-f840-4b87-b4cc-2ba97444fb4b": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Bewässerung<\/li><\/ul><p>Fast alle blühenden Gartenpflanzen benötigen in dieser kritischen Entwicklungsphase ausreichend Wasser. Trockenheit durch ausbleibenden Regen, kann zum vorzeitigen Verwelken der Blumen führen. Kübel- und Balkonpflanzen haben generell einen höheren Wasserbedarf. Regelmäßiges Gießen fördert das gleichmäßige Wachstum und damit den Blüherfolg.<\/p><ul><li>Schnitt<\/li><\/ul><p>Blüten entwickeln sich vor allem an jungen Trieben. Blühende Ziergehölze, aber auch Stauden wie Lavendel brauchen einen Rückschnitt, um das Wachstum anzuregen.<\/p><ul><li>Düngen<\/li><\/ul><p>Optimal mit Nährstoffen versorgte, blühende Gartenpflanzen entwickeln einen reichen Blütenflor. COMPO BIO Universal Langzeit-Dünger mit Schafwolle ist ein organischer Dünger, der die Pflanzen über 5 Monate mit Nährstoffen versorgt. Er fördert die Humusbildung und die Entwicklung der Bodenmikroorganismen.<\/p><ul><li>Unkraut entfernen<\/li><\/ul><p>Zwischen den Pflanzen eines Blumengartens kann sich das Unkraut etwas verstecken und ungestört vermehren. Regelmäßiges Harken oder Jäten sorgt für einen gepflegten Gesamteindruck.<\/p>"
-          }
-        },
-        "21defbfd-0e93-4ea3-a6a5-a5fa86ace102": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Blühende Gartenpflanzen kaufen auf Gartencenter.de<\/h2>"
-          }
-        },
-        "3dcb5f1c-47c4-4f36-abac-310a17ae74b2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Blühende Topfpflanzen verwandeln Terrassen und Balkone in eine attraktive Umgebung. Stauden, Ziergehölze und Bodendecker sorgen für eine abwechslungsreiche Blütezeit im Garten. Bei Gartencenter.de können Sie eine große Auswahl an blühenden Gartenpflanzen für Beete, Rabatten und Kübel online kaufen. Bestellen Sie auch Spezialdünger und Blumenerden und nutzen Sie den bequemen Lieferservice.<\/p>"
+            "text": "<p>Wir möchten Ihnen hier einige Zimmerpflanzenarten vorstellen, die extra große Blätter entwickeln. Ein Hinweis vorweg: Bis auf wenige Ausnahmen vertragen die meisten großblättrigen Zimmerpflanzen kein direktes Sonnenlicht. Achten Sie daher bei der Auswahl der Blattpflanzen auf die Lichtansprüche und die Lichtverhältnisse am zukünftigen Standort. Sind die großen Blätter lichtempfindlich, können sie bei direkter Sonneneinstrahlung verbrennen. Umgekehrt vergilben die Blätter, wenn sie zu wenig Licht aufnehmen können.<br\/><\/p>"
           }
         }
       },
       "block_order": [
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-heading-1",
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-text-1",
-        "64587e66-920b-48cf-a418-05584a6fd661",
-        "ffa977f8-6a69-446a-9826-8b2ba12234ad",
-        "0df422c3-113d-4561-bcfa-7cd210b2e154",
-        "c54f72cf-929f-40fe-bc6a-6074758e63fe",
-        "142c1786-ce09-4726-8bf3-dd6ead73d668",
-        "8bf9b4d4-7946-4f26-97e1-26737b746294",
-        "4158e973-6edb-44a7-874e-070b34630dcd",
-        "9cffbfbd-b85f-4d13-baad-83bc9d849955",
-        "da23dbb7-c946-48b0-97a4-a3bd3a10a254",
-        "50b97829-f472-4cec-b7f8-6442976211fb",
-        "2f2e8d82-9b89-4aab-b0aa-b1ef3a6ed484",
-        "361e0bf0-0601-47dc-9aef-73d13e94307b",
-        "b7acc0f7-a32e-4702-9128-0f689384ffca",
-        "5424ade6-ebe8-46f4-a0f3-a25070bbba99",
-        "f68b4cd2-25f8-4e74-8e2f-f8c4c9be06a6",
-        "83b9754b-af29-4099-826c-82bdc62df2ef",
-        "05dd1523-a6bf-4a09-8493-de9cdd2cbe80",
-        "e6928fca-83b3-4e34-8817-4ef827e33f24",
-        "634187f2-4b26-447f-bef9-7c291aad1437",
-        "f5ae16ac-4290-4116-9483-0f136fb70318",
-        "4f73acc8-f3c0-4e7e-8091-3ed7eaaaaca5",
-        "1254b4b7-329e-4c28-bd4c-225d31fd3b50",
-        "8a2ec13b-0e79-41af-b06e-ea1e7081ff49",
-        "7c99ef32-6c38-4885-9618-7439ba205fc6",
-        "5877d11d-ff04-4ceb-a160-734fdb042187",
-        "37a6645d-1496-49e6-8fe1-961f874b8fa2",
-        "7dad637a-0a77-408f-8237-aba6530eb32a",
-        "c1d60394-f840-4b87-b4cc-2ba97444fb4b",
-        "21defbfd-0e93-4ea3-a6a5-a5fa86ace102",
-        "3dcb5f1c-47c4-4f36-abac-310a17ae74b2"
+        "template--19733881815389__f40dfcbb-b56d-4810-9ce8-2b655f710b73-heading-1",
+        "template--19733881815389__f40dfcbb-b56d-4810-9ce8-2b655f710b73-text-1",
+        "3bc794c3-fe33-4f63-ae54-be8ee4011727",
+        "69ff48de-689f-4ea2-bb1f-7798fc45fb22"
       ],
-      "disabled": true,
       "settings": {
         "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "c2e89ad0-a247-4aef-8757-e75722f86589": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Aglaonema",
+        "image": "shopify:\/\/shop_images\/kolbenfaden-blatt.jpg",
+        "content": "<p>Der <a href=\"\/products\/kolbenfaden\" title=\"Kolbenfaden\">Buntblättrige Kolbenfaden Aglaonema 'Silver Queen'<\/a> ist eine attraktive, kompakte Topfpflanze mit länglich geformten Blättern. Wie der Trivialname vermuten lässt, hat 'Silver Queen' eine schöne Blattfärbung. Die graugrünen Blätter sind gleichmäßig dunkelgrün gemustert. Diese Blattschmuckpflanze eignet sich für Fensterbänke, Tische und Anrichten, die sich im Schatten oder Halbschatten befinden. Die schönen großen Blätter vertragen kein direktes Sonnenlicht und werden an einem zu hellen Standort gelb.<br\/><\/p>",
+        "url": "shopify:\/\/products\/kolbenfaden",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "441dacbb-6357-49b6-8488-bc3af6b845c4": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Fensterblatt",
+        "image": "shopify:\/\/shop_images\/fensterblatt-philodendron-monstera-blatt.jpg",
+        "content": "<p>Das <a href=\"\/products\/fensterblatt\" title=\"Fensterblatt\">Fensterblatt<\/a> Monstera pertusem ist eine der beliebtesten Zimmerpflanzen mit großen Blättern. Attraktiv wirken die Einkerbungen und Löcher in den satt-dunkelgrünen Blättern. Wie die meisten großblättrigen Grünpflanzen hat sich auch diese Art auf einen Standort mit wenig Licht spezialisiert. Zimmerecken, Fenster mit Nordausrichtung und dunklere Eingangsbereiche sind ideale Standorte für das Fensterblatt.<br\/><\/p>",
+        "url": "shopify:\/\/products\/fensterblatt",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "fa3f6668-d014-4e7c-82ee-86270e5f7393": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Geigenfeige",
+        "image": "shopify:\/\/shop_images\/gegenfeige-ficus-lyrata-blatt.jpg",
+        "content": "<p>Die <a href=\"\/products\/geigenfeige\" title=\"Geigenfeige\">Geigenfeige Ficus lyrata<\/a> hat große Blätter, die wie ein Geigenkasten geformt sind. Diese Ficus-Art bildet die ledrigen, glänzenden Blätter direkt am Stamm. Die Unterseite ist hellgrün und die Oberseite ist dunkelgrün gefärbt. Diese beiden Grüntöne sind durch die aufrechte Blattstellung gut sichtbar. Die Blätter sollten nicht mit Wänden oder Möbeln in Berührung kommen. Geben Sie der Grünpflanze also genügend Platz. Mit der Zeit wächst die Geigenfeige und kann bis zu 4 m hoch werden. Dann fallen die unteren Blätter ab und es bildet sich ein kahler Stamm. Vermeiden Sie das häufige Umstellen des Blumentopfs. Größere Pflanzen können direkt auf den Boden gestellt werden. Junge Geigenfeigen gedeihen am besten an Standorten ohne direkte Sonneneinstrahlung.<br\/><\/p>",
+        "url": "shopify:\/\/products\/geigenfeige",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "87022a75-e401-4c9a-aa8d-8e8e85c8a86b": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Alokasie",
+        "image": "shopify:\/\/shop_images\/pfeilblatt-alocasie-polly-detail.jpg",
+        "content": "<p>Das <a href=\"\/products\/pfeilblatt\" title=\"Pfeilblatt\">Pfeilblatt Alocasie 'Polly'<\/a> trägt seinen Trivialnamen zu Recht. Das schmale, längliche Blatt ähnelt einem Pfeil. Die Blattoberseite ist dunkelgrün und wird von hellgrünen Blattadern kontrastiert. Die Unterseite ist rostrot gefärbt. Diese großblättrige Zimmerpflanze wirkt sehr dekorativ auf schattigen Fensterbänken, Sideboards und Schreibtischen.<\/p>",
+        "url": "shopify:\/\/products\/pfeilblatt",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "d3209fc6-8fb0-46ee-b25c-26d521155eb6": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Fatsia",
+        "image": "shopify:\/\/shop_images\/zimmeraralie-blatt.jpg",
+        "content": "<p>Die fünflappigen Blätter der <a href=\"\/products\/zimmeraralie\" title=\"Zimmeraralie\">Zimmeraralie Fatsia japonica<\/a>, auch Fingeraralie genannt, ähneln einem Ahornblatt. Allerdings glänzen sie sattgrün und fühlen sich ledrig an. Ältere Pflanzen bilden bis zu 40 cm lange Blätter. Die schnell wachsende Grünpflanze kann bis zu 150 cm hoch werden. Die Aralie Fatsia japonica ist eine großblättrige Zimmerpflanze, die einen hellen Standort bevorzugt. Südfenster sind ideal. Bei Lichtmangel werden die Triebe lang und schwach. Auch die Farbe der Blätter wird heller. <br\/><\/p>",
+        "url": "shopify:\/\/products\/zimmeraralie",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "a3041368-b0a4-406a-a217-99f50df7aa27": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bananenpflanze",
+        "image": "shopify:\/\/shop_images\/bananenplant-blatt.jpg",
+        "content": "<p>Die <a href=\"\/products\/bananenpflanze\" title=\"Bananenpflanze\">Bananenpflanze Musea<\/a> gehört zu den Zimmerpflanzen mit den größten Blättern! Sie sind lang geformt und haben einen Blattstiel und eine Mittelrippe. Alte Blätter reißen bis zur Blattspreite auf. Darum sehen Bananenblätter wie längliche Fächer aus. Bananenpflanzen brauchen einen hellen Standort mit genügend Platz! Große Pflanzen können in Kübeln auf dem Fußboden stehen. Vor dem Fenster eines nach Süden ausgerichteten Balkons wirkt eine Bananenpflanze mit ihren großen Blättern sehr dekorativ. Wer es exotisch mag, sollte sich für den Blattschmuck der Bananenpflanzen entscheiden.<\/p>",
+        "url": "shopify:\/\/products\/bananenpflanze",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "501dd72c-e80d-4d07-a29b-70fe8c344c92": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733881815389__501dd72c-e80d-4d07-a29b-70fe8c344c92-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Die schönsten Zimmerpflanzen mit großen Blättern kaufen<\/h2>"
+          }
+        },
+        "template--19733881815389__501dd72c-e80d-4d07-a29b-70fe8c344c92-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie eine Zimmerpflanze mit großen Blättern kaufen möchten, sollten Sie sich unser Grünpflanzensortiment genau ansehen. Suchen Sie sich eine schöne Blattschmuckpflanze aus. Beachten Sie, dass einige großblättrige Zimmerpflanzen mit einer Höhe von bis zu 250 cm erhältlich sind! Hohe Zimmerpflanzen mit großen Blättern fallen wunderbar auf. Sie begrünen Treppenaufgänge, Flure und Wohnzimmer mit hohen Decken. <\/p><p>Genießen Sie den schönen, großen Blattschmuck einer Zimmerpflanze. Dieser Blickfang zieht immer die Aufmerksamkeit auf sich, denn das dunkle Blattgrün wirkt beruhigend und entspannend. Kaufen Sie sich eine großblättrige Zimmerpflanze. Beobachten Sie, wie sie wächst und gedeiht.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733881815389__501dd72c-e80d-4d07-a29b-70fe8c344c92-heading-1",
+        "template--19733881815389__501dd72c-e80d-4d07-a29b-70fe8c344c92-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
         "padding_bottom": 12
       }
     },
@@ -431,8 +328,16 @@
     "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
     "16636997769ffcaf8a",
     "banner",
+    "b9aece5d-4451-403e-9629-cae7daee346f",
     "product-grid",
-    "6ebad46d-38a7-4a7c-9710-0e181a486a1f",
+    "f40dfcbb-b56d-4810-9ce8-2b655f710b73",
+    "c2e89ad0-a247-4aef-8757-e75722f86589",
+    "441dacbb-6357-49b6-8488-bc3af6b845c4",
+    "fa3f6668-d014-4e7c-82ee-86270e5f7393",
+    "87022a75-e401-4c9a-aa8d-8e8e85c8a86b",
+    "d3209fc6-8fb0-46ee-b25c-26d521155eb6",
+    "a3041368-b0a4-406a-a217-99f50df7aa27",
+    "501dd72c-e80d-4d07-a29b-70fe8c344c92",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
     "65e6bb14-9d81-47ff-894a-fb634c9b2619"
   ]

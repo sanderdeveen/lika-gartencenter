@@ -159,7 +159,7 @@
       "choose_product_options": "Optionen für {{ product_name }} auswählen",
       "in_stock": "Auf Lager",
       "no_stock": "Ausverkauft",
-      "delivery_info": "Versand innerhalb von 0-4 Werktagen"
+      "delivery_info": "Versand innerhalb von 0-2 Werktagen"
     },
     "modal": {
       "label": "Medien-Galerie"
@@ -193,7 +193,7 @@
       "filter_selected_accessibility": "{{ type }} ({{ count }} Filter ausgewählt)",
       "show_more": "Mehr anzeigen",
       "show_less": "Weniger anzeigen",
-      "versand_werktagen": "Versand innerhalb von 0-4 Werktagen"
+      "versand_werktagen": "Versand innerhalb von 0-2 Werktagen"
     }
   },
   "templates": {
@@ -252,6 +252,7 @@
       "menu": "Menü",
       "contact": "Kontakt",
       "gardenplants": "Gartenpflanzen",
+      "blumenzwiebeln": "Blumenzwiebeln",
       "houseplants": "Zimmerpflanzen",
       "three": "Bäume",
       "lawn": "Rasen",

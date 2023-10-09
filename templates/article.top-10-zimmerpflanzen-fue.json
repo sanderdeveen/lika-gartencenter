@@ -1,0 +1,616 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "74025a75-3918-4be5-bb45-d3335fed70bf": {
+      "type": "rich-text",
+      "blocks": {
+        "c6ef662a-bf69-4858-9cf6-dd7eb224efd6": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/top-10-zimmerpflanzen-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "8a899626-acd4-478a-9456-59ef2e66956a": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Unsere Liste der Zimmerpflanzen, die wenig Licht brauchen<\/h2>"
+          }
+        },
+        "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Schwertfarn<\/h3>"
+          }
+        },
+        "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der <a href=\"\/products\/schwertfarn\" title=\"Schwertfarn\">Schwertfarn Nephrolepis exaltata<\/a> ist in den feuchten Sümpfen Mexikos und ganz Mittelamerikas beheimatet und wächst unter Bäumen im Boden oder als Aufsitzerpflanze. Aus diesem Grund gehört der Schwertfarn zu den Zimmerpflanzen, die wenig Licht brauchen. Nephrolepis exaltata ist eine <strong>wunderbare Pflanze<\/strong> für Blumenampeln. Stellen Sie diese Pflanze nicht an einen zu hellen Standort und keinesfalls in die Nähe eines Heizkörpers, da sie die geringe Luftfeuchtigkeit nicht verträgt. Es ist wichtig, dass das Substrat im Topf nie austrocknet. Der Schwertfarn ist immergrün, allerdings vergilben alte Blattwedel mit der Zeit. Bevor die einzelnen vertrockneten Fiederblätter abfallen, sollten diese Wedel abgeschnitten werden.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c6ef662a-bf69-4858-9cf6-dd7eb224efd6",
+        "8a899626-acd4-478a-9456-59ef2e66956a",
+        "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-heading-1",
+        "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "71eb563e-e473-4256-902c-1e8e18c4aa7d": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Wenn Sie für eine kurze Zeit verreisen wollen, tauchen Sie den Topf vorher in Wasser ein und lassen Sie das überschüssige Wasser ablaufen. Auf diese Weise hat die Nephrolepis exaltata bis zu ihrer Rückkehr noch einen gewissen Vorrat an Wasser. Von März bis Oktober geben Sie wöchentlich Dünger. Dabei darf die Blumentopferde nicht zu trocken sein.<\/p>"
+      }
+    },
+    "22a9a392-c0d6-4484-8a06-68ff4670f3ed": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "9d33eb60-f60d-444c-bd35-b7ead550f5ec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schwertfarn-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "5ac1d266-4885-429e-a434-0399069ac286": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schwertfarn-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "9d33eb60-f60d-444c-bd35-b7ead550f5ec",
+        "5ac1d266-4885-429e-a434-0399069ac286"
+      ],
+      "settings": {
+      }
+    },
+    "6e6d4852-8137-4ce7-89ec-02a35cabd935": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Monstera<\/h3>"
+          }
+        },
+        "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Köstliche Fensterblatt (Monstera deliciosa) steht ganz oben auf der Liste der Zimmerpflanzen, die wenig Licht brauchen. Die <strong>exotische Monstera<\/strong> stammt ursprünglich aus den tropischen Wäldern Mittel- und Südamerikas, wo sie an Baumstämmen emporwächst. Sie fühlt sich in Zimmerecken mit etwas Abstand zum Fenster und auf Fensterbänken ohne direktes Sonnenlicht sehr wohl. Ein Standort in der prallen Sonne führt zu Blattverbrennungen. Staunässe ist unbedingt zu vermeiden. Monstera deliciosa kommt auch ohne Gießwasser aus, wenn Sie für ein paar Tage unterwegs sind. <\/p><p>Bei der Monstera handelt es sich um eine Kletterpflanze, die mit zunehmender Wuchshöhe eine Rankhilfe braucht. Alternativ können Sie sich für unser <a href=\"\/products\/fensterblatt-mit-kokosstab\" title=\"Fensterblatt mit Kokosstab\">Fensterblatt mit Kokosstab<\/a> in drei verschiedenen Größen entscheiden. Die <a href=\"\/products\/lochpflanze\" title=\"Lochpflanze\">Lochpflanze Monstera 'Monkey Leaf'<\/a> hat besonders geformte Blätter. Diese Sorte unterscheidet sich von <a href=\"\/products\/fensterblatt\" title=\"Fensterblatt\">Monstera deliciosa<\/a> durch die großen Löcher in den Blättern und das Fehlen der typischen Einkerbungen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-heading-1",
+        "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "46af4bfc-63fe-49a9-8fe2-f9e951a3cc7f": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "e24999f8-fc8e-483b-86aa-556d394ee354": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/monstera-fensterblatt-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "7d6432c0-66c2-4a7b-975e-87b84880c86c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/monstera-fensterblatt-blaetter.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e24999f8-fc8e-483b-86aa-556d394ee354",
+        "7d6432c0-66c2-4a7b-975e-87b84880c86c"
+      ],
+      "settings": {
+      }
+    },
+    "c624f7b6-0111-4725-9de5-643082e65dc6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Philodendron<\/h3>"
+          }
+        },
+        "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der <a href=\"\/products\/philodendron\" title=\"Baumfreund\">Baumfreund Philodendron scandens<\/a>, der auch als Kletter-Philodendron bezeichnet wird, macht seinem Namen alle Ehre. Die Blattschmuckpflanze wächst an den Bäumen der schattigen Regenwälder Mittel- und Südamerikas empor und gehört zu den Zimmerpflanzen, die wenig Licht brauchen. Die Vintage-Zimmerpflanze aus den Sechzigerjahren schmückt Wohnzimmer, Küche und Bad. Der Kletter-Philodendron lässt sich an Kokosstäben hochleiten. Der Baumfreund kann aber auch als Hängepflanze in Blumenampeln verwendet werden oder Schränke und Regale dekorieren. Fensterstandorte mit direkter Sonneneinstrahlung sind jedoch für den Baumfreund ungeeignet. <\/p><p>Ältere Pflanzen entwickeln <strong>größere Blätter<\/strong> und blühen relativ selten. Temperaturen unter 18 °C und Standorte mit Zugluft empfehlen wir nicht. Geben Sie zimmerwarmes Gießwasser und halten Sie die Pflanze in der Vegetationszeit von Frühjahr bis Herbst mäßig feucht. In dieser Zeit sollte alle 3 Wochen gedüngt werden.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-heading-1",
+        "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "b5c96f8e-4a58-465a-87b4-4053085a4066": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "f7e10d18-aade-4e75-a276-6c98904a983a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/philodendron-scandens-baumfreund-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "05cbcee3-0b4a-46a3-8db6-d7d91c1884e9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/philodendron-scandens-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "f7e10d18-aade-4e75-a276-6c98904a983a",
+        "05cbcee3-0b4a-46a3-8db6-d7d91c1884e9"
+      ],
+      "settings": {
+      }
+    },
+    "9637d49b-5929-4a65-a1fe-c89ed1262bf5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Flamingoblume<\/h3>"
+          }
+        },
+        "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die artenreichen Anthurien sind im tropischen Mittel- und Südamerika sowie auf den karibischen Inseln beheimatet und <strong>brauchen wenig Licht<\/strong>. Sie werden seit vielen Jahren als Zimmerpflanze und Schnittblume kultiviert. Der Name der Pflanzengattung leitet sich von der Form des glänzenden Hochblattes und des langen Blütenkolbens (Spartha) ab. Flamingoblumen eignen sich für Fensterbänke mit Ost- oder Westausrichtung, als Tischdekoration und für Gruppenpflanzungen in größeren Kübeln.<\/p><p>Bei Gartencenter.de erhalten Sie die Kleine Flamingoblume (Anthurium scherzerianum) als Zimmerpflanze. Angeboten werden eine blühfreudige <a href=\"\/products\/rote-flamingoblume\" title=\"Rote Flamingoblume\">Flamingoblume in Rot<\/a> und eine <a href=\"\/products\/weisse-flamingoblume\" title=\"Weiße Flamingoblume\">Flamingoblume in Weiß<\/a>, die mit einer Liefergröße von 40 bis 60 cm online bestellt werden können.<\/p><p>Die Hauptblütezeit ist von März bis Mai, bei guter Pflege blüht die Anthurie länger. Günstige Standorte sind Fensterbänke ohne Mittagssonne, die vor direkter Sonneneinstrahlung schützen, aber warm sind. Flamingoblumen sind <strong>ideale Topfpflanzen<\/strong>. Die Blätter werden glänzend grün, wenn Sie diese mit einem Blattpflegespray für Grünpflanzen behandeln. Für das Umtopfen empfehlen wir Grün- und Zimmerpflanzenerde und für die Nährstoffversorgung den <a href=\"\/products\/compo-grunpflanzen-und-palmendunger\" title=\"COMPO Grünpflanzen- und Palmendünger\">COMPO Grünpflanzen- und Palmendünger<\/a>. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-heading-1",
+        "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "bea87605-1fbd-470e-9ba9-7a6379241c8b": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "37cae5cb-8b3a-4e6a-9ad7-31f5331b34b3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anthurium-flamingoblume-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "39f90c60-b0cc-48d7-9183-6966944633fc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anthurium-flamingoblume-blaetter.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "37cae5cb-8b3a-4e6a-9ad7-31f5331b34b3",
+        "39f90c60-b0cc-48d7-9183-6966944633fc"
+      ],
+      "settings": {
+      }
+    },
+    "1fe2411c-460d-4619-9b62-ac60b7d32ff8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Korbmarante<\/h3>"
+          }
+        },
+        "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die robusten Korbmaranten, also Pfeilwurzgewächse, erkennen Sie an den grün und rotbraun gestreiften Blättern. Das Sortiment von Gartencenter.de umfasst 3 verschiedene Calathea-Arten. Die Blätter der <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante Calathea orbifolia<\/a>, <a href=\"\/products\/lanzenblaettrige-korbmarante\" title=\"Lanzenblättrige Korbmarante\">Lanzenblättrige Korbmarante Calathea 'Insignis'<\/a> und die <a href=\"\/products\/elefantenohr\" title=\"Elefantenohr Zebrina\">Zebra-Korbmarante Calathea 'Zebrina'<\/a> unterscheiden sich bezüglich Form und Farbe. Calathea 'Insignis' hat <strong>länglich zugespitzte Blätter<\/strong>, die aufrecht stehen und eine dunkelrote Unterseite haben.<\/p><p>Was die tropischen Zierpflanzenarten so beliebt macht, ist ihre <strong>Schattentoleranz<\/strong>. Ideale Standorte sind Fensterbänke ohne direkte Sonneneinstrahlung, Regale und Sideboards. Sind die Pflanzen zu groß geworden, können sie problemlos geteilt werden. Die geringe Luftfeuchtigkeit in der Nähe von Heizungen kann sich nachteilig auf die Entwicklung der Korbmarante auswirken. Beachten Sie, dass regelmäßige Wassergaben notwendig sind, damit der Wurzelballen der Blattschmuckpflanze nicht austrocknet. Während der Wachstumsphase sollten Sie im Abstand von 14 Tagen düngen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-heading-1",
+        "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "63a5a52d-0be2-4492-bf17-25b64b76cadb": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "5402fdcc-18e7-4296-bac8-0732704a4ea0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calathea-orbifolia-pfauen-korbmarante-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "40d50eef-faa2-42e4-a94f-f58690a2d405": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pfauen-korbmarante-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "5402fdcc-18e7-4296-bac8-0732704a4ea0",
+        "40d50eef-faa2-42e4-a94f-f58690a2d405"
+      ],
+      "settings": {
+      }
+    },
+    "ace21b23-3a95-4dbb-8ea9-ef127642ab10": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Yucca<\/h3>"
+          }
+        },
+        "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/palmlilie-1-staemmig\" title=\"Palmlilie 1-stämmig\">Palmlilie Yucca elephantipes<\/a> ist eine Zimmerpflanze, die keine direkte Sonne verträgt, aber einen hellen Standort bevorzugt. Stellen Sie sie an ein Fenster, das nicht nach Süden ausgerichtet ist. Kleine Tischchen, Regale und Anrichten sind als Standort bestens geeignet. Aufgrund ihrer Anspruchslosigkeit in der Pflege und ihres exotischen Wuchses passen Yuccas hervorragend in <strong>moderne Wohnräume<\/strong>. <\/p><p>Einmal wöchentlich gießen reicht völlig aus. Im Winter sollte das Substrat im Topf trocken sein, bevor wieder Wasser gegeben wird. Zusätzliche Nährstoffe benötigt die Yucca während der Wachstumszeit von März bis Oktober. Der <a href=\"\/products\/compo-grunpflanzen-und-palmendunger\" title=\"COMPO Grünpflanzen- und Palmendünger\">COMPO BIO Grünpflanzen- und Palmendünger<\/a> eignet sich besonders gut für die Versorgung mit Stickstoff, Kalium und Eisen. Verwenden Sie zum Umtopfen spezielle Zimmerpflanzenerde. Wir empfehlen Ihnen die COMPO <a href=\"\/products\/compo-sana-gruenpflanzen-und-palmenerde\" title=\"COMPO SANA® Grünpflanzen- und Palmenerde\">Zimmerpflanzen Blumenerde<\/a>.<\/p><p>Übrigens verkauft Gartencenter.de auch die <a href=\"\/products\/faedige-palmlilie-color-guard\" title=\"Fädige Palmlilie 'Color Guard'\">Fädige Palmlilie 'Color Guard' Yucca filamentosa<\/a>, die ein schöner Blickfang für Ihren Steingarten ist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-heading-1",
+        "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "2cbc13b9-8b7c-44e7-a249-a7993f8fdeb9": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "f8f38640-89f3-4ebe-bf1b-74c487c6bd4e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yucca-palmlili-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "8a7261cb-6657-4517-88ca-c542a42c3fcb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yucca-elephantipes-blaetter-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "f8f38640-89f3-4ebe-bf1b-74c487c6bd4e",
+        "8a7261cb-6657-4517-88ca-c542a42c3fcb"
+      ],
+      "settings": {
+      }
+    },
+    "e5a01037-2189-4f1d-b25b-90ea8bc7585c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Bogenhanf<\/h3>"
+          }
+        },
+        "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In unserem Sortiment finden Sie zwei pflegeleichte Sansevieria-Arten, die ebenfalls zu den Zimmerpflanzen, die wenig Licht brauchen, gerechnet werden. Das sind der <a href=\"\/products\/bogenhanf-cylindrica\" title=\"Bogenhanf 'Cylindrica'\">Bogenhanf Sansevieria cylindrica<\/a> und der <a href=\"\/products\/bunte-bogenhanf\" title=\"Bunte Bogenhanf\">Bunte Bogenhanf Sansevieria trifasciata<\/a>. Die in Westafrika und auf Madagaskar beheimatete Pflanzengattung hat sich an extrem trockene Bedingungen angepasst. Beide Bogenhanfarten können auch bei weniger Licht und bei Heizungswärme gedeihen. Die stiellosen Blätter wachsen wie Lanzen oder Zungen aus dem Wurzelstock. Je nach Art und Sorte sind die Blätter unterschiedlich gestaltet. Typisch für Sansevieria trifasciata sind die dunkel- und graugrüne Panaschierung und der gelbe Blattrand.<\/p><p>Sansevieria cylindrica hat lange stielrunde Blätter, die aufrecht wachsen und röhrenförmig aussehen. Beide Bogenhanf-Arten sind <strong>pflegeleicht<\/strong> und benötigen während der Wachstumsperiode von Frühjahr bis Sommer nur alle 2-3 Wochen Wasser. Im Herbst und Winter reicht ein Gießabstand von 5 bis 6 Wochen aus.<\/p><p>Vor allem bei Sansevieria trifasciata kippen die lanzettlichen Blätter zur Seite, wenn die Wurzeln keinen Halt mehr haben. Topfen Sie die Pflanzen, die zu groß geworden sind, rechtzeitig um. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-heading-1",
+        "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "04326bba-6214-4a4e-8f83-9a4db2e6017d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "71fb9f42-c269-4ce5-b736-a86b93167e5d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bogenhanf-trifasciata-blaettern-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "6abe5e52-c4c2-4570-aea6-120abb32a735": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bogenhanf-trifasciata-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "71fb9f42-c269-4ce5-b736-a86b93167e5d",
+        "6abe5e52-c4c2-4570-aea6-120abb32a735"
+      ],
+      "settings": {
+      }
+    },
+    "bb255599-f652-424a-a51b-4f6fb19c1bc3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Einblatt<\/h3>"
+          }
+        },
+        "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das <a href=\"\/products\/einblatt\" title=\"Einblatt\">Einblatt Spathiphyllum<\/a> wird auch Scheidenblatt, Blattfahne oder Friedenslilie genannt. Diese <strong>Schattenpflanze<\/strong> gehört zu der Familie der Aronstabgewächse und bringt schöne weiße Blüten hervor. Der Name Einblatt bezieht sich auf das weiße Hochblatt, das den Blütenkolben teilweise umhüllt. Die auffällig glänzenden Blätter zieren die Grünpflanze nach der Blütezeit. Standorte in der Nähe von Heizkörpern und an sonnigen Fenstern sind absolut ungeeignet, da die Zimmerpflanze durch trockene Heizungsluft beeinträchtigt wird und wenig Licht verträgt. Das Einblatt sollte auch im Winter bei einer Temperatur von mindestens 18 °C gehalten werden. Raumtemperaturen von mehr als 25 °C sind nicht geeignet. Das Umtopfen im Frühjahr alle 2 Jahre ist ausreichend.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-heading-1",
+        "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "165915eb-7181-4146-b3d7-2bbd403326bb": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "6248a230-5783-424c-851e-50a4156f01b8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/einblatt-spathiphyllum-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "46a08b26-972c-4ab3-a50f-3b7e4de1eac5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/einblatt-spathiphyllum-schattenpflanze-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "6248a230-5783-424c-851e-50a4156f01b8",
+        "46a08b26-972c-4ab3-a50f-3b7e4de1eac5"
+      ],
+      "settings": {
+      }
+    },
+    "114398d1-f746-4d3d-93ae-9fdf5a7383ef": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Kentiapalme<\/h3>"
+          }
+        },
+        "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Forstersche Kentia Howea forsteriana<\/a> ist eine aus Australien stammende Palmenart, die wenig Licht braucht. An zu dunklen Standorten wird das Wachstum allerdings stagnieren. Bei zu viel Sonnenlicht vergilben die Blätter. Daher ist ein Standort in Fensternähe ohne direkte Sonneneinstrahlung zu bevorzugen. Große Pflanzen können auf den Boden gestellt werden, für kleinere eignen sich runde Pflanzentische, damit die Kentiapalme gut zur Geltung kommt. <\/p><p>Die Pflanzenerde sollte ständig feucht sein, wobei Staunässe vermieden werden muss. Wenn Sie im Sommer etwa alle 5 Tage und im Winter alle 10 Tage gießen, entwickelt sich diese Palmenart auch bei wenig Licht sehr gut. Bei gutem Wachstum ist ein Umtopfen alle zwei Jahre erforderlich.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-heading-1",
+        "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "468c6ee7-4016-46aa-bb7a-e664d8e92a55": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "9f90d125-3032-49f2-ab08-42033ccfadc0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kentiapalme-blaettern-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "bd8c8db9-0ef5-454b-b85b-bb7e846516c7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kentiapalme-howea-forsteriana-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "9f90d125-3032-49f2-ab08-42033ccfadc0",
+        "bd8c8db9-0ef5-454b-b85b-bb7e846516c7"
+      ],
+      "settings": {
+      }
+    },
+    "60dcb534-d0a3-48de-b04d-2ed72a811c4a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Steckenpalme<\/h3>"
+          }
+        },
+        "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine buschig wachsende Zimmerpflanze, die wenig Licht braucht, ist die <a href=\"\/products\/steckenpalme\" title=\"Steckenpalme\">Steckenpalme Rhapis excelsa<\/a>. Diese Pflanzenart aus der Familie der Palmengewächse empfehlen wir wegen ihrer geringen Lichtansprüche für Standorte in Fensternähe. Hohe Exemplare können in große Kübel umgetopft und auf den Boden gestellt werden. Die dunkelgrünen, fächerförmigen Blätter eignen sich auch zur Begrünung von Büros, Empfangsbereichen und Restaurants. Im Sommer kann Rhapis excelsa auf einen schattigen Balkon oder eine Terrasse gestellt werden.<\/p><p>Achten Sie darauf, dass das Substrat im Topf immer leicht feucht ist. Dies gilt besonders für helle Standorte. Gegebenenfalls sollte die Steckenpalme im Frühjahr zu Beginn der Wachstumsperiode in größere Töpfe umgepflanzt werden. Geben Sie in der Hauptwachstumszeit zusätzliche Nährstoffe. Wir empfehlen Ihnen den <a href=\"\/products\/compo-grunpflanzen-und-palmendunger\" title=\"COMPO Grünpflanzen- und Palmendünger\">COMPO Grünpflanzen- und Palmendünger<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-heading-1",
+        "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "fff0d653-c980-46a2-ae5d-1e7070359fae": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "d8a3f223-84e4-4e2b-b88d-3cecb8ec9a61": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/steckenpalme-standorte-wenig-licht.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "1cbfef4d-46bd-4734-bbfd-db310e6b834a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/steckenpalme-blaetter-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8a3f223-84e4-4e2b-b88d-3cecb8ec9a61",
+        "1cbfef4d-46bd-4734-bbfd-db310e6b834a"
+      ],
+      "settings": {
+      }
+    },
+    "193ca2b6-31b6-4744-b193-ed21d3266bc0": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "74025a75-3918-4be5-bb45-d3335fed70bf",
+    "71eb563e-e473-4256-902c-1e8e18c4aa7d",
+    "22a9a392-c0d6-4484-8a06-68ff4670f3ed",
+    "6e6d4852-8137-4ce7-89ec-02a35cabd935",
+    "46af4bfc-63fe-49a9-8fe2-f9e951a3cc7f",
+    "c624f7b6-0111-4725-9de5-643082e65dc6",
+    "b5c96f8e-4a58-465a-87b4-4053085a4066",
+    "9637d49b-5929-4a65-a1fe-c89ed1262bf5",
+    "bea87605-1fbd-470e-9ba9-7a6379241c8b",
+    "1fe2411c-460d-4619-9b62-ac60b7d32ff8",
+    "63a5a52d-0be2-4492-bf17-25b64b76cadb",
+    "ace21b23-3a95-4dbb-8ea9-ef127642ab10",
+    "2cbc13b9-8b7c-44e7-a249-a7993f8fdeb9",
+    "e5a01037-2189-4f1d-b25b-90ea8bc7585c",
+    "04326bba-6214-4a4e-8f83-9a4db2e6017d",
+    "bb255599-f652-424a-a51b-4f6fb19c1bc3",
+    "165915eb-7181-4146-b3d7-2bbd403326bb",
+    "114398d1-f746-4d3d-93ae-9fdf5a7383ef",
+    "468c6ee7-4016-46aa-bb7a-e664d8e92a55",
+    "60dcb534-d0a3-48de-b04d-2ed72a811c4a",
+    "fff0d653-c980-46a2-ae5d-1e7070359fae",
+    "193ca2b6-31b6-4744-b193-ed21d3266bc0"
+  ]
+}

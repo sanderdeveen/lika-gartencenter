@@ -34,15 +34,25 @@
         "content"
       ],
       "settings": {
+        "related_title": "Lieferungen"
       }
     },
     "bf61a386-fc3d-4014-8cce-1b3ec47d6ded": {
       "type": "rich-text",
       "blocks": {
+        "150cc8ac-0d81-4c0e-b2ec-1cbf458c4b0c": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/hortensien-umpflanzen-oder-umtopfen-neu.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
         "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Hortensienarten<\/p>"
+            "heading": "<h2>Hortensienarten<\/h2>"
           }
         },
         "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-1": {
@@ -54,7 +64,7 @@
         "9712aea7-8006-4f62-ba55-8300e49df4eb": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Wann können Hortensien am besten umgepflanzt werden?<\/p>"
+            "heading": "<h2>Wann können Hortensien am besten umgepflanzt werden?<\/h2>"
           }
         },
         "f4d3094b-aed0-459e-82d4-de176cbe4e71": {
@@ -66,7 +76,7 @@
         "54b69380-1cb2-4f57-84b5-2a61f1910509": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Hortensien im Frühjahr umsetzen<\/p>"
+            "heading": "<h3>Hortensien im Frühjahr umsetzen<\/h3>"
           }
         },
         "8bd5648b-6c68-489c-b4ed-66b22c50a13b": {
@@ -78,7 +88,7 @@
         "b156901e-35d0-42b4-a55a-aa72756a457a": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Hortensien im Herbst umsetzen<\/p>"
+            "heading": "<h3>Hortensien im Herbst umsetzen<\/h3>"
           }
         },
         "653cbf34-fdd6-46ca-9c2c-248c97a0b15b": {
@@ -86,9 +96,19 @@
           "settings": {
             "text": "<p>Hortensien können auch im Herbst umgepflanzt werden. Allerdings sind in dieser Jahreszeit mehr Risiken damit verbunden, da die Pflanze im Herbst nicht die Gelegenheit erhält, sich im sich langsam erwärmenden Boden zu regenerieren. Dadurch steigt die Gefahr von Frostschäden.<\/p>"
           }
+        },
+        "8cb7e824-ff63-42d7-a727-6044dde71448": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/hortensien-umpflanzen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
         }
       },
       "block_order": [
+        "150cc8ac-0d81-4c0e-b2ec-1cbf458c4b0c",
         "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-0",
         "template--15922757370036__bf61a386-fc3d-4014-8cce-1b3ec47d6ded-1675952973e3726dfa-1",
         "9712aea7-8006-4f62-ba55-8300e49df4eb",
@@ -96,29 +116,12 @@
         "54b69380-1cb2-4f57-84b5-2a61f1910509",
         "8bd5648b-6c68-489c-b4ed-66b22c50a13b",
         "b156901e-35d0-42b4-a55a-aa72756a457a",
-        "653cbf34-fdd6-46ca-9c2c-248c97a0b15b"
+        "653cbf34-fdd6-46ca-9c2c-248c97a0b15b",
+        "8cb7e824-ff63-42d7-a727-6044dde71448"
       ],
       "settings": {
         "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "16eee4fc-cbd4-44ed-a1f8-71b9b77e60b1": {
-      "type": "inspiration-photo-block",
-      "blocks": {
-        "1866bb91-050f-42d7-b9b9-461e18f4d1b4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hortensien-im-herbst-umsetzen.jpg",
-            "text": "",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "1866bb91-050f-42d7-b9b9-461e18f4d1b4"
-      ],
-      "settings": {
+        "padding_bottom": 0
       }
     },
     "3be195a6-167d-46e5-b065-feb00d57e2f3": {
@@ -127,19 +130,19 @@
         "template--15922757370036__3be195a6-167d-46e5-b065-feb00d57e2f3-1675952973e3726dfa-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Wie pflanzt man Hortensien richtig um?<\/p>"
+            "heading": "<h2>Wie pflanzt man Hortensien richtig um?<\/h2>"
           }
         },
         "template--15922757370036__3be195a6-167d-46e5-b065-feb00d57e2f3-1675952973e3726dfa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Beim Umpflanzen von Hortensien sollte man einige Grundregeln beachten, damit die Pflanze keinen Schaden nimmt. Der richtige Zeitpunkt ist dabei ganz wichtig. Bevor die Hortensie umgepflanzt werden kann, muss der neue Standort sorgfältig ausgewählt werden. Suchen Sie einen halbschattigen Platz, dessen Durchmesser dem der Pflanze entspricht. Bei Jungpflanzen sind das etwa <strong>30 bis 40 cm<\/strong> und bei größeren Sträuchern etwa <strong>80 bis 90 cm<\/strong>.<\/p><p>Graben Sie an der Stelle, an der die Hortensie gepflanzt werden soll, ein Loch und füllen Sie es mit Hortensienerde oder mischen Sie etwas Gartentorf unter die Gartenerde. Zugleich kann auch etwas Hortensienblau hinzugefügt werden. Setzen Sie die Hortensie in das Pflanzloch, schaufeln Sie es zu und treten Sie die lockere Erde fest. Feuchten Sie die Erde leicht an, um sicherzustellen, dass die Pflanze problemlos und effektiv Wasser aufnehmen kann.<\/p>"
+            "text": "<p>Beim Umpflanzen von Hortensien sollte man einige Grundregeln beachten, damit die Pflanze keinen Schaden nimmt. Der richtige Zeitpunkt ist dabei ganz wichtig. Bevor die Hortensie umgepflanzt werden kann, muss der neue Standort sorgfältig ausgewählt werden. Suchen Sie einen halbschattigen Platz, dessen Durchmesser dem der Pflanze entspricht. Bei Jungpflanzen sind das etwa <strong>30 bis 40 cm<\/strong> und bei größeren Sträuchern etwa <strong>80 bis 90 cm<\/strong>.<\/p><p>Graben Sie an der Stelle, an der die Hortensie gepflanzt werden soll, ein Loch und füllen Sie es mit <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">Hortensienerde<\/a> oder mischen Sie etwas Gartentorf unter die Gartenerde. Zugleich kann auch etwas <a href=\"\/products\/compo-bio-blauduenger\" title=\"COMPO BIO Blaudünger\">Hortensienblau<\/a> hinzugefügt werden. Setzen Sie die Hortensie in das Pflanzloch, schaufeln Sie es zu und treten Sie die lockere Erde fest. Feuchten Sie die Erde leicht an, um sicherzustellen, dass die Pflanze problemlos und effektiv Wasser aufnehmen kann.<\/p>"
           }
         },
         "61bc6cc4-3ab2-4abd-8f48-c03ca98e1324": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Schritt-für-Schritt-Anleitung<\/p>"
+            "heading": "<h2>Schritt-für-Schritt-Anleitung<\/h2>"
           }
         },
         "3bc17e26-da6d-4147-9448-4e684e3d3249": {
@@ -151,25 +154,25 @@
         "28e0a9b1-1916-4664-ba4f-aa15f8cbb137": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Der ideale neue Standort<\/p>"
+            "heading": "<h3>Der ideale neue Standort<\/h3>"
           }
         },
         "d2dade6f-ab9b-4638-aee9-5c972195bb63": {
           "type": "text",
           "settings": {
-            "text": "<p>Bevor man die Hortensie umpflanzt, sollte man sich Gedanken über den neuen <strong>Standort<\/strong> machen. Achten Sie dabei auf die richtige Beschaffenheit des Bodens, damit die Pflanze keinen Schaden nimmt. <strong>Saure Böden<\/strong> sorgen dafür, dass blaue Hortensien blau bleiben, während sie sich in <strong>neutralen Böden<\/strong> rosa verfärben.<\/p><p>Außerdem gedeihen Hortensien am besten in humusreichen (sprich: nährstoffreichen) Böden. Der Pokon Flüssigdünger reichert den Boden mit Huminsäuren, Pflanzenextrakten und Spurenelementen an und versorgt die Pflanze mit den lebensnotwendigen Nährstoffen. Für eine bessere Wasserdurchlässigkeit des Bodens kann eventuell eine Schicht Compo Drainage- und Pflanzgranulat hinzugefügt werden.<\/p><p>Man sollte der Hortensie eine Umgebung bieten, in der sie sich regenerieren und optimal gedeihen kann. Da Hortensien viel Wasser benötigen, sollte ihr Standort nicht überdacht sein, sodass sie ausreichend mit Regenwasser versorgt werden. Wichtig ist auch, dass die Hortensie genügend Sonne abbekommt, aber auch wieder nicht zu viel. Ein <strong>halbschattiger Standort<\/strong> ist daher ideal.<\/p>"
+            "text": "<p>Bevor man die Hortensie umpflanzt, sollte man sich Gedanken über den neuen <strong>Standort<\/strong> machen. Achten Sie dabei auf die richtige Beschaffenheit des Bodens, damit die Pflanze keinen Schaden nimmt. <strong>Saure Böden<\/strong> sorgen dafür, dass blaue Hortensien blau bleiben, während sie sich in <strong>neutralen Böden<\/strong> rosa verfärben.<\/p><p>Außerdem gedeihen Hortensien am besten in humusreichen (sprich: nährstoffreichen) Böden. Der <a href=\"\/products\/compo-bio-rhododendron-und-hortensien-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle\">COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle<\/a> reichert den Boden mit Huminsäuren, Pflanzenextrakten und Spurenelementen an und versorgt die Pflanze mit den lebensnotwendigen Nährstoffen. Für eine bessere Wasserdurchlässigkeit des Bodens kann eventuell eine Schicht <a href=\"\/products\/compo-bio-granuplant-drainage-und-pflanzgranulat\" title=\"COMPO BIO GRANUPLANT Drainage- und Pflanzgranulat\">Compo Drainage- und Pflanzgranulat<\/a> hinzugefügt werden.<\/p><p>Man sollte der Hortensie eine Umgebung bieten, in der sie sich regenerieren und optimal gedeihen kann. Da Hortensien viel Wasser benötigen, sollte ihr Standort nicht überdacht sein, sodass sie ausreichend mit Regenwasser versorgt werden. Wichtig ist auch, dass die Hortensie genügend Sonne abbekommt, aber auch wieder nicht zu viel. Ein <strong>halbschattiger Standort<\/strong> ist daher ideal.<\/p>"
           }
         },
         "e8ba05bf-12ac-415e-bb82-e695f0dc23eb": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Hortensien nach dem Umpflanzen zurückschneiden<\/p>"
+            "heading": "<h3>Hortensien nach dem Umpflanzen zurückschneiden<\/h3>"
           }
         },
         "4ceb094a-3eac-4411-a4e8-300a7dcbf304": {
           "type": "text",
           "settings": {
-            "text": "<p>Was oft vergessen wird, ist, die Hortensie nach dem Umpflanzen auch zurückzuschneiden. Gerade das ist aber wichtig, da beim Umpflanzen zwangsläufig auch die Wurzeln gekürzt werden. Dadurch kann die Pflanze insgesamt weniger und auch nur kleinere Mengen Wasser aufnehmen und dauert es einige Zeit, bevor sich die Hortensie vom Umsetzen erholt hat. Deshalb ist das <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> nach dem Umpflanzen unerlässlich.<\/p><p>Durch den radikalen Rückschnitt wird die Verdunstung über Blätter und Blüten eingeschränkt. Wenn die Pflanze weniger Feuchtigkeit verdunstet, bleiben ihr mehr Wasser und Nährstoffe für die Regeneration erhalten.<\/p>"
+            "text": "<p>Was oft vergessen wird, ist, die Hortensie nach dem Umpflanzen auch zurückzuschneiden. Gerade das ist aber wichtig, da beim Umpflanzen zwangsläufig auch die Wurzeln gekürzt werden. Dadurch kann die Pflanze insgesamt weniger und auch nur kleinere Mengen Wasser aufnehmen und dauert es einige Zeit, bevor sich die Hortensie vom Umsetzen erholt hat. Deshalb ist das <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Zurückschneiden von Hortensien<\/a> nach dem Umpflanzen unerlässlich.<\/p><p>Durch den radikalen Rückschnitt wird die Verdunstung über Blätter und Blüten eingeschränkt. Wenn die Pflanze weniger Feuchtigkeit verdunstet, bleiben ihr mehr <strong>Wasser und Nährstoffe<\/strong> für die Regeneration erhalten.<\/p>"
           }
         }
       },
@@ -184,7 +187,7 @@
         "4ceb094a-3eac-4411-a4e8-300a7dcbf304"
       ],
       "settings": {
-        "padding_top": 12,
+        "padding_top": 0,
         "padding_bottom": 12
       }
     },
@@ -194,7 +197,7 @@
         "400b05b9-ab6d-4ea3-ac5f-70692b4600a4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hortensien-zurueckschneiden-ratgeber-gardena.jpg",
+            "image": "shopify:\/\/shop_images\/hortensien-zurueckschneiden-hortensien-umpflanzen.jpg",
             "text": "",
             "url": ""
           }
@@ -212,7 +215,7 @@
         "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Die richtige Pflege nach dem Umpflanzen<\/p>"
+            "heading": "<p>  <\/p>"
           }
         },
         "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-1": {
@@ -227,21 +230,20 @@
         "template--15922757370036__8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b-1675952973e3726dfa-1"
       ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "a634f0f1-c9cd-470e-b444-f948cc45070e": {
       "type": "author",
       "settings": {
-        "author": "lika"
+        "author": "arnout"
       }
     }
   },
   "order": [
     "main",
     "bf61a386-fc3d-4014-8cce-1b3ec47d6ded",
-    "16eee4fc-cbd4-44ed-a1f8-71b9b77e60b1",
     "3be195a6-167d-46e5-b065-feb00d57e2f3",
     "315f7f13-081b-4ed2-8027-588a93ca2e87",
     "8148e67b-5fb4-4b44-9b6e-0b728dbdaf4b",

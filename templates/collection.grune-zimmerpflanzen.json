@@ -102,11 +102,29 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller blühenden Gartenpflanzen",
-        "featured_product_one": "lavendel",
-        "featured_product_two": "rhododendron-weiss",
-        "featured_product_three": "bauernhortensie-rosa",
+        "top_sellers": "Topseller grünen Zimmerpflanzen",
+        "featured_product_one": "goldfruchtpalme",
+        "featured_product_two": "elefantenohr-1",
+        "featured_product_three": "baby-ufopflanze",
         "color_scheme": "background-1"
+      }
+    },
+    "52166d94-02d1-4dfb-93a9-30c99e9056a2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733879685469__52166d94-02d1-4dfb-93a9-30c99e9056a2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Alle grünen Zimmerpflanzen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733879685469__52166d94-02d1-4dfb-93a9-30c99e9056a2-heading-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "product-grid": {
@@ -134,249 +152,161 @@
         "padding_bottom": 0
       }
     },
-    "6ebad46d-38a7-4a7c-9710-0e181a486a1f": {
+    "3a23cc24-0304-4522-9363-ed28db654a3c": {
       "type": "rich-text",
       "blocks": {
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-heading-1": {
+        "template--19733879685469__3a23cc24-0304-4522-9363-ed28db654a3c-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Was sind blühende Gartenpflanzen?<\/h2>"
+            "heading": "<h2>Schöne grüne Zimmerpflanzen kaufen<\/h2>"
           }
         },
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-text-1": {
+        "template--19733879685469__3a23cc24-0304-4522-9363-ed28db654a3c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Fast alle Pflanzen blühen und bilden Samen aus. Auf diese Weise vermehren sie sich und sichern ihren Fortbestand. Nicht alle Pflanzenarten brauchen eine auffällige Blüte. Windbestäuber, die nicht auf den Besuch von Insekten angewiesen sind, blühen relativ unauffällig. So kommen Ziergräser und Nadelgehölze dank des Windes auch ohne bunte Blüten aus.<\/p>"
+            "text": "<p>Sie möchten grüne Zimmerpflanzen kaufen? Zimmerpflanzen sind die ideale Lösung für alle, die sich die Farbe Grün ins Haus holen und von der entspannenden Wirkung sattgrüner Blätter profitieren möchten. Beachten Sie beim Kauf einer schönen grünen Zimmerpflanze, dass deren Ausstrahlung den Charakter des Raumes bestimmen kann. Eine hohe Bananenpflanze verleiht dem Wohnzimmer einen exotischen Touch. Die Sansevierie hingegen wirkt modern und passt als Dekoration zu einem Retro-Stil. Große Blattpflanzen können auf dem Boden stehen und den Raum in funktionale Bereiche gliedern. Kleinere Zimmerpflanzen eignen sich für Schreibtische, Tische, Regale und Fensterbänke. In Wohnräumen mit hohen Decken finden große grüne Solitärpflanzen in Kübeln ausreichend Platz. <br\/><\/p>"
           }
         },
-        "64587e66-920b-48cf-a418-05584a6fd661": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pflanzenarten, die auf die Bestäubung durch Insekten angewiesen sind, überbieten sich mit einer Vielfalt an Formen und Farben. Durch diesen „natürlichen Schönheitswettbewerb“ um die Aufmerksamkeit von Bienen, Hummeln und Schmetterlingen hat die Natur eine unglaubliche Blütenvielfalt entwickelt. Aus diesen Wildpflanzen wurden die blühenden Gartenpflanzen gezüchtet, mit denen wir heutzutage unsere Gärten, Terrassen und Balkons schmücken.<br\/><\/p>"
-          }
-        },
-        "ffa977f8-6a69-446a-9826-8b2ba12234ad": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image": "shopify:\/\/shop_images\/bluehende-gartenpflanzen-was-sind-das.jpg",
-            "columns_mobile": "1",
-            "columns_desktop": 1
-          }
-        },
-        "0df422c3-113d-4561-bcfa-7cd210b2e154": {
+        "c7bbe368-a6c4-4292-9d37-bd45bd5d1ec7": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Worin besteht die Vielfalt der blühenden Gartenpflanzen?<\/h2>"
+            "heading": "<h2>Welche Zimmerpflanzen sind immergrün?<\/h2>"
           }
         },
-        "c54f72cf-929f-40fe-bc6a-6074758e63fe": {
+        "61893f44-df16-486e-85aa-58862a0b33a7": {
           "type": "text",
           "settings": {
-            "text": "<p>Die <strong>Blütenformen<\/strong> der blühenden Gartenpflanzen sind sehr unterschiedlich. Oft leiten sich die Namen der Pflanzenfamilien von den Formen der Blüten ab. Beispiele hierfür sind die Lippenblütler, die Doldenblütler oder die Rosengewächse.<\/p>"
-          }
-        },
-        "142c1786-ce09-4726-8bf3-dd6ead73d668": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Durch die Pflanzenzüchtung ist ein unglaubliches Spektrum an <strong>Blütenfarben<\/strong> entstanden. Das bedeutet, dass Beete, Rabatten und Kübel in einer farbenfrohen Mischung oder Ton-in-Ton mit blühenden Gartenpflanzen bepflanzt werden können.<\/p>"
-          }
-        },
-        "8bf9b4d4-7946-4f26-97e1-26737b746294": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Jede Pflanzenart und -sorte unterscheidet sich in Bezug auf <strong>Blütezeit und Blühdauer<\/strong>. Zwiebelgewächse starten zeitig im Frühjahr und werden anschließend von blühenden Stauden abgelöst. Ziergehölze wie Rosen blühen bis spät in den Herbst hinein. Hortensienblüten sind mit bis zu 12 Wochen die absoluten Dauerblüher.<br\/>Während Sie sich an der unglaublichen Farbenpracht, dem betörenden <strong>Duft und der Schönheit<\/strong> erfreuen, bieten Sie mit dem Kauf von blühenden Gartenpflanzen vielen Insekten eine zusätzliche <strong>Nahrungsquelle und einen Lebensraum<\/strong>. Blühende Gartenpflanzen locken Bestäuber an. Sie ernähren sich von den eiweißreichen Pollen und dem energiereichen Nektar. Ihr Summen und Brummen bringt Leben in den Garten.<\/p>"
-          }
-        },
-        "4158e973-6edb-44a7-874e-070b34630dcd": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Verschiedene Arten blühender Gartenpflanzen<\/h2>"
-          }
-        },
-        "9cffbfbd-b85f-4d13-baad-83bc9d849955": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Zu den verschiedenen Arten blühender Gartenpflanzen gehören Bodendecker, Zwiebelblumen, Stauden und Ziersträucher. Diese Pflanzenarten unterscheiden sich durch typische Eigenschaften, die bei der Planung eines Blumengartens berücksichtigt werden sollten:<\/p>"
-          }
-        },
-        "da23dbb7-c946-48b0-97a4-a3bd3a10a254": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h3>Lichtverhältnisse und Bodenbeschaffenheit<\/h3>"
-          }
-        },
-        "50b97829-f472-4cec-b7f8-6442976211fb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Jede blühende Gartenpflanze hat unterschiedliche Ansprüche an die Lichtverhältnisse und die Bodenbeschaffenheit. So gedeihen Rhododendren auf humusarmen, alkalischen Böden und an sonnigen Standorten sehr schlecht. Sonnenliebende Gartenpflanzen wie Rosen entwickeln an schattigen Plätzen mit saurer Erde kaum Blüten.<\/p>"
-          }
-        },
-        "2f2e8d82-9b89-4aab-b0aa-b1ef3a6ed484": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h3>Blütezeit und die Blühdauer<\/h3>"
-          }
-        },
-        "361e0bf0-0601-47dc-9aef-73d13e94307b": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Für einen ganzjährig blühenden Garten spielen die Blütezeit und die Blühdauer eine wichtige Rolle. Mit verschiedenen blühenden Gartenpflanzen kann ein Blütenparadies geschaffen werden, in dem sich die Blühphasen immer wieder abwechseln. Jeder neue Blühhöhepunkt verändert den Garten und zu jeder Jahreszeit – auch im Winter – kann man Blumen bewundern.<\/p>"
-          }
-        },
-        "b7acc0f7-a32e-4702-9128-0f689384ffca": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h3>Wuchsform, Wuchshöhe und Platzbedarf<\/h3>"
-          }
-        },
-        "5424ade6-ebe8-46f4-a0f3-a25070bbba99": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Berücksichtigen Sie Wuchsform, Wuchshöhe und Platzbedarf der blühenden Gartenpflanzen, damit sich jede Pflanze gut entwickelt. Hochwachsende Stauden und Ziersträucher gehören in den Hintergrund, wo sie kleinere Gartenpflanzen und Bodendecker nicht überwuchern können. So bekommt jede Blühpflanze mehr Licht und wird nicht verdeckt. Durch diese Staffelung in der Wuchshöhe wirkt das Gesamtbild der Blumen klar und strukturiert.<br\/><\/p>"
-          }
-        },
-        "f68b4cd2-25f8-4e74-8e2f-f8c4c9be06a6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Suchen Sie aus den verschiedenen Arten blühender Gartenpflanzen Ihre Favoriten aus. Berücksichtigen Sie aber auch die oben genannten Eigenschaften, damit ein harmonischer, durchgehend blühender Garten entsteht. Hier zeigen wir Ihnen einige Pflanzenbeispiele:<\/p>"
-          }
-        },
-        "83b9754b-af29-4099-826c-82bdc62df2ef": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Blühende Bodendecker<\/h2>"
-          }
-        },
-        "05dd1523-a6bf-4a09-8493-de9cdd2cbe80": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><a href=\"\/products\/garten-storchschnabel-weiss\" title=\"Garten-Storchschnabel weiß\">Garten-Storchschnabel<\/a><\/li><\/ul><p>Vom Garten-Storchschnabel (Geranium macrorrhizum) gibt es verschiedene Sorten mit unterschiedlichen Blütenfarben. Mit einer Wuchshöhe von nur 25 cm und einem buschigen Wuchs entwickelt dieser Storchschnabel von März bis Oktober ein schönes, dichtes weißes Blütenkissen. Damit eignet sich der blühende Bodendecker für die Unterpflanzung von Bäumen ebenso wie für Grabbepflanzungen und pflegeleichte Rabatten. Bodendecker sparen Zeit, denn der dichte, polsterartige Wuchs hält das Unkraut zurück. Das gelegentliche Harken zwischen den Pflanzen entfällt.<\/p>"
-          }
-        },
-        "e6928fca-83b3-4e34-8817-4ef827e33f24": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Blühende Stauden<\/p>"
-          }
-        },
-        "634187f2-4b26-447f-bef9-7c291aad1437": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><a href=\"\/products\/lavendel\" title=\"Lavendel\">Lavendel<\/a><\/li><\/ul><p>Die wunderbar duftenden Blüten des Lavendels bringen ab Ende Juni den Zauber der Provence in den Garten. Die zahlreichen Lavendelsorten unterscheiden sich in Wuchsform, Blütenfarbe und Blütezeit. Für Beete und Rabatten eignen sich die hochwüchsigen Hybridsorten. Für die Bepflanzungen von Balkonkästen und Kübeln empfehlen wir die kleinwüchsigeren Sorten. Lavendel ist weniger trockenheitsempfindlich und bietet sich für einen pflegeleichten Garten an.<\/p><ul><li><a href=\"\/products\/steppensalbei\" title=\"Steppensalbei\">Steppensalbei<\/a><\/li><\/ul><p>Der Steppensalbei gehört zu den sommerlichen Dauerblühern. Ab Juni entwickeln sich unzählige violette, samtige Blüten. Erst bei Frost kommt die Blühphase zum Stillstand. Diese Salbeiart wird 80 bis 120 cm hoch und breit und kann in den hinteren Teil von Beeten und Rabatten gepflanzt werden, um eine Tiefenwirkung zu erzielen. Für Blumeninseln eignet sich die Beetmitte als Standort.<\/p><ul><li><a href=\"\/collections\/blumenzwiebeln\" title=\"Blumenzwiebeln\">Dahlien<\/a><\/li><\/ul><p>Dahlien gehören zu den beliebtesten sommerblühenden Gartenpflanzen. Sie dürfen in keinem farbenfrohen Blumenbeet fehlen. Zum einen wegen der unglaublichen Farbenpracht, zum anderen wegen der vielfältigen Blütenformen: Es gibt bis zu 15 Dahlien-Klassen mit unterschiedlichen Blütenformen. Dazu gehören zum Beispiel die Pompon-Dahlien, die Anemonenblütigen Dahlien, die Stern-Dahlien und die Halskrausen-Dahlien.<\/p>"
-          }
-        },
-        "f5ae16ac-4290-4116-9483-0f136fb70318": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image": "shopify:\/\/shop_images\/lavendel-bluehende-gartenpflanzen-stauden.jpg",
-            "columns_mobile": "1",
-            "columns_desktop": 1
-          }
-        },
-        "4f73acc8-f3c0-4e7e-8091-3ed7eaaaaca5": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Blühende Ziersträucher<\/p>"
-          }
-        },
-        "1254b4b7-329e-4c28-bd4c-225d31fd3b50": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><a href=\"\/collections\/rhododendron\" title=\"Rhododendron\">Rhododendron<\/a><\/li><\/ul><p>Der immergrüne Rhododendron ist das ganze Jahr über eine Zierde für den Garten und bietet mit seinem attraktiven Blattschmuck Sichtschutz. Der Zierwert wird durch die Blütezeit von Mai bis Juli noch gesteigert. Einige Sorten und Hybriden beginnen sogar schon im März zu blühen.<\/p><p>Die Blüten der Rhododendren füllen somit die Blütenlücke, die nach dem Verblühen der Frühjahrsblüher entsteht. Interessant ist auch die Farbenpracht dieser Pflanzenart. Neben rein weiß-, rot-, rosa- und gelbblühenden Arten gibt es zahlreiche Hybridsorten mit aufregenden Farbverläufen. Durch den schirmtraubigen Blütenstand mit vielen großen Blüten ist das artenreiche Gehölz sehr auffällig. Deshalb kann der blühende Zierstrauch auch als Solitärgehölz gepflanzt werden. Eine blühende Rhododendronhecke als Gartenbegrenzung eignet sich hervorragend für halbschattige Standorte.<\/p><ul><li><a href=\"\/collections\/rosen\" title=\"Rosen\">Rosen<\/a><\/li><\/ul><p>Wer Blumen liebt und einen sonnigen Garten hat, sollte auf Rosen nicht verzichten. Rosen gehören zu den beliebtesten blühenden Gartenpflanzen. Reine Rosenbeete mit verschiedenen Sorten und Arten verströmen nicht nur einen betörenden Duft. <\/p><p>Bemerkenswert ist die Vielseitigkeit dieses Ziergehölzes. So gibt es Kleinstrauchrosen für den Kübel, auf Unterlagen veredelte Rosenbäumchen oder Kletterrosen für Spaliere und Arkaden. Einige Sorten beginnen bereits im April, die meisten im Mai mit der Blütenbildung. Viele Beet- und Strauchrosen sind öfterblühend. Sie sind echte Sommerblüher, die immer wieder neue Blüten hervorbringen. Diese Blühfreude kann noch verstärkt werden, wenn verblühte Rosen regelmäßig entfernt werden. Rosen sind übrigens wunderbare Schnittblumen, die sich in der Vase sehr lange halten.<\/p><ul><li><a href=\"\/collections\/hortensien\" title=\"Hortensien\">Hortensien<\/a><\/li><\/ul><p>Für den halbschattigen blühenden Garten empfehlen wir die Sortenvielfalt der Strauchhortensien, die ein Farbspektakel bieten. Ab Juni entwickeln sich die doldigen Blütenstände in Blau, Weiß, Rosa, Rot und Violett, die bis in den Herbst hinein an dem Zierstrauch verbleiben. Die Blüten der modernen <a href=\"\/collections\/magical-hortensien\" title=\"Magical-Hortensien\">Magical-Hortensiensorten<\/a> zeigen interessante Farbverläufe, die sich im Laufe der Gartensaison verändern. <\/p><p>Hortensien sind reich blühende Gartenpflanzen, die sehr alt und ausladend werden können. Der Pflegeaufwand ist im Verhältnis zur Blütenpracht gering: Die pflegeleichten Hortensien benötigen einen einmaligen Rückschnitt im Frühjahr, etwas Dünger und bei Trockenheit ausreichend Wasser. Hinzu kommt das Laubharken im Herbst. Wer einen sonnigen Garten hat, muss auf Hortensien nicht verzichten. Die sonnentolerante Schneeballhortensie und die Rispenhortensie gibt es nicht nur in Weiß, sondern auch in Rosa und Rot.<\/p><ul><li><a href=\"\/products\/gelber-winterjasmin\" title=\"Gelber Winterjasmin\">Gelber Winterjasmin<\/a><\/li><\/ul><p>Lust auf mehr Blütenpracht im winterlichen Garten? Auch das ist möglich. Der Gelbe Winterjasmin ist ein winterharter Zierstrauch, der von Dezember bis Ende Februar gelbe, duftende Blüten ausbildet.<br\/><\/p>"
-          }
-        },
-        "8a2ec13b-0e79-41af-b06e-ea1e7081ff49": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image": "shopify:\/\/shop_images\/Jasminum-nudiflorum-gelber-winterjasmin.jpg",
-            "columns_mobile": "1",
-            "columns_desktop": 1
-          }
-        },
-        "7c99ef32-6c38-4885-9618-7439ba205fc6": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Tipps zum Pflanzen blühender Gartenpflanzen<\/h2>"
-          }
-        },
-        "5877d11d-ff04-4ceb-a160-734fdb042187": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Pflanzvorbereitung<\/strong><\/li><\/ul><p>Viele Gartenböden haben einen neutralen pH-Wert um 7, mit dem die meisten blühenden Gartenpflanzen gut zurechtkommen. Wie kann man den pH-Wert des Bodens bestimmen? Es gibt spezielle Teststreifen, mit denen man messen kann, ob die Gartenerde sauer, neutral oder alkalisch ist. Sie können sich diese Mühe auch sparen und mit Spezialblumenerde den besonderen Bodenansprüchen der blühenden Gartenpflanzen etwas entgegenkommen. Für Rhododendren und alle anderen Pflanzen, die einen sauren Boden bevorzugen, empfehlen wir <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">COMPO SANA® Rhododendron- und Hortensienerde<\/a>. <\/p><p>Viele Gartenpflanzen bevorzugen einen humusreichen Boden. <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a> bietet neben Humus zusätzliche Nährstoffe, die das Pflanzenwachstum fördern. Dieses Spezialsubstrat eignet sich auch zur Abdeckung der obersten Bodenschicht, wodurch die Unkrautentwicklung gehemmt wird.<\/p>"
-          }
-        },
-        "37a6645d-1496-49e6-8fe1-961f874b8fa2": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Pflanzung<\/strong><\/li><\/ul><p>Graben Sie ein ausreichend großes Pflanzloch. Es sollte etwa 30 % größer sein als der Wurzelballen. Füllen Sie das Pflanzloch mit der gekauften Pflanzerde auf. Ausreichend Wasser beim Pflanzen und in der Anwachsphase garantieren eine gute Pflanzenentwicklung.<\/p>"
-          }
-        },
-        "7dad637a-0a77-408f-8237-aba6530eb32a": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Pflegetipps für blühende Gartenpflanzen<\/h2>"
-          }
-        },
-        "c1d60394-f840-4b87-b4cc-2ba97444fb4b": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Bewässerung<\/li><\/ul><p>Fast alle blühenden Gartenpflanzen benötigen in dieser kritischen Entwicklungsphase ausreichend Wasser. Trockenheit durch ausbleibenden Regen, kann zum vorzeitigen Verwelken der Blumen führen. Kübel- und Balkonpflanzen haben generell einen höheren Wasserbedarf. Regelmäßiges Gießen fördert das gleichmäßige Wachstum und damit den Blüherfolg.<\/p><ul><li>Schnitt<\/li><\/ul><p>Blüten entwickeln sich vor allem an jungen Trieben. Blühende Ziergehölze, aber auch Stauden wie Lavendel brauchen einen Rückschnitt, um das Wachstum anzuregen.<\/p><ul><li>Düngen<\/li><\/ul><p>Optimal mit Nährstoffen versorgte, blühende Gartenpflanzen entwickeln einen reichen Blütenflor. COMPO BIO Universal Langzeit-Dünger mit Schafwolle ist ein organischer Dünger, der die Pflanzen über 5 Monate mit Nährstoffen versorgt. Er fördert die Humusbildung und die Entwicklung der Bodenmikroorganismen.<\/p><ul><li>Unkraut entfernen<\/li><\/ul><p>Zwischen den Pflanzen eines Blumengartens kann sich das Unkraut etwas verstecken und ungestört vermehren. Regelmäßiges Harken oder Jäten sorgt für einen gepflegten Gesamteindruck.<\/p>"
-          }
-        },
-        "21defbfd-0e93-4ea3-a6a5-a5fa86ace102": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Blühende Gartenpflanzen kaufen auf Gartencenter.de<\/h2>"
-          }
-        },
-        "3dcb5f1c-47c4-4f36-abac-310a17ae74b2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Blühende Topfpflanzen verwandeln Terrassen und Balkone in eine attraktive Umgebung. Stauden, Ziergehölze und Bodendecker sorgen für eine abwechslungsreiche Blütezeit im Garten. Bei Gartencenter.de können Sie eine große Auswahl an blühenden Gartenpflanzen für Beete, Rabatten und Kübel online kaufen. Bestellen Sie auch Spezialdünger und Blumenerden und nutzen Sie den bequemen Lieferservice.<\/p>"
+            "text": "<p>Die meisten Zimmerpflanzen sind immergrün, da sie aus den Tropen und Subtropen stammen, wo die Vegetation keine Winterruhe hält. Die oberen Pflanzenteile wie Blätter und Triebe sterben nicht ab. Deshalb sind diese Pflanzen das ganze Jahr über mit ihren schönen grünen Blättern eine Zierde. Sie sind mit einem üppigen Blattwerk ausgestattet, das in Innenräumen besonders gut zur Geltung kommt. Zimmerpflanzen wie die <a href=\"\/products\/goldfruchtpalme\" title=\"Goldfruchtpalme\">Goldfruchtpalme Areca lutescens<\/a>, das <a href=\"\/products\/elefantenohr-1\" title=\"Elefantenohr\">Elefantenohr Alocasia 'Macrorrhiza'<\/a> und die <a href=\"\/products\/kanarische-dattelpalme\" title=\"Kanarische Dattelpalme\">Kanarische Dattelpalme Phoenix 'Canariensis'<\/a> wachsen sehr kräftig. Sie schmücken mit ihren sattgrünen Blättern unsere Wohn- und Arbeitsräume. Übrigens sind nicht alle Zimmerpflanzen grün: Der <a href=\"\/products\/wunderstrauch-1\" title=\"Wunderstrauch 'Mrs. Iceton'\">Wunderstrauch 'Mrs. Iceton' <\/a>trägt bunte Blätter, die von Rot über Gelb in verschiedene Grüntöne übergehen.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-heading-1",
-        "template--19236607295837__6ebad46d-38a7-4a7c-9710-0e181a486a1f-text-1",
-        "64587e66-920b-48cf-a418-05584a6fd661",
-        "ffa977f8-6a69-446a-9826-8b2ba12234ad",
-        "0df422c3-113d-4561-bcfa-7cd210b2e154",
-        "c54f72cf-929f-40fe-bc6a-6074758e63fe",
-        "142c1786-ce09-4726-8bf3-dd6ead73d668",
-        "8bf9b4d4-7946-4f26-97e1-26737b746294",
-        "4158e973-6edb-44a7-874e-070b34630dcd",
-        "9cffbfbd-b85f-4d13-baad-83bc9d849955",
-        "da23dbb7-c946-48b0-97a4-a3bd3a10a254",
-        "50b97829-f472-4cec-b7f8-6442976211fb",
-        "2f2e8d82-9b89-4aab-b0aa-b1ef3a6ed484",
-        "361e0bf0-0601-47dc-9aef-73d13e94307b",
-        "b7acc0f7-a32e-4702-9128-0f689384ffca",
-        "5424ade6-ebe8-46f4-a0f3-a25070bbba99",
-        "f68b4cd2-25f8-4e74-8e2f-f8c4c9be06a6",
-        "83b9754b-af29-4099-826c-82bdc62df2ef",
-        "05dd1523-a6bf-4a09-8493-de9cdd2cbe80",
-        "e6928fca-83b3-4e34-8817-4ef827e33f24",
-        "634187f2-4b26-447f-bef9-7c291aad1437",
-        "f5ae16ac-4290-4116-9483-0f136fb70318",
-        "4f73acc8-f3c0-4e7e-8091-3ed7eaaaaca5",
-        "1254b4b7-329e-4c28-bd4c-225d31fd3b50",
-        "8a2ec13b-0e79-41af-b06e-ea1e7081ff49",
-        "7c99ef32-6c38-4885-9618-7439ba205fc6",
-        "5877d11d-ff04-4ceb-a160-734fdb042187",
-        "37a6645d-1496-49e6-8fe1-961f874b8fa2",
-        "7dad637a-0a77-408f-8237-aba6530eb32a",
-        "c1d60394-f840-4b87-b4cc-2ba97444fb4b",
-        "21defbfd-0e93-4ea3-a6a5-a5fa86ace102",
-        "3dcb5f1c-47c4-4f36-abac-310a17ae74b2"
+        "template--19733879685469__3a23cc24-0304-4522-9363-ed28db654a3c-heading-1",
+        "template--19733879685469__3a23cc24-0304-4522-9363-ed28db654a3c-text-1",
+        "c7bbe368-a6c4-4292-9d37-bd45bd5d1ec7",
+        "61893f44-df16-486e-85aa-58862a0b33a7"
       ],
-      "disabled": true,
       "settings": {
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "722058b1-c173-49a1-9e57-05e93e58d23e": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "191309c8-c377-479b-9be1-b28a58eae890": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ufopflanze-blaetter.jpg",
+            "text": "Ufopflanze",
+            "url": "shopify:\/\/products\/baby-ufopflanze"
+          }
+        },
+        "f19d3d57-0301-4c53-a9d1-dce761fa1fb5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/areca-blaettern-gruene-zimmerpflanzen.jpg",
+            "text": "Goldfruchtpalme",
+            "url": "shopify:\/\/products\/goldfruchtpalme"
+          }
+        }
+      },
+      "block_order": [
+        "191309c8-c377-479b-9be1-b28a58eae890",
+        "f19d3d57-0301-4c53-a9d1-dce761fa1fb5"
+      ],
+      "settings": {
+      }
+    },
+    "b13b47cf-e741-412b-b08f-3b0d7c79e136": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733879685469__b13b47cf-e741-412b-b08f-3b0d7c79e136-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Grüne Luftreinigungspflanze<\/h2>"
+          }
+        },
+        "template--19733879685469__b13b47cf-e741-412b-b08f-3b0d7c79e136-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/collections\/luftreinigende-zimmerpflanzen\" title=\"Luftreinigende Zimmerpflanzen\">Luftreinigende Zimmerpflanzen<\/a> nehmen bei der Fotosynthese CO2 und andere Schadstoffe auf. Das Kohlendioxid wird in Zucker umgewandelt. Benzol und Formaldehyd werden in der Pflanze gebunden. Je mehr Blätter eine Zimmerpflanze hat und je größer diese Blätter sind, desto intensiver ist der luftreinigende Effekt. Die Filterwirkung von Zimmerpflanzen ist jedoch begrenzt. Das Lüften der Räume kann durch einige luftreinigende Zimmerpflanzen nicht ersetzt werden. Zu den Grünpflanzen mit luftreinigenden Eigenschaften gehören die <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante Calathea orbifolia<\/a>, das <a href=\"\/products\/fensterblatt-mit-kokosstab\" title=\"Fensterblatt mit Kokosstab\">Fensterblatt Monstera pertusem<\/a> und die <a href=\"\/products\/steckenpalme\" title=\"Steckenpalme\">Steckenpalme Rhapis 'Excelsa'<\/a>. Diese immergrünen Pflanzenarten können sehr groß werden. Übrigens nimmt die luftreinigende Wirkung mit der Größe der Pflanzen zu. Ein Grund, größere immergrüne Zimmerpflanzen zu kaufen!<\/p>"
+          }
+        },
+        "23478fb4-a754-440f-aeee-051b2ffea772": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Pflege von grünen Zimmerpflanzen<\/h2>"
+          }
+        },
+        "5b9bde1f-5864-424c-83ab-60c27a89adb4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grüne Zimmerpflanzen haben je nach Art unterschiedliche Ansprüche an die Pflege. Allgemeingültige Regeln gibt es nicht. Manche Zimmerpflanzen brauchen viel Wasser, Dünger und Licht. Andere brauchen viel weniger von allem. Achten Sie auf die spezifischen Pflegebedürfnisse jeder Pflanzenart. Beobachten Sie auch die Entwicklung der Pflanzen. Verfärbte Blätter sind immer ein Zeichen dafür, dass etwas mit der Pflege oder dem Standort nicht stimmt. Wenn Sie keine Zeit für eine aufwendige Pflanzenpflege haben, sollten Sie <a href=\"\/collections\/pflegeleichte-zimmerpflanzen\" title=\"Pflegeleichte Zimmerpflanzen\">pflegeleichte grüne Zimmerpflanzen<\/a> kaufen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733879685469__b13b47cf-e741-412b-b08f-3b0d7c79e136-heading-1",
+        "template--19733879685469__b13b47cf-e741-412b-b08f-3b0d7c79e136-text-1",
+        "23478fb4-a754-440f-aeee-051b2ffea772",
+        "5b9bde1f-5864-424c-83ab-60c27a89adb4"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "25c12d77-fc4f-4e90-9838-ceb9612b726d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "6bf2a8d6-7be6-432a-b1e0-2a7d604721b6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rhapis-excelsa-steckenpalme-gruene-zimmerpflanzen.jpg",
+            "text": "Steckenpalme",
+            "url": "shopify:\/\/products\/steckenpalme"
+          }
+        },
+        "767def36-148e-49b7-b02e-1517c08176f8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/monstera-fensterblatt-gruene-zimmerpflanzen.jpg",
+            "text": "Fensterblatt",
+            "url": "shopify:\/\/products\/fensterblatt"
+          }
+        }
+      },
+      "block_order": [
+        "6bf2a8d6-7be6-432a-b1e0-2a7d604721b6",
+        "767def36-148e-49b7-b02e-1517c08176f8"
+      ],
+      "settings": {
+      }
+    },
+    "f53c57ea-fbde-499a-acf4-d88c1a0cfb4f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733879685469__f53c57ea-fbde-499a-acf4-d88c1a0cfb4f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Grüne Zimmerpflanzen kaufen<\/p>"
+          }
+        },
+        "template--19733879685469__f53c57ea-fbde-499a-acf4-d88c1a0cfb4f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grüne Zimmerpflanzen kaufen Sie am besten über das Internet! Die Auswahl an Pflanzenarten in den verschiedenen Wuchshöhen ist sehr vielfältig und breit gefächert. Sie können für Ihr Zuhause zwischen kleinen, grünen Zimmerpflanzen und großen, prächtigen Solitärpflanzen entscheiden. Schön ist, was gefällt. Dank der Artenvielfalt können Sie zwischen sonnen-, halbschatten- und schattenliebenden Zimmerpflanzen wählen. Suchen Sie je nach Platzbedarf und Lichtverhältnissen die am besten geeignete Pflanze aus. Die Standortansprüche der grünen Zimmerpflanzen sollten unbedingt beachtet werden. Ersparen Sie sich Enttäuschungen, wenn die gewählte Pflanzenart am vorgesehenen Platz kaum wächst oder sogar eingeht. Kaufen Sie immer eine grüne Zimmerpflanze, die für den Standort geeignet ist. Wir sind davon überzeugt, dass man bei der Wohnungseinrichtung auf grüne Zimmerpflanzen nicht verzichten sollte.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733879685469__f53c57ea-fbde-499a-acf4-d88c1a0cfb4f-heading-1",
+        "template--19733879685469__f53c57ea-fbde-499a-acf4-d88c1a0cfb4f-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
@@ -431,8 +361,13 @@
     "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
     "16636997769ffcaf8a",
     "banner",
+    "52166d94-02d1-4dfb-93a9-30c99e9056a2",
     "product-grid",
-    "6ebad46d-38a7-4a7c-9710-0e181a486a1f",
+    "3a23cc24-0304-4522-9363-ed28db654a3c",
+    "722058b1-c173-49a1-9e57-05e93e58d23e",
+    "b13b47cf-e741-412b-b08f-3b0d7c79e136",
+    "25c12d77-fc4f-4e90-9838-ceb9612b726d",
+    "f53c57ea-fbde-499a-acf4-d88c1a0cfb4f",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
     "65e6bb14-9d81-47ff-894a-fb634c9b2619"
   ]

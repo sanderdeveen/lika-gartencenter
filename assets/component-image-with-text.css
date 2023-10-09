@@ -332,14 +332,14 @@
 .image-with-text {
   box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
   --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1),0 1px 2px 0 rgba(0, 0, 0, 0.06);
-  margin: 1rem;
+  margin: 16px 1rem;
   background-color: #FFF;
   border-radius: 0.4rem;
 }
 
 @media screen and (min-width: 1300px) {
   .image-with-text {
-    margin: 0 auto;
+    margin: 21px auto;
     padding: 1rem !important;
   }
 }

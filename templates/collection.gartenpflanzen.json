@@ -226,6 +226,45 @@
         "mobile_swipe": false
       }
     },
+    "e96af5cc-4551-4c45-87ce-cc49a59a5516": {
+      "type": "populair-collections",
+      "blocks": {
+        "template--19733879587165__e96af5cc-4551-4c45-87ce-cc49a59a5516-collection_grid_links-1": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/japanische-gartenpflanzen",
+            "image": "shopify:\/\/shop_images\/japanische-garten-gartenpflanzen-collection.jpg",
+            "header": "Japanische Gartenpflanzen"
+          }
+        },
+        "38d5a5c3-bef5-447f-a830-6b36d3f9c9b1": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/bluehende-gartenpflanzen",
+            "image": "shopify:\/\/shop_images\/bluehende-gartenpflanzen.jpg",
+            "header": "Blühende Gartenpflanzen"
+          }
+        },
+        "d70ac46f-c36a-4eb9-b913-d834832697bb": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/immergruene-gartenpflanzen",
+            "image": "shopify:\/\/shop_images\/immergruene-gartenpflanzen-gartencenter.jpg",
+            "header": "Immergrüne Gartenpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733879587165__e96af5cc-4551-4c45-87ce-cc49a59a5516-collection_grid_links-1",
+        "38d5a5c3-bef5-447f-a830-6b36d3f9c9b1",
+        "d70ac46f-c36a-4eb9-b913-d834832697bb"
+      ],
+      "settings": {
+        "header": "Häufig angesehene Themen",
+        "text": "",
+        "mobile_swipe": false
+      }
+    },
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39": {
       "type": "rich-text",
       "blocks": {
@@ -453,6 +492,7 @@
     "16636997769ffcaf8a",
     "banner",
     "63f32f95-dde4-49e7-bc58-32c9cef87283",
+    "e96af5cc-4551-4c45-87ce-cc49a59a5516",
     "d74b5527-e2dd-4700-8ce8-a035fb9ccb39",
     "product-grid",
     "f9e9166b-e2f9-4d10-be9a-8d3dff190e8a",

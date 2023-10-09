@@ -34,10 +34,170 @@
         "content"
       ],
       "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "568e36c8-6fd5-4138-a482-1d1c932c377b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19733878243677__568e36c8-6fd5-4138-a482-1d1c932c377b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Schritt-für-Schritt-Anleitung<\/h2>"
+          }
+        },
+        "template--19733878243677__568e36c8-6fd5-4138-a482-1d1c932c377b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensien können auf zwei verschiedene Arten vermehrt werden: Einerseits über <strong>Stecklinge<\/strong> im Sommer. Das ist die einfachste Methode. Oder über sogenannte <strong>Absenker<\/strong>. Das ist eine schnelle Methode, bei der es allerdings etwas länger dauert, bevor sich neue Pflanzen entwickelt haben.<\/p>"
+          }
+        },
+        "54acb727-2d2b-4374-af08-6525feb588d3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Das brauchen Sie zum Vermehren von Hortensien<\/h3>"
+          }
+        },
+        "dbf74ec8-115c-4b83-9e91-1aae9c0a85e3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Diese Dinge brauchen Sie, bevor es richtig losgehen kann: Für Stecklinge im Sommer benötigen Sie eine <strong>Stecklings- oder Gartenschere<\/strong>, ein scharfes Messer, eine Plastiktüte, Anzuchttöpfe sowie spezielle <strong>Anzuchterde<\/strong>. Um die Wurzelbildung zu beschleunigen, kann eventuell auch <strong>Stecklingspulver<\/strong> verwendet werden. Zum Vermehren über Absenker benötigen Sie einen Spaten und einen Ziegelstein.<\/p>"
+          }
+        },
+        "53283ad9-95ec-442f-92b7-ec3f80714e16": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Stecklinge<\/h3>"
+          }
+        },
+        "e7458662-ec8e-46c9-ad9f-2cc22cd87ae9": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Zuerst werden verholzte Triebe ausgewählt, die noch keine Blütenknospen gebildet haben. Wählen Sie einen Zweig mit mindestens 2 Blattpaaren aus. Ein Blattpaar besteht, wie der Name schon sagt, aus zwei sich gegenüberstehenden Blättern.*<\/p><p>- Schneiden Sie die Triebe etwa 1 cm unterhalb des untersten Blattpaares jeweils ca. 10 cm lang ab. Die abgeschnittenen Stecklinge können in einem Plastikbeutel aufbewahrt werden.*<\/p><p>- Schneiden Sie jetzt die untersten Blattpaare mit der Gartenschere ab. Die verbliebenen obersten Blätter werden mit der Schere um die Hälfte gekürzt. Dieser Schritt ist für die Hortensie von großem Vorteil, da die Blätter auf diese Weise weniger Wasser verdunsten.*<\/p><p>- Stecken Sie die Stecklinge etwa 5 cm tief in die vorbereiteten Anzuchttöpfe mit Anzuchterde.*<\/p><p>- Sorgen Sie dafür, dass die Stecklinge fest in der Erde stehen und anschließend ausreichend gegossen werden.*<\/p><p>- Decken Sie die Stecklinge mit einer Plastiktüte ab und befestigen Sie diese mit einem Gummiband an den Töpfen.*<\/p><p>- Jetzt heißt es: Abwarten und wachsen lassen! Weiter unten erfahren Sie mehr zur Pflege Ihrer Stecklinge und wie schnell sie wachsen.*<\/p>"
+          }
+        },
+        "6489c6f9-7f5b-484d-b327-17de0e8d4bf4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grundsätzlich können alle Hortensienarten, also auch <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensien<\/a> und <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensien<\/a>, über Stecklinge vermehrt werden. Deshalb ist dies eine relativ einfache Methode, Hortensien selbst zu vermehren.<\/p>"
+          }
+        },
+        "24d79865-5037-49e9-95bc-b97227d38b81": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
+          }
+        },
+        "0bb6eeb7-f022-4c55-b2dd-299651b5b683": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Absenker<\/h2>"
+          }
+        },
+        "e2769154-608a-4f9b-89e0-27fb11603147": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Absenkern wird ein Trieb der Hortensie umgebogen und in einer Vertiefung im Boden fixiert. Die Vermehrung über Absenker geht so:<\/p>"
+          }
+        },
+        "fd7920be-8b41-43e7-8144-41e1ed6d18b4": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Wählen Sie einen der unteren Triebe in Bodennähe aus. Dieser Trieb ist der sogenannte Absenker. Lockern Sie die Erde unter dem Trieb mit einem Spaten.*<\/p><p>- Entfernen Sie an der Stelle, an der der Trieb den Boden berührt, in einer Länge von 10 bis 15 cm die Blätter.*<\/p><p>- Graben Sie ein 5 cm tiefes und 20 cm langes Loch.*<\/p><p>- Legen Sie den Absenker in die Kuhle und bedecken Sie ihn mit Blumenerde oder Gartentorf.*<\/p><p>- Fixieren Sie den Absenker mit einem Ziegelstein oder anderen schweren Gegenstand am Boden, damit er dort Wurzeln bilden kann.*<\/p><p>- Jetzt heißt es: Abwarten und wachsen lassen! Weiter unten erfahren Sie, wie lange es dauert, bevor der Absenker Wurzeln gebildet hat und wann er von der Mutterpflanze getrennt werden kann.*<\/p>"
+          }
+        },
+        "f95b455a-4d2f-4b26-a6ae-ec7194f90d2c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hortensienarten mit biegsamen Trieben eignen sich besonders gut zum Vermehren über Absenker. Dazu gehören unter anderem die <a href=\"\/collections\/kletterhortensien\" title=\"Kletterhortensien\">Kletterhortensie<\/a>, die <a href=\"\/collections\/bauernhortensien\" title=\"Bauernhortensien\">Bauernhortensie<\/a> und die <a href=\"\/products\/eichenblaettrige-hortensie\" title=\"Eichenblättrige Hortensie\">Eichenblättrige Hortensie<\/a>.<\/p>"
+          }
+        },
+        "c76cb3e8-9459-4636-bb68-bc3aa74924f0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann ist der beste Zeitpunkt zum Vermehren von Hortensien?<\/h2>"
+          }
+        },
+        "0ac5f43a-535f-4630-a9c1-af287f6517ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grundsätzlich können Hortensien das ganze Jahr über vermehrt werden. Der beste Zeitpunkt für Stecklinge ist jedoch der Sommer, von <strong>Juli bis September<\/strong>. In dieser Zeit hat der Steckling die besten Überlebenschancen. <\/p><p>Das Vermehren über Absenker ist im Prinzip das ganze Jahr über möglich, da keine Triebe oder Blätter abgeschnitten werden müssen. Man biegt einfach einen Trieb nach unten, fixiert ihn am Boden und bedeckt ihn mit <strong>Blumenerde<\/strong> oder <strong>Gartentorf<\/strong>.<\/p>"
+          }
+        },
+        "c373c7e9-b6fa-4356-829f-61b9c775b505": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wie schnell wächst ein Hortensien-Steckling?<\/p>"
+          }
+        },
+        "84d23cb9-b229-4416-b701-b050d42ae05b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nachdem man die Stecklinge geschnitten und eingepflanzt hat, bilden sich innerhalb von etwa <strong>drei bis vier Wochen<\/strong> Wurzeln. Zu diesem Zeitpunkt dann das Gummiband von den Töpfen entfernt werden, die Plastiktüte selbst sollte man aber noch drauf lassen. Schneiden Sie in den nächsten Wochen stets größere Löcher in die Plastiktüte, damit die Stecklinge immer mehr Luft bekommen. Schließlich kann die Plastiktüte ganz entfernt werden.<\/p><p>Beim Vermehren über Absenker dauert es ungefähr <strong>ein Jahr<\/strong>, bis sich eine neue Pflanze mit eigenen Wurzeln gebildet hat. Der Absenker bildet von selbst Wurzeln, ohne dass man etwas dazu tun muss. Nach etwa einem Jahr ist eine neue Pflanze entstanden, die von der Mutterpflanze abgelöst und verpflanzt werden kann.<\/p>"
+          }
+        },
+        "2b7f7148-30a2-49ce-88fc-9d7df7b79703": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/hortensien-vermehren-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "2f038c3e-a644-4b3d-b9ae-def7b7cbd7b0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann sollte man die Hortensie nach dem Vermehren zurückschneiden?<\/h2>"
+          }
+        },
+        "02cf4bee-744c-471f-aec8-63ac751cde0f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nach dem Vermehren sollte man die Hortensie gut im Auge behalten und auch zurückschneiden. Der beste Zeitpunkt für den Rückschnitt ist im März. Man kann Hortensien aber auch nach dem Vermehren im Winter zurückschneiden, allerdings nicht bei Frost. Wenn Sie mehr dazu erfahren möchten, lesen Sie bitte unseren Blogbeitrag zum Thema „<a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Hortensien zurückschneiden<\/a>“.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19733878243677__568e36c8-6fd5-4138-a482-1d1c932c377b-heading-1",
+        "template--19733878243677__568e36c8-6fd5-4138-a482-1d1c932c377b-text-1",
+        "54acb727-2d2b-4374-af08-6525feb588d3",
+        "dbf74ec8-115c-4b83-9e91-1aae9c0a85e3",
+        "53283ad9-95ec-442f-92b7-ec3f80714e16",
+        "e7458662-ec8e-46c9-ad9f-2cc22cd87ae9",
+        "6489c6f9-7f5b-484d-b327-17de0e8d4bf4",
+        "24d79865-5037-49e9-95bc-b97227d38b81",
+        "0bb6eeb7-f022-4c55-b2dd-299651b5b683",
+        "e2769154-608a-4f9b-89e0-27fb11603147",
+        "fd7920be-8b41-43e7-8144-41e1ed6d18b4",
+        "f95b455a-4d2f-4b26-a6ae-ec7194f90d2c",
+        "c76cb3e8-9459-4636-bb68-bc3aa74924f0",
+        "0ac5f43a-535f-4630-a9c1-af287f6517ba",
+        "c373c7e9-b6fa-4356-829f-61b9c775b505",
+        "84d23cb9-b229-4416-b701-b050d42ae05b",
+        "2b7f7148-30a2-49ce-88fc-9d7df7b79703",
+        "2f038c3e-a644-4b3d-b9ae-def7b7cbd7b0",
+        "02cf4bee-744c-471f-aec8-63ac751cde0f"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "4792b85d-2539-47e1-9abc-60f3bad190ba": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "568e36c8-6fd5-4138-a482-1d1c932c377b",
+    "4792b85d-2539-47e1-9abc-60f3bad190ba"
   ]
 }

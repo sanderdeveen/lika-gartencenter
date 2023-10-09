@@ -1,0 +1,308 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "ba201da5-7a73-42f4-813e-af5f3504a0f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19891822395741__ba201da5-7a73-42f4-813e-af5f3504a0f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche pflegeleichten Gartenpflanzen wachsen immer?<\/h2>"
+          }
+        },
+        "template--19891822395741__ba201da5-7a73-42f4-813e-af5f3504a0f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pflegeleichte Gartenpflanzen benötigen weniger Wasser, sind nicht so schnellwüchsig und müssen nicht so oft geschnitten werden. Gartenpflanzen, die wenig Pflege benötigen, sorgen dafür, dass Ihr Garten auch bei sporadischer Pflege sehr attraktiv aussieht. Wir geben Ihnen einige Pflanzentipps, die sich sicher auch für Ihren pflegeleichten Garten eignen und was Sie dabei beachten sollten:<\/p>"
+          }
+        },
+        "45016a49-f6dd-4011-a1c4-2c73914af788": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Gleich vorweg:<\/strong> Rasenflächen sollten in einem pflegeleichten Garten nicht angelegt werden. Gras verzeiht es beispielsweise nicht, wenn das wöchentliche Mähen ausbleibt. <\/p><p>Als Alternative bieten sich pflegeleichte Stauden wie <a href=\"\/collections\/ziergraeser\" title=\"Ziergräser\">Ziergräser<\/a>, <a href=\"\/collections\/bodendecker\" title=\"Bodendecker\">Bodendecker<\/a> und <strong>Steingartenpflanzen<\/strong> an. Sie bilden eine größere, geschlossene Pflanzendecke, die das Unkrautwachstum auf natürliche Weise hemmt. Ein weiterer Vorteil von Stauden ist, dass sie mehrjährig sind und nicht so häufig ersetzt werden müssen.<\/p><p><a href=\"\/collections\/zierstraeucher\" title=\"Ziersträucher\">Ziergehölze<\/a> und <a href=\"\/collections\/allee-zierbaeume\" title=\"Allee- & Zierbäume\">Zierbäume<\/a> gehören zu den pflegeleichtesten Gartenpflanzen, denn sie brauchen weniger Dünger, Schnitt und Wasser. Selbst das Laubharken im Herbst entfällt, wenn man sich für immergrüne Gehölze entscheidet. Für ein harmonisches und ästhetisches Erscheinungsbild ist es wichtig, verschiedene Gehölze zu kombinieren, die sich in Größe, Blüte und Wuchs unterscheiden. Pflegeleichte Gärten mit Ziergehölzen wirken attraktiv und einladend. Darüber hinaus bieten Sträucher verschiedenen Insekten- und Vogelarten einen <strong>natürlichen Lebensraum<\/strong>. <\/p>"
+          }
+        },
+        "e3df975a-a844-4b9f-b173-b6d0d084fb60": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/pflegeleichten-gartenpflanzen-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "c4d5f302-9801-4a9c-b781-61c77abeb6b3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Pflegeleichte Stauden<\/h3>"
+          }
+        },
+        "3ae4faf5-8b12-430e-87ac-72b54ebbe8ef": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/rosa-anemone-koenigin-charlotte\" title=\"Rosa Anemone\">Rosa Anemone 'Königin Charlotte' (Anemone hybrida )<\/a><\/li><\/ul><p>'Königin Charlotte' bevorzugt einen sonnigen Platz im Blumenbeet! Sie entwickelt ein dichtes Blattwerk und blüht von August bis Oktober. Bei Trockenheit brauchen vor allem junge Pflanzen zusätzliche Wassergaben.<\/p><ul><li><a href=\"\/products\/funkie-blaugruen\" title=\"Funkie blaugrün\">Blaugrüne Garten-Funkie 'Blue Cadet' (Hosta tokudama)'<\/a><\/li><\/ul><p>Große, herzförmige, blaugrüne Blätter und glockenförmige Blüten zieren diese Staude, die eine halbschattige oder schattige Lage bevorzugt. Der Wasserbedarf ist geringer als bei anderen Funkiensorten. Tipp: Pflanzen Sie 'Blue Cadet' in einen dekorativen Kübel und stellen Sie ihn auf die halbschattige Terrasse oder in den Innenhof.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19891822395741__ba201da5-7a73-42f4-813e-af5f3504a0f5-heading-1",
+        "template--19891822395741__ba201da5-7a73-42f4-813e-af5f3504a0f5-text-1",
+        "45016a49-f6dd-4011-a1c4-2c73914af788",
+        "e3df975a-a844-4b9f-b173-b6d0d084fb60",
+        "c4d5f302-9801-4a9c-b781-61c77abeb6b3",
+        "3ae4faf5-8b12-430e-87ac-72b54ebbe8ef"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "2b9fb145-706f-4204-8b5a-526f42fa076c": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "d646ee85-fb73-48db-9061-7c2d802b069e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anemone-koenigin-charlotte-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "3683e0ed-ca8c-4e16-8148-8e70c7741a20": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blaugruene-garten-funkie-blue-cadet.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "d646ee85-fb73-48db-9061-7c2d802b069e",
+        "3683e0ed-ca8c-4e16-8148-8e70c7741a20"
+      ],
+      "settings": {
+      }
+    },
+    "1fee5313-86f7-431d-87dd-34e3ce999475": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Pflegeleichte Bodendecker<\/h3>"
+          }
+        },
+        "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/storschnabel-rozanne\" title=\"Storschnabel 'Rozanne'\">Storschnabel 'Rozanne' (Geranium wallichianum)<\/a><\/li><\/ul><p>Der Storschnabel bildet an sonnigen Standorten eine dichte Pflanzendecke und setzt mit seinen kissenartigen Wuchs und den vielen violett-blauen Blüten einen echten Blickfang. Als Bodendecker eignet sich 'Rozanne' perfekt zum Unterpflanzen von Bäumen und Sträuchern.<\/p>"
+          }
+        },
+        "3ec5700f-0974-4f34-8e6d-b99889b44d65": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Pflegeleichte Kletterpflanzen<\/h3>"
+          }
+        },
+        "b35100fa-f377-4f3c-b72e-6c92f1806e05": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/zweifarbiger-efeu-goldchild\" title=\"Bunte Efeu 'Goldchild'\">Gelbbunter Efeu 'Goldchild' (Hedera helix) <\/a><\/li><\/ul><p>Mauern und Drahtzäune können ganzjährig mit der bunten Efeusorte 'Goldchild' begrünt werden. Interessant wirkt die Blattpanaschierung in den Farben Gelb, Graugrün und Dunkelgrün an Mauern und Drahtzäunen! Als kriechender Bodendecker und immergrüne Kübelpflanze ist diese Efeusorte wunderbar pflegeleicht und bis -23 °C winterhart.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-heading-1",
+        "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-text-1",
+        "3ec5700f-0974-4f34-8e6d-b99889b44d65",
+        "b35100fa-f377-4f3c-b72e-6c92f1806e05"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "cc798b31-0c40-47ce-943d-9b9ac4c089be": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "22c7bc1e-2b46-4d26-a04f-ff3c7fe37ace": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/storschnabel-rozanne-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "32d672b9-fb19-4ad3-b167-7ebe8a9a3525": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gelbbunter-efeu-goldchild-hedera.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "22c7bc1e-2b46-4d26-a04f-ff3c7fe37ace",
+        "32d672b9-fb19-4ad3-b167-7ebe8a9a3525"
+      ],
+      "settings": {
+      }
+    },
+    "42c6ccb1-9d78-40f7-8059-daa08a710e9d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Pflegeleichte Gräser<\/h3>"
+          }
+        },
+        "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/nicht-wuchernder-bambus-nitida-winter-joy\" title=\"Nicht wuchernder Bambus 'Winter Joy'\">Bambus 'Winter Joy' (Fargesia murieliae)<\/a><\/li><\/ul><p>Der nicht wuchernde 'Winter Joy' ist eine Bambusart mit geringen Pflegeansprüchen. Als Hecke bietet er einen immergrünen Sichtschutz. Die grün-gelben Halme und die frischgrünen Blätter sind ein optisches Highlight in einem pflegeleichten Garten.<\/p>"
+          }
+        },
+        "37ca4d07-a4de-4c8b-b9fc-3548b34f10cc": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/winter-joy-bambus-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "6dbdfb75-36c4-4132-b148-be7310e027e8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Pflegeleichte Gehölze<\/h3>"
+          }
+        },
+        "be97fe8f-59bd-491c-8206-cdc62cd2022c": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/schneeball-hortensie-annabelle\" title=\"Schneeballhortensie 'Annabelle'\">Schneeballhortensie 'Annabelle' (Hydrangea arborescens) <\/a><\/li><\/ul><p>Wenig Pflegebedarf und eine langanhaltende, volle Blütenpracht garantiert Ihnen 'Annabelle'! Gruppenpflanzungen mit dieser Hydrangea fallen besonders auf. Die Schneeballhortensie ist eine ideale Pflanze für Vorgärten oder Blumenrabatten<\/p><ul><li><a href=\"\/products\/harlekin-weide-1\" title=\"Harlekin-Weide\">Harlekin-Weide 'Hakuro-nishiki' (Salix integra)<\/a><\/li><\/ul><p>Die Harlekin-Weide ist in den letzten Jahren immer beliebter geworden! Das verdankt sie ihren farbenfrohen Blättern, die in pflegeleichten Gärten wunderbare Akzente setzen. 'Hakuro-nishiki' ist der beste Beweis dafür, dass Gärten auch ohne auffällige und pflegeintensive Blütenpflanzen funktionieren können. Die Zuchtform von Salix integra braucht im Herbst einen starken Rückschnitt. Deshalb sind die hübschen Weidenkätzchen selten zu sehen.<\/p><ul><li><a href=\"\/products\/feuerdorn-rot\" title=\"Feuerdorn rot\">Feuerdorn rot 'Red Column' (Pyracantha coccinea)<\/a><\/li><\/ul><p>'Red Column' ist bei Vögeln und Insekten sehr beliebt. Zum einen wegen der reichen Blüte im Frühjahr und zum anderen wegen der roten Beeren. Allerdings ist ein regelmäßiger Rückschnitt des Feuerdorns erforderlich.<\/p><ul><li><a href=\"\/products\/kirschlorbeer-genolia\" title=\"Kirschlorbeer 'Genolia'\">Kirschlorbeer 'Genolia' (Prunus laurocerasus) <\/a><\/li><\/ul><p>Kirschlorbeerhecken wachsen absolut blickdicht. Sie garantieren einen pflegeleichten Garten mit viel Privatsphäre. Lorbeerhecken sind sehr wuchsfreudig und müssen regelmäßig zurückgeschnitten werden.<\/p><ul><li><a href=\"\/products\/kriechspindel-paloma-blanca\" title=\"Kriechspindel 'Paloma Blanca'\">Kriechspindel 'Paloma Blanca' (Euonymus japonicus)<\/a><\/li><\/ul><p>Die Sorte 'Paloma Blanca' ist wegen der weißen Triebspitzen unverwechselbar. Trotz der niedrigen Wuchshöhe fällt diese Kriechspindelsorte, auch Japanspindel genannt, wunderbar auf.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-heading-1",
+        "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-text-1",
+        "37ca4d07-a4de-4c8b-b9fc-3548b34f10cc",
+        "6dbdfb75-36c4-4132-b148-be7310e027e8",
+        "be97fe8f-59bd-491c-8206-cdc62cd2022c"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ade7b800-acc7-465a-b332-317ec3a2cf52": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "187079e7-54af-4a76-8e8b-e4e78538869d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/feuerdorn-rot-red-column-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "f2978020-eb69-47bc-8c17-29e13a5d0cab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/harlekin-weide-hakuro-nishiki-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "187079e7-54af-4a76-8e8b-e4e78538869d",
+        "f2978020-eb69-47bc-8c17-29e13a5d0cab"
+      ],
+      "settings": {
+      }
+    },
+    "e4e254ff-673f-419d-9f2b-a357adb538cb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19891822395741__e4e254ff-673f-419d-9f2b-a357adb538cb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Pflegeleichte Gartenpflanzen kaufen auf Gartencenter.de<\/h2>"
+          }
+        },
+        "template--19891822395741__e4e254ff-673f-419d-9f2b-a357adb538cb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viele Ziergehölze, Bodendecker und Stauden sind relativ pflegeleicht. Ein Haus- oder Vorgarten kann durch die Vielzahl an pflegeleichten Gartenpflanzen sehr attraktiv gestaltet werden. Lediglich einige Herbstarbeiten erfordern etwas mehr Zeit und Kraft. Holen Sie sich gegebenenfalls Hilfe von Freunden, Kollegen oder Familienmitgliedern für die Herbstarbeiten.<\/p><p>Stellen Sie sich einen Pflanzplan zusammen. Bei Gartencenter.de können Sie Gartenpflanzen, die wenig Pflege benötigen, online kaufen und direkt nach Hause oder an eine Wunschadresse liefern lassen.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19891822395741__e4e254ff-673f-419d-9f2b-a357adb538cb-heading-1",
+        "template--19891822395741__e4e254ff-673f-419d-9f2b-a357adb538cb-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "6dce6c3f-3ed0-4289-a7b7-9aab2adb297a": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ba201da5-7a73-42f4-813e-af5f3504a0f5",
+    "2b9fb145-706f-4204-8b5a-526f42fa076c",
+    "1fee5313-86f7-431d-87dd-34e3ce999475",
+    "cc798b31-0c40-47ce-943d-9b9ac4c089be",
+    "42c6ccb1-9d78-40f7-8059-daa08a710e9d",
+    "ade7b800-acc7-465a-b332-317ec3a2cf52",
+    "e4e254ff-673f-419d-9f2b-a357adb538cb",
+    "6dce6c3f-3ed0-4289-a7b7-9aab2adb297a"
+  ]
+}

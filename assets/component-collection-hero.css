@@ -45,7 +45,8 @@
   }
 
   .collection-hero__inner--three-products {
-    flex-direction: column-reverse;
+    flex-direction: column;
+    gap: 16px;
   }
 }
 

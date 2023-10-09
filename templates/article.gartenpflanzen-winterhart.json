@@ -1,0 +1,406 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "28962b48-ff4f-4d61-a99e-ddf14d70c6d2": {
+      "type": "rich-text",
+      "blocks": {
+        "a133a38e-f87f-478e-9a5f-c37cd44bceba": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/products\/schneegloeckchen-xxl-tasche-25-stueck",
+            "image": "shopify:\/\/shop_images\/schnee-gloeckchen-winterharte-gartenpflanzen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19863902781789__28962b48-ff4f-4d61-a99e-ddf14d70c6d2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Was sind winterharte Pflanzen?<\/h2>"
+          }
+        },
+        "template--19863902781789__28962b48-ff4f-4d61-a99e-ddf14d70c6d2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viele winterharte Pflanzenarten sind in Deutschland heimisch und an Frost und Kälte gewöhnt. Sie sind in Bezug auf Pflege anspruchslos und daher auch für unerfahrene Hobbygärtner geeignet. Die robustesten Pflanzen überstehen sogar Temperaturen unter -35 °C. Die meisten winterharten Gartenpflanzen vertragen <strong>Temperaturen bis -20 °C<\/strong> ohne Schaden zu nehmen. Einige empfindlichere Arten können durchschnittliche Minustemperaturen von -6 bis -10 °C gut verkraften. Winterhärte ist also nicht gleich Winterhärte. Aber nur eine ausreichende Widerstandsfähigkeit gegen Kälte verhindert Pflanzenschäden oder -ausfälle.<\/p>"
+          }
+        },
+        "10d7b39f-df00-4f91-8a44-db1a2f7b09eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wie wähle ich eine winterharte Gartenpflanze mit guten Überlebenschancen aus? <\/h2>"
+          }
+        },
+        "276550f2-cadc-4dd9-9c8a-9da85a7c4aba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Achten Sie darauf, dass die Kältetoleranz einer Pflanzenart der Winterhärtezone (WHZ) Ihrer Region entspricht. Deutschland ist in 6 Winterhärtezonen eingeteilt. Diese Zonen geben die niedrigsten Durchschnittstemperaturen einer Region an. Große Teile Deutschlands liegen in der Winterhärtezone 8a und haben durchschnittliche Tiefsttemperaturen von -12,2 bis -9,5 °C. Dagegen liegen die winterlichen Temperaturen in den Hochalpen zwischen -34,4 °C bis -23,4 °C! Am wärmsten sind die Winter in der Zone 8b mit -9,4 bis -6,7 °C.<\/p>"
+          }
+        },
+        "e28c7b9f-2ff9-4b08-b2b6-cc5d0187c8bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche Gartenpflanzen sind winterhart?<\/h2>"
+          }
+        },
+        "ed9a44c7-01ff-49b2-8968-3ef3bc1251e0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Winterharte Gartenpflanzen stammen häufig aus den nördlichen Regionen Europas, Asiens und Amerikas. Zu den kältebeständigen Pflanzen gehört das gesamte Spektrum der Gartenpflanzen: Stauden, Gehölze, Gräser, Zwiebelblumen und Kübelpflanzen. Im Folgenden stellen wir Ihnen einige Beispiele für winterharte Gartenpflanzen vor.<\/p>"
+          }
+        },
+        "c3e1c154-6bbd-4f7b-bac0-c397eaaabe99": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/products\/gelber-winterjasmin",
+            "image": "shopify:\/\/shop_images\/gelber-winterjasmin-blueten.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "d1183f3a-cbff-4acf-b8a7-7a807e7961a2": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Winterharte Stauden<\/h3>"
+          }
+        },
+        "3bfb3693-f147-4371-b75f-f918b30410a5": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/christrose\" title=\"Christrose\">Christrose (Helleborus niger)<\/a><\/li><\/ul><p>Die Christrose ist nicht nur ein <strong>Winterblüher<\/strong>, sie verträgt erstaunliche Minusgrade von bis zu -40 °C! Oftmals schauen die Blüten unter einer Schneedecke hervor. Die Christrose ist ein zuverlässiger Pflanzenschmuck für winterliche Gärten und für Kübelbepflanzungen. Sie ist für alle Winterhärtezonen Deutschlands geeignet.<\/p><ul><li><a href=\"\/products\/flammenblume\" title=\"Flammenblume violett-blau\">Flammenblume violett-blau (Phlox paniculata)<\/a><\/li><\/ul><p>Der wohlriechende Phlox ist eine auffallende winterharte Staude für Beete und Rabatten, die Temperaturen von bis zu -20 °C verträgt. Der hohe Stauden-Phlox ist <strong>pflegeleicht<\/strong> und toleriert sogar leichten Halbschatten.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a133a38e-f87f-478e-9a5f-c37cd44bceba",
+        "template--19863902781789__28962b48-ff4f-4d61-a99e-ddf14d70c6d2-heading-1",
+        "template--19863902781789__28962b48-ff4f-4d61-a99e-ddf14d70c6d2-text-1",
+        "10d7b39f-df00-4f91-8a44-db1a2f7b09eb",
+        "276550f2-cadc-4dd9-9c8a-9da85a7c4aba",
+        "e28c7b9f-2ff9-4b08-b2b6-cc5d0187c8bb",
+        "ed9a44c7-01ff-49b2-8968-3ef3bc1251e0",
+        "c3e1c154-6bbd-4f7b-bac0-c397eaaabe99",
+        "d1183f3a-cbff-4acf-b8a7-7a807e7961a2",
+        "3bfb3693-f147-4371-b75f-f918b30410a5"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "972f5eb2-4c20-4673-a870-6bf84f0d1163": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "67f6d0b6-1e9a-4b87-a534-45f760c58bcd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christrose-helleborus-niger-bluemen.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "93217bf5-4196-4d75-b5ca-8bf04255c0ba": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phlox-paniculata-violett-blau-bluemen.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "67f6d0b6-1e9a-4b87-a534-45f760c58bcd",
+        "93217bf5-4196-4d75-b5ca-8bf04255c0ba"
+      ],
+      "settings": {
+      }
+    },
+    "97da6225-98c4-4cbf-926c-14af2904d722": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Winterharte Gehölze<\/h3>"
+          }
+        },
+        "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/collections\/buchsbaumhecke\" title=\"Buchsbaumhecke\">Europäischer Buchsbaum (Buxus sempervirens) <\/a><\/li><\/ul><p>Der Europäische Buchsbaum ist in Mitteleuropa heimisch und <strong>bis -16 °C winterhart<\/strong>. Sie können also davon ausgehen, dass eine <strong>immergrüne<\/strong> Buchsbaumhecke in vielen Regionen Deutschlands den Winter gut überstehen wird. Als Kübelpflanze ist der Buxus frostempfindlicher und sollte an einem windgeschützten Ort überwintert werden.<\/p><ul><li><a href=\"\/collections\/kirschlorbeer\" title=\"Kirschlorbeer\">Kirschlorbeer (Prunus laurocerasus)<\/a><\/li><\/ul><p>Der Kirschlorbeer kommt natürlicherweise nur in Kleinasien vor. Allerdings hat sich das wüchsige Gehölz als <strong>immergrüne Sichtschutzpflanze<\/strong> und Heckenpflanze in deutschen Gärten durchgesetzt. <strong>Temperaturen bis zu -17 °C werden vertragen<\/strong>. Extreme Kälte kann jedoch zum Absterben von Ästen und Zweigen führen. Das weitgehend frostharte Gehölz kann sich bei Kälteschäden schnell regenerieren.<\/p><ul><li><a href=\"\/products\/stechpalme-alaska\" title=\"Stechpalme 'Alaska'\">Europäische Stechpalme (Ilex)<\/a><\/li><\/ul><p>Hoher Wuchs, <strong>immergrüne Blätter<\/strong> und ein prächtiger roter Fruchtschmuck zeichnet die Stechpalme 'Alaska' aus. Dank Winterhärte übersteht dieses Gehölz die Winter in Deutschland ohne Ausfälle. Bei Trockenheit auch im Winter gießen!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-heading-1",
+        "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "4cac39ba-8dac-46a4-a03f-30b9d5190060": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "4ff92673-b962-4413-a99b-f6a8c7e856d6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ilex-stechpalme-alaska.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "2087bae2-bbeb-4f53-9884-4aff0ccad0e9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/prunus-laurocerasus-hecken-pflanzen.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "4ff92673-b962-4413-a99b-f6a8c7e856d6",
+        "2087bae2-bbeb-4f53-9884-4aff0ccad0e9"
+      ],
+      "settings": {
+      }
+    },
+    "8491f930-2dc4-456b-9751-797eef810dd1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Winterharte Gräser<\/h3>"
+          }
+        },
+        "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/pampasgras-rosa\" title=\"Pampasgras rosa\">Pampasgras rosa (Cortaderia selloana 'Rosea')<\/a><\/li><\/ul><p>Die Winterhärte dieser Ziergrasart wird mit -20 °C angegeben. Diese Widerstandsfähigkeit reicht für die Winterhärtezone 6b, die beispielsweise im Nationalpark Harz am Brocken vorherrscht.<\/p><ul><li><a href=\"\/products\/lampenputzergras\" title=\"Lampenputzergras\">Lampenputzergras (Pennisetum alopecuroides 'Hameln')<\/a><\/li><\/ul><p>Dieses wunderschön <strong>blühende Schmuckgra<\/strong>s ist bis -27 °C frostsicher und ziert mit dem Grashalmbüschel und den Bürstenblüten auch im Winter Gartenbeete und Rabatten.<\/p><ul><li><a href=\"\/products\/blauschwingel\" title=\"Blauschwingel\">Blauschwingel Festuca glauca 'Elijah Blue'<\/a><\/li><\/ul><p>Das winterharte Ziergras bildet schöne runde Grasbüschel und fällt mit den <strong>bläulichen Halmen<\/strong> auch im Winter auf. Die Frosthärte beträgt bis zu -22 °C.<\/p>"
+          }
+        },
+        "f65bc32f-d765-4e34-b7a4-0c926aba443d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Winterharte Zwiebelblumen<\/h3>"
+          }
+        },
+        "818f8dee-43f4-4907-ad2e-02ba0d8b1dc1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Natürlich gehört die Gruppe der frühjahrsblühenden Zwiebelblumen zu den frostverträglichsten Gartenpflanzen. An der Spitze stehen die Schneeglöckchen mit bis zu -39 °C, gefolgt von den Narzissen und Krokussen mit bis zu -29 °C.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-heading-1",
+        "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-text-1",
+        "f65bc32f-d765-4e34-b7a4-0c926aba443d",
+        "818f8dee-43f4-4907-ad2e-02ba0d8b1dc1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "03a31b03-8c4c-419b-8bec-d396ddb89643": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--19863902781789__03a31b03-8c4c-419b-8bec-d396ddb89643-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schonend verpackt"
+          }
+        },
+        "template--19863902781789__03a31b03-8c4c-419b-8bec-d396ddb89643-product_selection-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "blueberry-tulpen-mischung-netlon-paket-40-stueck",
+            "enable_quick_add": true
+          }
+        },
+        "9bdb349b-f337-4888-9c17-746a5a9f2f1c": {
+          "type": "usp",
+          "settings": {
+            "usp": "Beste Qualität aus Holland"
+          }
+        },
+        "4a923441-5e19-4c8d-9346-826b2b212ee4": {
+          "type": "product_selection",
+          "settings": {
+            "product": "blumenzwiebeln-box-wild-bee-hotel-mischung-60-stueck",
+            "enable_quick_add": true
+          }
+        },
+        "96272e29-2e54-4b38-8cf1-9f09df630b83": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "92551021-517c-4340-a40f-86377a0bc0f7": {
+          "type": "product_selection",
+          "settings": {
+            "product": "blumenzwiebeln-tasche-bulb-garden-allium-mischung-80-stueck",
+            "enable_quick_add": true
+          }
+        },
+        "cc120513-500b-4aab-a117-6933d7ada921": {
+          "type": "product_selection",
+          "settings": {
+            "product": "blumenzwiebeln-tasche-folklore-john-mischung-60-stueck",
+            "enable_quick_add": true
+          }
+        },
+        "2bd54bf5-4ae5-4e0c-af6e-846284a4fb24": {
+          "type": "product_selection",
+          "settings": {
+            "product": "gelbe-narzissen-netlon-paket-40-stueck",
+            "enable_quick_add": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19863902781789__03a31b03-8c4c-419b-8bec-d396ddb89643-usp-1",
+        "template--19863902781789__03a31b03-8c4c-419b-8bec-d396ddb89643-product_selection-1",
+        "9bdb349b-f337-4888-9c17-746a5a9f2f1c",
+        "4a923441-5e19-4c8d-9346-826b2b212ee4",
+        "96272e29-2e54-4b38-8cf1-9f09df630b83",
+        "92551021-517c-4340-a40f-86377a0bc0f7",
+        "cc120513-500b-4aab-a117-6933d7ada921",
+        "2bd54bf5-4ae5-4e0c-af6e-846284a4fb24"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Topseller winterharte Zwiebelblumen",
+        "text": ""
+      }
+    },
+    "a8da2152-a323-4178-b66f-ba3c3a6ebef1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Winterharte Kübelpflanzen<\/h3>"
+          }
+        },
+        "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"\/products\/haengepolster-glockenblume-violett-blau\" title=\"Hängepolster-Glockenblume violett-blau\">Hängepolster-Glockenblume violett-blau (Campanula poscharskyana)<\/a><\/li><\/ul><p>Die Hängeglockenblume ist ein anspruchsloser Dauerblüher. Campanula poscharskyana ist <strong>winterhart bis -38 °C<\/strong> und wintergrün. Diese Eigenschaften machen die Staude zu einer idealen Kübelpflanze und einem üppig blühenden Bodendecker.<br\/><\/p>"
+          }
+        },
+        "c052f63e-4880-4231-a9b7-9ce8486cef05": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann sollte eine Gartenpflanze vor Kälte geschützt werden?<\/h2>"
+          }
+        },
+        "a92c88e5-c94a-4aac-b99d-4bab15c24a9e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Kälteverträglichkeit ist für das Überleben von Gartenpflanzen entscheidend. Mit einem zusätzlichen Frostschutz können Sie empfindliche Stauden, Hecken und Sträucher zusätzlich vor Kälte schützen. Welche Maßnahmen sind sinnvoll und was muss dabei beachtet werden?<\/p>"
+          }
+        },
+        "b4913ef8-b316-4661-b5c9-ad30bc56b22c": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>-Immergrüne Gehölze sind empfindlich gegen trockene, kalte Ostwinde. Wegen der Wuchshöhe ist ein Kälteschutz mit Vlies kaum möglich. Geben Sie <a href=\"\/collections\/immergruene-gartenpflanzen\" title=\"Immergrüne Gartenpflanzen\">immergrünen Gartenpflanzen<\/a> wie Kirschlorbeersträuchern, Eiben und Stechpalmen windgeschützte Standorte.*<\/p><p>-Wenn Ziersträucher und -gehölze in extrem kalten Wintern einen Kälteschutz benötigen, können sie mit Vlies abgedeckt werden. Beachten Sie jedoch, dass warme Tagestemperaturen und kalte Nachttemperaturen unter einer Vlieshaube zur Kondenswasserbildung führen können. Feuchtigkeit fördert das Wachstum von Pilzen und Bakterien. Schützen Sie die Pflanzen nur so lange wie nötig.*<\/p><p>-Die Wurzeln junger Pflanzen können empfindlich auf Bodenfrost reagieren, da sie noch keine Frostresistenz entwickelt haben. Empfohlen werden Mulchdecken aus Reisig, Laub und Stroh als Kälteschutz.*<\/p><p>-Überwintern Sie die Kübelpflanzen an einem windgeschützten Ort. Schlagen Sie empfindliche Gehölze mit geringerer Winterhärte mit Vlies ein. Die Wurzeln von Kübelpflanzen kühlen schneller aus als die im Boden. Deshalb sollte der Kübel zusätzlich mit Stroh, Jutefilz oder Kokosmatten „verpackt“ werden. Übrigens: Wenn die Blumenerde im Kübel gefriert, können die Pflanzen kein Wasser mehr aufnehmen und vertrocknen. Das gilt übrigens auch für immergrüne Pflanzen, deren Blätter trotz Winterkälte Wasser verdunsten. Gießen Sie diese Pflanzen auch im Winter, damit sie keinen Schaden nehmen.*<\/p><p>-Eine gute Winterhärte haben Steingartenpflanzen, die in ihren Herkunftsgebieten durch eine Schneedecke geschützt sind. Diese Pflanzenarten benötigen im Garten als „Schneeersatz“ eine vorübergehende Winterdecke, z. B. aus Fichtenreisig oder Laub.*<\/p><p>-Einige winterharte Stauden leiden mehr unter der Nässe als unter den Minustemperaturen. Diese Pflanzen brauchen einen gut dränierten Gartenboden. Verzichten Sie auf eine Mulchabdeckung.*<\/p>"
+          }
+        },
+        "ca0073eb-88f5-42e7-8e2b-f4234bc8da6a": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/winterharte-gartenpflanzen-ratgeber-kaufen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "7ba3af9c-1646-4074-85f9-f56462fa1290": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Winterharte Gartenpflanzen kaufen auf Gartencenter.de<\/h2>"
+          }
+        },
+        "6224a38c-aaf6-4706-af7f-57ecabbc9d76": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier im Online-Shop finden Sie eine große Auswahl an winterharten Gartenpflanzen. Das Angebot umfasst Sträucher, Stauden, Bambus, Ziergräser und Frühblüher, die sich für Beete, Rabatten, Baumscheiben und Kübelpflanzungen eignen. Mit diesen winterharten Pflanzen gehen Sie auf Nummer sicher und verringern das Risiko von Erfrierungen. Achten Sie darauf, in welcher Winterhärtezone Sie wohnen und ob Ihre Lieblingspflanze die maximalen Minustemperaturen in Ihrer Region verträgt.<\/p><p>Sind Ihre Gartenpflanzen trotz aller Schutzmaßnahmen erfroren? Das ist bedauerlich. Bei Gartencenter.de können Sie schnell neue winterharte Gartenpflanzen online kaufen und direkt nach Hause oder an eine Wunschadresse liefern lassen.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-heading-1",
+        "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-text-1",
+        "c052f63e-4880-4231-a9b7-9ce8486cef05",
+        "a92c88e5-c94a-4aac-b99d-4bab15c24a9e",
+        "b4913ef8-b316-4661-b5c9-ad30bc56b22c",
+        "ca0073eb-88f5-42e7-8e2b-f4234bc8da6a",
+        "7ba3af9c-1646-4074-85f9-f56462fa1290",
+        "6224a38c-aaf6-4706-af7f-57ecabbc9d76"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "22344c33-08af-4b4a-b47a-bc4e89d5f31d": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "28962b48-ff4f-4d61-a99e-ddf14d70c6d2",
+    "972f5eb2-4c20-4673-a870-6bf84f0d1163",
+    "97da6225-98c4-4cbf-926c-14af2904d722",
+    "4cac39ba-8dac-46a4-a03f-30b9d5190060",
+    "8491f930-2dc4-456b-9751-797eef810dd1",
+    "03a31b03-8c4c-419b-8bec-d396ddb89643",
+    "a8da2152-a323-4178-b66f-ba3c3a6ebef1",
+    "22344c33-08af-4b4a-b47a-bc4e89d5f31d"
+  ]
+}

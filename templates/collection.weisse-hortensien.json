@@ -288,7 +288,7 @@
         "34809184-d5d0-448a-974e-bae5a4375d17": {
           "type": "text",
           "settings": {
-            "text": "<p>Weiße Hortensien können sowohl in den Garten gepflanzt als auch im Topf oder Kübel kultiviert werden. Beim Einsetzen der Hortensie müssen allerdings einige Dinge beachtet werden, wie zum Beispiel der richtige Standort. Hortensien stehen am liebsten im Halbschatten. Ganz wichtig ist es auch, weiße Hortensien regelmäßig und reichlich zu gießen. Der botanische Name lautet nicht umsonst „Hydrangea“, abgeleitet vom Wort „hydro“, was soviel wie Wasser bedeutet. Eine praktische Schritt-für-Schritt-Anleitung zum Pflanzen und Umsetzen von weißen Hortensien finden Sie in unseren Blogbeiträgen Hortensien pflanzen und Hortensien umsetzen.<\/p>"
+            "text": "<p>Weiße Hortensien können sowohl in den Garten gepflanzt als auch im Topf oder Kübel kultiviert werden. Beim Einsetzen der Hortensie müssen allerdings einige Dinge beachtet werden, wie zum Beispiel der richtige Standort. Hortensien stehen am liebsten im Halbschatten. Ganz wichtig ist es auch, weiße Hortensien regelmäßig und reichlich zu gießen. Der botanische Name lautet nicht umsonst „Hydrangea“, abgeleitet vom Wort „hydro“, was soviel wie Wasser bedeutet. Eine praktische Schritt-für-Schritt-Anleitung zum Pflanzen und Umsetzen von weißen Hortensien finden Sie in unseren Blogbeiträgen <a href=\"\/blogs\/ratgeber\/hortensien-pflanzen-wann-und-wie\" title=\"Hortensien pflanzen: Wann und wie?\">Hortensien pflanzen<\/a> und <a href=\"\/blogs\/ratgeber\/wann-sollte-man-hortensien-umpflanzen-oder-umtopfen\" title=\"Wann sollte man Hortensien umpflanzen oder umtopfen?\">Hortensien umsetzen<\/a>.<\/p>"
           }
         },
         "199cb535-9d4a-4c22-bcda-afc444826986": {
@@ -309,13 +309,19 @@
         "eb2a934c-738c-49a6-b91e-3a2fabfe6404": {
           "type": "text",
           "settings": {
-            "text": "<p>Weiße Hortensien sind (wie alle Hortensienarten) äußerst robuste und pflegeleichte Pflanzen. Sie sind winterhart und haben so gut wie keine Krankheiten. Hortensien bevorzugen saure Böden. Der pH-Wert des Bodens hängt vom Kalkgehalt ab. Für den richtigen pH-Wert im Boden empfehlen wir Ihnen, beim Pflanzen von Hortensien spezielle Hortensienerde zu verwenden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach sollten Sie Ihre Hortensie zweimal im Jahr mit Hortensiendünger verwöhnen. So bleibt Ihre Hortensie immer in Topform!<\/p>"
+            "text": "<p>Weiße Hortensien sind (wie alle Hortensienarten) äußerst robuste und pflegeleichte Pflanzen. Sie sind winterhart und haben so gut wie keine Krankheiten. Hortensien bevorzugen saure Böden. Der pH-Wert des Bodens hängt vom Kalkgehalt ab. Für den richtigen pH-Wert im Boden empfehlen wir Ihnen, beim Pflanzen von Hortensien spezielle <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">Hortensienerde<\/a> zu verwenden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach sollten Sie Ihre Hortensie zweimal im Jahr mit <a href=\"\/products\/compo-bio-rhododendron-und-hortensien-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle\">Hortensiendünger<\/a> verwöhnen. So bleibt Ihre Hortensie immer in Topform!<\/p>"
           }
         },
         "d4a49b63-9c83-4f25-98c6-226e5a9c30e7": {
           "type": "heading",
           "settings": {
             "heading": "<p>Zurückschneiden<\/p>"
+          }
+        },
+        "26492785-369c-46cc-bf3a-103d4197d086": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Damit Ihre Hortensie dauerhaft und üppig blüht, sollte sie regelmäßig zurückgeschnitten werden. Aber bevor Sie Ihre Hortensie radikal zurückschneiden, sollten Sie sich vergewissern, ob sie an alten oder an neuen Trieben blüht. Passen Sie den Rückschnitt an die jeweilige Hortensienart an. Unsere praktischen <a href=\"\/blogs\/ratgeber\/hortensien-zuruckschneiden-wann-wie\" title=\"Hortensien zurückschneiden: Wann & wie?\">Tipps zum Hortensienschnitt<\/a> helfen Ihnen dabei, Ihre Hortensie jedes Jahr in voller Blütenpracht erstrahlen zu lassen!<\/p>"
           }
         }
       },
@@ -327,7 +333,8 @@
         "199cb535-9d4a-4c22-bcda-afc444826986",
         "d6bffb1b-69ac-4a3f-93fb-98f9e1facae5",
         "eb2a934c-738c-49a6-b91e-3a2fabfe6404",
-        "d4a49b63-9c83-4f25-98c6-226e5a9c30e7"
+        "d4a49b63-9c83-4f25-98c6-226e5a9c30e7",
+        "26492785-369c-46cc-bf3a-103d4197d086"
       ],
       "settings": {
         "padding_top": 0,

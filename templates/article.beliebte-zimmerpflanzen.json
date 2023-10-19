@@ -1,0 +1,544 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "e6085cae-d5fb-4668-bbc7-64e5bd2a7391": {
+      "type": "rich-text",
+      "blocks": {
+        "238f5af5-2c7d-4b17-b38a-512cad7c7639": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/beliebte-zimmerpflanzen-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Das sind die beliebtesten Zimmerpflanzen<\/h2>"
+          }
+        },
+        "ff02a29e-83d6-404e-8b51-c4370d9824fb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Drachenbaum <\/h3>"
+          }
+        },
+        "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Liste der beliebtesten Zimmerpflanzen wird von dem <a href=\"\/products\/junger-drachenbaum\" title=\"Junger Drachenbaum\">Drachenbaum<\/a> angeführt.  Wie erklärt sich die Beliebtheit des Drachenbaums? Wie <strong>exotische Bäumchen<\/strong> sehen diese Zimmerpflanzen aus. Sie erinnern an einen Urlaub auf den Kanarischen Inseln. Die Drachenbaumarten, die wir als Zimmerpflanzen verwenden, sind in ihrem Aussehen sehr unterschiedlich ausgeprägt. Sie haben glänzende, spitz zulaufende Blätter, die entweder dunkelgrün, gestreift oder gepunktet sind. <\/p><p>Der dichte Blattschopf sitzt aufrecht oder übergeneigt auf den Stämmchen. Bei Gartencenter.de haben Sie die Wahl zwischen verschiedenen Wuchshöhen. Eine beliebte Solitärpflanze im Kübel ist der hohe, mehrstämmige <a href=\"\/products\/drachenbaum-1\" title=\"Drachenbaum 'Marginata'\">Drachenbaum 'Marginata'<\/a>.<\/p>"
+          }
+        },
+        "a47e4d61-0719-4720-95a6-adea270307b2": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Bogenhanf<\/h3>"
+          }
+        },
+        "bd0559d5-49d9-46a6-9357-a67ed4b8f7fe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In den 60er Jahren war <a href=\"\/products\/bogenhanf\" title=\"Bogenhanf\">Bogenhanf<\/a>, oft auch Sansevierie genannt, sehr beliebt. Warum erlebt der Bogenhanf heute ein Comeback? Die <strong>platzsparende Grünpflanze<\/strong> entwickelt keine Triebe. Der schlanke, dichte Wuchs passt hervorragend zu modernen Möbeln. Aber das erklärt die Popularität nur zum Teil. Wir gehen davon aus, dass vor allem junge Zimmerpflanzenliebhaber die Anspruchslosigkeit der Sansevierien schätzen. Anfänger unter den Zimmergärtnern können mit dieser beliebten Zimmerpflanze nichts falsch machen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "238f5af5-2c7d-4b17-b38a-512cad7c7639",
+        "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-heading-1",
+        "ff02a29e-83d6-404e-8b51-c4370d9824fb",
+        "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-text-1",
+        "a47e4d61-0719-4720-95a6-adea270307b2",
+        "bd0559d5-49d9-46a6-9357-a67ed4b8f7fe"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "c2b3f13a-edec-4243-b73d-91f934d2c2e4": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "bb5d2cbd-f08d-4211-9755-d1bee291e15b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/drachenbaum-surculosa-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "b28a2a1c-268d-47cc-afb1-65879d8733f1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bogenhanf-trifasciata-blaettern-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "bb5d2cbd-f08d-4211-9755-d1bee291e15b",
+        "b28a2a1c-268d-47cc-afb1-65879d8733f1"
+      ],
+      "settings": {
+      }
+    },
+    "cadf981e-1d8b-4a00-aa39-3030ea472ff9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Kolbenfaden<\/h3>"
+          }
+        },
+        "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zu den beliebten Blattpflanzen, für die man keinen grünen Daumen braucht, gehört auch der <a href=\"\/products\/kolbenfaden\" title=\"Kolbenfaden\">Kolbenfaden<\/a>. Die Grünpflanze mit den auffälligen Blättern in Silber, Grau und Grün  braucht keinen Platz an der Sonne. Sie kann in den hinteren Bereichen von Büro- und Wohnräumen stehen. Die Standortvielfalt und die Pflegeleichtigkeit erklären den dritten Platz unter den beliebtesten Zimmerpflanzen.<\/p>"
+          }
+        },
+        "74036db3-98f5-4069-921c-10e48049c1d8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Kentiapalme<\/h3>"
+          }
+        },
+        "473bce26-0652-47ef-ae47-72dcd2d7ccb0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zu den wirklich „alten” und beliebten Zimmerpflanzen gehört die <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Kentiapalme<\/a>. Wegen ihres <strong>exotischen Aussehens<\/strong> ist diese Palmenart seit Mitte des 19. Jahrhunderts sehr beliebt. Die Kentiapalme vereint wie keine andere Schönheit und Pflegeleichtigkeit. Die Blätter sind dunkelgrün gefiedert und sehen wie Wedel aus. Die Wachstumsbedingungen auf den heimischen Lord-Howe-Inseln sind vergleichbar mit denen in unserem Wohn- und Arbeitsräumen. Daher ist die Pflege der anpassungsfähigen Howea forsteriana unkompliziert. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-heading-1",
+        "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-text-1",
+        "74036db3-98f5-4069-921c-10e48049c1d8",
+        "473bce26-0652-47ef-ae47-72dcd2d7ccb0"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "691f4546-d2af-4f1f-b69e-ff5ceee158d6": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "b69ece54-a87a-4954-bb9f-6362b12e671d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aglaonema-silver-queen-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "d8caadb6-f5ed-495f-adaa-df568b38d413": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kentiapalme-blaettern-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "b69ece54-a87a-4954-bb9f-6362b12e671d",
+        "d8caadb6-f5ed-495f-adaa-df568b38d413"
+      ],
+      "settings": {
+      }
+    },
+    "bde33166-360a-4fef-b6e9-4bf2c54e166a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Geigenfeige<\/h3>"
+          }
+        },
+        "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/geigenfeige\" title=\"Geigenfeige\">Geigenfeige<\/a> ist eine besondere Ficus-Art. Sie ist wegen ihrer sehr <strong>dekorativen dunkelgrünen Blätter<\/strong>, die dem Korpus einer Geige ähneln, sehr beliebt. Charakteristisch ist der schlanke, aufrechte Wuchs. Daher benötigt diese Grünpflanze nur wenig Platz in der Breite. Ideal sind absonnige Standorte. Geigenfeigen können hoch wachsen. Sie vertragen einen Rückschnitt, wenn man sie nicht so hoch wachsen lassen möchte.<br\/><\/p>"
+          }
+        },
+        "ea3f5340-1127-481b-a2b7-15511795b746": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Elefantenfuß<\/h3>"
+          }
+        },
+        "f120e63e-b81a-4d40-a858-23712239862e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/elefantenfuss\" title=\"Elefantenfuß\">Elefantenfuß<\/a>-Arten verdanken ihren Namen der charakteristischen Stammform. Typisch ist die Verdickung an der knolligen Stammbasis, die als Wasserspeicher dient. Die Zimmerpflanze sieht aus wie ein kleiner Baum. Am oberen Ende des Stammes treiben die langen, schmalen Blätter aus. Dank der Fähigkeit, Wasser zu speichern, braucht die beliebte Zimmerpflanze kaum Pflege.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-heading-1",
+        "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-text-1",
+        "ea3f5340-1127-481b-a2b7-15511795b746",
+        "f120e63e-b81a-4d40-a858-23712239862e"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "902e4c9c-1952-4f2c-874b-4d4d6e65ec9d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "0cab24c8-07dd-4420-a084-4b575f18efd4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/geigenfeige-ficus-lyrata-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "9dddfe08-3ae4-4c5f-8af9-95d61a7d84d0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elefantenfuss-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "0cab24c8-07dd-4420-a084-4b575f18efd4",
+        "9dddfe08-3ae4-4c5f-8af9-95d61a7d84d0"
+      ],
+      "settings": {
+      }
+    },
+    "6141966c-855e-4f23-be72-a4b9ff5807bc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Fensterblatt<\/h3>"
+          }
+        },
+        "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein Klassiker unter den beliebten Zimmerpflanzen, der sich als Grünpflanze schon seit Jahrzehnten großer Beliebtheit erfreut, ist das <a href=\"\/products\/fensterblatt\" title=\"Fensterblatt\">Fensterblatt<\/a>. Die Form der großen, ledrigen Blätter ist einzigartig. Das <strong>unregelmäßig gezackte Blatt <\/strong>wird als Motiv für Kissen, Wandsticker und andere Dekorationsgegenstände verwendet. Auch das trägt zur Beliebtheit der pflegeleichten Zimmerpflanze bei.<\/p>"
+          }
+        },
+        "df5b0676-0e61-44a3-bc54-625779a60489": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Einblatt<\/h3>"
+          }
+        },
+        "a881ac5a-4de6-4d15-a61c-17b318ac1b49": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie bei allen Aronstabgewächsen bildet das <a href=\"\/products\/einblatt\" title=\"Einblatt\">Einblatt<\/a> einen kolbenförmigen Blütenstand mit einem Hochblatt. Das erklärt auch Trivialnamen wie Scheidenblatt und Blattfahne. Zierend sind auch die länglichen, lanzettlichen Blätter. Das Einblatt ist eine perfekte Pflanze für Fensterbänke im Halbschatten. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-heading-1",
+        "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-text-1",
+        "df5b0676-0e61-44a3-bc54-625779a60489",
+        "a881ac5a-4de6-4d15-a61c-17b318ac1b49"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "7f4df762-bbde-429b-81d8-a2aace0c1b22": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "812dddc4-45b6-451e-ac19-1d1fc1897c0a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/philodendron-monstera-fensterblatt-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "3a3ec30a-5b60-4e55-aaaa-6558e7e98e08": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/einblatt-spathiphyllum-schattenpflanze-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "812dddc4-45b6-451e-ac19-1d1fc1897c0a",
+        "3a3ec30a-5b60-4e55-aaaa-6558e7e98e08"
+      ],
+      "settings": {
+      }
+    },
+    "fa432e22-dd6c-4546-b811-48cd5addb297": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Gummibaum<\/h3>"
+          }
+        },
+        "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In den 60er und 70er Jahren war der <a href=\"\/products\/gummibaum\" title=\"Gummibaum\">Gummibaum<\/a> sehr beliebt. Er durfte in keinem Wohnzimmer fehlen. Das Comeback als Raumbegrüner und die aktuelle Beliebtheit hat sicherlich auch mit dem Retro-Trend zu tun. Der Gummibaum Ficus elastica hat dunkelgrüne, <strong>glänzende Blätter<\/strong> mit kurzen Blattstielen. Diese Baumart aus dem Nordosten Indiens kann im Wohnzimmer sehr groß werden. Sollte er zu viel Platz beanspruchen, kann er eingekürzt werden. <\/p>"
+          }
+        },
+        "e6a5f792-571c-4ec9-ab97-0d2e80eeb5ae": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Pfauen-Korbmarante<\/h3>"
+          }
+        },
+        "9e178804-9ce6-49e1-abc0-fe0a42376cec": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die pflegeleichte <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante<\/a> ist eine Blattschönheit! Ihre großen, <strong>ovalrunden Blätter<\/strong> mit dunkel- und hellgrünen Streifen sind sehr dekorativ. Die Pflanze wird bis zu 80 cm hoch! Calathea orbifolia ist wegen ihrer Schönheit sehr beliebt, braucht aber etwas mehr Pflege.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-heading-1",
+        "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-text-1",
+        "e6a5f792-571c-4ec9-ab97-0d2e80eeb5ae",
+        "9e178804-9ce6-49e1-abc0-fe0a42376cec"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "d4cb3c15-450d-426c-b2a2-8e056a4ea99d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "3412a5f3-ff83-4347-a664-b0a6880027e0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ficus-elastica-robusta-gummibaum.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "4d1c6b20-0692-4e04-8107-a2a450bf8917": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calathea-orbifolia-pfauen-korbmarante-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "3412a5f3-ff83-4347-a664-b0a6880027e0",
+        "4d1c6b20-0692-4e04-8107-a2a450bf8917"
+      ],
+      "settings": {
+      }
+    },
+    "49480b67-a281-4bd4-b5cf-c835b2712509": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Grünlilie<\/h3>"
+          }
+        },
+        "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Besser bekannt ist die <a href=\"\/products\/gruenlilie\" title=\"Grünlilie\">Grünlilie<\/a> unter dem Trivialnamen Graslilie. Seit dem 19. Jahrhundert schmückt sie unsere Wohnräume und gedeiht auch bei wenig Licht. Die beliebte Zimmerpflanze mit den langen, <strong>grasartigen Blättern<\/strong> und den zarten, weißen Blüten eignet sich für Ampeln und Fensterbänke. Eine Graslilie „verzeiht“ Ihnen, wenn Sie mal das Gießen vergessen haben.<\/p>"
+          }
+        },
+        "78e24d1b-4d4d-4a6e-9e24-0fa2408335d7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Birkenfeige<\/h3>"
+          }
+        },
+        "a1e8db14-74f8-4659-b41e-b4b0b5a02430": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Strauch oder Baum? Diese <a href=\"\/products\/birkenfeige\" title=\"Birkenfeige\">Birkenfeige<\/a> (Ficus benjamina) wird als Strauch geliefert. Die Blätter sind oval und glänzend hellgrün, wenn sie jung sind. Im Alter werden sie dunkelgrün. Bei guter Pflege und optimalem Standort ohne direkte Sonne kann der Benjamini sehr alt werden.<\/p>"
+          }
+        },
+        "bfc458ad-20cd-4432-8973-3de7ff355a56": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Glücksfeder<\/h3>"
+          }
+        },
+        "5fadb9ae-5b79-4382-aee7-5f637c6d769c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die genügsame <a href=\"\/products\/gluecksfeder\" title=\"Glücksfeder\">Glücksfeder<\/a> ist als Zimmerpflanze sehr angesagt! Sie wächst ausdauernd und krautig. An den langen Trieben entwickeln sich <strong>paarweise angeordnete<\/strong>, glänzende Blätter. Das verleiht der Pflanze einen federartigen Charakter. Sie sieht aus wie eine Mischung aus Palme und Farn.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-heading-1",
+        "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-text-1",
+        "78e24d1b-4d4d-4a6e-9e24-0fa2408335d7",
+        "a1e8db14-74f8-4659-b41e-b4b0b5a02430",
+        "bfc458ad-20cd-4432-8973-3de7ff355a56",
+        "5fadb9ae-5b79-4382-aee7-5f637c6d769c"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "6b493433-7671-4357-8a72-14001d763dd7": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "0da9fe52-eed5-4d19-8187-5354462e70fb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gruenlilie-chlorophytum-comosum-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "6ad8471d-d20a-4afd-ae2b-646a39adafb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zamioculcas-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "0da9fe52-eed5-4d19-8187-5354462e70fb",
+        "6ad8471d-d20a-4afd-ae2b-646a39adafb3"
+      ],
+      "settings": {
+      }
+    },
+    "d9f93b80-4096-4e2b-a67f-d5fcfa876440": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19901302178141__d9f93b80-4096-4e2b-a67f-d5fcfa876440-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Die meisten beliebten Zimmerpflanzen sind grün<\/h2>"
+          }
+        },
+        "template--19901302178141__d9f93b80-4096-4e2b-a67f-d5fcfa876440-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fast alle beliebten Zimmerpflanzen sind grün und werden auch als <a href=\"\/collections\/gruene-zimmerpflanzen\" title=\"Grüne Zimmerpflanzen\">Grünpflanzen<\/a> bezeichnet. Wie ist das zu erklären? Diese Pflanzenarten gedeihen unter den Bäumen der tropischen und subtropischen Wälder. Im Schatten von Bäumen ist das Angebot an Licht geringer. Die Pflanzen kompensieren das geringere Lichtangebot durch einen höheren Gehalt an <strong>grünem Farbstoff<\/strong>, dem Chlorophyll. Deshalb sind die Blätter dieser Pflanzenarten viel dunkelgrüner. Je mehr Chlorophyll vorhanden ist, desto mehr Licht wird absorbiert und in chemische Energie umgewandelt. Diese Energie benötigen die Pflanzen, um aus Wasser und Kohlendioxid den Traubenzucker zu bilden.<\/p>"
+          }
+        },
+        "add082ef-25ec-4a73-a1c8-3c3733b539c4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Welche beliebten Zimmerpflanzen sind blühend?<\/h2>"
+          }
+        },
+        "59682743-370d-4fd3-9fb1-54a5f8674cc3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt viele beliebte <a href=\"\/collections\/bluehende-zimmerpflanzen\" title=\"Blühende Zimmerpflanzen\">blühende Zimmerpflanzen<\/a>, deren Blattschmuck noch durch die Blüte verstärkt wird. Dazu gehören <a href=\"\/products\/rote-flamingoblume\" title=\"Rote Flamingoblume\">rote Flamingoblumen<\/a> und <a href=\"\/products\/weisse-flamingoblume\" title=\"Weiße Flamingoblume\">weiße Flamingoblumen<\/a>, <a href=\"\/collections\/orchideen\" title=\"Orchideen\">Orchideen<\/a> und <a href=\"\/products\/paradiesvogelblume\" title=\"Paradiesvogelblume\">Paradiesvogelblumen<\/a>. Mit attraktiven Blütenformen und kräftigen Farben setzen sie zusätzliche Akzente. Sie blühen über einen langen Zeitraum und mehrmals im Jahr. Zimmerpflanzen wieder zum Blühen zu bringen, ist immer eine Herausforderung und ein lohnendes Hobby für erfahrene Pflanzenkenner.<\/p>"
+          }
+        },
+        "5f312a95-a2d4-47ff-ae23-1986265f7066": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Beliebte Zimmerpflanzen kaufen auf Gartencenter.de<\/h2>"
+          }
+        },
+        "c428a99e-027f-4d48-b5e0-c1c217db84cc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nicht nur die beliebten Zimmerpflanzen, die wir Ihnen hier kurz vorgestellt haben, können Sie bei Gartencenter.de kaufen. Neben den beliebten Blattpflanzen finden Sie auch blühende Zimmerpflanzen. Suchen Sie sich eine Zimmerpflanze aus, die Ihnen am besten gefällt! Wichtig ist, dass die neue Zimmerpflanze einen passenden Standort bekommt. Auf diese Art und Weise können Sie sehr gut beobachten, wie sich Ihre neue Zimmerpflanze gesund und kräftig entwickelt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19901302178141__d9f93b80-4096-4e2b-a67f-d5fcfa876440-heading-1",
+        "template--19901302178141__d9f93b80-4096-4e2b-a67f-d5fcfa876440-text-1",
+        "add082ef-25ec-4a73-a1c8-3c3733b539c4",
+        "59682743-370d-4fd3-9fb1-54a5f8674cc3",
+        "5f312a95-a2d4-47ff-ae23-1986265f7066",
+        "c428a99e-027f-4d48-b5e0-c1c217db84cc"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "0c014e6a-8eb4-4723-87ee-0b933431c077": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e6085cae-d5fb-4668-bbc7-64e5bd2a7391",
+    "c2b3f13a-edec-4243-b73d-91f934d2c2e4",
+    "cadf981e-1d8b-4a00-aa39-3030ea472ff9",
+    "691f4546-d2af-4f1f-b69e-ff5ceee158d6",
+    "bde33166-360a-4fef-b6e9-4bf2c54e166a",
+    "902e4c9c-1952-4f2c-874b-4d4d6e65ec9d",
+    "6141966c-855e-4f23-be72-a4b9ff5807bc",
+    "7f4df762-bbde-429b-81d8-a2aace0c1b22",
+    "fa432e22-dd6c-4546-b811-48cd5addb297",
+    "d4cb3c15-450d-426c-b2a2-8e056a4ea99d",
+    "49480b67-a281-4bd4-b5cf-c835b2712509",
+    "6b493433-7671-4357-8a72-14001d763dd7",
+    "d9f93b80-4096-4e2b-a67f-d5fcfa876440",
+    "0c014e6a-8eb4-4723-87ee-0b933431c077"
+  ]
+}

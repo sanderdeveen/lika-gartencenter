@@ -570,7 +570,7 @@
             "settings": {
               "header_contact": "Benötigen Sie Hilfe?",
               "service_chat_url": "shopify:\/\/pages\/contact",
-              "service_chat_text": "Kontakt per Chat. Während der Bürozeiten.",
+              "service_chat_text": "Kontaktformular",
               "service_phone": "1",
               "service_phone_text": "Telefonischer Kontakt (Mo - Fr 09:00 - 17:00)",
               "service_mail": "1",

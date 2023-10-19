@@ -1,0 +1,522 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "eb601cfa-7d0b-41f8-93f2-ca0be1f0f823": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__eb601cfa-7d0b-41f8-93f2-ca0be1f0f823-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Bäume für Ziergärten<\/h2>"
+          }
+        },
+        "template--19917753352541__eb601cfa-7d0b-41f8-93f2-ca0be1f0f823-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie wünschen sich einen Garten mit einem großen dekorativen Wert? Sicher mögen Sie es, wenn sich das Laub an den Bäumen schön herbstlich färbt oder wenn Sie sich an der jährlichen Blüte erfreuen können. Wir haben die Top 5 der Zierbäume für Sie zusammengestellt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__eb601cfa-7d0b-41f8-93f2-ca0be1f0f823-heading-1",
+        "template--19917753352541__eb601cfa-7d0b-41f8-93f2-ca0be1f0f823-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "242cb8c7-423a-4a0f-9f9d-1f9ee0d71466": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Die Top 3 unter den Zierbäumen",
+        "text_first": "",
+        "product_1": "magnolie-spectrum",
+        "product_2": "zierapfel-evereste",
+        "product_3": "japanische-bluetenkirsche-autumnalis-rosea",
+        "button_text_first": "Weitere Allee- und Zierbäume ansehen",
+        "url_first": "shopify:\/\/collections\/allee-zierbaeume",
+        "header_second": "",
+        "text_second": "",
+        "product_4": "",
+        "product_5": "",
+        "product_6": "",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "e997f7cd-5047-4c22-b4cb-171d375d2325": {
+      "type": "rich-text",
+      "blocks": {
+        "9be4a8d6-68c8-4ae7-88d9-92a3147c00bd": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/magnolia-baeume-blueten.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19917753352541__e997f7cd-5047-4c22-b4cb-171d375d2325-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Vogelfreundliche Bäume<\/h2>"
+          }
+        },
+        "template--19917753352541__e997f7cd-5047-4c22-b4cb-171d375d2325-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Als Tierfreund lieben Sie die Gegenwart von Vögeln in Ihrem Garten. Durch die Entscheidung für eine <strong>vogelfreundliche Baumart<\/strong> schaffen Sie einen Garten, der Vögel anlockt. Der hochstämmige Weißdorn ist ein Beispiel für einen Baum, der nicht nur von Vögeln, sondern auch von Insekten geschätzt wird. Verschiedene Insektenarten, darunter auch Bienen, werden von den weißen Blüten mit den Staubgefäßen angezogen. An den Bäumen entwickeln sich nach der Blüte die Beeren. Für verschiedene Vogelarten sind diese Beeren eine sehr bevorzugte Futterquelle. Schauen Sie sich hier den Weißdorn oder den Säulen-Weißdorn an.<\/p><p>Morus nigra, auch Schwarze Maulbeere genannt, entwickelt erst später im Jahr Früchte. Sowohl die schwarzen Maulbeeren als auch der dichte Wuchs des Maulbeerbaums locken verschiedene Vögel und Insekten an. Der Baum ist als Hochbaum, aber auch als Schirm- oder Dachbaum erhältlich. Bevorzugen Sie einen zierlichen Wuchs? Dann ist die Zierkirsche eine gute Wahl. Vögel lieben die kleinen ovalen Steinfrüchte, die im Juni und Juli am Baum erscheinen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9be4a8d6-68c8-4ae7-88d9-92a3147c00bd",
+        "template--19917753352541__e997f7cd-5047-4c22-b4cb-171d375d2325-heading-1",
+        "template--19917753352541__e997f7cd-5047-4c22-b4cb-171d375d2325-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "1e462ae3-2471-49f9-8a55-a28cee63c014": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__1e462ae3-2471-49f9-8a55-a28cee63c014-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Schattenspendender Baum<\/h2>"
+          }
+        },
+        "template--19917753352541__1e462ae3-2471-49f9-8a55-a28cee63c014-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie mögen es, wenn Sie sich an heißen, sonnigen Sommertagen in Ihrem Garten an einen schönen kühlenden Schattenplatz zurückziehen können? Ein Schirm- oder Dachbaum bietet eine natürliche Überdachung in Ihrem Garten und hat dank seiner dachförmigen Krone auch einen hohen Zierwert. Bei einem Dachbaum werden die Äste in Form eines Sonnenschirms geleitet und geschnitten. Wie viel Schatten ein Schirm- oder Dachbaum spendet, hängt von der Größe der Blätter ab. Es gilt: Je größer die Blätter, desto mehr Schatten spendet der Baum. Ein weiteres Beispiel für einen schattenspendenden Baum ist der Kugelbaum. Den kugelrunden Kronen verdanken diese Bäume ein attraktives Aussehen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__1e462ae3-2471-49f9-8a55-a28cee63c014-heading-1",
+        "template--19917753352541__1e462ae3-2471-49f9-8a55-a28cee63c014-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "252bad5c-cc6f-4a14-a01e-6b6aa2555f60": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Ein Dachbaum bietet mehr Kühlung als ein mit Sonnenschirmen und Markisen schattierter Sitzplatz.<\/p>"
+      }
+    },
+    "c78cb056-d0ab-42a8-bc06-5313308c6f8d": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Vogelfreundlichen Bäume",
+        "text_first": "",
+        "product_1": "japanische-bluetenkirsche-yedoensis",
+        "product_2": "mehrstaemmige-felsenbirne",
+        "product_3": "saeulen-weissdorn",
+        "button_text_first": "Weitere Bäume ansehen",
+        "url_first": "shopify:\/\/collections\/baeume",
+        "header_second": "Beliebte Schattenspender",
+        "text_second": "",
+        "product_4": "kugelcatalpa",
+        "product_5": "dachplatane",
+        "product_6": "",
+        "button_text_second": "",
+        "url_second": "shopify:\/\/collections\/baeume",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "159316e6-10e6-4255-81b1-5d25ffa6d1ff": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__159316e6-10e6-4255-81b1-5d25ffa6d1ff-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Palmen in Ihrem Haus oder Garten<\/h2>"
+          }
+        },
+        "template--19917753352541__159316e6-10e6-4255-81b1-5d25ffa6d1ff-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie sind eher ein Fan des tropischen Flairs und können sich für Palmen begeistern? Die chinesische Fächerpalme ist in Ostasien beheimatet und kann sowohl in Innenräumen stehen als auch in Außenbereiche gepflanzt werden. Möchten Sie Ihr Zuhause noch lebenswerter gestalten? Dann ist eine Zimmerpalme genau das Richtige für Sie. Ganz gleich, ob Sie diese für Innenräume oder für draußen bevorzugen: Mit diesen drei Palmenarten holen Sie sich garantiert ein Stück tropischen Regenwald in Ihren Garten oder in Ihr Zuhause!<\/p>"
+          }
+        },
+        "ef79dd59-8dea-4131-a91e-e930e137a43a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Legen Sie Ihren eigenen Obstgarten mit Obstbäumen an<\/h2>"
+          }
+        },
+        "5e660742-9d43-4299-b4eb-1a8499937d17": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie finden es wunderbar, einen eigenen Obstgarten zu haben? Beachten Sie, dass die Größe des Obstgartens von den Wuchsformen der von Ihnen gewählten Obstbäume abhängt. (Patio-Bäumchen, Niederstamm, Halbstamm, Hochstamm oder Spalierbaum). Haben Sie ein großes Grundstück? Dann ist es sinnvoll, mehrere hochstämmige oder halbstämmige Obstbäume nebeneinander zu pflanzen. Besitzen Sie einen kleinen Garten? Dann sind Sie mit einem Patio-Bäumchen oder einem niedrigstämmigen Obstbaum gut beraten. Läuft Ihnen bei den Gedanken an köstlichen Apfelkuchen, Pflaumenmarmelade oder Frucht-Smoothie schon das Wasser im Mund zusammen?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__159316e6-10e6-4255-81b1-5d25ffa6d1ff-heading-1",
+        "template--19917753352541__159316e6-10e6-4255-81b1-5d25ffa6d1ff-text-1",
+        "ef79dd59-8dea-4131-a91e-e930e137a43a",
+        "5e660742-9d43-4299-b4eb-1a8499937d17"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "f580ea39-51c2-46c1-baf2-996e9f988cde": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Beliebte Palmenarten",
+        "text_first": "",
+        "product_1": "chinesische-hanfpalme",
+        "product_2": "",
+        "product_3": "",
+        "button_text_first": "Weitere Bäume ansehen",
+        "url_first": "shopify:\/\/collections\/baeume",
+        "header_second": "Beliebte Obstbäume",
+        "text_second": "",
+        "product_4": "apfelbaum-jonagold-hochstamm",
+        "product_5": "olivenbaum",
+        "product_6": "birnbaum-conference",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "9d1ac011-b1e5-419f-95e4-46d22e2397a2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__9d1ac011-b1e5-419f-95e4-46d22e2397a2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Spalierbäume als Grundstücksbegrenzung<\/p>"
+          }
+        },
+        "template--19917753352541__9d1ac011-b1e5-419f-95e4-46d22e2397a2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie sind eher der Typ, der es mag, wenn der Hausgarten pflegeleicht und strukturiert ist? Und außerdem ist Ihnen der dekorative Charakter sehr wichtig? Dann entscheiden Sie sich für Spalierbäume. Ein Spalierbaum hat einen charakteristischen Kronenaufbau und eine ländliche Ausstrahlung. Immergrüne Bäume werten Ihr Haus und Ihren Garten auf. Diese Baumarten eignen sich auch hervorragend, um Ihre Privatsphäre zu schützen. Wenn Sie mehrere Bäume nebeneinander in einer Reihe pflanzen, kreieren Sie eine Abgrenzung. Zudem verhindern Sie mit den Spalierbäumen die ungewünschte Einsicht in Ihr Grundstück. Spalierbäume haben gegenüber anderen Baumarten den Vorteil, dass sie weniger Platz benötigen. Das ist darauf zurückzuführen, dass die Äste in der Baumkrone nur entgegengesetzt ausgerichtet sind.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__9d1ac011-b1e5-419f-95e4-46d22e2397a2-heading-1",
+        "template--19917753352541__9d1ac011-b1e5-419f-95e4-46d22e2397a2-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "d7a50003-9062-4528-882b-8807a007af5c": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Die Spalierbäume waren in der Vergangenheit auf den Bauernhöfen und auf den Grundstücken der Landhäuser weit verbreitet. Sie boten Schutz vor der Sonne. An den Sommertagen war es abends, wenn die Arbeit getan war, im Haus angenehm kühl.<\/p>"
+      }
+    },
+    "accf2774-6b1a-4d1a-bdea-cd6682b11869": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__accf2774-6b1a-4d1a-bdea-cd6682b11869-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Säulenbäume für einen kleinen Garten<\/h2>"
+          }
+        },
+        "template--19917753352541__accf2774-6b1a-4d1a-bdea-cd6682b11869-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie haben keinen großen Garten, aber die Idee, einen Baum zu pflanzen, begeistert Sie trotzdem? Auch für kleinere Gärten gibt es geeignete Bäume. Säulenbäume zum Beispiel haben einen kegelförmigen Wuchs und bleiben daher schmal. Die Verzweigung beginnt direkt am Stammanfang. Aufgrund seines schmalen Wuchses eignet sich der Baum für große und kleine Gärten. Denken Sie daran, dass diese Baumarten beträchtlich in die Höhe wachsen können. Schneiden Sie die Krone, damit sie in guter Form bleibt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__accf2774-6b1a-4d1a-bdea-cd6682b11869-heading-1",
+        "template--19917753352541__accf2774-6b1a-4d1a-bdea-cd6682b11869-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f8b01917-6cc9-4112-bd7d-7f75d01a479c": {
+      "type": "products-grid",
+      "settings": {
+        "header_first": "Beliebte Spalierbäume",
+        "text_first": "",
+        "product_1": "glanzmispel-als-spalierbaum",
+        "product_2": "spalierlinde",
+        "product_3": "amberbaum-als-spalier",
+        "button_text_first": "Weitere Bäume ansehen",
+        "url_first": "shopify:\/\/collections\/baeume",
+        "header_second": "Beliebte Säulenbäume",
+        "text_second": "",
+        "product_4": "saeulen-hainbuche",
+        "product_5": "magnolie-leonard-messel",
+        "product_6": "sumpfeiche",
+        "button_text_second": "",
+        "url_second": "",
+        "header_third": "",
+        "text_third": "",
+        "product_7": "",
+        "product_8": "",
+        "product_9": "",
+        "button_text_third": "",
+        "url_third": ""
+      }
+    },
+    "41700945-b342-44f4-bb36-7d3beac69793": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__41700945-b342-44f4-bb36-7d3beac69793-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Hochstammbäume und Weiden für einen großen Garten<\/h2>"
+          }
+        },
+        "template--19917753352541__41700945-b342-44f4-bb36-7d3beac69793-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie verfügen über ein großes Grundstück. Vielleicht leben Sie auf einem Bauernhof oder haben einfach einen großen Garten. Wenn Sie viel Platz zur Verfügung haben, können Sie diesen durch die Pflanzung einiger größerer Bäume sinnvoll nutzen. Hochstamm-Bäume sind Bäume, die Ihrem Garten Höhe und Tiefe verleihen. Wählen Sie je nach Ihren Vorlieben einen geeigneten hochstämmigen Baum. Möchten Sie Ihren Garten verschönern und lieben Sie Farben? Entscheiden Sie sich dann für einen blühenden Hochstammbaum. Legen Sie Wert auf prächtige Herbstfarben? Dann suchen Sie sich einen Hochstammbaum mit Blättern, die sich im Herbst wunderbar verfärben. Beispiele dafür sind der Amberbaum 'Worplesdon' und der Judasbaum 'Forest Pansy'. Wenn Sie das Grün und das charakteristische Aussehen schätzen, sollten Sie sich für Weiden entscheiden. Weiden haben ein pittoreskes Aussehen und einen erheblichen dekorativen Wert.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__41700945-b342-44f4-bb36-7d3beac69793-heading-1",
+        "template--19917753352541__41700945-b342-44f4-bb36-7d3beac69793-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "c51ce1c9-ba05-4acf-82eb-47c19cbb9828": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--19917753352541__c51ce1c9-ba05-4acf-82eb-47c19cbb9828-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Beste Qualität aus Holland"
+          }
+        },
+        "template--19917753352541__c51ce1c9-ba05-4acf-82eb-47c19cbb9828-product_selection-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "hainbuche-baum",
+            "enable_quick_add": true
+          }
+        },
+        "8e35129a-fe49-4564-8ee4-e4d50088f188": {
+          "type": "usp",
+          "settings": {
+            "usp": "Umfangreicher Käuferschutz"
+          }
+        },
+        "e3b36ceb-171d-4279-b58a-29c6411b09b9": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rot-ahorn",
+            "enable_quick_add": true
+          }
+        },
+        "6ed4aa8c-30aa-4711-84a0-787b5e0f953f": {
+          "type": "usp",
+          "settings": {
+            "usp": "Schonend verpackt"
+          }
+        },
+        "20c5589f-daff-4367-bac5-97fec965e77d": {
+          "type": "product_selection",
+          "settings": {
+            "product": "trauerweide",
+            "enable_quick_add": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__c51ce1c9-ba05-4acf-82eb-47c19cbb9828-usp-1",
+        "template--19917753352541__c51ce1c9-ba05-4acf-82eb-47c19cbb9828-product_selection-1",
+        "8e35129a-fe49-4564-8ee4-e4d50088f188",
+        "e3b36ceb-171d-4279-b58a-29c6411b09b9",
+        "6ed4aa8c-30aa-4711-84a0-787b5e0f953f",
+        "20c5589f-daff-4367-bac5-97fec965e77d"
+      ],
+      "settings": {
+        "heading": "Topseller Hochstammbäume",
+        "text": ""
+      }
+    },
+    "dcd720b7-8e26-4313-97bc-5ab2e8ec7fc0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917753352541__dcd720b7-8e26-4313-97bc-5ab2e8ec7fc0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Bäume im Garten pflanzen<\/h2>"
+          }
+        },
+        "template--19917753352541__dcd720b7-8e26-4313-97bc-5ab2e8ec7fc0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beabsichtigen Sie, einen Baum zu pflanzen? Denken Sie dann daran, dass junge Bäume kräftige Wurzeln bilden müssen. Es dauert etwa 2 bis 3 Jahre, bis ein Baum angewachsen ist. An windigen Standorten können junge Bäume umfallen oder ihre Wurzeln beschädigt werden. Wir empfehlen daher die Verwendung von Baumpfählen und Baumbindern, damit Ihr Baum standfest wird. <\/p>"
+          }
+        },
+        "58bd0949-9482-42db-9e6b-cc5d1c709a7d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Lassen Sie sich von unseren Baum-Beispielen inspirieren<\/h2>"
+          }
+        },
+        "e63fe04a-49a2-4bc0-bd80-9477043411cc": {
+          "type": "click_image",
+          "settings": {
+            "bg_pulse": "#86b765",
+            "click_image_1": "shopify:\/\/shop_images\/spalierbaeume-im-garten-inspirieren-neu.jpg",
+            "product_1": "spalierlinde",
+            "x_as_1": 77,
+            "y_as_1": 47,
+            "product_2": "katzenminze-walkers-low",
+            "x_as_2": 24,
+            "y_as_2": 82,
+            "product_3": "",
+            "x_as_3": 24,
+            "y_as_3": 82
+          }
+        },
+        "5a04eebb-6be5-4af4-804e-c75158f62827": {
+          "type": "click_image",
+          "settings": {
+            "bg_pulse": "#86b765",
+            "click_image_1": "shopify:\/\/shop_images\/dachplatane-baum-kaufen.jpg",
+            "product_1": "dachplatane",
+            "x_as_1": 40,
+            "y_as_1": 32,
+            "product_2": "",
+            "x_as_2": 0,
+            "y_as_2": 0,
+            "product_3": "",
+            "x_as_3": 0,
+            "y_as_3": 0
+          }
+        },
+        "be6f3dd7-afb5-4b99-b07e-b013ce5e8ea3": {
+          "type": "click_image",
+          "settings": {
+            "bg_pulse": "#86B765",
+            "click_image_1": "shopify:\/\/shop_images\/kugelcatalpa-baum-kaufen.jpg",
+            "product_1": "kugelcatalpa",
+            "x_as_1": 31,
+            "y_as_1": 19,
+            "product_2": "eisenkraut",
+            "x_as_2": 52,
+            "y_as_2": 60,
+            "product_3": "",
+            "x_as_3": 0,
+            "y_as_3": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--19917753352541__dcd720b7-8e26-4313-97bc-5ab2e8ec7fc0-heading-1",
+        "template--19917753352541__dcd720b7-8e26-4313-97bc-5ab2e8ec7fc0-text-1",
+        "58bd0949-9482-42db-9e6b-cc5d1c709a7d",
+        "e63fe04a-49a2-4bc0-bd80-9477043411cc",
+        "5a04eebb-6be5-4af4-804e-c75158f62827",
+        "be6f3dd7-afb5-4b99-b07e-b013ce5e8ea3"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "d6709926-46da-40c2-b26a-43740fdfb91c": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "eb601cfa-7d0b-41f8-93f2-ca0be1f0f823",
+    "242cb8c7-423a-4a0f-9f9d-1f9ee0d71466",
+    "e997f7cd-5047-4c22-b4cb-171d375d2325",
+    "1e462ae3-2471-49f9-8a55-a28cee63c014",
+    "252bad5c-cc6f-4a14-a01e-6b6aa2555f60",
+    "c78cb056-d0ab-42a8-bc06-5313308c6f8d",
+    "159316e6-10e6-4255-81b1-5d25ffa6d1ff",
+    "f580ea39-51c2-46c1-baf2-996e9f988cde",
+    "9d1ac011-b1e5-419f-95e4-46d22e2397a2",
+    "d7a50003-9062-4528-882b-8807a007af5c",
+    "accf2774-6b1a-4d1a-bdea-cd6682b11869",
+    "f8b01917-6cc9-4112-bd7d-7f75d01a479c",
+    "41700945-b342-44f4-bb36-7d3beac69793",
+    "c51ce1c9-ba05-4acf-82eb-47c19cbb9828",
+    "dcd720b7-8e26-4313-97bc-5ab2e8ec7fc0",
+    "d6709926-46da-40c2-b26a-43740fdfb91c"
+  ]
+}

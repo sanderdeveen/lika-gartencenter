@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "414ef3f3-f895-4e50-99d4-26163068f52b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19944361918813__414ef3f3-f895-4e50-99d4-26163068f52b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bambus ist eine Pflanze, die sich sehr gut über Stecklinge vermehren lässt. Das schnelle Wachstum von Bambus garantiert, dass sich die Pflanze nach dem Entnehmen des Stecklings schnell erholt. Diese günstige, <strong>schnell wachsende Eigenschaft<\/strong> wird auch dem Steckling mitgegeben, sodass er schnell zu einer schönen, vollwertigen Bambuspflanze heranwachsen wird. Möchten Sie die Bambuspflanzen in Ihrem Garten vermehren? <br\/>Oder würden Sie gerne einen Steckling von einer schönen Bambuspflanze aus dem Garten Ihrer Freunde oder Familie mitnehmen? Wir sagen Ihnen, wie Sie Bambus mit Stecklingen richtig vermehren.<\/p>"
+          }
+        },
+        "template--19944361918813__414ef3f3-f895-4e50-99d4-26163068f52b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Was versteht man unter Stecklingen?<\/h2>"
+          }
+        },
+        "dc11f9a0-7f67-45cc-92e3-9c497bfc2942": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bevor wir mehr über Bambus-Stecklinge erklären, ist es sinnvoll, Ihnen etwas über das Vermehren von Pflanzen zu berichten. Die Idee der Stecklingsvermehrung ist eigentlich ganz einfach. Ein Steckling wird aus einem Halmstück einer alten Pflanze geschnitten, um eine neue Bambuspflanze zu züchten und somit zu vermehren. Wenn Sie also einen Steckling nehmen, erhalten Sie eine neue Pflanze der gleichen Art und mit den identischen Eigenschaften der Mutterpflanze.<\/p><p>Die Art und Weise, wie man eine Pflanze steckt, unterscheidet sich je nach Pflanzenart. Nachfolgend geben wir Ihnen Tipps und Ratschläge, wie Sie Bambus-Stecklinge entnehmen können<\/p>"
+          }
+        },
+        "ac654fc1-dcda-46d4-9cf9-7dcce86c3b03": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Tipps für Bambusstecklinge<\/h2>"
+          }
+        },
+        "23fc8768-cd47-4838-856a-1189f7fdb627": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bevor wir Ihnen erklären, wie Sie Bambusstecklinge machen, möchten wir Ihnen ein paar Tipps geben, um Ihre Erfolgschancen zu erhöhen. Auf diese Weise wissen Sie alles, was dafür notwendig ist und können sofort loslegen!<\/p>"
+          }
+        },
+        "abf3c057-1ab7-4af3-b3e1-3b2760e92e62": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- Arbeiten Sie immer mit sauberen Werkzeugen. Das ist notwendig, um Krankheiten vorzubeugen. Außerdem empfehlen wir die Verwendung einer Gartenschere mit einer scharfen Klinge. Andernfalls beschädigen Sie unnötigerweise sowohl die Mutterpflanze als auch den Steckling. Hierdurch wird der Steckling nicht so optimal wurzeln und Sie werden kein gutes Ergebnis erzielen.*<\/p><p>- Bambusstecklinge schneidet man vorzugsweise am besten im <strong>März oder April<\/strong>. In diesen Monaten wächst der Bambus sehr schnell, sodass sich schneller neue Wurzeln bilden.*<\/p><p>- Setzen Sie den Steckling so schnell wie möglich an seinen neuen Platz. Ist es nicht möglich, den Steckling sofort in die Erde zu setzen, weil Sie ihn zum Beispiel noch transportieren möchten? Wickeln Sie in diesem Fall den Sprossteil in nasses Küchenpapier, damit er nicht austrocknet.*<\/p><p>- Sehen Sie sich unter anderem unser <a href=\"\/collections\/bambus-zubehoer\" title=\"Bambus Zubehör\">Bambuszubehör<\/a> wie Pflanzerde, Wurzelsperren und Dünger an.*<\/p><p>- Versorgen Sie Ihre neuen Bambuspflanzen gut. Sind Sie neugierig wie? In unseren Blogs über das Pflanzen von Bambus und den Rückschnitt und die Pflege von Bambus können Sie alles über die richtige Versorgung Ihrer Bambuspflanze lesen. Auf diese Weise halten Sie alle Bambuspflanzen in Ihrem Garten in Top Zustand!*<\/p>"
+          }
+        },
+        "48d2a6df-37ab-4acc-8036-580dff1122a3": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
+          }
+        },
+        "964d025e-d2f2-420e-8e62-16299e6282e6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Bambusvermehrung: Wurzeln teilen oder Stecklinge schneiden<\/h2>"
+          }
+        },
+        "7ed84641-1f52-4c56-bb79-975942979a9c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt nicht nur eine Art, Bambus zu vermehren. Es gibt sogar drei verschiedene Möglichkeiten, für die vegetative Vermehrung. Sie können einen Bambus teilen oder mit einem scharfen Messer einen Steckling abschneiden. Der Steckling kann dann entweder in die Erde oder in Wasser gesetzt werden. Wenn Sie dies sorgfältig tun, wird der Steckling schnell zu einer starken neuen Bambuspflanze heranwachsen. Für das Stecken des Bambus spielt es keine Rolle, welche Bambusart Sie vermehren möchten. Es geht also hauptsächlich darum, was Sie vorteilhaft finden und was für Sie funktioniert.<\/p>"
+          }
+        },
+        "4b24a00f-2e03-4476-b98b-2e952a681e74": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Stecklingsschnitt: wurzellose Stecklinge in Erde oder Wasser<\/h3>"
+          }
+        },
+        "a7a755c9-ab5f-4aad-b396-eef0c6538519": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei den verschiedenen Vorgehensweisen zur Vermehrung ist das Teilen des Bambus die schwierigste Arbeit. Wir verstehen, dass Sie das wahrscheinlich nicht mögen. Deshalb beginnen wir mit einer einfachen Methode, nämlich das <strong>Stecken ohne Wurzeln<\/strong>. Die Methode der Stecklingsvermehrung eignet sich sehr gut, wenn Sie die Bambuspflanze nicht ausdünnen möchten. Weil Sie bei dieser Stecklingsmethode keine Wurzeln von der Mutterpflanze abtrennen, dauert es auch etwas länger, bis Ihr Steckling zu einer vollwertigen Pflanze heranwächst. Aber das längere geduldige Warten wird Ihnen viel Mühe ersparen!<\/p><p>Bei der Stecklingsvermehrung ohne Wurzeln wird lediglich ein Stück Bambushalm abgeschnitten und die Wurzeln der Mutterpflanze verbleiben im Boden. Für das Bewurzeln der Stecklinge gibt es zwei Möglichkeiten. Sie können den Steckling entweder in der <strong>Erde oder im Wasser <\/strong>wurzeln lassen. Wir beginnen mit Stecklingen in der Erde und erklären dann, wie Sie das auch mit Wasser tun können.<\/p>"
+          }
+        },
+        "048ad7ed-305b-4b54-9336-78f1e5574aaa": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/bambusvermehrung-wurzeln-stecklingsschnitt.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--19944361918813__414ef3f3-f895-4e50-99d4-26163068f52b-text-1",
+        "template--19944361918813__414ef3f3-f895-4e50-99d4-26163068f52b-heading-1",
+        "dc11f9a0-7f67-45cc-92e3-9c497bfc2942",
+        "ac654fc1-dcda-46d4-9cf9-7dcce86c3b03",
+        "23fc8768-cd47-4838-856a-1189f7fdb627",
+        "abf3c057-1ab7-4af3-b3e1-3b2760e92e62",
+        "48d2a6df-37ab-4acc-8036-580dff1122a3",
+        "964d025e-d2f2-420e-8e62-16299e6282e6",
+        "7ed84641-1f52-4c56-bb79-975942979a9c",
+        "4b24a00f-2e03-4476-b98b-2e952a681e74",
+        "a7a755c9-ab5f-4aad-b396-eef0c6538519",
+        "048ad7ed-305b-4b54-9336-78f1e5574aaa"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e248e135-d816-4f95-94b1-817efda631cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Stecklinge in der Erde anwurzeln lassen<\/h3>"
+          }
+        },
+        "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für die Vorbereitung der Stecklinge benötigen Sie ein scharfes Messer. Es ist auch wichtig, dass Sie schnell arbeiten. Je schneller Sie den Steckling wieder in die Erde stecken, desto besser wächst die Pflanze an.<\/p>"
+          }
+        },
+        "9848d276-8a97-47c3-a3e2-b22d9bfb7284": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Bereiten Sie alles gut vor. Legen Sie Ihre Werkzeuge bereit und füllen Sie einen großen Topf mit Blumenerde.<br\/>Bereiten Sie die Löcher für die Stecklinge in der Erde vor. Das geht ganz einfach mit den Fingern. Möchten Sie Ihre Finger möglichst nicht schmutzig machen? Dann ist auch der Stiel eines Holzlöffels ein passendes Werkzeug. Suchen Sie sich einen geeigneten Standort, an dem Sie den Steckling in den ersten Wochen stehen lassen können. Die besten Resultate erzielen Sie, wenn Sie den Steckling an einem geschützten, warmen Ort ohne direkte Sonneneinstrahlung setzen.<br\/>*<\/p><p>- Wählen Sie die Halme aus, die Sie abschneiden möchten. Verwenden Sie dafür junge Halme, die weniger als 3 Jahre alt sind. Es ist jedoch wichtig, dass der Halm einen ausreichenden Durchmesser hat. Im Allgemeinen gilt: Je jünger und dicker der Halm, desto wahrscheinlicher ist es, dass der Steckling gut anwächst.*<\/p><p>- Schneiden Sie den Steckling in einem 45 Grad Winkel mit einer Gartenschere ab, damit der Bambus möglichst viele Wurzeln entwickeln kann. Ein Bambushalm besteht aus Verdickungen (den runden Knoten am Bambushalm) und dem glatten Segmenten zwischen diesen Knoten (Internodien). Der Steckling sollte aus mindestens zwei Verdickungen bestehen und dazwischen zwei glatte Sprossabschnitte haben. <\/p><p>Wir empfehlen eine minimale Länge des Stecklings von 25 Zentimetern. Hierdurch hat der Steckling genügend Kraft zum Wachsen. Die Triebspitze können Sie abschneiden und entblättern.*<\/p><p>- Setzen Sie jetzt den Steckling in die Erde. Sie haben die Erdlöcher bereits vorbereitet, daher ist das sehr einfach. Hier stecken Sie das Bambushalmstück (den glatten Teil zwischen den Verdickungen) ganz in den Boden. Dadurch bleibt der Bambus fest stehen. Drücken Sie die Erde um den Steckling herum fest an.*<\/p><p>- Ohne ausreichend Wasser kann der Bambus nicht wachsen. Besprühen Sie daher die Bodenoberfläche rund um Ihre Stecklinge. Aber lassen Sie die Blumenerde auch nicht nass werden, denn das ist nicht gut für die Wurzeln. Befüllen Sie den hohlen Halm des Stecklings mit Wasser. Auf diese Weise hat die Pflanze immer einen kleinen Reservevorrat.*<\/p><p>- Kontrollieren Sie alle zwei Tage, ob die Bambuspflanze noch genügend Wasser hat. Überprüfen Sie sowohl die Erde um den Steckling als auch das Wasser im Halm und füllen Sie bei Bedarf nach. Auf diese Weise bekommt die Pflanze die Möglichkeit, kräftige Wurzeln zu entwickeln.*<\/p><p>- Nach etwa 4 bis 6 Wochen hat der Steckling Wurzeln geschlagen. Sie müssen sich aber noch etwas gedulden, bevor Sie den Bambus umpflanzen können. Nach etwa 3 bis 4 Monaten ist die Pflanze stark genug, um umgepflanzt zu werden. Sie können die Pflanze auch direkt in Ihren Garten setzen. Genießen Sie von Ihrer selbst gezüchteten, prächtigen Bambuspflanze!<\/p>"
+          }
+        },
+        "d0cb6bc2-20e1-4c32-baa9-b72fa30daf8f": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/stecklinge-in-erde-anwurzeln-lassen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "6e5e7607-186a-46f6-9ea3-4540d4fbc47c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Bambus-Stecklinge im Wasser vermehren<\/h3>"
+          }
+        },
+        "3888d5be-ae5f-479f-be71-7996e9a2f1bb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Vermehrung von Bambusstecklingen in Wasser ist eine beliebte Methode. Besonders wenn Sie den Steckling in eine Glasvase stecken, macht es Spaß, den Prozess der Wurzelentwicklung zu verfolgen. Sie können tatsächlich beobachten, wie Ihr Steckling zu einer Pflanze heranwächst. Das Stecken von Bambus-Stecklingen in Wasser erfolgt ähnlich wie das Stecken von wurzellosen Stecklingen in Erde. Anstelle eines Topfes mit Erde stellen Sie im ersten Schritt ein hohes Gefäß mit Wasser bereit. Der untere Abschnitt Ihres Stecklings sollte vollständig im Wasser stehen können. Führen Sie anschließend die Schritte 1 bis 3 der vorher beschriebenen Methode aus. Haben Sie den Steckling von der Mutterpflanze abgeschnitten? Stellen Sie den Steckling in das Gefäß oder in eine Flasche mit Wasser. <\/p><p>Der Steckling braucht viel Licht, sollte allerdings auf keinen Fall in direktem Sonnenlicht stehen. Wechseln Sie das Wasser regelmäßig (alle zwei Tage). Achten Sie auch darauf, dass die Temperatur beim Schneiden nicht zu niedrig ist (<strong>minimal 13 Grad<\/strong>). Warum sollte man das Wasser so oft wechseln? Ein Bambussteckling braucht viel Sauerstoff und in abgestandenem Wasser geht dieser schnell verloren. <\/p><p>Sie können jetzt Ihren wachsenden Steckling beobachten. In einer Glasflasche ist gut zu sehen, wie sich die Wurzeln entwickeln. Sobald die Wurzeln etwa 5 cm lang sind, ist Ihr Steckling stark genug, um umgetopft zu werden. Sie können Ihren Steckling dann direkt in Ihren Garten pflanzen. Achten Sie nur darauf, dass Sie die Pflanze tief genug eingraben, damit sie standfest ist.<\/p>"
+          }
+        },
+        "7500d271-98c8-4042-afae-eb180c25cf19": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/bambus-durch-stecklinge-vermehren-in-wasser.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "1be834fe-43c6-43c7-8d2e-440419c307eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Mit Wurzeln: Bambus teilen<\/h3>"
+          }
+        },
+        "f6ca7c20-29a4-4c82-b328-ade61e4a7a71": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Vermehren über Ableger der Wurzeln ist eine praktische Möglichkeit. Allerdings ist das auch die Methode, die den meisten Kraftaufwand erfordert. Die Wurzelballen des Bambus sind sehr starr und stark, sodass das Teilen viel Kraft erfordert. Gleichzeitig ist die Teilung auch der richtige Ansatz, wenn Sie eine <strong>Bambuspflanze etwas ausdünnen möchten<\/strong>. Beim Abschneiden von Stecklingen entfernen Sie keine Wurzeln von der Mutterpflanze. Sie möchten also die Pflanze teilen und gleichzeitig auch die Mutterpflanze ausdünnen? <\/p><p>Dann ist das Teilen des Wurzelstocks diese Anstrengung wert. Wenn Sie Ihre Bambuspflanze auf diese Weise vermehren oder ausdünnen wollen, empfehlen wir Ihnen vorab die Pflanze etwas zurückzuschneiden. Nach dem Abschneiden können Sie die Wurzeln besser erreichen und die Pflanze ist weniger im Weg.<\/p><p>Bevor Sie eine Bambuswurzel teilen, müssen Sie dafür sorgen, dass Sie das richtige Werkzeug zur Hand haben. <strong>Eine scharfe Axt<\/strong> oder ein <a href=\"\/products\/gartenschaufel\" title=\"Gartenschaufel\">Spaten<\/a> ist tatsächlich unverzichtbar. Aber auch dann müssen Sie vorsichtig sein. Sie wären nicht die erste Person, die dabei den Spatenstiel abbricht. Möchten Sie einen Bambusableger abtrennen? Dann befolgen Sie den nachfolgenden Schritt-für-Schritt-Plan für ein erfolgreiches Ergebnis.<\/p>"
+          }
+        },
+        "cac5cdd9-6afd-49ea-9711-7b34f3540697": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Wählen Sie die Stelle, an der Sie den Bambus teilen möchten. Graben Sie den Bambus etwas aus, damit die Wurzeln frei liegen und Sie diese mühelos erreichen können.*<\/p><p>- Schneiden oder hacken Sie einen Teil des Wurzelstocks ab, damit er sich von der Mutterpflanze löst.<br\/>Lassen Sie für Ihre neue Pflanze eine Halmlänge mit 2 oder 3 Abschnitten (Knoten und Internodien) stehen.<br\/>Auf diese Weise hat die Pflanze genügend Kraft, um weiter zu wachsen.*<\/p><p>- Setzen Sie den Teil des Wurzelstocks so schnell wie möglich an seinem neuen Platz in die Erde und bedecken Sie dabei mindestens 1 Segment des Bambushalms mit Erde. Verwenden Sie dafür einen Pflanzkübel oder pflanzen Sie den Wurzelableger direkt in die Gartenerde. Gießen Sie die neue Pflanze auch sofort. Füllen Sie dazu den Halm mit Wasser und besprühen Sie die Erde.*<\/p><p>- Sorgen Sie dafür, dass die Erde feucht bleibt. Wasser ist für Bambus lebenswichtig. Prüfen Sie also regelmäßig, ob der Boden noch feucht ist. Geben Sie aber nicht zu früh Wasser, da die Stecklinge sonst faulen könnten.*<\/p><p>- Viel Spaß mit Ihrer neuen Pflanze! Innerhalb weniger Monate wird aus dem abgetrennten Wurzelstock eine vollwertige neue Bambuspflanze heranwachsen.*<\/p>"
+          }
+        },
+        "14a0bd17-e377-47f6-8e7f-43f82e3eaf2c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Brauchen Sie Hilfe?<\/h2>"
+          }
+        },
+        "061ac2c9-278f-4e92-8345-ff79c117613a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Benötigen Sie Tipps oder Ratschläge für das Vermehren der Bambuspflanzen? Dann zögern Sie nicht, uns zu <a href=\"\/pages\/contact\" title=\"Contact\">kontaktieren<\/a>. Wir erklären Ihnen gerne alles, was wir über Bambus wissen, damit Sie Ihre Bambuspflanzen erfolgreich Vermehren können.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-heading-1",
+        "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-text-1",
+        "9848d276-8a97-47c3-a3e2-b22d9bfb7284",
+        "d0cb6bc2-20e1-4c32-baa9-b72fa30daf8f",
+        "6e5e7607-186a-46f6-9ea3-4540d4fbc47c",
+        "3888d5be-ae5f-479f-be71-7996e9a2f1bb",
+        "7500d271-98c8-4042-afae-eb180c25cf19",
+        "1be834fe-43c6-43c7-8d2e-440419c307eb",
+        "f6ca7c20-29a4-4c82-b328-ade61e4a7a71",
+        "cac5cdd9-6afd-49ea-9711-7b34f3540697",
+        "14a0bd17-e377-47f6-8e7f-43f82e3eaf2c",
+        "061ac2c9-278f-4e92-8345-ff79c117613a"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "160c4775-de7f-4af9-a445-9b0e99b39aff": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "414ef3f3-f895-4e50-99d4-26163068f52b",
+    "e248e135-d816-4f95-94b1-817efda631cd",
+    "160c4775-de7f-4af9-a445-9b0e99b39aff"
+  ]
+}

@@ -185,7 +185,7 @@
           "settings": {
             "heading": "Wie pflanzt man Schneeballhortensien?",
             "custom_liquid_1": "",
-            "content": "<p>Schneeballhortensien eignen sich sowohl für die Topfkultur als auch zum Einsetzen im Garten. Pflanzen Sie nicht mehr als 3 Hortensien pro Quadratmeter, um einen schönen, üppigen Strauch zu erhalten. Für das beste Ergebnis ist es ratsam, spezielle Hortensienerde zu verwenden. Hortensien gedeihen nämlich am besten in sauren Böden.<\/p>",
+            "content": "<p>Schneeballhortensien eignen sich sowohl für die Topfkultur als auch zum Einsetzen im Garten. Pflanzen Sie nicht mehr als 3 Hortensien pro Quadratmeter, um einen schönen, üppigen Strauch zu erhalten. Für das beste Ergebnis ist es ratsam, spezielle <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">Hortensienerde<\/a> zu verwenden. Hortensien gedeihen nämlich am besten in sauren Böden.<\/p>",
             "custom_liquid_2": ""
           }
         },
@@ -194,7 +194,7 @@
           "settings": {
             "heading": "Wie hoch werden Schneeballhortensien?",
             "custom_liquid_1": "",
-            "content": "<p>Schneeballhortensien werden bis zu 150 cm hoch. Die großen, kugelförmigen Blüten sind das Markenzeichen der Schneeballhortensie. Sie können einen Durchmesser von bis zu 20 cm – also fast Fußballgröße – erreichen.<\/p>",
+            "content": "<p>Schneeballhortensien werden bis zu 150 cm hoch. Die großen, kugelförmigen Blüten sind das Markenzeichen der Schneeballhortensie. Sie können einen Durchmesser von bis zu 20 cm – also fast Fußballgröße – erreichen.<\/p><p>Eine der bekanntesten Hortensien ihrer Art ist die <a href=\"\/products\/schneeball-hortensie-annabelle\" title=\"Schneeballhortensie 'Annabelle'\">Schneeballhortensie ‘Annabelle’<\/a>, die sich durch ihre riesigen Blüten auszeichnet. Die weißen Kugeln sind oft so groß, dass sich die Zweige bis zum Boden neigen. Sie können nämlich einen Durchmesser von bis zu 20 cm erreichen. Um zu verhindern, dass sich die Zweige verbiegen oder sogar abbrechen, können Sie am besten eine Pflanzenstütze verwenden. Eine andere Möglichkeit wäre die gleichzeitige Bepflanzung mit „stützenden“ Heckenpflanzen, wie zum Beispiel einer <a href=\"\/collections\/buchsbaumhecke\" title=\"Buchsbaumhecke\">Buchsbaumhecke<\/a>. Auf diese Weise kann sich die Hortensie an die Hecke „anlehnen“ und können die Stiele nicht so leicht umknicken. Eine natürliche Pflanzenstütze, sozusagen!<\/p><p>Wer auf jegliche Stützhilfen verzichten möchte, kann sich auch für eine andere, kräftigere Variante der Schneeballhortensie entscheiden. Die <a href=\"\/products\/schneeballhortensie-strong-annabelle\" title=\"Schneeballhortensie 'Strong Annabelle'\">Schneeballhortensie ‘Strong Annabelle’<\/a> ist die robustere Variante der Sorte ‘Annabelle’, mit dickeren, kräftigeren Stielen, schnellem Wachstum und noch größeren Blütenständen. Im Gegensatz zur günstigeren Ursprungsvariante lässt die ‘Strong Annabelle’ ihre Köpfe nicht so schnell hängen, sodass man die Blütenpracht noch länger genießen kann.<\/p>",
             "custom_liquid_2": ""
           }
         }
@@ -211,12 +211,6 @@
     "ec5cbda5-69f2-4466-8d38-fe984a09bb1b": {
       "type": "rich-text",
       "blocks": {
-        "template--15870029791412__ec5cbda5-69f2-4466-8d38-fe984a09bb1b-16691067789977479a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Eine der bekanntesten Hortensien ihrer Art ist die <a href=\"\/products\/schneeball-hortensie-annabelle\" title=\"Schneeballhortensie 'Annabelle'\">Schneeballhortensie ‘Annabelle’<\/a>, die sich durch ihre riesigen Blüten auszeichnet. Die weißen Kugeln sind oft so groß, dass sich die Zweige bis zum Boden neigen. Sie können nämlich einen Durchmesser von bis zu 20 cm erreichen. Um zu verhindern, dass sich die Zweige verbiegen oder sogar abbrechen, können Sie am besten eine Pflanzenstütze verwenden. Eine andere Möglichkeit wäre die gleichzeitige Bepflanzung mit „stützenden“ Heckenpflanzen, wie zum Beispiel einer <a href=\"\/products\/buchshecke\" title=\"Buchshecke\">Buchsbaumhecke<\/a>. Auf diese Weise kann sich die Hortensie an die Hecke „anlehnen“ und können die Stiele nicht so leicht umknicken. Eine natürliche Pflanzenstütze, sozusagen!Wer auf jegliche Stützhilfen verzichten möchte, kann sich auch für eine andere, kräftigere Variante der Schneeballhortensie entscheiden.<\/p><p>Die <a href=\"\/products\/schneeballhortensie-strong-annabelle\" title=\"Schneeballhortensie 'Strong Annabelle'\">Schneeballhortensie ‘Strong Annabelle’<\/a> ist die robustere Variante der Sorte ‘Annabelle’, mit dickeren, kräftigeren Stielen, schnellem Wachstum und noch größeren Blütenständen. Im Gegensatz zur günstigeren Ursprungsvariante lässt die ‘Strong Annabelle’ ihre Köpfe nicht so schnell hängen, sodass man die Blütenpracht noch länger genießen kann.<\/p>"
-          }
-        },
         "902f113b-041e-47a8-a15c-dc2cde57165d": {
           "type": "image",
           "settings": {
@@ -256,12 +250,11 @@
         "e29aefb0-4950-4caa-9749-f3d305b89a4a": {
           "type": "text",
           "settings": {
-            "text": "<p>Schneeballhortensien eignen sich sowohl für die Topfkultur als auch zum Einsetzen im Garten. Dabei sollte allerdings darauf geachtet werden, dass die richtige Erde verwendet wird. Hortensien stellen gewisse Ansprüche an die Bodenqualität. Eine Voraussetzung ist, dass der Boden sauer ist. Hortensienerde bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen. Deshalb sollte beim Pflanzen von Hortensien unbedingt Hortensienerde verwendet werden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach sollten Sie Ihre Schneeballhortensie zweimal im Jahr mit speziellem Hortensiendünger verwöhnen. So bleibt Ihre Hortensie immer in Topform!<\/p>"
+            "text": "<p>Schneeballhortensien eignen sich sowohl für die Topfkultur als auch zum Einsetzen im Garten. Dabei sollte allerdings darauf geachtet werden, dass die richtige Erde verwendet wird. Hortensien stellen gewisse Ansprüche an die Bodenqualität. Eine Voraussetzung ist, dass der Boden sauer ist. <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">Hortensienerde<\/a> bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen. Deshalb sollte beim Pflanzen von Hortensien unbedingt Hortensienerde verwendet werden. Hortensienerde enthält ausreichend Nährstoffe für 100 Tage. Danach sollten Sie Ihre Schneeballhortensie zweimal im Jahr mit speziellem <a href=\"\/products\/compo-bio-rhododendron-und-hortensien-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle\">Hortensiendünger<\/a> verwöhnen. So bleibt Ihre Hortensie immer in Topform!<\/p>"
           }
         }
       },
       "block_order": [
-        "template--15870029791412__ec5cbda5-69f2-4466-8d38-fe984a09bb1b-16691067789977479a-1",
         "902f113b-041e-47a8-a15c-dc2cde57165d",
         "96237fb1-3832-44e3-982f-3ce8c232a164",
         "b52c6434-f7d4-4c87-af78-4fdcb8f27ccc",

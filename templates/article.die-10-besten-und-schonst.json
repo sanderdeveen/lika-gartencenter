@@ -1,0 +1,187 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "f070c14a-5059-4337-920a-2bf90aa21df8": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Kentiapalme",
+        "image": "shopify:\/\/shop_images\/kentiapalme-howea-forsteriana.jpg",
+        "content": "<p>Die <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Kentiapalme<\/a>, auch Howea Forsteriana oder Kentia-Palme genannt, ist eine echte Blattschmuckpflanze, die ursprünglich von der Lord-Howe-Insel bei Australien stammt. Sie ist eine der schönsten Zimmerpflanzen. Wegen ihrer <strong>edlen Ausstrahlung<\/strong> schmückte sie früher die Foyers und Salons der Wohlhabenden. Die langen, fiederblättrigen und dunkelgrünen Palmwedel verleihen Räumen ein exotisches Flair und erinnern an den Urlaub im Süden. Die großen Pflanzen können direkt auf dem Fußboden stehen und füllen die Freiräume zwischen den Möbeln. Vor einer großen Balkon- oder Terrassentür wirkt eine hohe Kentiapalme sehr dekorativ. <\/p>",
+        "url": "shopify:\/\/products\/kentiapalme",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "e2eb3b2a-3ae3-4aaa-b36b-4f236527ffe2": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bergpalme",
+        "image": "shopify:\/\/shop_images\/bergpalme.jpg",
+        "content": "<p>Zierlich und elegant wirkt die <a href=\"\/products\/bergpalme\" title=\"Bergpalme\">Bergpalme Chamaedorea<\/a> auf den kleinen Pflanztischen, die neben den Sitzmöbeln stehen. Die sattgrünen, gefiederten Palmwedel sind sehr fein. Als <strong>langlebige Dekoration<\/strong> für Tische und Sideboards setzen mehrere kleine Pflanzen in hübschen Übertöpfen natürliche Akzente.<\/p>",
+        "url": "shopify:\/\/products\/bergpalme",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "52fba2b6-1e7f-4f7f-93b3-56cf80b2a431": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Glücksfeder",
+        "image": "shopify:\/\/shop_images\/glucksfeder-zamioculcas.jpg",
+        "content": "<p>Die <a href=\"\/products\/gluecksfeder\" title=\"Glücksfeder\">Glücksfeder Zamioculcas<\/a> braucht nur sehr wenig Pflege! Wenn Sie also Ihre Wohnung mit Zimmerpflanzen dekorieren möchten, aber nur hin und wieder gießen wollen, ist die federblättrige Zamioculcas eine ‚glückliche‘ Lösung! Mehrere kleine, <strong>sattgrün glänzende Blätter<\/strong> sind wechselseitig angeordnet, sodass sie einen federähnlichen, langen Blattwedel bilden. In dem verdickten Trieb wird Wasser gespeichert. Diese schöne Zimmerpflanze verdient einen trendigen Übertopf. Vermeiden Sie, dass die Glücksfeder in der vollen Mittagssonne steht.<br\/><\/p>",
+        "url": "shopify:\/\/products\/gluecksfeder",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "88a3bcd7-bb6c-4de8-b77c-0c2211eb564d": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bogenhanf",
+        "image": "shopify:\/\/shop_images\/bunte-bogenhanf-sanseveria-trifasciata.jpg",
+        "content": "<p>Der pflegeleichte <a href=\"\/products\/bunte-bogenhanf\" title=\"Bunte Bogenhanf\">Bunte Bogenhanf Sansevieria trifasciata<\/a> ist eine <strong>trendige Zimmerpflanze<\/strong>, die zum angesagten Retro-Stil passt. Die lanzenförmigen, dicken, dunkelgrünen Blätter mit dem gelben Streifen am Rand sind sehr dekorativ. Da der aufrechte Wuchs sehr platzsparend ist, eignet sich Bogenhanf für die Dekoration von Tischen, Sideboards und Fensterbänken, die keine direkte Sonne abbekommen.<\/p>",
+        "url": "shopify:\/\/products\/bunte-bogenhanf",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "d16c6966-19f4-4653-8fa4-a3bad8ce068c": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Zimmerefeu",
+        "image": "shopify:\/\/shop_images\/zimmerefeu-hedera.jpg",
+        "content": "<p>Der <a href=\"\/products\/zimmerefeu\" title=\"Zimmerefeu\">Zimmerefeu<\/a> ist eine Hänge- oder Kletterpflanze, die sich für Standorte auf Tischchen, Schränken und Regalen anbietet. Die Ranken mit den dreifach gelappten Blättern sind <strong>sehr dekorativ<\/strong>. Diese schöne Zimmerpflanze wirkt in einer Blumenampel noch attraktiver, außerdem ist sie pflegeleicht und robust.<\/p>",
+        "url": "shopify:\/\/products\/zimmerefeu",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "b926159e-6051-41dc-8a08-1e5a0e9720c5": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Rote Flamingoblume",
+        "image": "shopify:\/\/shop_images\/rote-flamingoblume-anthurium.jpg",
+        "content": "<p>Die <a href=\"\/products\/rote-flamingoblume\" title=\"Rote Flamingoblume\">rote Flamingoblume<\/a> zählt aus zwei Gründen zu den schönsten Zimmerpflanzen. Zum einen sind es die dicken, spitz zulaufenden, <strong>dunkelgrünen Blätter<\/strong>, zum anderen die leuchtend roten Blüten, die Wohnzimmer, Küche und Bad schmücken. Anthurien im Topf blühen viel länger. Die Blütezeit kann bis zu 3 Monate dauern, was die Flamigoblume zu einer der am längsten <a href=\"\/collections\/bluehende-zimmerpflanzen\" title=\"Blühende Zimmerpflanzen\">blühenden Zimmerpflanzen<\/a> macht.<\/p>",
+        "url": "shopify:\/\/products\/rote-flamingoblume",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "ac610e88-b028-44e9-a91a-62095423dfe8": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Ananaspflanze",
+        "image": "shopify:\/\/shop_images\/Ananaspflanze-bromelia.jpg",
+        "content": "<p>Die Ananasfrucht kennen wir aus dem Supermarkt. Bei der <a href=\"\/products\/ananaspflanze\" title=\"Ananaspflanze\">Ananaspflanze<\/a> handelt es sich um eine Bromelie, die auch als exotische Zierpflanze gehalten werden kann. Aus dem <strong>graugrünen Blattrichter<\/strong> ragt eine reifende Ananasfrucht heraus. Diese Besonderheit macht die Ananas zu einer attraktiven und schönen Zimmerpflanze.<\/p>",
+        "url": "shopify:\/\/products\/ananaspflanze",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "c0d43089-85dd-4022-b5e9-b79218b5b36c": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Kakteen und Sukkulenten",
+        "image": "shopify:\/\/shop_images\/kakteen-und-sukkulenten.jpg",
+        "content": "<p><a href=\"\/collections\/kakteen-und-sukkulenten\" title=\"Kakteen und Sukkulenten\">Kakteen und Sukkulenten<\/a> empfehlen sich für alle, die gerne schöne Zimmerpflanzen zu Hause haben, aber die regelmäßige Pflege scheuen. Diese Zierpflanzen wirken mit ihren dickfleischigen Blättern und Stängeln tropisch schick. Diese platzsparenden Zierpflanzen können über einen langen Zeitraum viel Wasser speichern und <strong>benötigen wenig Dünger<\/strong>. Deren eigenwillige Schönheit wird durch dekorative Übertöpfe mit Standfüßen unterstrichen. Unser <a href=\"\/products\/kakteen-und-sukkulenten-mix-15-stueck-im-betontopf-5-5-cm\" title=\"Kakteen und Sukkulenten Mix 15 Stück im Betontopf 5,5 cm Ø\">Kakteen- und Sukkulenten-Mix<\/a> ist ein idealer Fensterbankschmuck, der viel Sonne verträgt!<\/p>",
+        "url": "shopify:\/\/collections\/kakteen-und-sukkulenten",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "d90691ab-77af-45c4-9391-d98682ae16bd": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Drachenbaum",
+        "image": "shopify:\/\/shop_images\/drachenbaum-compacta.jpg",
+        "content": "<p>Die Farbe Dunkelgrün steht für den <a href=\"\/products\/drachenbaum-compacta\" title=\"Drachenbaum 'Compacta'\">Drachenbaum Dracaena deremensis compacta<\/a>! Wie alle Drachenbäume hat auch die Art Compacta längliche Blätter, die einen dichten Blattschopf bilden und von dünnen Stämmchen getragen werden. Das Sortiment umfasst zwei Grünpflanzen mit jeweils 2 oder 3 Stämmen.<\/p>",
+        "url": "shopify:\/\/products\/drachenbaum-compacta",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "fd751120-fb55-408f-bf3b-23f987f82de7": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Geigenfeige",
+        "image": "shopify:\/\/shop_images\/gegenfeige-ficus-lyrata.jpg",
+        "content": "<p>Über Schönheit kann man streiten. Wir finden, dass die exotische <a href=\"\/products\/geigenfeige\" title=\"Geigenfeige\">Geigenfeige<\/a> zu den schönsten Zimmerpflanzen gehört. Die <strong>dunkelgrüne Blattoberseite<\/strong> und die hellgrüne Blattunterseite sowie der leichte Glanz und die auffälligen Blattadern zieren diese Grünpflanze. Die Geigenfeige kann bis zu 4 m hoch werden, braucht aber nur wenig Platz. Akzentuieren Sie mit dem Ficus lyrata bestimmte Raumbereiche!<\/p>",
+        "url": "shopify:\/\/products\/geigenfeige",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "19f40012-d7dd-4dd6-a892-b993949b2324": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19899706605917__19f40012-d7dd-4dd6-a892-b993949b2324-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Schöne Zimmerpflanzen kaufen<\/h2>"
+          }
+        },
+        "template--19899706605917__19f40012-d7dd-4dd6-a892-b993949b2324-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie schöne Zimmerpflanzen kaufen möchten, sind Sie in unserem Online-Shop genau richtig! Ob exotisch, zierlich oder klassisch elegant – bei Gartencenter.de finden Sie eine riesige Auswahl an pflegeleichten Grünpflanzen oder blühenden Zierpflanzen in verschiedenen Wuchshöhen. Was die beste und schönste Zimmerpflanze ist, entscheiden Sie selbst. Schön ist, was gefällt und zu Ihrer Einrichtung passt. Wählen Sie aus und kontaktieren Sie unseren <a href=\"\/pages\/contact\" title=\"Contact\">Kundendienst<\/a>, um Antworten auf Ihre Fragen zu erhalten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19899706605917__19f40012-d7dd-4dd6-a892-b993949b2324-heading-1",
+        "template--19899706605917__19f40012-d7dd-4dd6-a892-b993949b2324-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "4d54fb08-69ef-4124-af69-48ce4de83cf2": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f070c14a-5059-4337-920a-2bf90aa21df8",
+    "e2eb3b2a-3ae3-4aaa-b36b-4f236527ffe2",
+    "52fba2b6-1e7f-4f7f-93b3-56cf80b2a431",
+    "88a3bcd7-bb6c-4de8-b77c-0c2211eb564d",
+    "d16c6966-19f4-4653-8fa4-a3bad8ce068c",
+    "b926159e-6051-41dc-8a08-1e5a0e9720c5",
+    "ac610e88-b028-44e9-a91a-62095423dfe8",
+    "c0d43089-85dd-4022-b5e9-b79218b5b36c",
+    "d90691ab-77af-45c4-9391-d98682ae16bd",
+    "fd751120-fb55-408f-bf3b-23f987f82de7",
+    "19f40012-d7dd-4dd6-a892-b993949b2324",
+    "4d54fb08-69ef-4124-af69-48ce4de83cf2"
+  ]
+}

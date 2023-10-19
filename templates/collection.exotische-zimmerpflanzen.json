@@ -1,0 +1,370 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "5860303b-bd94-4b42-b3a3-de28689f954c": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Zimmerpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/zimmerpflanzen"
+          }
+        }
+      },
+      "block_order": [
+        "5860303b-bd94-4b42-b3a3-de28689f954c"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller exotische Zimmerpflanzen",
+        "featured_product_one": "paradiesvogelblume",
+        "featured_product_two": "fensterblatt",
+        "featured_product_three": "korbmarante-orbifolia",
+        "color_scheme": "background-1"
+      }
+    },
+    "0bfcc4b7-7ce1-463e-ad77-cea1fe11333c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19946016538973__0bfcc4b7-7ce1-463e-ad77-cea1fe11333c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Alle exotischen Zimmerpflanzen<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946016538973__0bfcc4b7-7ce1-463e-ad77-cea1fe11333c-heading-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0d2988e8-1664-48b4-baac-8b969fd17130": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19946016538973__0d2988e8-1664-48b4-baac-8b969fd17130-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Tropische Zimmerpflanzen sind eine Bereicherung für Ihr Zuhause<\/p>"
+          }
+        },
+        "template--19946016538973__0d2988e8-1664-48b4-baac-8b969fd17130-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Besondere fällt immer auf: Tropische Zimmerpflanzen haben <strong>ungewöhnlich geformte Blätter<\/strong>, Wuchsformen und Blüten. Diese Naturvielfalt gibt es bei uns in Mitteleuropa nicht. Im Vergleich zu einheimischen Pflanzen sind Tropenpflanzen immergrün. Im Winter halten sie eine kurze Ruhepause ein, behalten aber ihr dekoratives Laub und treiben im Frühjahr wieder aus. Das gilt nicht immer. <\/p><p>Tropischen <a href=\"\/products\/weisse-orchidee\" title=\"Weiße Orchidee\">Orchideen<\/a> sind Exoten des Regenwaldes. Sie blühen in regelmäßigen Abständen und auch im Winter. Mit einer Zimmerpflanze holen Sie sich die Pflanzenvielfalt der Welt ins Haus! Die Herkunftsgebiete tropischer Zimmerpflanzen erstrecken sich über mehr als drei Kontinente. Aus Südafrika stammt beispielsweise die <a href=\"\/products\/paradiesvogelblume\" title=\"Paradiesvogelblume\">Paradiesvogelblume<\/a>. <a href=\"\/products\/bromelie-hope\" title=\"Bromelie\">Bromelien<\/a> sind in Mittel- und Südamerika beheimatet. In den subtropischen und tropischen Regionen Ostasiens, Ozeaniens und Australiens sind die zahlreichen <a href=\"\/products\/birkenfeige\" title=\"Birkenfeige\">Ficus-Arten<\/a> zu finden.<\/p>"
+          }
+        },
+        "6ad93df1-b00c-4252-902e-25f82539028d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Pflegeleichte exotische Zimmerpflanzen<\/h2>"
+          }
+        },
+        "5b59b5e9-d5c1-40ae-81a2-dc6b621cee91": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein weiterer Vorteil neben der ganzjährigen Blattfärbung ist, dass die Exoten zu den <a href=\"\/collections\/pflegeleichte-zimmerpflanzen\" title=\"Pflegeleichte Zimmerpflanzen\">pflegeleichten Zimmerpflanzen<\/a> gezählt werden. Tropische Zimmerpflanzen können in verschiedenen Pflanzenorganen Wasser speichern, sodass sie nicht täglich gegossen werden müssen. Das Umtopfen der Pflanzen sowie das Zurückschneiden der Blätter und Triebe sind nicht so häufig erforderlich.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946016538973__0d2988e8-1664-48b4-baac-8b969fd17130-heading-1",
+        "template--19946016538973__0d2988e8-1664-48b4-baac-8b969fd17130-text-1",
+        "6ad93df1-b00c-4252-902e-25f82539028d",
+        "5b59b5e9-d5c1-40ae-81a2-dc6b621cee91"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "5357e9f4-14f4-4fa3-b7fd-f286fb6782b2": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Fensterblatt",
+        "image": "shopify:\/\/shop_images\/fensterblatt-kokosstab-blatt.jpg",
+        "content": "<p>Das <a href=\"\/products\/fensterblatt\" title=\"Fensterblatt\">Fensterblatt<\/a>, auch Monstera genannt, wächst an einem günstigen Standort einfach vor sich hin. Wöchentliches Gießen und das Befeuchten der Blätter bei geringer Luftfeuchtigkeit reichen als Pflege aus. Die exotische Kletterpflanze hat tief eingeschnittene Blätter, die zum Teil mit Löchern versehen sind.<\/p>",
+        "url": "shopify:\/\/products\/fensterblatt",
+        "btn_text": "Fensterblatt ansehen"
+      }
+    },
+    "6635f667-07a4-4e17-b5cc-b080de8e2ebe": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Geigenfeige",
+        "image": "shopify:\/\/shop_images\/gegenfeige-ficus-lyrata-blatt.jpg",
+        "content": "<p><strong>Pflegeleicht und platzsparend<\/strong> ist die <a href=\"\/products\/geigenfeige\" title=\"Geigenfeige\">Geigenfeige Ficus lyrata<\/a>. Die Form der Blätter gab dieser Ficus-Art ihren Namen. Das Bäumchen wächst aufrecht und kann je nach Wunschhöhe gestutzt werden. Tägliche Wassergaben sind nicht erforderlich. Dieser Ficus muss nur einmal im Jahr umgetopft werden.<\/p>",
+        "url": "shopify:\/\/products\/geigenfeige",
+        "btn_text": "Geigenfeige ansehen"
+      }
+    },
+    "b20fd537-b95e-426f-bf66-1c76516c3c55": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Glückskastanie",
+        "image": "shopify:\/\/shop_images\/glueckskastanie-blatt.jpg",
+        "content": "<p>Eine pflegeleichte exotische Zimmerpflanze, die viel Licht, aber keine pralle Sonne verträgt, ist die <a href=\"\/products\/glueckskastanie\" title=\"Glückskastanie\">Glückskastanie Pachira<\/a>. Dekorativ wirken das geflochtene Stämmchen und die <strong>kastanienähnlichen Blätter<\/strong>, die eine Krone bilden. Dadurch sieht die Glückskastanie wie ein richtiger kleiner Baum aus!<\/p>",
+        "url": "shopify:\/\/products\/glueckskastanie",
+        "btn_text": "Glückskastanie ansehen"
+      }
+    },
+    "7a977692-30aa-4ff2-b413-6d41ba6da824": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19946016538973__7a977692-30aa-4ff2-b413-6d41ba6da824-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Luftreinigende exotische Zimmerpflanzen<\/h2>"
+          }
+        },
+        "template--19946016538973__7a977692-30aa-4ff2-b413-6d41ba6da824-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Übrigens: Exotische Zimmerpflanzen wirken durch den intensiven Stoff- und Energieaustausch besonders luftreinigend. Sie binden Schadstoffe aus der Raumluft und verbessern das Raumklima. Einige Beispiele für <a href=\"\/collections\/luftreinigende-zimmerpflanzen\" title=\"Luftreinigende Zimmerpflanzen\">luftreinigende Zimmerpflanzen<\/a> aus den tropischen Regionen der Welt:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946016538973__7a977692-30aa-4ff2-b413-6d41ba6da824-heading-1",
+        "template--19946016538973__7a977692-30aa-4ff2-b413-6d41ba6da824-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "b4aa99f4-5621-48a3-8f1b-cc2221da871d": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Pfauen-Korbmarante",
+        "image": "shopify:\/\/shop_images\/korbmarante-orbifolia-blatt.jpg",
+        "content": "<p>Die <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante<\/a>, auch Pfeilwurz genannt, ist eine <strong>tropische Zimmerpflanze<\/strong>. Die großen, eiförmigen Blätter haben graue und dunkelgrüne Streifen. Dank ihrer Robustheit können auch die Anfänger unter den Zimmergärtnern mit dieser luftreinigenden, exotischen Zimmerpflanze nichts falsch machen.<\/p>",
+        "url": "shopify:\/\/products\/korbmarante-orbifolia",
+        "btn_text": "Pfauen-Korbmarante ansehen"
+      }
+    },
+    "6e0cbff8-1d26-4478-b259-69a56c0957f0": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Gefleckte Efeutute",
+        "image": "shopify:\/\/shop_images\/efeutute-scindapsus-blaetter-nah.jpg",
+        "content": "<p>Sie haben wenig Platz, möchten aber nicht auf eine luftreinigende exotische Zimmerpflanze verzichten? Wir bieten die <a href=\"\/products\/gefleckte-efeutute\" title=\"Gefleckte Efeutute\">Gefleckte Efeutute<\/a> als schlanke Zimmerpflanze an. Die Ranken sind an einem Kokosstab befestigt, sodass die Pflanze sehr aufrecht wachsen kann. Der Platzsparer unter den Zimmerpflanzen kann auf dem Boden oder auf der Fensterbank stehen. Die Sorte 'Trebie' ist <strong>sehr blattreich<\/strong> und jedes Blatt ist „anders schön“. Auf jedem frisch grünen Blatt befinden sich in willkürlicher Verteilung Flecken in einem hellen Graugrün.<\/p>",
+        "url": "shopify:\/\/products\/gefleckte-efeutute",
+        "btn_text": "Gefleckte Efeutute ansehen"
+      }
+    },
+    "63f621a0-6ab0-443a-8a33-4bb10016facf": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Binsenkaktus 'Oasis'",
+        "image": "shopify:\/\/shop_images\/binsenkaktus-oasis.jpg",
+        "content": "<p>Der <a href=\"\/products\/binsenkaktus\" title=\"Binsenkaktus 'Oasis'\">Binsenkaktus 'Oasis' Rhipsalis baccifera<\/a> ist auch unter dem Namen Korallenkaktus bekannt und wird als Ampelpflanze geliefert. Diese Aufsitzerpflanze kann an der Zimmerdecke befestigt werden und „steht nicht im Weg“. Der <strong>besondere Schmuck<\/strong> der Pflanze sind die vielen dickfleischigen, stachellosen Triebe, weshalb 'Oasis' zu den luftreinigenden exotischen Zimmerpflanzen gehört.<\/p>",
+        "url": "shopify:\/\/products\/binsenkaktus",
+        "btn_text": "Binsenkaktus ansehen"
+      }
+    },
+    "15c201d2-70f7-4ccb-8d28-b252ad99a12b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19946016538973__15c201d2-70f7-4ccb-8d28-b252ad99a12b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Exotische Zimmerpflanzen kaufen auf Gartencenter.de<\/h2>"
+          }
+        },
+        "template--19946016538973__15c201d2-70f7-4ccb-8d28-b252ad99a12b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie wäre es mit einem Hauch von Fernweh und Exotik für Ihr Zuhause? In unserer Produktkategorie Zimmerpflanzen finden Sie eine Vielzahl exotischer Zimmerpflanzen, die sich durch ihre besondere Schönheit von unseren heimischen Pflanzenarten unterscheiden. Weil sie nicht dem Wechsel der Jahreszeiten unterliegen, sind sie praktisch „zeitlos“ schön. Hier bei Gartencenter.de finden Sie eine große Auswahl an exotischen Pflanzen für den Innenbereich. Verleihen Sie mit dem üppigen Grün tropischer Zimmerpflanzen Ihren Räumen einen exotischen Blickfang. Bestellen Sie diese einfach online.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946016538973__15c201d2-70f7-4ccb-8d28-b252ad99a12b-heading-1",
+        "template--19946016538973__15c201d2-70f7-4ccb-8d28-b252ad99a12b-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    },
+    "65e6bb14-9d81-47ff-894a-fb634c9b2619": {
+      "type": "services",
+      "blocks": {
+        "template--15760788390068__65e6bb14-9d81-47ff-894a-fb634c9b2619-1666858280be667ffe-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "71b881f3-5175-4a32-a4a5-0db25cb5a1e2": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "febf000e-a169-4e2c-b5e2-dd549d2d7f16": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "9dbe42b9-12b1-40e3-a6c2-f2aa1b758228": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788390068__65e6bb14-9d81-47ff-894a-fb634c9b2619-1666858280be667ffe-0",
+        "71b881f3-5175-4a32-a4a5-0db25cb5a1e2",
+        "febf000e-a169-4e2c-b5e2-dd549d2d7f16",
+        "9dbe42b9-12b1-40e3-a6c2-f2aa1b758228"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "0bfcc4b7-7ce1-463e-ad77-cea1fe11333c",
+    "product-grid",
+    "0d2988e8-1664-48b4-baac-8b969fd17130",
+    "5357e9f4-14f4-4fa3-b7fd-f286fb6782b2",
+    "6635f667-07a4-4e17-b5cc-b080de8e2ebe",
+    "b20fd537-b95e-426f-bf66-1c76516c3c55",
+    "7a977692-30aa-4ff2-b413-6d41ba6da824",
+    "b4aa99f4-5621-48a3-8f1b-cc2221da871d",
+    "6e0cbff8-1d26-4478-b259-69a56c0957f0",
+    "63f621a0-6ab0-443a-8a33-4bb10016facf",
+    "15c201d2-70f7-4ccb-8d28-b252ad99a12b",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
+    "65e6bb14-9d81-47ff-894a-fb634c9b2619"
+  ]
+}

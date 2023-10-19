@@ -232,7 +232,7 @@
         "05d798d1-791a-4a62-a66f-347ca21e546d": {
           "type": "text",
           "settings": {
-            "text": "<p>Kletterhortensien gedeihen am besten in sauren Böden. Deshalb empfehlen wir Ihnen, beim Pflanzen von Kletterhortensien Compo Qualitäts-Blumenerde zu verwenden. Diese Blumenerde bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen.<\/p>"
+            "text": "<p>Kletterhortensien gedeihen am besten in sauren Böden. Deshalb empfehlen wir Ihnen, beim Pflanzen von Kletterhortensien <a href=\"\/products\/compo-sana®-rhododendron-und-hortensienerde\" title=\"COMPO SANA® Rhododendron- und Hortensienerde\">COMPO SANA® Rhododendron- und Hortensienerde<\/a> zu verwenden. Diese Blumenerde bietet Moorbeetpflanzen alles, was sie für ein gesundes Wachstum benötigen.<\/p>"
           }
         },
         "83f0666b-9b57-4b57-ab1f-3c1ab1a1471a": {
@@ -244,13 +244,13 @@
         "8404893e-1d8b-4842-897e-d7e006f34aad": {
           "type": "text",
           "settings": {
-            "text": "<p>Das Düngen mit Compo Rhodo- und Hortensien Vital fördert ein gesundes Wachstum der Kletterhortensie. Wir empfehlen Ihnen, Ihre Kletterhortensie zweimal im Jahr zu düngen. Die erste Düngung sollte zwischen März und Juni erfolgen, die zweite dann zwischen Juli und September.<\/p>"
+            "text": "<p>Das Düngen mit <a href=\"\/products\/compo-bio-rhododendron-und-hortensien-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle\">COMPO BIO Rhododendron- und Hortensien Langzeit-Dünger mit Schafwolle <\/a>fördert ein gesundes Wachstum der Kletterhortensie. Wir empfehlen Ihnen, Ihre Kletterhortensie zweimal im Jahr zu düngen. Die erste Düngung sollte zwischen März und Juni erfolgen, die zweite dann zwischen Juli und September.<\/p>"
           }
         },
         "template--15870028644532__087b291d-66e5-436e-95bb-574b281f9142-1669118769f4a30c3d-5": {
           "type": "image",
           "settings": {
-            "image_url": "",
+            "image_url": "shopify:\/\/products\/kletterhortensie-petiolaris",
             "image": "shopify:\/\/shop_images\/kletterhortensien-petiolaris-blumen.jpg",
             "columns_mobile": "1",
             "columns_desktop": 1

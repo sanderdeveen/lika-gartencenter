@@ -34,10 +34,335 @@
         "content"
       ],
       "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "6d0fca56-d026-4d4c-b93d-e2f614c88d19": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19893483471197__6d0fca56-d026-4d4c-b93d-e2f614c88d19-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Verwenden Sie eine Wurzelsperre für den wuchernden Bambus<\/h2>"
+          }
+        },
+        "template--19893483471197__6d0fca56-d026-4d4c-b93d-e2f614c88d19-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie Sie wahrscheinlich wissen, gibt es die <a href=\"\/collections\/nicht-wuchernder-bambus\" title=\"Nicht wuchernder Bambus\">nicht wuchernden<\/a> und die <a href=\"\/collections\/wuchernder-bambus\" title=\"Wuchernder Bambus\">wuchernden Bambusarten<\/a>. Eine nicht wuchernde Bambusart breitet sich nicht aus und bildet keine unterirdischen Ausläufer. Wuchernder Bambus macht das wohl und kann sich daher in Ihrem Garten ausbreiten.<\/p><p>Um dem entgegenzuwirken, können Sie <a href=\"\/collections\/bambus-wurzelsperre\" title=\"Bambus-Wurzelsperre\">Wurzelsperren<\/a> verwenden. Die Wurzeln des Bambus können die Plane nicht durchdringen. Suchen Sie sich einen möglichst großen Platz aus, an dem Sie den Bambus pflanzen. Legen Sie die Wurzelsperre um die Bambuswurzel und lassen Sie das Material 5 cm über den Boden hinausragen. Dadurch wird sichergestellt, dass die Wurzelrhizome, die sich knapp unter der Erdoberfläche bilden, nicht über die Sperre hinweg wachsen. Geben Sie reichlich Wasser, da die Erde um die Bambuswurzeln schneller austrocknet, wenn eine Rhizomsperre eingesetzt ist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19893483471197__6d0fca56-d026-4d4c-b93d-e2f614c88d19-heading-1",
+        "template--19893483471197__6d0fca56-d026-4d4c-b93d-e2f614c88d19-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "6a5f66a8-109b-4da8-81ae-481554e819a8": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Pflanzen Sie wuchernden Bambus nicht in Teichnähe. Der Grund dafür ist, dass die Ausläufer die Teichfolie durchdringen können.<\/p>"
+      }
+    },
+    "a949f1f4-63e3-4e7f-b1f2-e02a62137c33": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19893483471197__a949f1f4-63e3-4e7f-b1f2-e02a62137c33-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Fargesia-Bambusarten sind in Teichnähe etwas einfacher zu pflegen. Das Wachstum dieser nicht wuchernden Bambusart ist auf einen Sprossbüschel, also auf einen kompakten Wurzelballen, beschränkt. Aus diesem Grund sind Sie nicht gezwungen, eine Wurzelsperre zu installieren.<\/p>"
+          }
+        },
+        "738c65a1-3ffd-4331-aa04-c8d7fdda9ef1": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/collections\/bambus-wurzelsperre",
+            "image": "shopify:\/\/shop_images\/wurzelsperre-bambus.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "8f2cdfc0-c843-4e34-a197-399b9c598ffa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Ihren Bambus Wasser geben<\/h2>"
+          }
+        },
+        "191b2d64-7563-4071-88ae-422f89003015": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bambus mag keine Trockenheit. Stellen Sie also sicher, dass Sie Ihre Bambuspflanze bei trockener Witterung ausreichend gießen. Übrigens können Sie erkennen, wann diese Pflanze zu trocken steht. Die Blätter verfärben sich gelb und bei der Fargesia-Art beispielsweise rollen sich die Blätter ein, wenn sie eine Wassergabe braucht. Ein leicht feuchter Boden ist ideal. Beobachten Sie Ihre Pflanzen vor allem an wärmeren Tagen besonders gut.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19893483471197__a949f1f4-63e3-4e7f-b1f2-e02a62137c33-text-1",
+        "738c65a1-3ffd-4331-aa04-c8d7fdda9ef1",
+        "8f2cdfc0-c843-4e34-a197-399b9c598ffa",
+        "191b2d64-7563-4071-88ae-422f89003015"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "4bfc31e7-50f5-45c7-b621-5a3a5bb62de3": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp: Lassen Sie Ihre Bambuspflanze nicht austrocknen",
+        "text": "<p>Bambuspflanzen in Kübeln sind ausgesprochen anfällig für Trockenheit. Gießen Sie regelmäßig und an wärmeren Tagen zusätzlich. Wählen Sie ein Pflanzgefäß mit einem Loch am Boden und geben Sie <a href=\"\/products\/compo-bio-granuplant-drainage-und-pflanzgranulat\" title=\"COMPO BIO GRANUPLANT Drainage- und Pflanzgranulat\">COMPO BIO Granuplant Drainage- und Pflanzgranulat<\/a> auf den Gefäßboden, damit das Wasser gut ablaufen kann.<\/p>"
+      }
+    },
+    "1c87798d-2a55-436c-9392-766cab0272f3": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Nährstoffbedarf des Bambus",
+        "image": "shopify:\/\/shop_images\/COMPO-bambus-und-ziergraser-langzeit-dunger.jpg",
+        "content": "<p>Das Düngen des Bambus ermöglicht, dass die Pflanze kräftig wächst und ein starkes Wurzelsystem entwickelt. <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a> verbessert die Bodenstruktur und stärkt Ihre Pflanze, sodass sie widerstandsfähiger gegen Krankheiten, Schädlinge und Frost ist. Selbst im Winter können Sie sich dann an einer gesunden und kräftigen Pflanze erfreuen. Düngen Sie Ihren Bambus zweimal im Jahr, damit er optimal wächst. Die beste Zeit dafür ist das zeitige Frühjahr und der Sommer. Geben Sie Ihrem Bambus im Freiland <strong>40 bis 50 Gramm Dünger<\/strong>. <\/p>",
+        "url": "shopify:\/\/products\/compo-bambus-ziergraeser-langzeit-duenger",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "7a3038b0-ff82-4801-aac9-a1e0e492decc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19893483471197__7a3038b0-ff82-4801-aac9-a1e0e492decc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Bambusschnitt<\/h2>"
+          }
+        },
+        "template--19893483471197__7a3038b0-ff82-4801-aac9-a1e0e492decc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Rückschnitt von Bambus ist ausgesprochen empfehlenswert, weil die Pflanze schnell wächst. Mittels Rückschnitt bringen Sie den Bambus in Form und halten den Wuchs kompakt. Wir empfehlen, Ihren Bambus ein- bis zweimal im Jahr zu stutzen. Verwenden Sie dazu eine Heckenschere. Im ersten Jahr ist ein Rückschnitt nicht erforderlich. Im darauffolgenden Jahr können Sie mit dem Zurückschneiden beginnen. Einerseits verjüngt der Bambusschnitt die Pflanze oder bringt sie in eine optimale Form. Ein Bambus bildet aus seinen Wurzeln neue Triebe. Das bedeutet, dass sich an bestehenden Trieben keine neuen Sprossen bilden. Ein regelmäßiger Rückschnitt bewirkt, dass sich von unten neue Sprosse entwickeln und der Bambus voller wird.<br\/><\/p>"
+          }
+        },
+        "892c2a7b-e69c-4cb4-8ade-18542f0c9b04": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Rückschnitt zur Verjüngung des Bambus<\/h3>"
+          }
+        },
+        "d0aa7fd4-deac-4a85-a14c-17bad06313c8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie alte, dicke oder unansehnliche Halme regelmäßig direkt über dem Boden zurückschneiden, verjüngen Sie die Pflanze. Sie können auch überstehende Halme an den Seiten der Pflanze abschneiden. Wenn Sie die Halme ausdünnen, erhält der Bambus mehr Platz und Licht, sodass sich neue Blätter entwickeln können. Es wird mehr Energie in die Bildung neuer Triebe und in die Stärkung bestehender Halme geleitet, wodurch der Bambus noch schöner wächst.<br\/><\/p>"
+          }
+        },
+        "13f32795-b728-4864-8b60-98af5b57cd0e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Bambus zurückschneiden, damit die Pflanze in Form bleibt<\/h3>"
+          }
+        },
+        "0e9d2f14-8bd6-4d3e-a7ae-bd2acb6e4892": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Bambus wächst unglaublich schnell. Wenn Sie ihn also in einem gepflegten Zustand halten wollen, ist der Rückschnitt ab und zu notwendig. Es handelt sich dabei um eine einfache Pflegemaßnahme. Sie müssen lediglich die jungen Bambustriebe auf die gleiche Höhe wie den Großteil der Hecke stutzen. Möchten Sie Ihren Bambus im Ganzen kürzen? Schneiden Sie die Pflanze dann auf die erwünschte Höhe zurück. Auch wenn Sie die Pflanze nicht so breit haben wollen, können Sie die Seiten schmaler schneiden. Möchten Sie mehr Bambustriebe an der Seite und einen breiteren Bambus? Schneiden Sie dann nur den oberen Teil der Pflanze ab.<\/p>"
+          }
+        },
+        "07ab13bf-11c2-45d6-86f1-7b9b1d5c1b6f": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/bambusschnitt-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "48ea8ec4-a4f3-4598-aef8-d32843584272": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Tipps zu den verschiedenen Schnittmethoden<\/h2>"
+          }
+        },
+        "b99bbf26-5fe2-423c-b515-e9b0e0ed8abe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In welchem Monat Sie den Bambus zurückschneiden sollten, hängt von der Bambusart ab. Ein <a href=\"\/products\/wuchernder-bambus-goldrohrbambus\" title=\"Wuchernder Bambus Goldrohrbambus\">Phyllostachys aurea<\/a> zum Beispiel braucht nur wenig Rückschnitt. Entfernen Sie einfach die unansehnlichen Halme und schneiden Sie die Pflanze einmal im Jahr auf die gewünschte Höhe zurück. Außerdem ist der Grund, aus dem Sie den Bambus zurückschneiden, wichtig. Wenn Sie Ihre Hecke schön halten möchten oder die Pflanze beispielsweise durch Frost beschädigt wurde. Wir stellen Ihnen einige Beispielsituationen mit entsprechenden Schnitttipps vor.<br\/><\/p>"
+          }
+        },
+        "2ee8640c-c33e-44b7-9192-83e33663bfea": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": false,
+            "ordered_list": "<p><strong>- Ihr Bambus sieht nicht mehr schön aus: <\/strong>Ein Bambushalm wird etwa 6 bis 8 Jahre alt. Nach einer Weile sieht Ihre Bambuspflanze vielleicht nicht mehr schön aus, weil die Halme alt und unansehnlich sind. Trifft das zu? Schneiden Sie diese Halme ab. Sie erledigen das nach dem Winter und\/oder am Ende des Sommers. Man nennt das die Verjüngung der Pflanze. Bei der Verjüngung der Pflanze schneiden Sie die alten Halme so nah wie möglich am Boden ab.*<\/p><p><strong>- Rückschnitt von Bambus nach Frostschäden: <\/strong>Bei einem strengen Winter kann Ihr Bambus durch Frost geschädigt werden. Schneiden Sie diese Sprosse stark zurück, um die Pflanze zu verjüngen. Der Rückschnitt nach Frostschäden sollte zwischen April und Juni erfolgen, wenn die Sprosse bereits wieder anfangen auszutreiben. Beachten Sie, dass die Erholung von höher wachsenden Bambusarten problematisch sein kann. Das liegt daran, dass die Pflanze durch die Regeneration erschöpft ist. Niedrigwüchsiger Bambus erholt sich wesentlich leichter.*<\/p><p>- <strong>Sie haben eine Bambushecke: <\/strong>Sie haben eine Bambushecke in Ihrem Garten und möchten sie in gutem Zustand halten? Dann schneiden Sie diese im August und September zurück. Schneiden Sie die seitlichen Verästelungen, die außerhalb der Form Ihrer Hecke wachsen ab sowie die Triebspitzen der Hecke. Schneiden Sie außerdem jedes Jahr ein paar alte Halme an der Basis ab, um die Bildung neuer Sprosse anzuregen. Im Handumdrehen wird Ihre Bambushecke wieder gepflegt aussehen.*<\/p><p>- <strong>Bambus ist zu groß: <\/strong>Sie haben Ihren Bambus kräftig wachsen lassen und finden jetzt, dass die Pflanze eigentlich zu hoch geworden ist? Kürzen Sie dann die Spitzen der Bambushalme ein. Es empfiehlt sich, die Pflanzen im August oder September zu kürzen. Der überwiegende Teil der Wachstumsphase ist dann schon vorbei.<\/p>"
+          }
+        },
+        "dfb52a88-c408-4b04-9c39-bd3c120e3d8b": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/ihr-equipment-fuer-den-bambusschnitt.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "ef9dd11f-4e93-4e2e-9b1f-45e46055dc65": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Hilfe, meine Bambusblätter werden gelb und verwelken, was kann ich tun?<\/h2>"
+          }
+        },
+        "c2739be2-a613-4902-aafd-5ec452217f28": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Natürlich wünschen wir uns alle einen schönen grünen Bambus. Bambus ist eine immergrüne Pflanze, die aber auch irgendwann ihre Blätter verlieren wird. Der Verlust der Blätter ist ein natürlicher Prozess des Bambus. Glücklicherweise verliert die Pflanze nicht alle Blätter auf einmal, sodass wir uns immer noch an einer schönen grünen Pflanze erfreuen können. Leidet Ihr Bambus plötzlich in stärkerem Maße unter Blattverlust, welken die Blätter und\/oder werden sie gelb? Dafür könnte es eine der folgenden Ursachen geben:<br\/><\/p>"
+          }
+        },
+        "2f6a4538-f2e5-4272-b1f2-739997af8f5f": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- <strong>Zu feuchte Erde oder zu viel Wasser: <\/strong>Bambus liebt Wasser, viel Wasser. Eine Bambuspflanze mag keine Staunässe und keinen schlammigen Boden. Gießen Sie regelmäßig und achten Sie darauf, dass das Wasser gut abfließen kann. Hält der Boden viel Wasser zurück? Versuchen Sie dann, die Drainage des Wassers zu verbessern, z. B. durch Zugabe von COMPO BIO Granuplant Drainage und Pflanzgranulat in einem Pflanzkübel, oder gießen Sie weniger.*<\/p><p>- <strong>Zu wenig Wasser: <\/strong>Achten Sie darauf, dass Ihr Bambus nie zu trocken ist. Hier kann eine Tröpfchenbewässerung helfen. Ein getopfter Bambus oder ein Bambus mit einer Wurzelsperre benötigt mehr Wasser als eine Pflanze in der Gartenerde. Achten Sie darauf, dass die Erde immer etwas feucht ist. Verwenden Sie zum Beispiel ein COMPO BIO Granuplant Drainage und Pflanzgranulat an der Unterseite eines Pflanzgefäßes, damit das Wasser gut ablaufen kann.*<\/p><p>- <strong>Falscher Standort: <\/strong>Bambus mag keinen Wind. Sorgen Sie daher für einen schönen, geschützten Platz, der vor allem nicht zu heiß ist.*<\/p><p>- <strong>Unzureichende Nährstoffversorgung: <\/strong>Das Problem liegt in keinem der oben genannten Punkte? Geben Sie dem Bambus dann etwas zusätzliche Nährstoffe. Wir empfehlen, Bambuspflanzen zweimal im Jahr mit COMPO Bambus und Ziergräser Langzeit Dünger zu versorgen. Dieser Dünger mit 120 Tage Langzeitwirkung enthält wichtige Nährstoffe, die für eine gute Bodenstruktur und letztlich eine stärkere Pflanze wichtig sind.<\/p>"
+          }
+        },
+        "4d9f7bde-57f2-451d-a6ae-70b8384795fb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Das Umtopfen Ihres Bambus<\/h2>"
+          }
+        },
+        "9e26254e-e0a5-4b49-a119-626dbe5c051a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Steht Ihr Bambus in einem Pflanzkübel? Dann ist es empfehlenswert, die Pflanze alle 2 bis 3 Jahre umzutopfen. Die Wurzeln des Bambus wachsen schnell. Sie erkennen, dass Ihr Bambus einen neuen Kübel braucht, wenn die Wurzeln unterseitig aus dem Pflanzgefäß herauswachsen oder den Topfrand vollständig berühren. Setzen Sie die Pflanze in einen Kübel, der mindestens 20 % größer ist als der, in dem sie jetzt steht. Das Umtopfen erfolgt am besten im Frühjahr. Der Grund dafür ist, dass der Bambus in dieser Zeit genug Energie hat, um Schäden zu regenerieren, die beim Umtopfen entstanden sind.<\/p>"
+          }
+        },
+        "923027c6-1428-48bd-919d-71da901b08b0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Schritt-für-Schritt-Anleitung für das Umtopfen Ihres Bambus<\/h3>"
+          }
+        },
+        "9f97c01e-6da5-4c48-aefc-0509f0fa4e78": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Kontrollieren Sie, bevor Sie beginnen, ob das Pflanzgefäß ein Loch im Topfboden hat. Wenn nicht, bohren Sie mit einem Bohrer mindestens 2 Löcher in den Boden des Pflanzgefäßes.*<\/p><p>- Füllen Sie das Pflanzgefäß zu ⅓ mit COMPO BIO Granuplant Drainage- und Pflanzgranulat.*<\/p><p>- Füllen Sie den Pflanzkübel anschließend mit COMPO Sana Qualitäts-Blumenerde auf. Lassen Sie etwas Freiraum für die Pflanze.*<\/p><p>- Setzen Sie den Bambus in das Pflanzgefäß.*<\/p><p>- Füllen Sie den Pflanztopf weiter mit COMPO Sana Qualitäts-Blumenerde auf und drücken Sie die Erde leicht an.*<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19893483471197__7a3038b0-ff82-4801-aac9-a1e0e492decc-heading-1",
+        "template--19893483471197__7a3038b0-ff82-4801-aac9-a1e0e492decc-text-1",
+        "892c2a7b-e69c-4cb4-8ade-18542f0c9b04",
+        "d0aa7fd4-deac-4a85-a14c-17bad06313c8",
+        "13f32795-b728-4864-8b60-98af5b57cd0e",
+        "0e9d2f14-8bd6-4d3e-a7ae-bd2acb6e4892",
+        "07ab13bf-11c2-45d6-86f1-7b9b1d5c1b6f",
+        "48ea8ec4-a4f3-4598-aef8-d32843584272",
+        "b99bbf26-5fe2-423c-b515-e9b0e0ed8abe",
+        "2ee8640c-c33e-44b7-9192-83e33663bfea",
+        "dfb52a88-c408-4b04-9c39-bd3c120e3d8b",
+        "ef9dd11f-4e93-4e2e-9b1f-45e46055dc65",
+        "c2739be2-a613-4902-aafd-5ec452217f28",
+        "2f6a4538-f2e5-4272-b1f2-739997af8f5f",
+        "4d9f7bde-57f2-451d-a6ae-70b8384795fb",
+        "9e26254e-e0a5-4b49-a119-626dbe5c051a",
+        "923027c6-1428-48bd-919d-71da901b08b0",
+        "9f97c01e-6da5-4c48-aefc-0509f0fa4e78"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "9b13cb74-9644-4599-9157-78c57d85f63b": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Elho vivo next long weiß",
+        "image": "shopify:\/\/shop_images\/elho-vivo-next-long-grau-bambus.jpg",
+        "content": "<p>Möchten Sie Ihrer Terrasse eine fernöstliche Note verpassen? Mit <a href=\"\/collections\/bambus\" title=\"Bambus\">Bambus<\/a> bepflanzt kommt der Elho Vivo Pflanzkasten besonders gut zur Geltung!<\/p>",
+        "url": "shopify:\/\/products\/elho-vivo-next-long-weiss",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "4572dc47-0d30-415e-a2df-d462bc0d0a77": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19893483471197__4572dc47-0d30-415e-a2df-d462bc0d0a77-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Bambus für den Winter vorbereiten<\/h2>"
+          }
+        },
+        "template--19893483471197__4572dc47-0d30-415e-a2df-d462bc0d0a77-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bereiten Sie Ihren Bambus auf den Winter vor. Decken Sie im November den Wurzelbereich der Bambuspflanze mit einer Schicht Laub oder z. B. Holzspäne ab. Das bietet zusätzlichen Kälteschutz im Winter. Schneit es im Winter? Schütteln Sie den Schnee von dem Bambus ab, falls er auf der Pflanze liegen bleibt. Steht Ihr Bambus in einem Pflanzkübel? Dann decken Sie ihn mit Schutzvlies ab. Die Abdeckung bietet einen guten Schutz vor strengem Frost.<\/p>"
+          }
+        },
+        "f58f7182-a5b9-4a9c-b5c3-76bfbaf0c267": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Eine Bambus-Winter-Checkliste <\/h3>"
+          }
+        },
+        "0b801dc6-dcbd-4004-8aa8-5d122382831d": {
+          "type": "check_list",
+          "settings": {
+            "check_list": "<p>- Umwickeln Sie den Pflanzkübel des Bambus mit Winterabdeckvlies*<\/p><p>- Schützen Sie die Wurzeln mit Laub oder Holzspänen*<\/p><p>- Schnee vom Bambus entfernen*<\/p>"
+          }
+        },
+        "a40f1dcc-968e-48d6-a9cf-ea7776836eee": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Besondere Kombinationsmöglichkeiten mit Bambus<\/h2>"
+          }
+        },
+        "8d98fa85-d1d2-4e00-875f-857d6d4d7f62": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kombinieren Sie Bambus mit anderen Stauden und Sträuchern und kreieren Sie die schönsten Zusammenstellungen. Der Ahorn, auch bekannt als <a href=\"\/products\/japanischer-ahorn-rot\" title=\"Japanischer Ahorn rot\">Japanischer Ahorn<\/a>, lässt sich perfekt mit Bambus kombinieren. Ahornpflanzen haben eine fernöstliche Ausstrahlung und ein auffallend buntes Blatt. Sehen Sie sich <a href=\"\/products\/himmelsbambus\" title=\"Himmelsbambus\">Nandina domestica<\/a> (Himmelsbambus) an. Es handelt sich um einen Zierstrauch mit anmutigen Blättern, die sich im Herbst rosa-rot färben. Die <a href=\"\/products\/japanische-buntlaubige-aukube\" title=\"Japanische Buntlaubige Aukube\">Aucuba japonica 'Variegata'<\/a> ist ein immergrüner Strauch, der in Japan heimisch ist. In Deutschland ist die Japanische Aucuba auch als Metzgerpalme bekannt. Wie Sie also sehen, können Sie mit Bambus wirklich alles gestalten!<br\/><\/p>"
+          }
+        },
+        "1484368a-d2df-4adf-8cb7-0c6530a6cf7f": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/besondere-kombinationsmoeglichkeiten-mit-bambus.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--19893483471197__4572dc47-0d30-415e-a2df-d462bc0d0a77-heading-1",
+        "template--19893483471197__4572dc47-0d30-415e-a2df-d462bc0d0a77-text-1",
+        "f58f7182-a5b9-4a9c-b5c3-76bfbaf0c267",
+        "0b801dc6-dcbd-4004-8aa8-5d122382831d",
+        "a40f1dcc-968e-48d6-a9cf-ea7776836eee",
+        "8d98fa85-d1d2-4e00-875f-857d6d4d7f62",
+        "1484368a-d2df-4adf-8cb7-0c6530a6cf7f"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "b92b071d-f355-4e18-81fb-95a4374f4f40": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "6d0fca56-d026-4d4c-b93d-e2f614c88d19",
+    "6a5f66a8-109b-4da8-81ae-481554e819a8",
+    "a949f1f4-63e3-4e7f-b1f2-e02a62137c33",
+    "4bfc31e7-50f5-45c7-b621-5a3a5bb62de3",
+    "1c87798d-2a55-436c-9392-766cab0272f3",
+    "7a3038b0-ff82-4801-aac9-a1e0e492decc",
+    "9b13cb74-9644-4599-9157-78c57d85f63b",
+    "4572dc47-0d30-415e-a2df-d462bc0d0a77",
+    "b92b071d-f355-4e18-81fb-95a4374f4f40"
   ]
 }

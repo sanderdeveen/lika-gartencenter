@@ -72,7 +72,7 @@
                             </div>
                             {%- assign item_sku = item.sku | slice: 0, 3 | escape | downcase | remove: "&nbsp;" -%}
 
-                            {% if item_sku == 'bob' %}
+                            {% if item_sku == 'bob' or item_sku == 'tcb' %}
                             <span class="tooltiptext">Um Bäume ordentlich zu liefern, arbeiten wir mit einem speziellen Baumtransporter. Der Lieferzuschlag beträgt 200 Euro pro Bestellung.</span>
                             {% endif %}
                             {% if item_sku == 'mob' %}

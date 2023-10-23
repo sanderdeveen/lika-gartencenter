@@ -34,10 +34,182 @@
         "content"
       ],
       "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "a37346bd-2b7e-485c-ac55-c9d20174e415": {
+      "type": "rich-text",
+      "blocks": {
+        "6c0fbdb0-b9d7-4217-9398-31e21b9b8be9": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/ungiftige-zimmerpflanzen-fuer-katzen-mitbewohner.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19917545767261__a37346bd-2b7e-485c-ac55-c9d20174e415-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Welche Zimmerpflanzen sind für Katzen ungiftig?<\/h3>"
+          }
+        },
+        "template--19917545767261__a37346bd-2b7e-485c-ac55-c9d20174e415-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Warum knabbern Katzen an Pflanzen? Es gibt verschiedene Theorien. Sicher spielt auch Langeweile eine Rolle. Offensichtlich hilft die pflanzliche Nahrung, die Haarbällchen wieder heraus zu würgen. Auch Verdauungsprobleme können die Ursache sein, wenn sich Ihre Katze für eine „pflanzliche Kost“ entscheidet. Wichtig ist daher, dass die Pflanzen keine Inhaltsstoffe enthalten, die die Tiergesundheit beeinträchtigen. Glücklicherweise gibt es ungiftige Zimmerpflanzen für Katzen, die trotzdem sehr dekorativ wirken.<\/p><p>Unsere Top 7 der katzenfreundlichen Pflanzen möchten wir Ihnen hier kurz vorstellen: <br\/><br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6c0fbdb0-b9d7-4217-9398-31e21b9b8be9",
+        "template--19917545767261__a37346bd-2b7e-485c-ac55-c9d20174e415-heading-1",
+        "template--19917545767261__a37346bd-2b7e-485c-ac55-c9d20174e415-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "de462bfc-0a62-40c9-8ddb-6f71d20ff062": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Bergpalme",
+        "image": "shopify:\/\/shop_images\/bergpalme-blatt-wohnzimmer.jpg",
+        "content": "<p>Viele Palmenarten, wie die <a href=\"\/products\/bergpalme\" title=\"Bergpalme\">Bergpalme Chamaedorea<\/a>, sind für Katzen ungiftig. Diese kleine Palmenart trägt weiche, <strong>gefiederte Blattwedel<\/strong>. Sie können bis zu 60 cm lang werden. Bemerkenswert ist, dass diese Fiederpalmenart bereits nach 2 bis 3 Jahren blüht. Die Mexikanische Bergpalme wird nur etwas über 2 m hoch. Die Chamaedorea bevorzugt halbschattige bis schattige Standorte.<\/p>",
+        "url": "shopify:\/\/products\/bergpalme",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "24a21f7d-668a-4841-b232-67dd496fb54f": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Glückskastanie",
+        "image": "shopify:\/\/shop_images\/glucksfeder-zamioculcas-im-wohnzimmer.jpg",
+        "content": "<p>Die haustierfreundliche <a href=\"\/products\/glueckskastanie\" title=\"Glückskastanie\">Glückskastanie<\/a>, auch Pachira oder Wasserkastanie genannt, sieht aus wie ein <strong>kleiner Baum<\/strong>. Typisch ist der verdickte Stammfuß. Die handförmigen glänzenden Blätter stehen dicht beieinander. Sie bilden eine hübsche kleine Baumkrone. Ideal für die Pachira ist ein heller Standort ohne direkte Sonne.<\/p>",
+        "url": "shopify:\/\/products\/glueckskastanie",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "1ee1735f-16a5-428a-9090-31ac0a088f91": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Goldfruchtpalme",
+        "image": "shopify:\/\/shop_images\/Goldfruchtpalme-im-wohnzimmer.jpg",
+        "content": "<p>Eine ungiftige Zimmerpflanze für Katzen ist die <a href=\"\/products\/goldfruchtpalme\" title=\"Goldfruchtpalme\">Goldfruchtpalme Areca lutescens<\/a>, früher auch Arecapalme genannt. Sie ist eine weit verbreitete Zimmerpflanze, nicht nur, weil sie katzenverträglich ist. Typisch sind die weichen, glänzenden Blattwedel. Sie vermitteln den Eindruck von Urlaubsfreude. Die Goldfruchtpalme bildet viele dicht beieinander stehende, schlauchförmige Stämme, die die Palmwedel tragen.<\/p>",
+        "url": "shopify:\/\/products\/goldfruchtpalme",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "a1f9c4cf-3dc1-4e03-8932-73f4076d4373": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Grünlilie",
+        "image": "shopify:\/\/shop_images\/gruenlilie-graslilie-blatt-wohnzimmer.jpg",
+        "content": "<p>Für Katzen ungiftig ist die <a href=\"\/products\/gruenlilie\" title=\"Grünlilie\">Grünlilie Chlorophytum comosum<\/a>. Deren Blätter sind <strong>rosettenförmig<\/strong> angeordnet und die Wurzeln sind fleischig verdickt. Trockenperioden verträgt die Grünlilie daher gut. Die Blätter der kultivierten Sorten sind gelb gestreift. Die krautige Zimmerpflanze bildet hübsche Ableger. Die Grünlilie gedeiht an fast allen Standorten in der Wohnung. <\/p>",
+        "url": "shopify:\/\/products\/gruenlilie",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "00f7ffd4-ca5a-475e-9e0a-85f432d5fa37": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Kentiapalme",
+        "image": "shopify:\/\/shop_images\/kentiapalme-howea-forsteriana-im-wohnzimmer.jpg",
+        "content": "<p>Die pflegeleichte <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Kentiapalme Howea forsteriana<\/a> ist eine große Zimmerpflanze, die ungiftig für Katzen ist. Bei Gartencenter.de gibt es sogar Exemplare mit einer Wuchshöhe von 225 bis 250 cm! Die feinen, gefiederten Blätter wirken sehr elegant. Das macht die Kentiapalme zu einer echten <strong>Modepalme<\/strong>.<\/p>",
+        "url": "shopify:\/\/products\/kentiapalme",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "4937bc76-6b9d-4b0b-be80-5ebba45ca86c": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Steckenpalme",
+        "image": "shopify:\/\/shop_images\/steckenpalme-rhapis-excelsa-im-wohnzimmmer.jpg",
+        "content": "<p>Die <a href=\"\/products\/steckenpalme\" title=\"Steckenpalme\">Steckenpalme Rhapis 'Excelsa'<\/a> ist eine weitere große Zimmerpflanze, die katzenfreundlich ist. Sie kann Schadstoffe aus der Luft binden und wirkt somit luftreinigend. Die Pflanze bildet viele einzelne, dicht stehende Stängel, an denen zahlreiche <strong>fächerförmige Blätter<\/strong> wachsen. Ältere Vertreter der mehrstämmigen Fächerpalme bilden einen dichten Busch.<\/p>",
+        "url": "shopify:\/\/products\/steckenpalme",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "ca184551-9474-434f-af8a-2f4add42e38c": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Pfauen-Korbmarante",
+        "image": "shopify:\/\/shop_images\/korbmarante-orbifolia-blatt-wohnzimmer.jpg",
+        "content": "<p>Im Sortiment von Gartencenter.de werden drei verschiedene Sorten und Arten der <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Korbmarante<\/a> angeboten. Die für Katzen ungiftigen Zimmerpflanzen haben wunderschöne Blätter. Auf dem grünen Blattgrund befinden sich verschiedene Flecken und Streifen in unterschiedlichen Grüntönen. Jedes Blatt ist somit ein Unikat. Wasser mit niedrigem Kalkgehalt zum Gießen ist für die Korbmarante besser verträglich.<\/p>",
+        "url": "shopify:\/\/products\/korbmarante-orbifolia",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "a8edb752-6e36-426f-a685-f813910bb824": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Katzenminze",
+        "image": "shopify:\/\/shop_images\/katzenminze.jpg",
+        "content": "<p>Die <a href=\"\/products\/katzenminze-walkers-low\" title=\"Katzenminze\">Katzenminze Nepeta faassenii 'Walker's Low'<\/a> ist eigentlich eine <a href=\"\/collections\/gartenpflanzen\" title=\"Gartenpflanzen\">Gartenpflanze<\/a>. Da sie eine Lieblingsspeise von Katzen ist, kann sie auch im Wohnbereich als Topfblume am Fenster stehen! In diesem Fall handelt es sich nicht nur um eine blühende Zimmerpflanze, die ungiftig für Katzen ist. Sie enthält pflanzliche Wirkstoffe, die Katzen regelrecht anziehen. Die Haustiere knabbern an den Blüten und Blättern und reiben sich an den Pflanzen. <\/p>",
+        "url": "shopify:\/\/products\/katzenminze-walkers-low",
+        "btn_text": "Artikel ansehen"
+      }
+    },
+    "9733d957-1f84-4936-8cc1-7f94bce4d606": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917545767261__9733d957-1f84-4936-8cc1-7f94bce4d606-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Pflegeleichte Zimmerpflanzen, die ungiftig für Katzen sind<\/h2>"
+          }
+        },
+        "template--19917545767261__9733d957-1f84-4936-8cc1-7f94bce4d606-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie lieben Zimmerpflanzen und haben eine Katze als Mitbewohner? Dann entscheiden Sie sich für <a href=\"\/collections\/pflegeleichte-zimmerpflanzen\" title=\"Pflegeleichte Zimmerpflanzen\">pflegeleichte Zimmerpflanzen<\/a>, die ungiftig für Ihre Katze sind. Somit müssen Sie nicht auf die Dekoration mit Zimmerpflanzen verzichten. Außerdem haben Sie mehr Freizeit, die Sie Ihrer Katze widmen können. Korbmarante, Glückskastanie, Grünlilie und Kentiapalme sind pflegeleichte Zimmerpflanzen und ungiftig für Katzen.<\/p>"
+          }
+        },
+        "b8ac083f-4dc9-4db6-9042-64aa4aaebdf3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Ungiftige Zimmerplanzen für Katzen kaufen auf Gartencenter.de<\/h2>"
+          }
+        },
+        "32712a85-ffb0-4cf6-a229-99afa5cf3c93": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie eine Katze haben und sich an Zimmerpflanzen erfreuen wollen, brauchen Sie weder auf Ihr Haustier noch auf das Grün in Ihrem Zimmer zu verzichten. <\/p><p>Im Online-Shop Gartencenter.de finden sie eine große Auswahl an ungiftigen Zimmerpflanzen für Katzen. Denken Sie immer daran, dass Flamingoblumen und Hippeastum sowie Lilien, Weihnachtssterne und Birkenfeigen für Katzen giftige Pflanzenstoffe enthalten und nicht ins Haus geholt werden sollten! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917545767261__9733d957-1f84-4936-8cc1-7f94bce4d606-heading-1",
+        "template--19917545767261__9733d957-1f84-4936-8cc1-7f94bce4d606-text-1",
+        "b8ac083f-4dc9-4db6-9042-64aa4aaebdf3",
+        "32712a85-ffb0-4cf6-a229-99afa5cf3c93"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "9ae4fb00-caa5-4146-8c1d-12a64e1a018a": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a37346bd-2b7e-485c-ac55-c9d20174e415",
+    "de462bfc-0a62-40c9-8ddb-6f71d20ff062",
+    "24a21f7d-668a-4841-b232-67dd496fb54f",
+    "1ee1735f-16a5-428a-9090-31ac0a088f91",
+    "a1f9c4cf-3dc1-4e03-8932-73f4076d4373",
+    "00f7ffd4-ca5a-475e-9e0a-85f432d5fa37",
+    "4937bc76-6b9d-4b0b-be80-5ebba45ca86c",
+    "ca184551-9474-434f-af8a-2f4add42e38c",
+    "a8edb752-6e36-426f-a685-f813910bb824",
+    "9733d957-1f84-4936-8cc1-7f94bce4d606",
+    "9ae4fb00-caa5-4146-8c1d-12a64e1a018a"
   ]
 }

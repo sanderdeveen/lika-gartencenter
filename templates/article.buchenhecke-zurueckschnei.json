@@ -1,0 +1,181 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "c64405b3-04a5-4887-aebe-31f8454cfa82": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19979497537885__c64405b3-04a5-4887-aebe-31f8454cfa82-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Schwierigkeitsgrad: Einfach<\/h2>"
+          }
+        },
+        "02e3356c-122d-4f8f-9934-343305704b36": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/rot-und-blutbuchenhecken-sollten-zweimal-jaehrlich-zurueckgeschnitten-werden.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "5d929b72-a70f-4a33-8eb6-ed373465cd95": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann werden Buchenhecken zurückgeschnitten?<\/h2>"
+          }
+        },
+        "template--19979497537885__c64405b3-04a5-4887-aebe-31f8454cfa82-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Im Grunde genommen schneidet man Buchenhecken von Anfang an zurück. Sobald die Hecke gepflanzt ist, schneidet man nämlich die Spitzen der obersten Triebe gerade ab. Dadurch können die Pflanzen besser anwachsen und sich stärker verzweigen, damit man eine schöne dichte Hecke erhält. Aber auch danach ist es wichtig, die Hecke regelmäßig zurückzuschneiden, bis die gewünschte Höhe erreicht ist. Wenn man mit dem Rückschnitt wartet, bis die Hecke eine bestimmte Höhe erreicht hat, wird die Hecke nicht dicht genug. Auch die Seiten werden zweimal jährlich zurückgeschnitten.<\/p>"
+          }
+        },
+        "b56b8700-c75c-483b-9b5c-1760f388310c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Rückschnitt im Juni und im September\/Oktober<\/h2>"
+          }
+        },
+        "5ef7c7f3-1f51-4d6a-8558-615c696d5b6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schneiden Sie Ihre Buchenhecke im Juni und im September\/Oktober zurück. Der erste Rückschnitt sollte <strong>vor der Sommersonnenwende<\/strong>, also vor dem 21. Juni erfolgen. Dadurch hat die Hecke genügend Zeit, um neue Triebe zu bilden. Der zweite Schnitt sollte im Herbst (<strong>September\/Oktober<\/strong>) erfolgen.<\/p><p>Schneiden Sie an einem bewölkten Tag und nicht in der Sonne. In der vollen Sonne besteht nämlich die Gefahr, dass die Blätter „verbrennen“, weil die unteren Blätter noch nicht an die Sonne gewöhnt sind. Wenn Sie möchten, können Sie Ihre Hecke auch öfter zurückschneiden. Je öfter man die Hecke schneidet, umso kompakter und blickdichter wird sie. Der Rückschnitt zweimal im Jahr kann wunderbar mit dem Düngen der Hecke kombiniert werden. Auf diese Weise haben Sie gleich beides auf einmal erledigt! Weitere Informationen zum <a href=\"\/blogs\/ratgeber\/buchenhecken-richtig-duengen\" title=\"Buchenhecken richtig düngen\">Düngen von Buchenhecken<\/a> finden Sie weiter unten in diesem Blog.<\/p>"
+          }
+        },
+        "4b261cb7-2b15-431d-b0db-1d09ddf894b6": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/beukenhaag-snoeien-heggenschaar.webp",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "de0a6d8b-3e96-4aeb-932b-f5c42622b84c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wie werden Buchenhecken zurückgeschnitten?<\/h2>"
+          }
+        },
+        "1a266655-9462-43a4-84a2-5bd24aa417ee": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken kann man auf <strong>zwei Arten zurückschneiden<\/strong>. Eine Methode ist der Rückschnitt ohne Hilfsmittel. Dabei versucht man, die Heckenschere beim Schneiden so gerade wie möglich zu halten, um die Hecke sowohl seitlich als auch oben gerade zu schneiden. Wenn Sie kein so gutes Auge haben oder Ihnen diese Methode zu anstrengend ist, können Sie mit einer Richtschnur arbeiten. Die Richtschnur wird waagrecht entlang der Hecke gespannt, sodass man die Oberseite der Hecke gerade schneiden kann. Die Seiten der Buchenhecke sollten nach obenhin etwas schmaler zulaufen, damit auch die unteren Triebe genügend Licht erhalten und die Hecke gleichmäßig wachsen kann. Dadurch bleiben die Blätter den ganzen Sommer über saftig grün. Es ist egal, ob man zuerst die Oberseite oder die Seiten der Buchenhecke schneidet. Die Reihenfolge bleibt Ihnen überlassen. Ist Ihnen beim Schneiden ein kleiner Fehler unterlaufen? Keine Panik, Buchenhecken wachsen sehr schnell wieder nach!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19979497537885__c64405b3-04a5-4887-aebe-31f8454cfa82-heading-1",
+        "02e3356c-122d-4f8f-9934-343305704b36",
+        "5d929b72-a70f-4a33-8eb6-ed373465cd95",
+        "template--19979497537885__c64405b3-04a5-4887-aebe-31f8454cfa82-text-1",
+        "b56b8700-c75c-483b-9b5c-1760f388310c",
+        "5ef7c7f3-1f51-4d6a-8558-615c696d5b6a",
+        "4b261cb7-2b15-431d-b0db-1d09ddf894b6",
+        "de0a6d8b-3e96-4aeb-932b-f5c42622b84c",
+        "1a266655-9462-43a4-84a2-5bd24aa417ee"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "b2acb02d-1680-4fc5-992e-6c6b7fd4544a": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Lassen Sie abgeschnittene Zweige und Blätter nicht auf der Hecke liegen, da diese im verdorrten Zustand einen unschönen Anblick bieten.<\/p>"
+      }
+    },
+    "d52bc624-c653-4b3e-bdbb-a4a8203aeb6c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19979497537885__d52bc624-c653-4b3e-bdbb-a4a8203aeb6c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Vertragen Buchenhecken einen radikalen Rückschnitt?<\/p>"
+          }
+        },
+        "template--19979497537885__d52bc624-c653-4b3e-bdbb-a4a8203aeb6c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken können, falls nötig, auch <strong>radikal zurückgeschnitten<\/strong> werden. Der starke Rückschnitt schadet der Pflanze keinesfalls, sondern regt diese immer wieder zum Austreiben an. Buchenhecken wachsen ziemlich schnell und haben innerhalb kürzester Zeit wieder ihre ursprüngliche Höhe erreicht.<\/p>"
+          }
+        },
+        "5f073640-c8d5-4bde-ac0e-0883e971ce04": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Eine automatische Heckenschere erleichtert die Arbeit!<\/h2>"
+          }
+        },
+        "01931d56-2431-4582-b2ce-82b76e2313e1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie eine lange Hecke oder einfach keine Lust, Ihre Buchenhecke mit der Hand zu schneiden? Eine Elektro- oder Motor-Heckenschere kann Ihnen die Arbeit erheblich erleichtern. Diese Geräte sind zwar schwerer als Handheckenscheren und machen auch mehr Lärm, aber schneller geht es allemal! Mit einer <strong>Akku-Heckenschere<\/strong> geht es am einfachsten, weil man während des Schneidens nicht ständig auf das Kabel achten muss. Wenn Sie noch nicht so viel Erfahrung mit dem Schneiden von Hecken haben, empfehlen wir Ihnen, eine Handheckenschere zu verwenden. Weil damit alles viel langsamer geht, lässt sich der Schnitt besser kontrollieren und werden nicht so schnell Fehler gemacht!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19979497537885__d52bc624-c653-4b3e-bdbb-a4a8203aeb6c-heading-1",
+        "template--19979497537885__d52bc624-c653-4b3e-bdbb-a4a8203aeb6c-text-1",
+        "5f073640-c8d5-4bde-ac0e-0883e971ce04",
+        "01931d56-2431-4582-b2ce-82b76e2313e1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "7e263b7e-cb5d-4ec4-a054-cf70c50d8fa1": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Tragen Sie beim Schneiden der Hecke immer Handschuhe und eine Sicherheitsbrille, um Verletzungen an Händen und Augen vorzubeugen!<\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c64405b3-04a5-4887-aebe-31f8454cfa82",
+    "b2acb02d-1680-4fc5-992e-6c6b7fd4544a",
+    "d52bc624-c653-4b3e-bdbb-a4a8203aeb6c",
+    "7e263b7e-cb5d-4ec4-a054-cf70c50d8fa1"
+  ]
+}

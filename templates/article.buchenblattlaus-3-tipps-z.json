@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "a8f77a8e-e04d-47e1-a5d0-b05e357be7bd": {
+      "type": "faq",
+      "blocks": {
+        "template--19971620143453__a8f77a8e-e04d-47e1-a5d0-b05e357be7bd-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie kann man Buchenblattläuse natürlich bekämpfen?",
+            "custom_liquid_1": "",
+            "content": "<p>Zur Bekämpfung von Buchenblattläusen kommt man meistens ganz ohne Chemie aus. Die einfachste Methode ist es, die Blattläuse mit dem Gartenschlauch von den Blätter zu spülen. Was auch sehr effektiv sein kann, ist, die natürlichen Feinde der Buchenblattlaus (Marienkäfer oder Florfliegenlarven) in den Garten zu locken bzw. im Garten auszusetzen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "6a9c39c7-2db2-485c-8d68-a3f97b7229af": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was bedeuten „weiße Fliegen“ auf der Buchenhecke?",
+            "custom_liquid_1": "",
+            "content": "<p>Wenn Sie fliegende weiße Insekten auf Ihrer Hecke entdecken, ist die Wahrscheinlichkeit sehr groß, dass Ihre <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Rot<\/a>-, <a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Blut<\/a>- oder <a href=\"\/products\/hainbuche\" title=\"Hainbuche\">Hainbuchenhecke<\/a> von Buchenblattläusen befallen ist. Diese Blattlausart pflanzt sich besonders schnell fort und kann in wenigen Monaten bis zu vier Generationen hervorbringen! Die letzten Generationen sind weiß und haben Flügel. Dadurch sehen sie aus wie weiße Fliegen. Tatsächlich sind es aber Blattläuse, die beim Berühren der Hecke in großen Schwärmen aufflattern.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19971620143453__a8f77a8e-e04d-47e1-a5d0-b05e357be7bd-faq-1",
+        "6a9c39c7-2db2-485c-8d68-a3f97b7229af"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Buchenblattläusen"
+      }
+    },
+    "b8a25c4d-5ca1-485c-aa57-e85ed52c11c1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19971620143453__b8a25c4d-5ca1-485c-aa57-e85ed52c11c1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Buchenblattläuse erkennen<\/h2>"
+          }
+        },
+        "template--19971620143453__b8a25c4d-5ca1-485c-aa57-e85ed52c11c1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um Buchenblattläuse effektiv bekämpfen zu können, muss man sie erst einmal erkennen. Zum Glück sind Blattläuse an Buchenhecken sehr deutlich sichtbar. Sie sind etwa 2 bis 3 Millimeter groß und oft mit bloßem Auge erkennbar. Während der Vegetationsperiode (Frühling, Sommer, Herbst) können sich mehrere Blattlaus-Generationen entwickeln. Die <strong>ersten Generationen<\/strong> sind gelbgrün und haben noch keine Flügel. Bei allen <strong>weiteren Generationen<\/strong> handelt sich um bläulich-weiße Insekten mit Flügeln. Dadurch scheint es, als ob die Buchenhecke von weißen Fliegen befallen ist. Diese „Fliegen“ sind in Wirklichkeit aber Buchenblattläuse, die auch wie Blattläuse bekämpft werden müssen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19971620143453__b8a25c4d-5ca1-485c-aa57-e85ed52c11c1-heading-1",
+        "template--19971620143453__b8a25c4d-5ca1-485c-aa57-e85ed52c11c1-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "94afa2ff-c4bb-4cb7-8eb4-bdac11f498a1": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "eccfb75a-7629-4c3e-a2ab-0169c442fd31": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenblattlaus-erste-generation.jpg",
+            "text": "Buchenblattlaus – erste Generation",
+            "url": ""
+          }
+        },
+        "fd9d9425-dad7-432a-959b-ee184f425749": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenblattlaus-spaetere-generationen.jpg",
+            "text": "Buchenblattlaus – spätere Generationen",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "eccfb75a-7629-4c3e-a2ab-0169c442fd31",
+        "fd9d9425-dad7-432a-959b-ee184f425749"
+      ],
+      "settings": {
+      }
+    },
+    "72b70b66-b932-4fec-88d5-3f292d2a7e4e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19971620143453__72b70b66-b932-4fec-88d5-3f292d2a7e4e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein weiteres typisches Merkmal der Buchenblattlaus ist das Ausscheiden von Wachswolle, die meist an den Insekten selbst haften bleibt. Die Läuse befinden sich hauptsächlich an der Blattunterseite. Die betroffenen Blätter entwickeln zuerst <strong>gelbe Flecken<\/strong>, rollen sich von den Rändern her ein und verkümmern schließlich.<\/p>"
+          }
+        },
+        "d5bff100-927b-420f-99f4-3f475e0be58a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Weiße Fliegen & Buchenblattläuse bekämpfen<\/h3>"
+          }
+        },
+        "f0b8eb60-9149-46d4-b4a5-300ea893b5c8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie Schädlinge auf Ihrer Buchenhecke effektiv bekämpfen? Mit diesen praktischen Tipps können Sie den lästigen Buchenblattläusen den Kampf ansagen.<\/p>"
+          }
+        },
+        "2fd982c5-3182-4381-8b4b-c037f2512277": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Haben Sie soeben die ersten Blattläuse an Ihrer Buchenhecke entdeckt und ist der Befall noch nicht zu weit fortgeschritten, dann können Sie versuchen, die Blattläuse mit Wasser zu bekämpfen. Spülen Sie die Blattläuse mit einem scharfen Wasserstrahl von den Blättern. Wiederholen Sie diesen Vorgang einige Male und vergessen Sie dabei auch das Innere der Hecke nicht.*<\/p><p>- Ist Ihre Buchenhecke bereits stärker befallen und lassen sich die Blattläuse nicht mehr mit Wasser abspritzen, dann können Sie versuchen, die Schädlinge mit ihren natürlichen Feinden zu bekämpfen. Dazu können beispielsweise Marienkäfer oder Florfliegenlarven eingesetzt werden.*<\/p><p>- Sollten Gartenschlauch und natürliche Fressfeinde nicht den gewünschten Effekt gebracht haben, müssen schwerere Geschütze aufgefahren werden. Zu guter Letzt haben Sie noch die Möglichkeit, die Buchenblattläuse mit chemischen Mitteln zu bekämpfen oder die Hecke mit Brennnesseljauche zu düngen, um die Pflanzen zu stärken und sie besser vor Krankheiten und Schädlingen zu schützen.*<\/p>"
+          }
+        },
+        "6b6b0250-db29-4da2-8c2e-a3305f235113": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/von-blattlaeusen-befallene-buche.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "854b8fe5-b5b4-4434-b793-326f195a85d0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Die häufigsten Ursachen für den Blattlausbefall bei Buchenhecken<\/h2>"
+          }
+        },
+        "1ac88882-d3d0-4d77-bcca-1e431d83679e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die häufigsten Ursachen für Blattläuse sind <strong>Wassermangel oder ein geschwächter Allgemeinzustand<\/strong> der Pflanze. Buchenhecken brauchen einen ständig leicht feuchten Boden. Achten Sie darauf, dass die Erde niemals vollständig austrocknet. Regelmäßiges Gießen hilft der Pflanze, sich langfristig selbst gegen einen Blattlausbefall zu wehren.<\/p><p>Durch regelmäßiges Düngen wird die Pflanze außerdem widerstandsfähiger gegenüber Krankheiten und Schädlingen. Der Dünger enthält alle wichtigen Nährstoffe, die die Heckenpflanzen für ein gesundes Wachstum benötigen. Neu gepflanzte oder umgepflanzte Heckenpflanzen sind oft auch etwas anfälliger für Blattläuse.<\/p><p>Haben Sie nach dem Lesen dieses Beitrags noch Fragen zur Bekämpfung von Buchenblattläusen oder zur richtigen Pflege Ihrer Buchenhecke, damit Blattläuse keine Chance haben, nehmen Sie bitte <a href=\"\/pages\/contact\" title=\"Contact\">Kontakt<\/a> mit unseren Pflanzenexperten auf.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19971620143453__72b70b66-b932-4fec-88d5-3f292d2a7e4e-text-1",
+        "d5bff100-927b-420f-99f4-3f475e0be58a",
+        "f0b8eb60-9149-46d4-b4a5-300ea893b5c8",
+        "2fd982c5-3182-4381-8b4b-c037f2512277",
+        "6b6b0250-db29-4da2-8c2e-a3305f235113",
+        "854b8fe5-b5b4-4434-b793-326f195a85d0",
+        "1ac88882-d3d0-4d77-bcca-1e431d83679e"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f6c4b3a6-c9b6-42d7-ad0a-872081db58a5": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a8f77a8e-e04d-47e1-a5d0-b05e357be7bd",
+    "b8a25c4d-5ca1-485c-aa57-e85ed52c11c1",
+    "94afa2ff-c4bb-4cb7-8eb4-bdac11f498a1",
+    "72b70b66-b932-4fec-88d5-3f292d2a7e4e",
+    "f6c4b3a6-c9b6-42d7-ad0a-872081db58a5"
+  ]
+}

@@ -434,7 +434,7 @@
         "e63fe04a-49a2-4bc0-bd80-9477043411cc": {
           "type": "click_image",
           "settings": {
-            "bg_pulse": "#86b765",
+            "bg_pulse": "#ffffff",
             "click_image_1": "shopify:\/\/shop_images\/spalierbaeume-im-garten-inspirieren-neu.jpg",
             "product_1": "spalierlinde",
             "x_as_1": 77,
@@ -450,7 +450,7 @@
         "5a04eebb-6be5-4af4-804e-c75158f62827": {
           "type": "click_image",
           "settings": {
-            "bg_pulse": "#86b765",
+            "bg_pulse": "#ffffff",
             "click_image_1": "shopify:\/\/shop_images\/dachplatane-baum-kaufen.jpg",
             "product_1": "dachplatane",
             "x_as_1": 40,
@@ -466,7 +466,7 @@
         "be6f3dd7-afb5-4b99-b07e-b013ce5e8ea3": {
           "type": "click_image",
           "settings": {
-            "bg_pulse": "#86B765",
+            "bg_pulse": "#ffffff",
             "click_image_1": "shopify:\/\/shop_images\/kugelcatalpa-baum-kaufen.jpg",
             "product_1": "kugelcatalpa",
             "x_as_1": 31,

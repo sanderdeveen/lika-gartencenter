@@ -349,7 +349,7 @@
               {%- assign current_variant_bob = current_variant.sku | slice: 0, 3 -%}
 
               {%- unless product.has_only_default_variant -%}
-                  <variant-radios class="no-js-hidden product-form__input-options {% if current_variant_bob == "bob" %}product-form__input-options_has_price{% endif %}" data-section="{{ section.id }}" data-url="{{ product.url }}" {{ block.shopify_attributes }}>
+                  <variant-radios class="no-js-hidden product-form__input-options {% if current_variant_bob == "bob" or current_variant_bob == "tcb" %}product-form__input-options_has_price{% endif %}" data-section="{{ section.id }}" data-url="{{ product.url }}" {{ block.shopify_attributes }}>
                     {%- for option in product.options_with_values -%}
                         <fieldset class="js product-form__input">
                           <legend class="form__label">{{ option.name }}</legend>
@@ -395,7 +395,7 @@
                 </div>
               {%- endif -%} 
 
-              {%- if current_variant_bob == "bob" or current_variant_bob == "BOB" -%}
+              {%- if current_variant_bob == "bob" or current_variant_bob == "BOB" or current_variant_bob == "tcb" -%}
                 <div class="product-form__input-option product-form__input-option-has_extra_costs tooltip">
                   <span class="tooltiptext">Um Bäume ordentlich zu liefern, arbeiten wir mit einem speziellen Baumtransporter. Der Lieferzuschlag beträgt 200 Euro pro Bestellung.</span>
                   <img src="https://cdn.shopify.com/s/files/1/0614/8728/4404/files/lkw-gartencenter_a8ea1fc9-59b5-4112-9f63-d545178dee74.png?v=1678701932" alt="lwk Gartencenter.de" width="74" height="54" loading="lazy">

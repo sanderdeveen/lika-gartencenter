@@ -1,0 +1,286 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "7da8f762-5b5a-4b6e-8de7-856c2201885b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19969025573213__7da8f762-5b5a-4b6e-8de7-856c2201885b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Häufig gestellte Fragen zum Absterben von Buchenhecken?<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19969025573213__7da8f762-5b5a-4b6e-8de7-856c2201885b-heading-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2779ac0f-41aa-4778-8481-697ec0e74163": {
+      "type": "faq",
+      "blocks": {
+        "template--19969025573213__2779ac0f-41aa-4778-8481-697ec0e74163-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie pflege ich meine Buchenhecke bei anhaltender Trockenheit?",
+            "custom_liquid_1": "",
+            "content": "<p>Bei anhaltender Trockenheit muss die Buchenhecke <strong>öfter gegossen<\/strong> werden. Am besten gießen Sie in den frühen Morgenstunden oder am Abend, wenn die Sonne noch nicht oder nicht mehr scheint. Gießen Sie nicht zu viel auf einmal, sondern lieber mehrmals pro Woche. Es hilft auch, den Boden unter der Hecke mit <strong>organischem Material, wie Rindenmulch oder frischem Grasschnitt, zu bedecken<\/strong>, damit die Feuchtigkeit besser gespeichert wird.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "df6a708b-95e8-4da0-8746-4edecadb8be2": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann muss ich meine Buchenhecke erneuern?",
+            "custom_liquid_1": "",
+            "content": "<p>Wenn die Pflanzen verdorrt sind und alle Blätter abgeworfen haben (außer im Winter natürlich), ist die Buchenhecke leider nicht mehr zu retten und muss eine neue Hecke gepflanzt werden. Der beste Zeitpunkt zum Pflanzen einer neuen Hecke ist <strong>zwischen Oktober und Mitte April<\/strong>, sofern dabei kein Bodenfrost herrscht. Achten Sie darauf, dass die Jungpflanzen ausreichend Wasser und Nährstoffe erhalten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19969025573213__2779ac0f-41aa-4778-8481-697ec0e74163-faq-1",
+        "df6a708b-95e8-4da0-8746-4edecadb8be2"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
+    "3f60746e-e31d-4d19-af38-8e382fe3450c": {
+      "type": "rich-text",
+      "blocks": {
+        "98687014-d5c5-4e6c-b349-fce4db303136": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/buchenhecke-blaettern-absterben.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19969025573213__3f60746e-e31d-4d19-af38-8e382fe3450c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Vorsorgemaßnahmen gegen das Absterben der Buchenhecke<\/h2>"
+          }
+        },
+        "template--19969025573213__3f60746e-e31d-4d19-af38-8e382fe3450c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um das Absterben der Buchenhecke zu verhindern, ist es wichtig, eventuelle Krankheiten oder Schädlingsbefall rechtzeitig zu erkennen. <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Rotbuchen<\/a> (<em>Fagus sylvatica<\/em>) und <a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Blutbuchen<\/a> (<em>Fagus sylvatica atropunicea<\/em>) sind anfällig für bestimmte Pilze und Krankheiten und vertragen – wie die meisten Gartenpflanzen – keine anhaltende Trockenheit. Insbesondere Jungpflanzen können sehr empfindlich auf Trockenheit und zu viel Sonne reagieren, da sie noch kein dichtes Laub tragen, das die jungen Triebe schützt. Deshalb muss die Buchenhecke bei Hitze und anhaltender Trockenheit öfter gegossen werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "98687014-d5c5-4e6c-b349-fce4db303136",
+        "template--19969025573213__3f60746e-e31d-4d19-af38-8e382fe3450c-heading-1",
+        "template--19969025573213__3f60746e-e31d-4d19-af38-8e382fe3450c-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "cdf29270-b83d-4eea-8e1d-a55806255c3e": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Verdorrte Blätter",
+        "image": "shopify:\/\/shop_images\/verdorrte-blaettern.jpg",
+        "content": "<p>Wenn es der Buchenhecke nicht gut geht, ist das an den Blättern zu erkennen. Die Blätter können <strong>vertrocknen<\/strong> (wie im Winter) oder ganz abfallen. Das ist ein typisches Zeichen dafür, dass die Pflanzen zu wenig Wasser bekommen haben. Vor allem in heißen Sommern mit wenig Niederschlag kann das schnell passieren. Die Buchenhecke vertrocknet und stirbt ab.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "99c0a8a2-6679-40d0-b7ec-919a1b3eeb31": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Hinweis:",
+        "text": "<p>Wenn die Pflanzen bereits verdorrt sind, ist die Buchenhecke kaum noch zu retten. Deshalb ist es auch so wichtig, die Hecke regelmäßig und ausreichend zu gießen. Geben Sie den Pflanzen mehr Wasser, sobald Sie die ersten verdorrten Blätter entdecken. Manchmal erholt sich die Hecke dann wieder. Oft ist es aber schon zu spät und ist die Hecke leider nicht mehr zu retten.<\/p>"
+      }
+    },
+    "9ca87e8e-776e-4e73-b40e-40f120d0afc4": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blattläuse",
+        "image": "shopify:\/\/shop_images\/blattlaeuse-buchenhecke.jpg",
+        "content": "<p>Manchmal sind die Blätter nicht verdorrt, sondern sind auf den Blättern und Zweigen <strong>kleine Punkte oder Kügelchen<\/strong> zu erkennen. Dies deutet entweder auf eine <strong>Pilzinfektion<\/strong> oder auf einen Blattlausbefall hin.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "3a7e7e6f-6c1d-4fa9-a591-f66ccc292518": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19969025573213__3a7e7e6f-6c1d-4fa9-a591-f66ccc292518-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Krankheiten und Schädlinge bei Buchenhecken können auf verschiedene Arten und mit verschiedenen Mitteln bekämpft werden. In erster Linie kann man versuchen, die Buchenblattläuse mit einem scharfen Wasserstrahl von den Blättern zu spülen. Sollte das nicht ausreichen, muss meistens zu einem Schädlingsbekämpfungsmittel gegriffen werden.<\/p><p>Wenn Sie den Eindruck haben, dass sich Ihre Buchenhecke an ihrem Standort nicht so richtig wohlfühlt, können Sie versuchen, die Hecke umzupflanzen. Eine Buchenhecke umzusetzen ist allerdings nicht ganz einfach. Vor allem bei älteren Pflanzen mit gut verzweigtem Wurzelsystem kann sich das Umpflanzen recht schwierig gestalten. Aber es ist auf jeden Fall einen Versuch wert!<\/p>"
+          }
+        },
+        "5cde37d6-5232-436e-a0e5-b887eb895720": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/rotbuchenhecke-in-herbstfaerbung.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "24a4f395-e98b-4d03-8652-96da46ea4406": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Abgestorbene Pflanzen in der Hecke – was kann ich tun?<\/h2>"
+          }
+        },
+        "5d178077-0c94-4d9c-a079-58d9ee709f75": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben es Ihre Buchen trotz aller Rettungsmaßnahmen nicht geschafft? Dann hilft leider nichts anderes, als die abgestorbenen Pflanzen durch neue zu ersetzen. Oft reicht es aus, einzelne Pflanzen auszuwechseln, ohne dass die gesamte Hecke daran glauben muss. Vor allem, wenn es sich um junge Pflanzen handelt.<\/p><p>Die neuen Pflanzen können am besten zwischen Oktober und Mitte April gesetzt werden, sofern dabei kein Bodenfrost herrscht und die Jungpflanzen ausreichend gegossen werden. Das Düngen der Buchenhecke sollte zweimal im Jahr erfolgen, damit die Pflanzen mit allen benötigten Nährstoffen versorgt werden und sich optimal entwickeln können.<\/p><p>Falls Ihre Rot- oder Blutbuchenhecke nicht richtig anwächst und immer wieder einzelne Pflanzen absterben, können Sie anstelle dessen eventuell <a href=\"\/products\/hainbuche\" title=\"Hainbuche\">Hainbuchen<\/a> (Carpinus betulus) pflanzen. Hainbuchen stellen etwas geringere Ansprüche an den Boden und vertragen Trockenheit wesentlich besser als Rot- oder Blutbuchen. Bitte beachten Sie auch dabei unsere Pflanz- und Pflegetipps, damit Sie noch lange Freude an Ihrer Hecke haben!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19969025573213__3a7e7e6f-6c1d-4fa9-a591-f66ccc292518-text-1",
+        "5cde37d6-5232-436e-a0e5-b887eb895720",
+        "24a4f395-e98b-4d03-8652-96da46ea4406",
+        "5d178077-0c94-4d9c-a079-58d9ee709f75"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f63eb08f-f968-4a04-84eb-245199108f3e": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--19969025573213__f63eb08f-f968-4a04-84eb-245199108f3e-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Direkt aus der Baumschule"
+          }
+        },
+        "template--19969025573213__f63eb08f-f968-4a04-84eb-245199108f3e-product_selection-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "rotbuchenhecke",
+            "enable_quick_add": true
+          }
+        },
+        "a3377a1b-7907-424e-9f72-94713f3bbc9a": {
+          "type": "usp",
+          "settings": {
+            "usp": "Sicher bezahlen, auch auf Rechnung"
+          }
+        },
+        "484f3de7-a47d-4a35-a7da-06ccf9fea041": {
+          "type": "product_selection",
+          "settings": {
+            "product": "hainbuche",
+            "enable_quick_add": true
+          }
+        },
+        "888cf6bd-a8dc-4a28-8928-7b905c8cab33": {
+          "type": "usp",
+          "settings": {
+            "usp": "Deutschlandweite Lieferung"
+          }
+        },
+        "7eebb209-d9bb-4cc4-ab0a-f0d15b72422e": {
+          "type": "product_selection",
+          "settings": {
+            "product": "blutbuchenhecke",
+            "enable_quick_add": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19969025573213__f63eb08f-f968-4a04-84eb-245199108f3e-usp-1",
+        "template--19969025573213__f63eb08f-f968-4a04-84eb-245199108f3e-product_selection-1",
+        "a3377a1b-7907-424e-9f72-94713f3bbc9a",
+        "484f3de7-a47d-4a35-a7da-06ccf9fea041",
+        "888cf6bd-a8dc-4a28-8928-7b905c8cab33",
+        "7eebb209-d9bb-4cc4-ab0a-f0d15b72422e"
+      ],
+      "settings": {
+        "heading": "Unsere Buchenhecken",
+        "text": ""
+      }
+    },
+    "dfa4e657-0996-4124-b516-1d7dd9561b13": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19969025573213__dfa4e657-0996-4124-b516-1d7dd9561b13-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei weiteren Fragen zum Pflanzen oder zur Pflege von Rot-, Blut- oder Hainbuchenhecken nehmen Sie bitte <a href=\"\/pages\/contact\" title=\"Contact\">Kontakt<\/a> mit uns auf. Unsere Pflanzenexperten helfen Ihnen gerne weiter.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19969025573213__dfa4e657-0996-4124-b516-1d7dd9561b13-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "d182434b-c51e-413e-94ad-e7af92864931": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7da8f762-5b5a-4b6e-8de7-856c2201885b",
+    "2779ac0f-41aa-4778-8481-697ec0e74163",
+    "3f60746e-e31d-4d19-af38-8e382fe3450c",
+    "cdf29270-b83d-4eea-8e1d-a55806255c3e",
+    "99c0a8a2-6679-40d0-b7ec-919a1b3eeb31",
+    "9ca87e8e-776e-4e73-b40e-40f120d0afc4",
+    "3a7e7e6f-6c1d-4fa9-a591-f66ccc292518",
+    "f63eb08f-f968-4a04-84eb-245199108f3e",
+    "dfa4e657-0996-4124-b516-1d7dd9561b13",
+    "d182434b-c51e-413e-94ad-e7af92864931"
+  ]
+}

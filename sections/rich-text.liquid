@@ -33,72 +33,95 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-            <h2 class="rich-text__heading rte" {{ block.shopify_attributes }}>
-              {{ block.settings.heading | replace: 'p>', 'span>' }}
-            </h2>
+              <h2>{{- block.settings.heading -}}</h2>
             {%- when 'custom_liquid' -%}
               <div class="rich_text_custom-liquid">{{ block.settings.custom_liquid }}</div>
             {%- when 'caption' -%}
-            <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
-              {{ block.settings.caption | escape }}
-            </p>
+              <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
+                {{ block.settings.caption | escape }}
+              </p>
             {%- when 'text' -%}
-            <div class="rich-text__text rte" {{ block.shopify_attributes }}>
-              {{ block.settings.text }}
-            </div>
+              <div class="rich-text__text rte" {{ block.shopify_attributes }}>
+                {{ block.settings.text }}
+              </div>
             {%- when 'button' -%}
-            <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %} {% if block.settings.button_left %} rich-text__buttons--left {% endif %}" {{ block.shopify_attributes }}>
-              {%- if block.settings.button_label != blank -%}
-                <a
-                  {% if block.settings.button_link == blank %}
-                  role="link"
-                  aria-disabled="true"
-                  {% else %}
-                  {%- if block.settings.no_follow == true -%}
-                  rel="nofollow"
-                  target="blank"
-                  {%- endif -%}
-                  href="{{ block.settings.button_link }}"
-                  {% endif %}
-                  class="button {{ block.settings.button_scheme }}">{{ block.settings.button_label | escape }}</a>
-              {%- endif -%}
-              {%- if block.settings.button_label_2 != blank -%}
-                <a
-                  {% if block.settings.button_link_2 == blank %}
-                  role="link"
-                  aria-disabled="true"
-                  {% else %}
-                  {%- if block.settings.no_follow_2 == true -%}
-                  rel="nofollow"
-                  target="blank"
-                  {%- endif -%}
-                  href="{{ block.settings.button_link_2 }}"
-                  {% endif %}
-                  class="button {{ block.settings.button_scheme_2 }}">{{ block.settings.button_label_2 | escape }}</a>
-              {%- endif -%}
-            </div>
+              <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %} {% if block.settings.button_left %} rich-text__buttons--left {% endif %}" {{ block.shopify_attributes }}>
+                {%- if block.settings.button_label != blank -%}
+                  <a
+                    {% if block.settings.button_link == blank %}
+                    role="link"
+                    aria-disabled="true"
+                    {% else %}
+                    {%- if block.settings.no_follow == true -%}
+                    rel="nofollow"
+                    target="blank"
+                    {%- endif -%}
+                    href="{{ block.settings.button_link }}"
+                    {% endif %}
+                    class="button {{ block.settings.button_scheme }}">{{ block.settings.button_label | escape }}</a>
+                {%- endif -%}
+                {%- if block.settings.button_label_2 != blank -%}
+                  <a
+                    {% if block.settings.button_link_2 == blank %}
+                    role="link"
+                    aria-disabled="true"
+                    {% else %}
+                    {%- if block.settings.no_follow_2 == true -%}
+                    rel="nofollow"
+                    target="blank"
+                    {%- endif -%}
+                    href="{{ block.settings.button_link_2 }}"
+                    {% endif %}
+                    class="button {{ block.settings.button_scheme_2 }}">{{ block.settings.button_label_2 | escape }}</a>
+                {%- endif -%}
+              </div>
             {%- when 'unordered_list' -%}
-            {%- assign unordered_list = block.settings.unordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
-            <ul class="rte rich-text__unorderedlist">
-              {{ unordered_list }}
-            </ul>
+              {%- assign unordered_list = block.settings.unordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
+              <ul class="rte rich-text__unorderedlist">
+                {{ unordered_list }}
+              </ul>
             {%- when 'ordered_list' -%}
-            {%- assign ordered_list = block.settings.ordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
-            <ol class="rte rich-text__orderedlist {% if block.settings.fat_number %}rich-text__orderedlist-fat{%- endif -%}">
-              {{ ordered_list }}
-            </ol>
+              {%- assign ordered_list = block.settings.ordered_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
+              <ol class="rte rich-text__orderedlist {% if block.settings.fat_number %}rich-text__orderedlist-fat{%- endif -%}">
+                {{ ordered_list }}
+              </ol>
             {%- when 'check_list' -%}
-
-            {%- assign check_list = block.settings.check_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
-            <ul class="rich-text__checklist">
-              {{ check_list }}
-            </ul>
+              {%- assign check_list = block.settings.check_list | replace: "-", "<li>" | replace: "*", "</li>" | remove: "<p>" | remove: "</p>" -%}
+              <ul class="rich-text__checklist">
+                {{ check_list }}
+              </ul>
 
             {% when 'image' %}
-            <div class="grid grid--{{ block.settings.columns_mobile }}-col-tablet-down grid--{{ block.settings.columns_desktop }}-col-desktop ">
-              {%- if block.settings.image_url != blank -%}
-                <a class="rich-text__image-url grid__item" href="{{ block.settings.image_url }}">
+              <div class="grid grid--{{ block.settings.columns_mobile }}-col-tablet-down grid--{{ block.settings.columns_desktop }}-col-desktop ">
+                {%- if block.settings.image_url != blank -%}
+                  <a class="rich-text__image-url grid__item" href="{{ block.settings.image_url }}">
+                    <img
+                      srcset="{%- if block.settings.image.width >= 375 -%}
+                      {{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
+                    {%- if block.settings.image.width >= 750 -%}
+                      {{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
+                    {%- if block.settings.image.width >= 1100 -%}
+                      {{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
+                    {%- if block.settings.image.width >= 1500 -%}
+                      {{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
+                    {%- if block.settings.image.width >= 1780 -%}
+                      {{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
+                    {%- if block.settings.image.width >= 2000 -%}
+                      {{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
+                    {%- if block.settings.image.width >= 3000 -%}
+                      {{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
+                    {%- if block.settings.image.width >= 3840 -%}
+                      {{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
+                    {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
+                    src="{{ block.settings.image | image_url: width: 1500 }}"
+                    loading="lazy"
+                    alt="{{ block.settings.image.alt | escape }}"
+                    width="-webkit-fill-available"
+                    height="auto">
+                  </a>
+                {%- else -%}
                   <img
+                    class="rich-text__image grid__item"
                     srcset="{%- if block.settings.image.width >= 375 -%}
                     {{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
                   {%- if block.settings.image.width >= 750 -%}
@@ -116,216 +139,190 @@
                   {%- if block.settings.image.width >= 3840 -%}
                     {{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
                   {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
+                  sizes="100vw"
                   src="{{ block.settings.image | image_url: width: 1500 }}"
                   loading="lazy"
                   alt="{{ block.settings.image.alt | escape }}"
-                  width="-webkit-fill-available"
-                  height="auto">
-                </a>
-              {%- else -%}
-                <img
-                  class="rich-text__image grid__item"
-                  srcset="{%- if block.settings.image.width >= 375 -%}
-                  {{ block.settings.image | image_url: width: 375 }} 375w,{%- endif -%}
-                {%- if block.settings.image.width >= 750 -%}
-                  {{ block.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
-                {%- if block.settings.image.width >= 1100 -%}
-                  {{ block.settings.image | image_url: width: 1100 }} 1100w,{%- endif -%}
-                {%- if block.settings.image.width >= 1500 -%}
-                  {{ block.settings.image | image_url: width: 1500 }} 1500w,{%- endif -%}
-                {%- if block.settings.image.width >= 1780 -%}
-                  {{ block.settings.image | image_url: width: 1780 }} 1780w,{%- endif -%}
-                {%- if block.settings.image.width >= 2000 -%}
-                  {{ block.settings.image | image_url: width: 2000 }} 2000w,{%- endif -%}
-                {%- if block.settings.image.width >= 3000 -%}
-                  {{ block.settings.image | image_url: width: 3000 }} 3000w,{%- endif -%}
-                {%- if block.settings.image.width >= 3840 -%}
-                  {{ block.settings.image | image_url: width: 3840 }} 3840w,{%- endif -%}
-                {{ block.settings.image | image_url }} {{ block.settings.image.width }}"
-                sizes="100vw"
-                src="{{ block.settings.image | image_url: width: 1500 }}"
-                loading="lazy"
-                alt="{{ block.settings.image.alt | escape }}"
-                width="{{ block.settings.image.width }}"
-                height="{{ block.settings.image.width | divided_by: block.settings.image.aspect_ratio }}">
-              {%- endif -%}
-            </div>
+                  width="{{ block.settings.image.width }}"
+                  height="{{ block.settings.image.width | divided_by: block.settings.image.aspect_ratio }}">
+                {%- endif -%}
+              </div>
             {% when 'click_image' %}
-            <style>
-              .click_image_pulse:before {
-                background-color: {{ block.settings.bg_pulse }}
-                ;
-              }
-            </style>
-            <div class="click_image_container">
-              <div class="click_image_container-inner">
-                <div class="click_image_inner_1">
-                  {%- if block.settings.click_image_1 != blank -%}
-                    <img
-                      class="click_image_inner"
-                      srcset="{%- if block.settings.click_image_1.width >= 375 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 375 }} 375w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 750 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 750 }} 750w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 1100 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 1100 }} 1100w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 1500 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 1780 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 1780 }} 1780w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 2000 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 2000 }} 2000w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 3000 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 3000 }} 3000w,{%- endif -%}
-                    {%- if block.settings.click_image_1.width >= 3840 -%}
-                      {{ block.settings.click_image_1 | image_url: width: 3840 }} 3840w,{%- endif -%}
-                    {{ block.settings.click_image_1 | image_url }} {{ block.settings.click_image_1.width }}"
-                    sizes="100vw"
-                    src="{{ block.settings.click_image_1 | image_url: width: 1500 }}"
-                    loading="lazy"
-                    alt="{{ block.settings.click_image_1.alt | escape }}"
-                    width="{{ block.settings.click_image_1.width }}"
-                    height="{{ block.settings.click_image_1.width | divided_by: block.settings.click_image_1.aspect_ratio }}">
-                  {%- else -%}
-                    {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
-                  {%- endif -%}
-                  {%- if block.settings.product_1 != blank -%}
-                    <button
-                      class="click_image_pulse"
-                      style="left: {{ block.settings.x_as_1 }}%; top: {{ block.settings.y_as_1 }}%; background-color: {{ block.settings.bg_pulse }};"
-                      onclick="scrollToProduct1()"
-                      onmouseover="hoverProduct(1)"
-                      onmouseout="unhoverProduct(1)">1
-                    </button>
-                  {%- endif -%}
+              <style>
+                .click_image_pulse:before {
+                  background-color: {{ block.settings.bg_pulse }}
+                  ;
+                }
+              </style>
+              <div class="click_image_container">
+                <div class="click_image_container-inner">
+                  <div class="click_image_inner_1">
+                    {%- if block.settings.click_image_1 != blank -%}
+                      <img
+                        class="click_image_inner"
+                        srcset="{%- if block.settings.click_image_1.width >= 375 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 375 }} 375w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 750 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 750 }} 750w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 1100 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 1100 }} 1100w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 1500 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 1500 }} 1500w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 1780 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 1780 }} 1780w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 2000 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 2000 }} 2000w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 3000 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 3000 }} 3000w,{%- endif -%}
+                      {%- if block.settings.click_image_1.width >= 3840 -%}
+                        {{ block.settings.click_image_1 | image_url: width: 3840 }} 3840w,{%- endif -%}
+                      {{ block.settings.click_image_1 | image_url }} {{ block.settings.click_image_1.width }}"
+                      sizes="100vw"
+                      src="{{ block.settings.click_image_1 | image_url: width: 1500 }}"
+                      loading="lazy"
+                      alt="{{ block.settings.click_image_1.alt | escape }}"
+                      width="{{ block.settings.click_image_1.width }}"
+                      height="{{ block.settings.click_image_1.width | divided_by: block.settings.click_image_1.aspect_ratio }}">
+                    {%- else -%}
+                      {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+                    {%- endif -%}
+                    {%- if block.settings.product_1 != blank -%}
+                      <button
+                        class="click_image_pulse"
+                        style="left: {{ block.settings.x_as_1 }}%; top: {{ block.settings.y_as_1 }}%; background-color: {{ block.settings.bg_pulse }};"
+                        onclick="scrollToProduct1()"
+                        onmouseover="hoverProduct(1)"
+                        onmouseout="unhoverProduct(1)">1
+                      </button>
+                    {%- endif -%}
 
-                  {%- if block.settings.product_2 != blank -%}
-                    <button
-                      class="click_image_pulse"
-                      style="left: {{ block.settings.x_as_2 }}%; top: {{ block.settings.y_as_2 }}%; background-color: {{ block.settings.bg_pulse }};"
-                      onclick="scrollToProduct2()"
-                      onmouseover="hoverProduct(2)"
-                      onmouseout="unhoverProduct(2)">2
-                    </button>
-                  {%- endif -%}
+                    {%- if block.settings.product_2 != blank -%}
+                      <button
+                        class="click_image_pulse"
+                        style="left: {{ block.settings.x_as_2 }}%; top: {{ block.settings.y_as_2 }}%; background-color: {{ block.settings.bg_pulse }};"
+                        onclick="scrollToProduct2()"
+                        onmouseover="hoverProduct(2)"
+                        onmouseout="unhoverProduct(2)">2
+                      </button>
+                    {%- endif -%}
 
-                  {%- if block.settings.product_3 != blank -%}
-                    <button
-                      class="click_image_pulse"
-                      style="left: {{ block.settings.x_as_3 }}%; top: {{ block.settings.y_as_3 }}%; background-color: {{ block.settings.bg_pulse }};"
-                      onclick="scrollToProduct3()"
-                      onmouseover="hoverProduct(3)"
-                      onmouseout="unhoverProduct(3)">3
-                    </button>
-                  {%- endif -%}
-                </div>
-                <div class="click_image_inner_2">
-                  {%- assign product_1 = block.settings.product_1 -%}
-                  {%- assign product_2 = block.settings.product_2 -%}
-                  {%- assign product_3 = block.settings.product_3 -%}
+                    {%- if block.settings.product_3 != blank -%}
+                      <button
+                        class="click_image_pulse"
+                        style="left: {{ block.settings.x_as_3 }}%; top: {{ block.settings.y_as_3 }}%; background-color: {{ block.settings.bg_pulse }};"
+                        onclick="scrollToProduct3()"
+                        onmouseover="hoverProduct(3)"
+                        onmouseout="unhoverProduct(3)">3
+                      </button>
+                    {%- endif -%}
+                  </div>
+                  <div class="click_image_inner_2">
+                    {%- assign product_1 = block.settings.product_1 -%}
+                    {%- assign product_2 = block.settings.product_2 -%}
+                    {%- assign product_3 = block.settings.product_3 -%}
 
-                  {%- if product_1 != blank -%}
-                    <a
-                      id="product_1"
-                      class="click_image_product"
-                      href="{{ product_1.url }}">
-                      <media-gallery>
-                        {%- liquid
-                            assign media_to_render = product_1.featured_media.id
-                            for variant in product_1.variants
-                              assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
-                            endfor
-                          -%}
-                        {%- for media in product_1.media -%}
-                          {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
-                            <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
-                              {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
-                            </div>
+                    {%- if product_1 != blank -%}
+                      <a
+                        id="product_1"
+                        class="click_image_product"
+                        href="{{ product_1.url }}">
+                        <media-gallery>
+                          {%- liquid
+                              assign media_to_render = product_1.featured_media.id
+                              for variant in product_1.variants
+                                assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                              endfor
+                            -%}
+                          {%- for media in product_1.media -%}
+                            {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
+                              <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
+                                {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
+                              </div>
+                            {%- endif -%}
+                          {%- endfor -%}
+                        </media-gallery>
+                        <div class="click_image_product--info">
+                          <span class="h3">
+                            {{ product_1.title }}</span>
+                          {% liquid assign pro_con = product_1.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
+                          {%- if pro_con != blank -%}
+                            <div class="product__procon">{{- pro_con -}}</div>
                           {%- endif -%}
-                        {%- endfor -%}
-                      </media-gallery>
-                      <div class="click_image_product--info">
-                        <span class="h3">
-                          {{ product_1.title }}</span>
-                        {% liquid assign pro_con = product_1.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
-                        {%- if pro_con != blank -%}
-                          <div class="product__procon">{{- pro_con -}}</div>
-                        {%- endif -%}
-                      </div>
-                      <div class="click_image_product">
-                        {%- render 'price', product: product_1, use_variant: true, show_badges: true, price_class: 'price--large' -%}
-                      </div>
-                    </a>
-                  {%- endif -%}
-                  {%- if product_2 != blank -%}
-                    <a
-                      id="product_2"
-                      class="click_image_product"
-                      href="{{ product_2.url }}">
-                      <media-gallery>
-                        {%- liquid
-                            assign media_to_render = product_2.featured_media.id
-                            for variant in product_2.variants
-                              assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
-                            endfor
-                          -%}
-                        {%- for media in product_2.media -%}
-                          {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
-                            <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
-                              {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
-                            </div>
+                        </div>
+                        <div class="click_image_product click_image_product-price">
+                          {%- render 'price', product: product_1, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                        </div>
+                      </a>
+                    {%- endif -%}
+                    {%- if product_2 != blank -%}
+                      <a
+                        id="product_2"
+                        class="click_image_product"
+                        href="{{ product_2.url }}">
+                        <media-gallery>
+                          {%- liquid
+                              assign media_to_render = product_2.featured_media.id
+                              for variant in product_2.variants
+                                assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                              endfor
+                            -%}
+                          {%- for media in product_2.media -%}
+                            {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
+                              <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
+                                {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
+                              </div>
+                            {%- endif -%}
+                          {%- endfor -%}
+                        </media-gallery>
+                        <div class="click_image_product--info">
+                          <span class="h3">
+                            {{ product_2.title }}</span>
+                          {% liquid assign pro_con = product_2.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
+                          {%- if pro_con != blank -%}
+                            <div class="product__procon">{{- pro_con -}}</div>
                           {%- endif -%}
-                        {%- endfor -%}
-                      </media-gallery>
-                      <div class="click_image_product--info">
-                        <span class="h3">
-                          {{ product_2.title }}</span>
-                        {% liquid assign pro_con = product_2.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
-                        {%- if pro_con != blank -%}
-                          <div class="product__procon">{{- pro_con -}}</div>
-                        {%- endif -%}
-                      </div>
-                      <div class="click_image_product">
-                        {%- render 'price', product: product_2, use_variant: true, show_badges: true, price_class: 'price--large' -%}
-                      </div>
-                    </a>
-                  {%- endif -%}
-                  {%- if product_3 != blank -%}
-                    <a
-                      id="product_3"
-                      class="click_image_product"
-                      href="{{ product_3.url }}">
-                      <media-gallery>
-                        {%- liquid
-                            assign media_to_render = product_3.featured_media.id
-                            for variant in product_3.variants
-                              assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
-                            endfor
-                          -%}
-                        {%- for media in product_3.media -%}
-                          {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
-                            <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
-                              {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
-                            </div>
+                        </div>
+                        <div class="click_image_product click_image_product-price">
+                          {%- render 'price', product: product_2, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                        </div>
+                      </a>
+                    {%- endif -%}
+                    {%- if product_3 != blank -%}
+                      <a
+                        id="product_3"
+                        class="click_image_product"
+                        href="{{ product_3.url }}">
+                        <media-gallery>
+                          {%- liquid
+                              assign media_to_render = product_3.featured_media.id
+                              for variant in product_3.variants
+                                assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                              endfor
+                            -%}
+                          {%- for media in product_3.media -%}
+                            {%- if media_to_render contains media.id and media.id != product.selected_or_first_available_variant.featured_media.id -%}
+                              <div class="product__media-item" data-media-id="{{ section.id }}-{{ media.id }}">
+                                {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: false, media_width: 0.5 %}
+                              </div>
+                            {%- endif -%}
+                          {%- endfor -%}
+                        </media-gallery>
+                        <div class="click_image_product--info">
+                          <span class="h3">
+                            {{ product_3.title }}</span>
+                          {% liquid assign pro_con = product_3.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
+                          {%- if pro_con != blank -%}
+                            <div class="product__procon">{{- pro_con -}}</div>
                           {%- endif -%}
-                        {%- endfor -%}
-                      </media-gallery>
-                      <div class="click_image_product--info">
-                        <span class="h3">
-                          {{ product_3.title }}</span>
-                        {% liquid assign pro_con = product_3.metafields.custom.pro_and_cons | replace: '+', '<figure class="iconpro">+</figure>' | replace: '-', '<figure class="iconcon">-</figure>' %}
-                        {%- if pro_con != blank -%}
-                          <div class="product__procon">{{- pro_con -}}</div>
-                        {%- endif -%}
-                      </div>
-                      <div class="click_image_product">
-                        {%- render 'price', product: product_3, use_variant: true, show_badges: true, price_class: 'price--large' -%}
-                      </div>
-                    </a>
-                  {%- endif -%}
+                        </div>
+                        <div class="click_image_product click_image_product-price">
+                          {%- render 'price', product: product_3, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+                        </div>
+                      </a>
+                    {%- endif -%}
+                  </div>
                 </div>
               </div>
-            </div>
           {%- endcase -%}
         {%- endfor -%}
       </div>
@@ -334,6 +331,7 @@
 </div>
 
 <script>
+
   // Get all the li elements inside the ul with class "rich-text__checklist"
   const listItems = document.querySelectorAll(".rich-text__checklist li");
 
@@ -519,9 +517,8 @@
         "name": "t:sections.rich-text.blocks.heading.name",
         "settings": [
           {
-            "type": "richtext",
+            "type": "text",
             "id": "heading",
-            "default": "<p>Talk about your brand</p>",
             "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
           }
         ]

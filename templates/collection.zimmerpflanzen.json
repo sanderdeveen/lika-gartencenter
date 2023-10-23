@@ -188,6 +188,14 @@
             "header": "Zimmerpflanzen mit großen Blättern"
           }
         },
+        "de5a8567-8dd6-4178-97d9-e001c3350249": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/exotische-zimmerpflanzen",
+            "image": "shopify:\/\/shop_images\/exotische-zimmerpflanzen-gartencenter.jpg",
+            "header": "Exotische Zimmerpflanzen"
+          }
+        },
         "93bd4ea5-5c08-400f-918c-a978b6cf5c51": {
           "type": "collection_grid_links",
           "settings": {
@@ -217,6 +225,7 @@
         "df65b3ee-4a38-41fd-8645-0b303074b604",
         "36ed66e6-8216-48b0-a04b-90dc1ee0f8a7",
         "e2ae9b41-8c63-4101-99f2-398c1b8ff91c",
+        "de5a8567-8dd6-4178-97d9-e001c3350249",
         "93bd4ea5-5c08-400f-918c-a978b6cf5c51",
         "1fabdcfd-c62e-4ac1-9df1-a932c9589376"
       ],

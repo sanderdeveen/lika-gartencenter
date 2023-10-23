@@ -1,0 +1,179 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "93a19a61-4bf0-4cf6-a2b8-9dac9f1cd2c2": {
+      "type": "faq",
+      "blocks": {
+        "template--19972039639389__93a19a61-4bf0-4cf6-a2b8-9dac9f1cd2c2-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie viel Dünger benötigt man pro Heckenmeter?",
+            "custom_liquid_1": "",
+            "content": "<p>Die benötigte <a href=\"\/products\/compo-heckenturbo\" title=\"COMPO Heckenturbo\">Düngermenge<\/a> pro Heckenmeter hängt vom jeweiligen Dünger ab. Die erforderliche Menge ist auf der Verpackung angegeben.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "9cb22995-7d99-4470-8d22-674a995e34bb": {
+          "type": "faq",
+          "settings": {
+            "heading": "Warum sollte man Buchenhecken düngen?",
+            "custom_liquid_1": "",
+            "content": "<p>Buchenhecken benötigen bestimmte Nährstoffe, um optimal wachsen und gedeihen zu können. Da Heckenpflanzen oft sehr dicht nebeneinander stehen, ist es für sie schwieriger, ausreichend Nährstoffe aus dem Boden aufzunehmen. Mithilfe regelmäßiger Düngergaben helfen Sie den Pflanzen dabei. Die im Dünger enthaltenen Nährstoffe fördern das Wachstum, verbessern die Blattfarbe und sorgen für eine dichtere Belaubung der Hecke. Außerdem sind gesunde Pflanzen widerstandsfähiger gegenüber Krankheiten und Schädlingen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "d9c11bc5-3b53-4ec0-b1bb-64d42a86e8af": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie oft muss man die Buchenhecke düngen?",
+            "custom_liquid_1": "",
+            "content": "<p>Wir empfehlen Ihnen, Ihre Buchenhecke in <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a> zu pflanzen oder sie sofort nach dem Pflanzen zu düngen. Diese hochwertige Erde enthält ausreichend Nährstoffe für die ersten 100 Tage. Danach empfiehlt es sich, die Hecke zweimal im Jahr zu düngen. Die erste Düngung sollte etwa im April\/Mai erfolgen, die zweite dann im Juni oder Juli. Dadurch wird Ihre Buchenhecke während der Vegetationsperiode mit allen Nährstoffen versorgt, die sie für ein gesundes Wachstum benötigt.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19972039639389__93a19a61-4bf0-4cf6-a2b8-9dac9f1cd2c2-faq-1",
+        "9cb22995-7d99-4470-8d22-674a995e34bb",
+        "d9c11bc5-3b53-4ec0-b1bb-64d42a86e8af"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zum Düngen von Buchenhecken"
+      }
+    },
+    "d2f13f92-7682-421e-b3f8-5881a83bf449": {
+      "type": "rich-text",
+      "blocks": {
+        "d1fb03fd-b3b3-4af5-8a28-8e8590a17ab5": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/geduengte-buchenhecke.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19972039639389__d2f13f92-7682-421e-b3f8-5881a83bf449-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann sollte man die Buchenhecke düngen?<\/h2>"
+          }
+        },
+        "template--19972039639389__d2f13f92-7682-421e-b3f8-5881a83bf449-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eigentlich muss die Buchenhecke gleich beim Pflanzen gedüngt werden. Die Jungpflanzen benötigen für ein gesundes Wachstum jede Menge Nährstoffe. Deshalb ist es auch so wichtig, sie gleich beim Pflanzen entsprechend zu düngen. Im Pflanzjahr ist dann keine zweite Düngung erforderlich. Ab dem zweiten Jahr (wenn die Hecke gut angewachsen ist) düngt man <strong>zweimal im Jahr<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d1fb03fd-b3b3-4af5-8a28-8e8590a17ab5",
+        "template--19972039639389__d2f13f92-7682-421e-b3f8-5881a83bf449-heading-1",
+        "template--19972039639389__d2f13f92-7682-421e-b3f8-5881a83bf449-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "90903378-00d3-4dd8-8273-5f40554015e7": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Verwenden Sie beim Pflanzen Ihrer Buchenhecke <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a>. Diese hochwertige Erde enthält ausreichend Nährstoffe für die <strong>ersten 100 Tage<\/strong>. Dadurch ist keine zusätzliche Düngung beim Pflanzen der Hecke erforderlich.<\/p>"
+      }
+    },
+    "b43694e9-7e67-471b-a8d5-7ebcd0b4fa6c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19972039639389__b43694e9-7e67-471b-a8d5-7ebcd0b4fa6c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken müssen gedüngt werden, weil die einzelnen Pflanzen oft zu dicht nebeneinander stehen, um genügend Nährstoffe aus dem Boden aufnehmen zu können. Durch die Düngergabe müssen die Pflanzen keine extra langen Wurzeln bilden, um mit Nährstoffen versorgt zu werden. Zugleich sorgt der Dünger für eine schönere Blattfarbe und eine dichtere Belaubung der Hecke. Ein weiterer Vorteil ist, dass die Buchenhecke widerstandsfähiger gegenüber Krankheiten und Schädlingen wird. Gesunde Pflanzen sind wesentlich besser in der Lage, einem eventuellen Befall durch Buchenblattläuse oder andere Schädlinge standzuhalten. Regelmäßiges Düngen fördert somit das Wachstum und stärkt die Pflanze auf natürliche Weise gegen Krankheiten.<\/p><p><strong>Die erste Düngergabe<\/strong> sollte im Frühjahr (<strong>März\/April<\/strong>) erfolgen, die zweite dann im <strong>Juni oder Juli<\/strong>. Auf diese Weise erhält die Buchenhecke alle Nährstoffe, um sich optimal entwickeln und zu einer gesunden, dichtbelaubten Hecke heranwachsen zu können.<\/p>"
+          }
+        },
+        "0934015a-cbd1-47e1-92af-c01db3062895": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/buchenhecke-duengen-ratgeber.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "c3bbf093-f7a1-4e84-9ec4-46f223e4905c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Womit düngt man Buchenhecken?<\/h3>"
+          }
+        },
+        "3b65f39f-5177-419b-9a19-853e6bf1583d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken sollten idealerweise zweimal im Jahr gedüngt werden. Ganz entscheidend ist dabei auch, womit man die Hecke düngt. Es gibt spezielle Dünger für Buchenhecken. Diese Dünger enthalten alle Nährstoffe, die die Hecke für ein gesundes Wachstum benötigt.<\/p><p>Man kann Buchenhecken aber auch wunderbar mit <strong>Kuhmist<\/strong>, <strong>frischem Rasenschnitt<\/strong> oder Kompost düngen. Pflanzenreste und <strong>Schnittabfälle<\/strong> sind ebenfalls sehr geeignet, sofern sie von gesunden Pflanzen stammen und pilz- und schädlingsfrei sind.<\/p><p><strong>Kunstdünger<\/strong> sollte nicht zum Düngen von Buchenhecken verwendet werden, da dieser die Wurzeln schädigen kann. Dasselbe gilt auch für mit Kunstdünger angereicherte Blumenerde. Daher lautet unsere Empfehlung, ausschließlich organische Dünger zu verwenden. Ihre Buchenhecke wird es Ihnen danken und umso schöner gedeihen!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19972039639389__b43694e9-7e67-471b-a8d5-7ebcd0b4fa6c-text-1",
+        "0934015a-cbd1-47e1-92af-c01db3062895",
+        "c3bbf093-f7a1-4e84-9ec4-46f223e4905c",
+        "3b65f39f-5177-419b-9a19-853e6bf1583d"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "aa9c4ab4-0f0d-4c93-b92d-b59db5e36951": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "93a19a61-4bf0-4cf6-a2b8-9dac9f1cd2c2",
+    "d2f13f92-7682-421e-b3f8-5881a83bf449",
+    "90903378-00d3-4dd8-8273-5f40554015e7",
+    "b43694e9-7e67-471b-a8d5-7ebcd0b4fa6c",
+    "aa9c4ab4-0f0d-4c93-b92d-b59db5e36951"
+  ]
+}

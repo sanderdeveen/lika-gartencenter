@@ -174,6 +174,7 @@
   z-index: 2;
   width: 16px;
   height: 16px;
+  pointer-events: none;
 }
 
 .click_image_pulse:hover {
@@ -262,14 +263,39 @@
 
 .click_image_product {
   text-decoration: none;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   background-color: #FFF;
   padding: 10px;
   border-radius: 5px;
   gap: 10px;
-  flex-direction: column;
+  position: relative;
+}
+
+@media screen and (max-width: 768px) {
+  .click_image_product .click_image_product-price {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+  }
+}
+
+.click_image_product .badge {
+  display: none;
+}
+
+.click_image_product .price--on-sale .price__sale {
+  flex-direction: row-reverse;
+}
+
+.click_image_product .click_image_product {
+  margin-left: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .click_image_product {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .click_image_product.is-hover {
@@ -320,7 +346,6 @@
   }
   .click_image_inner_2 {
     height: 575px;
-    justify-content: space-between;
   }
   .click_image_product {
     flex-direction: row;
@@ -330,16 +355,17 @@
 .rich-text__orderedlist-fat {
   list-style: none;
   counter-reset: item;
-  padding-left: 16px;
+  padding-left: 0;
 }
 
 .rich-text__orderedlist-fat li {
   counter-increment: item;
   display: flex;
-  gap: 6px;
   align-items: center;
   line-height: 200%;
   position: relative;
+  margin-bottom: 10px;
+  padding-left: 34px;
 }
 
 .rich-text__orderedlist-fat li::before {
@@ -350,8 +376,15 @@
   display: inline-block;
   font-size: 24px;
   min-width: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .rich-text__unorderedlist {
   padding-left: 22px;
+}
+
+.rich-text__unorderedlist li {
+  margin-bottom: 10px;
 }

@@ -15,7 +15,8 @@
     "main": {
       "type": "main-blog",
       "settings": {
-        "layout": "collage",
+        "enable_navigation": true,
+        "layout": "grid",
         "show_image": true,
         "image_height": "small",
         "padding_top": 0,

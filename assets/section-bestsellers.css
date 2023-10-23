@@ -18,6 +18,10 @@
   background-color: #f2f0ef;
 }
 
+.bestsellers--inner .quick-add {
+  display: none;
+}
+
 .bestsellers .bestsellers--inner .bestsellers-header {
   margin: 1rem 0 1rem 0;
 }

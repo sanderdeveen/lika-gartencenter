@@ -1,0 +1,459 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "88c19adf-2b96-4613-bc91-071d72b55e14": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19977500688733__88c19adf-2b96-4613-bc91-071d72b55e14-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Rotbuchen...<\/h2>"
+          }
+        },
+        "template--19977500688733__88c19adf-2b96-4613-bc91-071d72b55e14-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>sind in vielen verschiedenen Größen (40 cm bis 250 cm) erhältlich<\/li><li>behalten im Winter ihre Blätter<\/li><li>zählen zu den preisgünstigsten Heckenpflanzen<\/li><li>sind ganzjährig verfügbar<\/li><li>sind äußerst pflegeleicht<\/li><li>sind vielseitig einsetzbar<\/li><li>gibt es mit grünem oder rotem Laub<\/li><li>können einfach selbst gepflanzt werden<\/li><li>gedeihen so gut wie überall<\/li><\/ul>"
+          }
+        },
+        "47228f47-5a47-4ccd-8716-73a802a3d4f8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In diesem Beitrag möchten wir näher auf die oben genannten Vorteile eingehen und Ihnen einige Tipps zum Pflanzen von Buchenhecken geben. Denn beim Blick in manche Gärten wird man feststellen, dass nicht alle Buchenhecken so aussehen, wie man sich das für den eigenen Garten wünscht. Hier erfahren Sie, wie man Buchenhecken richtig pflanzt und pflegt. Deshalb empfehlen wir Ihnen, sich diesen Artikel sorgfältig durchzulesen, bevor Sie eine Buchenhecke bestellen. Es gibt nämlich einige Dinge, die man beachten sollte, um ein optimales Ergebnis zu erzielen.<\/p>"
+          }
+        },
+        "28b5703a-b711-46c5-a270-2330f7609751": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/buchenhecke-fagus-sylvatica-gruene-blaetter.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "f04311ed-d3d4-438d-a3f6-d1b8271ef3ba": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Rotbuchen in verschiedenen Größen<\/h2>"
+          }
+        },
+        "5787551f-ad06-4b40-934e-57bdb904799e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie man auf dem Foto links oben sehen kann, werden Rotbuchen in Baumschulen herangezogen. In manchen Baumschulen werden die Pflanzen sehr dicht gepflanzt, um auf wenig Fläche möglichst viel Ertrag zu erzielen. Andere Baumschulen dahingegen setzen auf Qualität und gönnen ihren Bäumen etwas mehr Platz.<\/p><p>Je größer der Pflanzabstand zwischen den Bäumen ist, desto mehr Licht gelangt an den Stamm. Dadurch können sich auch ganz unten am Stamm Seitentriebe bilden. Bei zu geringem Pflanzabstand setzen die Seitentriebe weiter oben am Stamm an und kann im unteren Teil der Hecke keine dichte Verzweigung mehr entstehen. Buchen, die in der Baumschule mehr Platz und Licht erhalten, können sich besser entwickeln und somit eine dichtere Hecke bilden.<\/p>"
+          }
+        },
+        "63e21bb0-18ac-48f7-a35d-4461cb23a12f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Der Unterschied zwischen Rotbuchen und Hainbuchen<\/h2>"
+          }
+        },
+        "6c75c228-d7e7-48e0-9346-f35166a6b6e3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Neben Rotbuchen und Blutbuchen gibt es auch noch Hainbuchen. Die Hainbuche ähnelt der Rotbuche rein äußerlich zwar sehr, gehört aber zur Familie der Birkengewächse. Wann und warum sollte man sich also für eine Rotbuchenhecke oder eine Hainbuchenhecke entscheiden und was ist eigentlich der Unterschied? Rotbuchen (und Blutbuchen) behalten im Winter ihre Blätter, während Hainbuchen laubabwerfend sind. Die wichtigsten Unterschiede haben wir in der nachfolgenden Übersicht für Sie zusammengefasst. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19977500688733__88c19adf-2b96-4613-bc91-071d72b55e14-heading-1",
+        "template--19977500688733__88c19adf-2b96-4613-bc91-071d72b55e14-text-1",
+        "47228f47-5a47-4ccd-8716-73a802a3d4f8",
+        "28b5703a-b711-46c5-a270-2330f7609751",
+        "f04311ed-d3d4-438d-a3f6-d1b8271ef3ba",
+        "5787551f-ad06-4b40-934e-57bdb904799e",
+        "63e21bb0-18ac-48f7-a35d-4461cb23a12f",
+        "6c75c228-d7e7-48e0-9346-f35166a6b6e3"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "3d6921df-3062-4b03-80a4-0b04b3864392": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Rotbuche",
+        "image": "shopify:\/\/shop_images\/rotbuche-fagus-sylvatica-blaettern.jpg",
+        "content": "<p>Der botanische Name der Rotbuche ist <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Fagus sylvatica<\/a>. Rotbuchenhecken behalten das ganze Jahr über ihre Blätter. Die Blätter sind im Sommer grün und im Winter braun. Die Rotbuche ist eine der beliebtesten Heckenpflanzen überhaupt.<\/p>",
+        "url": "shopify:\/\/products\/rotbuchenhecke",
+        "btn_text": "Rotbuche ansehen"
+      }
+    },
+    "fac89dc1-7750-440b-8445-3f7a583c7c40": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Blutbuche",
+        "image": "shopify:\/\/shop_images\/blutbuche-blaettern-rot.jpg",
+        "content": "<p>Die Blutbuche (<a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Fagus sylvatica ‘Atropunicea’<\/a>) ist eine Unterart der Rotbuche mit dunkelroten Blättern. Mit ihrem leuchtend roten Laub ist die Rotbuchenhecke ein dekorativer Blickfang im Garten. Die Blätter der Blutbuche färben sich im Herbst braun. Die Blutbuche behält im Winter ihre Blätter und treibt im Frühjahr mit neuen Blättern aus.<\/p>",
+        "url": "shopify:\/\/products\/blutbuchenhecke",
+        "btn_text": "Blutbuche ansehen"
+      }
+    },
+    "b6c005c8-77c6-4bc4-b35c-8aecf49cdd43": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Hainbuche",
+        "image": "shopify:\/\/shop_images\/hainbuche-carpinus-betulus-blaettern.jpg",
+        "content": "<p>Die Hainbuche (<a href=\"\/products\/hainbuche\" title=\"Hainbuche\">Carpinus betulus<\/a>) ist eine andere Baumart und <strong>verliert im Winter ihre Blätter<\/strong>. Hainbuchen bevorzugen feuchtere Gartenböden und haben stärker gezackte Blätter als Rot- oder Blutbuchen. Das Herbstlaub ist etwas heller und rollt sich vom Rand her zusammen. Hainbuchen treiben im Frühling etwas früher aus als Rot- und Blutbuchen. Diese Hecke gibt es nur mit grünen Blättern, aber für das Pflanzen gelten dieselben Regeln wie für Rot- oder Blutbuchen.<\/p>",
+        "url": "shopify:\/\/products\/hainbuche",
+        "btn_text": "Hainbuche ansehen"
+      }
+    },
+    "1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19977500688733__1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Buchen sind preisgünstige Heckenpflanzen<\/h2>"
+          }
+        },
+        "template--19977500688733__1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Im Gegensatz zu den meisten anderen Heckenpflanzen werden Buchen in großen Mengen gezüchtet. Diese Massenproduktion schlägt sich im Preis nieder. Wer ein wenig Geduld hat und Geld sparen möchte, pflanzt seine Hecke aus Pflanzen der kleinsten Größe (40-60 cm). Soll die Hecke von Anfang an schon etwas kompakter und dichter sein, wählt man eine größere Größe (125-150 cm ist die am häufigsten gewählte Größe).<\/p><p>Im Gegensatz zur Blutbuche bildet die Rotbuche jedes Jahr Samen aus. Deshalb sind Rotbuchenhecken billiger. Da Blutbuchen nur sehr unregelmäßig Samen ausbilden (manchmal nur alle 4 Jahre), sind sie exklusiver und teurer. Aus diesem Grund sind Blutbuchenhecken auch seltener als Rotbuchenhecken. Wer es gerne bunt mag, kann eine <strong>Mischhecke<\/strong> aus Rot- und Blutbuchen pflanzen.<\/p>"
+          }
+        },
+        "9aeb1b08-fbf1-4588-a9c6-28973684fe14": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Topfpflanzen oder Wurzelware?<\/h2>"
+          }
+        },
+        "b03b4e27-0c0e-490c-bb1e-61494df43210": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchen als Heckenpflanzen sind das ganze Jahr über erhältlich. Dennoch empfiehlt es sich, die Buchenhecke in der sogenannten Ruhephase (von Oktober bis April\/Mai) zu pflanzen. Die Pflanzen haben dann braune oder keine Blätter. In der Ruhephase speichern die Pflanzen ihre gesamte Energie in den Wurzeln, um im Frühjahr wieder neu austreiben zu können. Deshalb ist die Ruhephase der beste Zeitpunkt zum Pflanzen oder <a href=\"\/blogs\/ratgeber\/buchenhecke-umpflanzen-wann-und-wie\" title=\"Buchenhecke umpflanzen – wann und wie?\">Umpflanzen von Buchenhecken<\/a>. Pflanzen Sie die Hecke nicht bei Frost, da dies die Pflanzen schädigen kann. In den Herbst- und Wintermonaten sind die Buchen als Wurzelware (wurzelnackte Ware) erhältlich. Wurzelware ist preisgünstiger als Topf- oder Containerware.<\/p>"
+          }
+        },
+        "54d73e20-c514-4673-b1f1-63ec8742dc5c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Wurzelware<\/h3>"
+          }
+        },
+        "785fa479-676f-4a45-bbba-210e93f9d674": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wurzelnackte Heckenpflanzen werden auch Wurzelware genannt. Buchenpflanzen können für kurze Zeit (max. 24 Stunden) auch ohne Erde, d.h. mit kahlen Wurzeln überleben. Dieser Zeitraum sollte allerdings auf ein Minimum beschränkt werden. Je länger die Wurzeln ohne Erde sind und je höher die Temperatur ist, desto größer das Risiko, dass die Pflanzen den Transport nicht überleben.<\/p><p>Unsere Wurzelware wird auf dem schnellsten Weg direkt aus der Baumschule geliefert. Beim Kauf im Gartencenter vor Ort oder bei anderen Anbietern weiß man nicht, wie oft die Pflanzen bereits verpflanzt wurden und wie lange sie schon ohne Erde sind. Wir wissen aus eigener Erfahrung, dass der Großteil dieser Buchen nicht anwächst und das Pflanzen somit eine reine Zeit- und Geldverschwendung ist. Wurzelware ist (je nach Wetterlage) ungefähr von Oktober bis April\/Mai erhältlich.<\/p>"
+          }
+        },
+        "2265309f-090b-4680-a696-f996c080a0e2": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Topf- oder Containerware<\/h3>"
+          }
+        },
+        "c3717030-56ca-4ea1-8fc1-1c9919832533": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken können das ganze Jahr über gepflanzt werden, denn die Pflanzen sind auch als Containerware (<strong>Pflanzen im Topf<\/strong>) erhältlich. Containerware ist qualitativ ebenso hochwertig, jedoch teurer, weil die Pflanzen einzeln im Topf herangezogen werden. Diese Aufzuchtweise ist nicht nur arbeitsintensiver, sondern führt auch zu höheren Transportkosten.<\/p>"
+          }
+        },
+        "41598581-34d7-4c59-9223-f7416cd42efb": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "columns_mobile": "1",
+            "columns_desktop": 3
+          }
+        }
+      },
+      "block_order": [
+        "template--19977500688733__1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21-heading-1",
+        "template--19977500688733__1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21-text-1",
+        "9aeb1b08-fbf1-4588-a9c6-28973684fe14",
+        "b03b4e27-0c0e-490c-bb1e-61494df43210",
+        "54d73e20-c514-4673-b1f1-63ec8742dc5c",
+        "785fa479-676f-4a45-bbba-210e93f9d674",
+        "2265309f-090b-4680-a696-f996c080a0e2",
+        "c3717030-56ca-4ea1-8fc1-1c9919832533",
+        "41598581-34d7-4c59-9223-f7416cd42efb"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "56ade39b-7f24-4919-bcf9-28d61cb157fa": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Wir empfehlen Ihnen, Ihre Buchen in der Pflanzzeit (Oktober bis April) als Wurzelware und außerhalb der Pflanzzeit als Containerware zu kaufen.<\/p>"
+      }
+    },
+    "10ba6c79-5f3b-4c71-90c2-c46787864ab4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19977500688733__10ba6c79-5f3b-4c71-90c2-c46787864ab4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Buchenhecken schneiden und pflegen<\/h2>"
+          }
+        },
+        "template--19977500688733__10ba6c79-5f3b-4c71-90c2-c46787864ab4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken sollten <strong>zweimal im Jahr<\/strong> zurückgeschnitten werden. Das erste Mal im April, das zweite Mal im Spätherbst vor dem ersten Frost. Schneiden Sie vorzugsweise bei bewölktem Himmel und gegen Ende des Tages. Wenn Sie die Hecke vor dem Rückschnitt mit Wasser besprühen, werden die Klingen der Heckenschere nicht so schnell stumpf. Für kleinere Hecken und Feinarbeiten bietet sich eine mechanische Gartenschere, wie die Gardena Classic, an.<\/p>"
+          }
+        },
+        "07042e0c-fb48-4241-8e38-17a52cd21ab1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Vielseitig einsetzbar<\/h2>"
+          }
+        },
+        "4f252347-9f75-4702-b1a8-d74862e162c6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buchenhecken sind vielseitig einsetzbar und können so gut wie überall gepflanzt werden. Vom kleinen Stadtgarten bis hin zum ländlichen Anwesen, als Grundstücksbegrenzung, Beeteinfassung oder Heckenbogen. Schauen Sie sich in Ihrer Umgebung um, entdecken Sie die vielen Möglichkeiten und lassen Sie sich inspirieren! Buchen können selbstverständlich auch als Solitär gepflanzt werden, beispielsweise am Anfang und Ende der Hecke.<\/p><p>Buchenhecken fügen sich nicht nur harmonisch in jede Art von Garten ein, sie haben auch viele verschiedene Funktionen. Die meisten Buchenhecken werden als natürliche Grundstücksbegrenzung gepflanzt. Man kann sie niedrig halten oder 2 bis 3 Meter hoch wachsen lassen. Für einen noch höheren Sichtschutz können eventuell große Spalierbäume dazwischen gepflanzt werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19977500688733__10ba6c79-5f3b-4c71-90c2-c46787864ab4-heading-1",
+        "template--19977500688733__10ba6c79-5f3b-4c71-90c2-c46787864ab4-text-1",
+        "07042e0c-fb48-4241-8e38-17a52cd21ab1",
+        "4f252347-9f75-4702-b1a8-d74862e162c6"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "dda8c55a-2697-4ae3-b2c8-5b64147560bb": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "b5cab1c0-8504-40fe-b8e9-7dc6442fe52c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/inspireren-buchenhecken.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "eda5dc58-6260-4b95-8a67-0689f399c0c1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchenhecke-vielseitig-einsetzbar.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "b5cab1c0-8504-40fe-b8e9-7dc6442fe52c",
+        "eda5dc58-6260-4b95-8a67-0689f399c0c1"
+      ],
+      "settings": {
+      }
+    },
+    "ebc9a705-2dbb-4700-93df-928ee94d3274": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19977500688733__ebc9a705-2dbb-4700-93df-928ee94d3274-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rot- und Blutbuchenhecke<\/p>"
+          }
+        },
+        "template--19977500688733__ebc9a705-2dbb-4700-93df-928ee94d3274-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der große Vorteil von Buchen im Vergleich zu vielen anderen Heckenpflanzen ist, dass sie in zwei verschiedenen Farben erhältlich sind. Ganz im Gegensatz zu <a href=\"\/products\/eibenhecke\" title=\"Eibenhecke\">Eiben<\/a>-, <a href=\"\/products\/buchshecke\" title=\"Buchshecke\">Buchsbaum<\/a>, <a href=\"\/collections\/koniferen\" title=\"Koniferen\">Koniferen<\/a>- oder <strong>Hainbuchenhecken<\/strong>, die ja immer grün belaubt sind. Bei den Rotbuchen haben Sie die Wahl zwischen Grün, Rot oder einer Kombination von beiden!<\/p>"
+          }
+        },
+        "a0da6cc5-29aa-4922-a7b4-8cc275e9b808": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/mischhecke-aus-rot-und-blutbuchen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "d80c2023-a888-422d-b05a-2c72201012fa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Buchenhecke pflanzen<\/h2>"
+          }
+        },
+        "cf614d08-6033-4252-bcd0-323ea9bee5b1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nachdem Sie inzwischen so gut wie alles über Buchenhecken wissen, kommen wir jetzt zum wichtigsten Teil, dem Pflanzen der Hecke! Eine Hecke zu pflanzen kann richtig Spaß machen und ist – mit ein wenig Planung und der richtigen Vorbereitung – gar nicht so schwer.<\/p>"
+          }
+        },
+        "14d74647-674a-47f6-b618-347f909796ba": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Einreihige oder zweireihige Hecke – was ist der Unterschied?<\/h3>"
+          }
+        },
+        "4ea1ebe3-8591-445a-97a4-b669d66bedac": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sie können Ihre Buchenhecke auf zwei verschiedene Arten pflanzen: einreihig oder zweireihig. Je nachdem, für welche Methode Sie sich entschieden haben, können Sie die benötigte Stückzahl pro Pflanzmeter berechnen. Es spricht für sich, dass man für die zweireihige Bepflanzung mehr Pflanzen benötigt, aber dazu später mehr.<\/p><p>Zuerst möchten wir näher auf die unterschiedlichen Pflanzmethoden eingehen. Man könnte ja meinen, dass man bei der zweireihigen Bepflanzung automatisch eine dichtere Hecke erhält, aber das ist nur bedingt richtig.<\/p><p>Einerseits wird die Hecke natürlich etwas breiter. Das bedeutet aber nicht, dass man sie durch regelmäßiges Zurückschneiden nicht schmal und in Form halten könnte. Theoretisch kann eine einreihige Hecke genauso breit werden wie eine zweireihige, vorausgesetzt, man lässt sie mithilfe des entsprechenden Schnitts in die Breite wachsen. Andererseits ist es natürlich so, dass die zweireihige Bepflanzung sofort für eine stärker verzweigte Hecke und somit einen besseren Sichtschutz sorgt. Unser Tipp lautet daher:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19977500688733__ebc9a705-2dbb-4700-93df-928ee94d3274-heading-1",
+        "template--19977500688733__ebc9a705-2dbb-4700-93df-928ee94d3274-text-1",
+        "a0da6cc5-29aa-4922-a7b4-8cc275e9b808",
+        "d80c2023-a888-422d-b05a-2c72201012fa",
+        "cf614d08-6033-4252-bcd0-323ea9bee5b1",
+        "14d74647-674a-47f6-b618-347f909796ba",
+        "4ea1ebe3-8591-445a-97a4-b669d66bedac"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "69be64bf-85c1-4ac2-84e5-e8b84a67dfde": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Wenn die Hecke schnell dicht werden soll, pflanzen Sie zwei Reihen. Wenn es etwas länger dauern darf, ist die einreihige Bepflanzung eine kostengünstige Alternative. Sollte aus Platzgründen keine zweireihige Bepflanzung möglich sein, wählen Sie den goldenen Mittelweg und pflanzen Sie mehr Pflanzen pro Heckenmeter.<\/p>"
+      }
+    },
+    "e389a360-46f8-4139-bbba-f4bf9c31e213": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "c54151c4-fa51-43fa-899f-f0c5689ad885": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/immergruene-heckenpflanzen-rotbuchen-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "287e5248-6de7-4eb9-8d0c-da7055cae405": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/immergruene-heckenpflanzen-rotbuchen.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "c54151c4-fa51-43fa-899f-f0c5689ad885",
+        "287e5248-6de7-4eb9-8d0c-da7055cae405"
+      ],
+      "settings": {
+      }
+    },
+    "ff7c9ac8-985a-4b2e-b167-d6cc9f5b6db9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19977500688733__ff7c9ac8-985a-4b2e-b167-d6cc9f5b6db9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Richtige Anzahl an Pflanzen<\/h2>"
+          }
+        },
+        "39a16442-fca7-4e81-8041-a92e416283a7": {
+          "type": "ordered_list",
+          "settings": {
+            "fat_number": true,
+            "ordered_list": "<p>- Heben Sie mit dem Spaten oder der Schaufel einen Pflanzgraben in der entsprechenden Größe (siehe Tabelle) aus. Etwas breiter oder tiefer ist kein Problem, da dies die Bodendurchlüftung fördert.*<\/p><p>- Legen bzw. stellen Sie die Pflanzen im gewünschten Abstand neben dem Pflanzgraben auf. So können die richtigen Abstände vorab bestimmt und die Pflanzen gleichmäßig über die gesamte Länge verteilt werden. Unterschiedliche Abstände verwachsen sich zwar im Laufe der Zeit, gleiche Abstände sorgen jedoch von Anfang an für ein schöneres Gesamtbild. Wenn man eine Reihe pflanzt, legt man alle Pflanzen an einer Seite des Graben auf, bei zwei Reihen können sie links und rechts aufgelegt werden.*<\/p><p>- Wenn alles stimmt, können Sie mit dem Pflanzen beginnen. Eine Richtschnur muss dazu nicht gespannt werden. Man kann die Pflanzen nämlich auch im Nachhinein beim Festtreten noch etwas ausrichten. Verwenden Sie beim Pflanzen der Buchenhecke COMPO SANA Qualitäts Blumenerde. Diese hochwertige Erde enthält Mykorrhiza Pilzkulturen, die die Buchen für ein gesundes Wurzelwachstum und zum Anwachsen benötigen, sowie ausreichend Nährstoffe für die ersten 100 Tage. Danach sollte die Buchenhecke regelmäßig gedüngt werden, damit sie sich optimal entwickeln kann. In unserer Ratgeber Rubrik finden Sie ausführlichere Informationen zum Düngen von Buchenhecken.*<\/p><p>- Hecke gießen*<\/p>"
+          }
+        },
+        "8dad6183-3dbd-4275-acb1-bb63ccd4f015": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wo gedeihen Buchenhecken am besten?<\/h2>"
+          }
+        },
+        "cc4ddc9c-33ae-4d80-a34d-2203435c4d56": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie bereits mehrfach erwähnt, sind Buchen robuste, pflegeleichte Pflanzen, die in nahezu allen Bodenarten gedeihen. Dennoch empfiehlt es sich, die idealen Bodenverhältnisse zu schaffen, damit sich die Pflanzen wohlfühlen und sich optimal entwickeln können. Der ideale Boden für Buchen ist ein <strong>humusreicher Waldboden<\/strong> (Buchenwald). Aber auch die <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a> eignet von der Zusammensetzung her ausgezeichnet für Ihre Buchenhecke. Das Einzige, was Rotbuchenhecken absolut nicht vertragen, ist zu viel Feuchtigkeit. Wenn Sie also einen eher feuchten Boden in Ihrem Garten haben oder die Hecke in Wassernähe gepflanzt werden soll, ist die <a href=\"\/products\/hainbuche\" title=\"Hainbuche\">Hainbuche<\/a> die bessere Wahl, da diese Sorte besser mit feuchten Böden umgehen kann.<\/p>"
+          }
+        },
+        "b7b875dc-159e-4b1f-8755-ea63ea2f42c1": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/blutbuchenhecke-blaettern.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--19977500688733__ff7c9ac8-985a-4b2e-b167-d6cc9f5b6db9-heading-1",
+        "39a16442-fca7-4e81-8041-a92e416283a7",
+        "8dad6183-3dbd-4275-acb1-bb63ccd4f015",
+        "cc4ddc9c-33ae-4d80-a34d-2203435c4d56",
+        "b7b875dc-159e-4b1f-8755-ea63ea2f42c1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "d9c4dc3a-9828-4824-83fd-8050b6f93e28": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "88c19adf-2b96-4613-bc91-071d72b55e14",
+    "3d6921df-3062-4b03-80a4-0b04b3864392",
+    "fac89dc1-7750-440b-8445-3f7a583c7c40",
+    "b6c005c8-77c6-4bc4-b35c-8aecf49cdd43",
+    "1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21",
+    "56ade39b-7f24-4919-bcf9-28d61cb157fa",
+    "10ba6c79-5f3b-4c71-90c2-c46787864ab4",
+    "dda8c55a-2697-4ae3-b2c8-5b64147560bb",
+    "ebc9a705-2dbb-4700-93df-928ee94d3274",
+    "69be64bf-85c1-4ac2-84e5-e8b84a67dfde",
+    "e389a360-46f8-4139-bbba-f4bf9c31e213",
+    "ff7c9ac8-985a-4b2e-b167-d6cc9f5b6db9",
+    "d9c4dc3a-9828-4824-83fd-8050b6f93e28"
+  ]
+}

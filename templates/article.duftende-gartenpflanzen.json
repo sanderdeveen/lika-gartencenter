@@ -51,11 +51,21 @@
           "settings": {
             "text": "<p>Die meisten Gartenpflanzen bringen sehr typische, <strong>erkennbare Düfte<\/strong> hervor. Manche nehmen wir kaum wahr, weil sie sich erst beim Berühren entfalten. Andere empfinden wir als angenehm, stark oder sogar betörend. Pflanzendüfte entstehen durch ätherische Öle in den Blüten, Blättern und anderen Pflanzenteilen. <\/p><p>Warum entwickeln Pflanzen Aromen und Düfte? In der Natur erfüllt alles eine Funktion. Blütendüfte sind besonders stark und markant. So entwickeln Pflanzen zu bestimmten Zeiten starke Düfte, <strong>um bestäubende Insekten und Bestäuber anzulocken<\/strong>. Sie sichern mit der Bestäubung die Samenentwicklung und damit den Fortbestand der Pflanzenart. Gewürzpflanzen entwickeln Duftstoffe und verbreiten diese Aromen während der gesamten Gartensaison. Übrigens können Pflanzen über den Duft miteinander kommunizieren. <br\/><\/p>"
           }
+        },
+        "e9d89cc5-23f4-44e0-9e5c-6a2034139ed9": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/duftende-gartenpflanzen-ratgeber-pflanz.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
         }
       },
       "block_order": [
         "template--19865489768797__6a4b195f-dcf5-481e-a795-618230b9198f-heading-1",
-        "template--19865489768797__6a4b195f-dcf5-481e-a795-618230b9198f-text-1"
+        "template--19865489768797__6a4b195f-dcf5-481e-a795-618230b9198f-text-1",
+        "e9d89cc5-23f4-44e0-9e5c-6a2034139ed9"
       ],
       "settings": {
         "padding_top": 0,

@@ -1,0 +1,171 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "e86b73c8-7245-4acc-9fed-2e130ac60d10": {
+      "type": "rich-text",
+      "blocks": {
+        "0d687b78-f5c2-4c24-aa18-bd0235057f8f": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/buchenhecke-blaettern-blau-luft.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--19971462267229__e86b73c8-7245-4acc-9fed-2e130ac60d10-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wann sollte man die Buchenhecke umpflanzen?<\/h2>"
+          }
+        },
+        "template--19971462267229__e86b73c8-7245-4acc-9fed-2e130ac60d10-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Umpflanzen einer Buchenhecke ist ein heikles Unterfangen, da die einzelnen Pflanzen ein dicht verzweigtes Wurzelsystem haben. Vor allem ältere Buchenhecken bilden ein komplexes Wurzelgeflecht, das die einzelnen Pflanzen unter der Erde zu einem großen Wurzelgebilde verbindet. Das Umsetzen der Buchenhecke muss sorgfältig geplant werden. Dadurch können unnötige Schäden an der Pflanze vermieden werden und erhält die Hecke genügend Zeit, sich an die neue Umgebung zu gewöhnen und sich vom Umsetzen zu erholen.<\/p><p>Das Umsetzen der Buchenhecke sollte vorzugsweise während der Ruhephase der Pflanzen (etwa von <strong>Ende Oktober bis Ende März<\/strong>) erfolgen. Zwischen April und Mitte Oktober ist von einem Umpflanzen der Buchenhecke abzuraten, da die Aussichten auf einen erfolgreichen Umzug in dieser Jahreszeit deutlich schlechter sind.<\/p><p>Das Umsetzen der Buchenhecke gelingt am ehesten in der <strong>Ruhephase<\/strong>. In der Ruhephase kommen die Pflanzen mit sehr wenig Wasser aus, sodass sie sich voll und ganz auf die Regeneration des Wurzelsystems und die Wurzelbildung konzentrieren können. Dadurch erhöhen sich die Chancen auf einen erfolgreichen Umzug der Hecke.<\/p><p>Zum Umsetzen der Buchenhecke sollte <strong>ein nicht zu kalter, niederschlagsfreier Tag<\/strong> gewählt werden. Ein sonniger Herbsttag im Oktober oder November bietet die idealen Voraussetzungen! Die Pflanzen befinden sich dann bereits in ihrer Ruhephase, während die Erde noch relativ warm ist. Dadurch erhalten sie die Gelegenheit, noch vor dem Winter wieder neu einzuwurzeln. Pflanzen Sie die Buchenhecke auf keinen Fall bei Temperaturen unter 0 °C um, und auch nicht, wenn für die kommende Woche Frost angesagt ist.<\/p>"
+          }
+        },
+        "c2856c41-6b4a-40b4-8fcb-e77851662cff": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Wie pflanzt man eine Buchenhecke um?<\/h2>"
+          }
+        },
+        "e0bab333-9146-4bae-aad4-a369730fd60d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie den richtigen Tag gewählt haben und sich an unsere praktische Schritt-für-Schritt-Anleitung halten, kann beim Umpflanzen Ihrer Hecke gar nichts mehr schiefgehen! Diese Anleitung gilt für <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Rotbuchenhecken<\/a>, <a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Blutbuchenhecken<\/a> und <a href=\"\/products\/hainbuche\" title=\"Hainbuche\">Hainbuchenhecken<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0d687b78-f5c2-4c24-aa18-bd0235057f8f",
+        "template--19971462267229__e86b73c8-7245-4acc-9fed-2e130ac60d10-heading-1",
+        "template--19971462267229__e86b73c8-7245-4acc-9fed-2e130ac60d10-text-1",
+        "c2856c41-6b4a-40b4-8fcb-e77851662cff",
+        "e0bab333-9146-4bae-aad4-a369730fd60d"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "94870a58-8060-44ea-a14f-9b057b69ef8b": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "1. Schritt: Pflanzgraben ausheben",
+        "image": "shopify:\/\/shop_images\/pflanzgraben-ausheben.jpg",
+        "content": "<p>Wenn Sie bestimmt haben, wo die Hecke gepflanzt werden soll, kann mit dem Ausheben des Pflanzgrabens begonnen werden. Für die meisten Buchenhecken ist ein 50 cm breiter und 50 cm tiefer Pflanzgraben ausreichend. Die genaue Größe hängt allerdings von der Größe der Wurzelballen ab. Der Graben sollte mindestens <strong>doppelt so breit<\/strong> wie der Wurzelballen und mindestens so tief sein. Füllen Sie den Pflanzgraben mit einer Mischung aus ausgehobener Erde und <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a> (Verhältnis 2:1) auf. Diese Spezialerde enthält Mykorrhiza-Pilzkulturen, die die Pflanzen für ein gesundes Wachstum benötigen.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "c2b02847-9d94-4824-aaeb-f78a2c0ef470": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "2. Schritt: Pflanzen vorsichtig ausgraben",
+        "image": "shopify:\/\/shop_images\/pflanzen-vorsichtig-ausgraben.jpg",
+        "content": "<p>Wenn der neue Pflanzgraben fertig ist, kann das eigentliche Umpflanzen beginnen. Graben Sie die Pflanzen vorsichtig aus und versuchen Sie dabei, den Wurzelballen nicht zu beschädigen. Je weniger Wurzeln verloren gehen, umso größer ist die Chance, dass die Pflanze das Umsetzen überlebt. Versuchen Sie, wenn möglich, mehrere Pflanzen auf einmal umzupflanzen, sodass die zusammengewachsenen Wurzeln der einzelnen Pflanzen nicht voneinander getrennt werden müssen. Lassen Sie auch möglichst viel Erde an den Wurzelballen. Diese Erde enthält bestimmte Pilzkulturen, die die Buchenhecke für ein gesundes Wachstum benötigt. Wickeln Sie die Wurzelballen für den Transport in einen Jutesack oder ein Ballentuch.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "9c01d441-c1c8-4a5b-a26c-0b6621444b51": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "3. Schritt: Hecke an ihren neuen Standort pflanzen",
+        "image": "shopify:\/\/shop_images\/hecke-an-ihren-neuen-standort-pflanzen.jpg",
+        "content": "<p>Pflanzen Sie die Heckenpflanzen jetzt an ihren neuen Standort. Achten Sie dabei darauf, dass die Wurzeln intakt bleiben. Gelingt es Ihnen nicht, mehrere Pflanzen auf einmal umzusetzen, sollten Sie versuchen, die Wurzeln der einzelnen Pflanzen wieder ineinander zu verflechten, bevor Sie den Graben zuschütten. Dadurch erhöhen sich die Chancen auf einen erfolgreichen Umzug der Hecke.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "d2abc9a2-53c0-4f28-b479-279806438d6b": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "4. Schritt: Bewässern und zuschütten",
+        "image": "shopify:\/\/shop_images\/bewaessern-und-zuschuetten.jpg",
+        "content": "<p>Bewässern Sie die Wurzelballen im Pflanzgraben. Jetzt können Sie den Pflanzgraben zuschütten und die Erde vorsichtig fest treten. Achten Sie darauf, dass Sie die Erde nicht zu fest treten, da dies den Wurzeln schaden könnte. Die Buchenhecke muss sofort nach dem Umpflanzen mit speziellem <a href=\"\/products\/compo-bio-universal-langzeit-duenger-mit-schafwolle\" title=\"COMPO BIO Universal Langzeit-Dünger mit Schafwolle\">Heckendünger<\/a> gedüngt werden. Den restlichen Dünger können Sie im Laufe des Jahres nochmals verwenden. Die Buchenhecke muss nach dem Umsetzen regelmäßig gegossen werden. Gießen Sie aber nicht zu viel auf einmal – das mögen Buchen nämlich gar nicht! Zu viel Wasser macht Buchenhecken anfälliger für Krankheiten und Pilze.<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "65369112-e325-43ca-8137-0677e00d12aa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19971462267229__65369112-e325-43ca-8137-0677e00d12aa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hilfe beim Pflanzen und Umpflanzen von Buchenhecken<\/p>"
+          }
+        },
+        "template--19971462267229__65369112-e325-43ca-8137-0677e00d12aa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie Fragen zum Pflanzen oder Umpflanzen von Buchenhecken haben, nehmen Sie bitte <a href=\"\/pages\/contact\" title=\"Contact\">Kontakt<\/a> mit uns auf. Unsere Pflanzenexpertinnen und -experten stehen Ihnen jederzeit gerne mit hilfreichen Tipps zur Seite, damit Sie möglichst lange Freude an Ihrer schönen Hecke haben!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19971462267229__65369112-e325-43ca-8137-0677e00d12aa-heading-1",
+        "template--19971462267229__65369112-e325-43ca-8137-0677e00d12aa-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "739065f3-8d0c-4792-b724-4f3bd46e07c9": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e86b73c8-7245-4acc-9fed-2e130ac60d10",
+    "94870a58-8060-44ea-a14f-9b057b69ef8b",
+    "c2b02847-9d94-4824-aaeb-f78a2c0ef470",
+    "9c01d441-c1c8-4a5b-a26c-0b6621444b51",
+    "d2abc9a2-53c0-4f28-b479-279806438d6b",
+    "65369112-e325-43ca-8137-0677e00d12aa",
+    "739065f3-8d0c-4792-b724-4f3bd46e07c9"
+  ]
+}

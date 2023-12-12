@@ -366,7 +366,9 @@
                                   {{ value }}
                                     <div class="product-form__input-option--price">
                                       {% for variant in product.variants %}
+                                        
                                         {% if value == variant.title %}
+                                        <span class="sku hidden">{{ variant.sku }}</span>
                                           <s>
                                             {{ variant.compare_at_price | money }}
                                           </s>
@@ -384,6 +386,8 @@
                       {{ product.variants | json }}
                     </script>
                   </variant-radios>
+                  <span class="hidden selected_sku"></span>
+                  <div id="minimum_order_quantity_message"><figure>{%- render 'global-icon' icon: 'exclamation_mark_triangle' %}</figure>Für die gewählte Größe gilt eine Mindestbestellmenge von 5 Stück.</div>
               {%- endunless -%}
               <div class="buy_container--price">
               {% comment %} <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
@@ -421,14 +425,15 @@
                     <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
                     {% render 'icon-minus' %}
                   </button>
-                  <input class="quantity__input"
-                      type="number"
-                      name="quantity"
-                      id="Quantity-{{ section.id }}"
-                      min="1"
-                      value="1"
-                      form="{{ product_form_id }}"
-                    >
+                  <input class="quantity__input quantity__input-min"
+                        type="number"
+                        name="quantity"
+                        id="Quantity-{{ section.id }}"
+                        min="1"
+                        value="1"
+                        form="{{ product_form_id }}"
+                        oninput="checkQuantity()">
+
                   <button class="quantity__button quantity__button--right no-js-hidden" name="plus" type="button">
                     <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
                     {% render 'icon-plus' %}
@@ -454,6 +459,7 @@
                         type="submit"
                         name="add"
                         class="product-form__submit button product-form__buy-btn"
+                        id="add-to-cart-button"
                         {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
                       >
                         {%- render 'global-icon' icon: 'cart'
@@ -559,11 +565,27 @@
                 </div>
                 <div class="shipment-info-container">
                   {% render 'icon-accordion', icon: 'truck' %}
-                  {% if product.metafields.custom.product_inventory != blank %}
-                    {{ product.metafields.custom.product_inventory }}
+
+                  {% assign endNovember = "now" | date: "%m" %}
+                  {% assign endNovemberNumber = endNovember | times: 1 %}
+
+                  {% assign has_weihnachtsbaeume = false %}
+                  {% for tag in product.tags %}
+                    {% if tag == "weihnachtsbaeume" %}
+                      {% assign has_weihnachtsbaeume = true %}
+                    {% endif %}
+                  {% endfor %}
+
+                  {% if has_weihnachtsbaeume and endNovemberNumber < 12 %}
+                    Lieferung Ende November
                   {% else %}
-                    {{ 'products.product.delivery_info' | t }}
+                    {% if product.metafields.custom.product_inventory != blank %}
+                      {{ product.metafields.custom.product_inventory }}
+                    {% else %}
+                      {{ 'products.product.delivery_info' | t }}
+                    {% endif %}
                   {% endif %}
+
                 </div>
               </div>
           {%- when 'description' -%}
@@ -605,13 +627,13 @@
                   <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
                   {% render 'icon-minus' %}
                 </button>
-                <input class="quantity__input"
-                    type="number"
-                    name="quantity"
-                    id="Quantity-{{ section.id }}"
-                    min="1"
-                    value="1"
-                    form="{{ product_form_id }}"
+                  <input class="quantity__input"
+                        type="number"
+                        name="quantity"
+                        id="Quantity-{{ section.id }}"
+                        min="1"
+                        value="1"
+                        form="{{ product_form_id }}"
                   >
                 <button class="quantity__button no-js-hidden" name="plus" type="button">
                   <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
@@ -647,7 +669,7 @@
                           onclick="this.select();"
                           readonly
                     >
-                    <label class="field__label" for="url">{{ 'general.share.share_url' | t }}</label>
+                    <label class="field__label" for="url">{{ 'general.share.share_url' | t }}</label>   
                   </div>
                   <button class="share-button__close hidden no-js-hidden">
                     {% render 'icon-close' %}
@@ -924,11 +946,37 @@
     {%- assign metafield_specificatie_windgevoeligheid = product.metafields.custom.specificatie_windgevoeligheid | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
     {%- assign metafield_boom_bodemtype_voorkeur = product.metafields.custom.boom_bodemtype_voorkeur | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
     {%- assign metafield_boom_winterhard = product.metafields.custom.boom_winterhard | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+
+    {%- assign matefield_geeignet_fur = product.metafields.custom.geeignet_fur | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_material = product.metafields.custom.material | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_farbe = product.metafields.custom.farbe | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_garantie = product.metafields.custom.garantie | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
+    {%- assign metafield_durchmesser = product.metafields.custom.durchmesser | remove: '"' | remove: "[" | remove: "]" | replace: ",", ", " -%}
   {%- endcapture -%}
-  
+
   {%- unless metafields != blank -%}
   <div class="product-specification-container">
-    <div class="h2 product-specification-h2">Produktspezifikationen</div>
+
+    {%- if metafield_geeignet_fur != blank -%}
+      <div class="product-specification"><b>Geeignet für</b> <span>{{ metafield_geeignet_fur }}</span></div>
+    {%- endif -%}
+
+    {%- if metafield_material != blank -%}
+      <div class="product-specification"><b>Material</b> <span>{{ metafield_material }}</span></div>
+    {%- endif -%}
+
+    {%- if metafield_farbe != blank -%}
+      <div class="product-specification"><b>Farbe</b> <span>{{ metafield_farbe }}</span></div>
+    {%- endif -%}
+
+    {%- if metafield_garantie != blank -%}
+      <div class="product-specification"><b>Garantie</b> <span>{{ metafield_garantie }}</span></div>
+    {%- endif -%}
+
+    {%- if metafield_durchmesser != blank -%}
+      <div class="product-specification"><b>Durchmesser</b> <span>{{ metafield_durchmesser }}</span></div>
+    {%- endif -%}
+
     {%- if metafield_standort != blank -%}
       <div class="product-specification"><b>Standort</b> <span>{{ metafield_standort }}</span></div>
     {%- endif -%}
@@ -1038,6 +1086,8 @@
     {%- endif -%}
   </div>
   {%- endunless -%}
+
+
   
 
   </product_description>
@@ -1096,6 +1146,245 @@
     <script src="{{ 'product-model.js' | asset_url }}" defer></script>
   {%- endif -%}
 
+<script>
+  // Find the quantity input element by its class (using both classes)
+  var quantityInput = document.querySelector('.quantity__input-min');
+
+  // Define an array of SKUs that require a minimum quantity of 5
+  var specialSKUs = [
+    'tch-8719325725131',
+    'tch-8719325725155',
+    'tch-8719325725162',
+    'tch-8719325725179',
+    'tch-8719325725186',
+    'tch-8719325725193',
+    'tch-8719325725216',
+    'tch-8719325725230',
+    'tch-8719325725247',
+    'tch-8719325725254',
+    'ful2-Ch.l.GWo;KL;100/125',
+    'ful2-Ch.l.GWo;KL;125/150-S',
+    'ful2-Ch.l.GWo;KL;150/175',
+    'ful2-Ch.l.GWo;KL;175/200-S',
+    'ful2-Ch.l.GWo;KL;200/225-S',
+    'ful2-Th.o.Hol;KL;100/125',
+    'ful2-Th.o.Hol;KL;125/150',
+    'ful2-Th.o.Hol-C-150 - 175 cm',
+    'ful2-Th.o.Hol-C-175 - 200 cm',
+    'ful2-Th.o.Hol-C-200 - 225 cm',
+    'ful2-Th.o.Hol-C-225 - 250 cm',
+    'ful2-Th.o.Hol-C-250 - 300 cm',
+    'ful2-Ch.l.Ivo;KL;100/125',
+    'ful2-Ch.l.Ivo;KL;125/150',
+    'ful2-Ch.l.Ivo;KL;150/175',
+    'ful2-Ch.l.Ivo;KL;175/200',
+    'ful2-Ch.l.Ivo;KL;200/225',
+    'ful2-Ch.l.Col;KL;100/125',
+    'bie-Ch.l.Col;KL;125/150|bkh-S',
+    'ful2-Ch.l.Col;KL;150/175',
+    'ful2-Ch.l.Col;KL;175/200',
+    'ful2-Cu.l.GRi;KL;100/125',
+    'ful2-Cu.l.GRi;KL;125/150|bkh-S',
+    'ful2-Cu.l.GRi-C-150 - 175 cm',
+    'ful2-Cu.l.GRi-C-175 - 200 cm',
+    'ful2-Cu.l.GRi-C-200 - 225 cm',
+    'ful2-Cu.l.GRi-C-225 - 250 cm',
+    'tch-8720663557247',
+    'tch-8720663557254',
+    'tch-8720663557261',
+    'tch-8720663557278',
+    'tch-8720663557285',
+    'ful2-Ch.l.Sta;KL;100/125',
+    'ful2-Ch.l.Sta;KL;125/150',
+    'ful2-Ch.l.Sta;KL;150/175',
+    'ful2-Ch.l.Sta;KL;175/200',
+    'ful2-Ch.l.Sta;KL;200/225',
+    'tch-1-8720663557285',
+    'tch-1-8720663557278',
+    'tch-1-8720663557261',
+    'tch-1-8720663557254',
+    'tch-1-8720663557247',
+    'ful2-Ch.l.WSp;100/125',
+    'ful2-Ch.l.WSp;125/150',
+    'ful2-Ch.l.WSp;150/175-S',
+    'ful2-Ch.l.WSp;175/200-S',
+    'ful2-Ch.l.WSp;200/225-S',
+    'ful2-Th.o.YRi;KL;100/125',
+    'ful2-Th.o.YRi;KL;125/150',
+    'ful2-Th.o.YRi;KL;150/175',
+    'ful2-Th.o.YRi;KL;175/200',
+    'ful2-Th.o.YRi;KL;200/225',
+    'tch-8719325725261',
+    'tch-8719325725278',
+    'tch-8719325725285',
+    'ful2-Ch.l.Ilo;KL;100/125-S',
+    'ful2-Ch.l.Ilo;KL;125/150-S',
+    'ful2-Ch.l.Ilo;KL;150/175',
+    'ful2-Ch.l.Ilo;KL;175/200',
+    'ful2-Ch.l.Ilo;KL;200/225',
+    'ful2-Th.p.Mar;KL;100/125',
+    'ful2-Th.p.Mar;KL;125/150',
+    'ful2-Th.p.Mar;KL;150/175',
+    'ful2-Th.p.Mar;KL;175/200',
+    'ful2-Th.p.Mar;KL;200/225',
+    'ful2-Th.p.Atr;kl;100/125',
+    'ful2-Th.p.Atr;kl;125/150',
+    'ful2-Th.p.Atr;kl;150/175',
+    'ful2-Th.p.Atr;kl;175/200',
+    'ful2-Th.p.Atr;kl;200/225',
+    'ful2-Th.p.Atr;kl;225/250',
+    'ful2-Th.p.Atr;kl;250/300',
+    'ful2-Cu.l.CGo;KL;100/125',
+    'ful2-Cu.l.CGo;KL;125/150',
+    'ful2-Cu.l.CGo;KL;150/175',
+    'ful2-Cu.l.CGo;KL;175/200',
+    'ful2-Cu.l.CGo-C-200 - 225 cm',
+    'ful2-Cu.l.CGo-C-225 - 250 cm',
+    'ful2-Th.o.Fri;KL100/125',
+    'ful2-Th.o.Fri;KL;125/150',
+    'ful2-Th.o.Fri;KL;150/175',
+    'ful2-Th.o.Fri;KL;175/200',
+    'ful2-Th.o.Fri;KL;200/225',
+    'ful2-Th.o.Fri;KL225/250',
+    'ful2-Th.o.Fri;KL250/300',
+    'ful2-Th.p.Gel;kl;100/125',
+    'ful2-Th.p.Gel;kl;125/150',
+    'ful2-Th.p.Gel;kl;150/175',
+    'ful2-Th.p.Gel;kl;175/200',
+    'ful2-Th.p.Gel;kl;200/225',
+    'ful2-Th.p.Gel;kl;225/250',
+    'ful2-Th.p.Gel;kl;250/300',
+    'tch-8719325725421',
+    'tch-8719325725438',
+    'tch-8719325725445',
+    'tch-8719325725452',
+    'tch-8720663554482',
+    'tch-8719325725377',
+    'tch-8719325725384',
+    'tch-8719325725391',
+    'tch-8719325725407',
+    'tch-8719325725476',
+    'tch-8719325725490',
+    'tch-8719325725506',
+    'tch-8719325725513',
+    'tch-8720663555564',
+    'tch-8720663555571',
+    'tch-8720663555588',
+    'ful2-Pr.l.Cau;100/125',
+    'ful2-Pr.l.Cau;125/150',
+    'ful2-Pr.l.Cau;150/175',
+    'ful2-Pr.l.Cau;175/200',
+    'ful2-Pr.l.VNe;KL;100/125|bkh-S',
+    'ful2-Pr.l.Her;KL;100/125',
+    'ful2-Pr.l.Her;KL;125/150',
+    'ful2-Li.Ova-C-150 - 175 cm in pot',
+    'ful2-Li.Ova-C-175 - 200 cm in pot',
+    'ful2-Li.Ova-C-200 - 225 cm in pot',
+    'ful2-Li.Vul-C-150 - 175 cm in pot',
+    'ful2-Li.Vul-C-175 - 200 cm in pot',
+    'ful2-Li.Vul-C-200 - 225 cm in pot',
+    'bie-Car.bet;175-200',
+    'bie-Car.bet;200-225',
+    'ful2-Car.bet-C-225 - 250 cm',
+    'bie-Fa.s.Atr;175-200',
+    'ful2-Fa.s.Atr-C-200 - 225 cm',
+    'ful2-Fa.s.Atr-C-225 - 250 cm',
+    'bie-Fag.syl;150-175',
+    'bie-Fag.syl;175-200',
+    'bie-Fag.syl;200-225',
+    'tch-8719325725322',
+    'tch-8720174424601',
+    'tch-8720174424618',
+    'bie-Il.aqu;KL;100/125-S',
+    'bie-Il.aqu;KL;125/150-S',
+    'bie-Il.aqu;KL;150/175-S',
+    'bie-Il.aqu-C-175 - 200 cm',
+    'bie-Bux.sem-C-80 - 100 cm in pot'
+  ];
+
+  // Define a variable to hold the selected SKU
+  var selectedSKU = '';
+
+  // Find the submit button by its class
+  var addToCartButton = document.querySelector('.product-form__buy-btn');
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Find all radio inputs within the product-form__input-option divs
+    var radioInputs = document.querySelectorAll('.product-form__input-option input[type="radio"]');
+    var selectedSKUSpan = document.querySelector('.selected_sku');
+
+    // Function to update the SKU based on the selected radio input
+    function updateSKU() {
+      // Find the selected radio input
+      var selectedInput = document.querySelector('.product-form__input-option input[type="radio"]:checked');
+
+      if (selectedInput) {
+        // Get the selected option's SKU from the closest '.product-form__input-option' div
+        selectedSKU = selectedInput.closest('.product-form__input-option').querySelector('.sku').textContent.trim();
+
+        // Update the content of the selected_sku span with SKU
+        selectedSKUSpan.textContent = selectedSKU;
+
+        // Check if the selected SKU is in the specialSKUs array
+        if (specialSKUs.includes(selectedSKU)) {
+          // Set the minimum quantity to 5
+          quantityInput.setAttribute('min', '5');
+          quantityInput.value = '5'; // Set the initial quantity to 5 for these SKUs
+          document.getElementById("minimum_order_quantity_message").style.display = "flex";
+        } else {
+          // Reset the minimum quantity to 1 for other SKUs
+          quantityInput.setAttribute('min', '1');
+          quantityInput.value = '1'; // Set the initial quantity to 1 for other SKUs
+          document.getElementById("minimum_order_quantity_message").style.display = "none";
+        }
+      } else {
+        // Clear the content if no option is selected
+        selectedSKUSpan.textContent = '';
+        quantityInput.value = ''; // Reset quantity input when no option is selected
+      }
+    }
+
+    // Function to update the button state based on SKU and quantity
+    function updateButtonState() {
+      if (specialSKUs.includes(selectedSKU) && parseInt(quantityInput.value) < 5 && parseInt(quantityInput.value) > 0) {
+        // Disable the button if special SKU and quantity less than 5
+        addToCartButton.setAttribute('disabled', 'true');
+      } else {
+        // Enable the button for other cases
+        addToCartButton.removeAttribute('disabled');
+      }
+    }
+
+    // Add event listeners to radio inputs
+    radioInputs.forEach(function (input) {
+      input.addEventListener("change", function () {
+        updateSKU();
+        updateButtonState();
+      });
+    });
+
+    // Initial update when the page loads
+    updateSKU();
+    updateButtonState();
+  });
+
+  // Function to handle input event on the quantity input
+  function checkQuantity() {
+    var inputValue = parseInt(quantityInput.value);
+
+    if (specialSKUs.includes(selectedSKU)) {
+      if (inputValue < 5 && inputValue > 0) {
+        // Disable the button if special SKU and quantity less than 5
+        addToCartButton.setAttribute('disabled', 'true');
+      } else {
+        // Enable the button for other cases
+        addToCartButton.removeAttribute('disabled');
+      }
+    }
+  }
+</script> 
+
+
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       function isIE() {
@@ -1141,56 +1430,9 @@
     }
   </script>
 
-  {%- liquid
-    if product.selected_or_first_available_variant.featured_media
-      assign seo_media = product.selected_or_first_available_variant.featured_media
-    else
-      assign seo_media = product.featured_media
-    endif
-  -%}
 
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org/",
-      "@type": "Product",
-      "name": {{ product.title | json }},
-      "url": {{ request.origin | append: product.url | json }},
-      {% if seo_media -%}
-        "image": [
-          {{ seo_media | image_url: width: seo_media.preview_image.width | prepend: "https:" | json }}
-        ],
-      {%- endif %}
-      "description": {{ product.description | strip_html | json }},
-      {% if product.selected_or_first_available_variant.sku != blank -%}
-        "sku": {{ product.selected_or_first_available_variant.sku | json }},
-      {%- endif %}
-      "offers": [
-        {%- for variant in product.variants -%}
-          {
-            "@type" : "Offer",
-            {%- if variant.sku != blank -%}
-              "sku": {{ variant.sku | json }},
-            {%- endif -%}
-            {%- if variant.barcode.size == 12 -%}
-              "gtin12": {{ variant.barcode }},
-            {%- endif -%}
-            {%- if variant.barcode.size == 13 -%}
-              "gtin13": {{ variant.barcode }},
-            {%- endif -%}
-            {%- if variant.barcode.size == 14 -%}
-              "gtin14": {{ variant.barcode }},
-            {%- endif -%}
-            "availability" : "http://schema.org/{% if variant.available %}InStock{% else %}OutOfStock{% endif %}",
-            "price" : {{ variant.price | divided_by: 100.00 | json }},
-            "priceCurrency" : {{ cart.currency.iso_code | json }},
-            "url" : {{ request.origin | append: variant.url | json }}
-          }{% unless forloop.last %},{% endunless %}
-        {%- endfor -%}
-      ]
-    }
-  </script>
+
 </section>
-
 {% schema %}
 {
   "name": "t:sections.main-product.name",

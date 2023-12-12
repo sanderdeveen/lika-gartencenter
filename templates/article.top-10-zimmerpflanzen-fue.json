@@ -55,10 +55,10 @@
             "text": "<h2>Unsere Liste der Zimmerpflanzen, die wenig Licht brauchen<\/h2>"
           }
         },
-        "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-heading-1": {
-          "type": "heading",
+        "bf36b6d7-090b-4d73-b9ca-1546f87870a0": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Schwertfarn<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Schwertfarn<\/h>"
           }
         },
         "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-text-1": {
@@ -71,7 +71,7 @@
       "block_order": [
         "c6ef662a-bf69-4858-9cf6-dd7eb224efd6",
         "8a899626-acd4-478a-9456-59ef2e66956a",
-        "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-heading-1",
+        "bf36b6d7-090b-4d73-b9ca-1546f87870a0",
         "template--19872159039837__74025a75-3918-4be5-bb45-d3335fed70bf-text-1"
       ],
       "settings": {
@@ -116,10 +116,10 @@
     "6e6d4852-8137-4ce7-89ec-02a35cabd935": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-heading-1": {
-          "type": "heading",
+        "eeb5c948-ecab-4b3e-b01a-19fc3a77f0c3": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Monstera<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Monstera<\/h>"
           }
         },
         "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-text-1": {
@@ -130,7 +130,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-heading-1",
+        "eeb5c948-ecab-4b3e-b01a-19fc3a77f0c3",
         "template--19872159039837__6e6d4852-8137-4ce7-89ec-02a35cabd935-text-1"
       ],
       "settings": {
@@ -168,10 +168,10 @@
     "c624f7b6-0111-4725-9de5-643082e65dc6": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-heading-1": {
-          "type": "heading",
+        "7672c58f-b7f2-41a0-a142-5634b6557acc": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Philodendron<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Philodendron<\/h>"
           }
         },
         "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-text-1": {
@@ -182,7 +182,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-heading-1",
+        "7672c58f-b7f2-41a0-a142-5634b6557acc",
         "template--19872159039837__c624f7b6-0111-4725-9de5-643082e65dc6-text-1"
       ],
       "settings": {
@@ -220,10 +220,10 @@
     "9637d49b-5929-4a65-a1fe-c89ed1262bf5": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-heading-1": {
-          "type": "heading",
+        "4ebfd448-3d14-4fd3-ac66-aca9e7ef89b4": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Flamingoblume<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Flamingoblume<\/h>"
           }
         },
         "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-text-1": {
@@ -234,7 +234,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-heading-1",
+        "4ebfd448-3d14-4fd3-ac66-aca9e7ef89b4",
         "template--19872159039837__9637d49b-5929-4a65-a1fe-c89ed1262bf5-text-1"
       ],
       "settings": {
@@ -272,10 +272,10 @@
     "1fe2411c-460d-4619-9b62-ac60b7d32ff8": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-heading-1": {
-          "type": "heading",
+        "09460792-9256-4f3c-8fbc-334b29fd9151": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Korbmarante<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Korbmarante<\/h>"
           }
         },
         "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-text-1": {
@@ -286,7 +286,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-heading-1",
+        "09460792-9256-4f3c-8fbc-334b29fd9151",
         "template--19872159039837__1fe2411c-460d-4619-9b62-ac60b7d32ff8-text-1"
       ],
       "settings": {
@@ -324,10 +324,10 @@
     "ace21b23-3a95-4dbb-8ea9-ef127642ab10": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-heading-1": {
-          "type": "heading",
+        "099588ff-cccd-43b1-afe2-c6d966557050": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Yucca<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Yucca<\/h>"
           }
         },
         "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-text-1": {
@@ -338,7 +338,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-heading-1",
+        "099588ff-cccd-43b1-afe2-c6d966557050",
         "template--19872159039837__ace21b23-3a95-4dbb-8ea9-ef127642ab10-text-1"
       ],
       "settings": {
@@ -376,10 +376,10 @@
     "e5a01037-2189-4f1d-b25b-90ea8bc7585c": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-heading-1": {
-          "type": "heading",
+        "8b3a3216-6bc0-4019-be9b-0185f2d89d56": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Bogenhanf<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Bogenhanf<\/h>"
           }
         },
         "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-text-1": {
@@ -390,7 +390,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-heading-1",
+        "8b3a3216-6bc0-4019-be9b-0185f2d89d56",
         "template--19872159039837__e5a01037-2189-4f1d-b25b-90ea8bc7585c-text-1"
       ],
       "settings": {
@@ -428,10 +428,10 @@
     "bb255599-f652-424a-a51b-4f6fb19c1bc3": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-heading-1": {
-          "type": "heading",
+        "5a832d97-4f73-4bbc-b187-85f1c1c9a2c2": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Einblatt<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Einblatt<\/h>"
           }
         },
         "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-text-1": {
@@ -442,7 +442,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-heading-1",
+        "5a832d97-4f73-4bbc-b187-85f1c1c9a2c2",
         "template--19872159039837__bb255599-f652-424a-a51b-4f6fb19c1bc3-text-1"
       ],
       "settings": {
@@ -480,10 +480,10 @@
     "114398d1-f746-4d3d-93ae-9fdf5a7383ef": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-heading-1": {
-          "type": "heading",
+        "4b5f40bc-d89b-4589-a813-085cf21bdfb8": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Kentiapalme<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Kentiapalme<\/h>"
           }
         },
         "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-text-1": {
@@ -494,7 +494,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-heading-1",
+        "4b5f40bc-d89b-4589-a813-085cf21bdfb8",
         "template--19872159039837__114398d1-f746-4d3d-93ae-9fdf5a7383ef-text-1"
       ],
       "settings": {
@@ -532,10 +532,10 @@
     "60dcb534-d0a3-48de-b04d-2ed72a811c4a": {
       "type": "rich-text",
       "blocks": {
-        "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-heading-1": {
-          "type": "heading",
+        "48d48e7c-4cad-4967-ad70-90e781f803e4": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Steckenpalme<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Steckenpalme<\/h>"
           }
         },
         "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-text-1": {
@@ -546,7 +546,7 @@
         }
       },
       "block_order": [
-        "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-heading-1",
+        "48d48e7c-4cad-4967-ad70-90e781f803e4",
         "template--19872159039837__60dcb534-d0a3-48de-b04d-2ed72a811c4a-text-1"
       ],
       "settings": {

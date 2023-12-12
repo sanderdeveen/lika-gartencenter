@@ -1,0 +1,361 @@
+{
+  "sections": {
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6": {
+      "type": "usp",
+      "blocks": {
+        "ea490bcc-4100-41dc-af19-89aaa8833100": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Schnelle Lieferung in ganz Deutschland"
+          }
+        },
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Über 5.000 Gartenprodukte"
+          }
+        },
+        "7c5e24de-4820-48b4-844e-f6f14fc68570": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Kunden geben Gartencenter.de eine 4,4\/5"
+          }
+        },
+        "0dd175ac-de4b-4957-9831-28abb586ac8b": {
+          "type": "desk_usp",
+          "settings": {
+            "desk-usp": "Seit 2009 aktiv in den Niederlanden"
+          }
+        },
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "none",
+            "heading": "",
+            "text": "<p>Warum noch ins Gartencenter fahren, wenn das Gartencenter auch zu Ihnen kommen kann? Bei Gartencenter.de bestellen Sie von der Topfpflanze bis zum Traumgarten.<\/p>"
+          }
+        },
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Schnelle lieferung",
+            "text": "<p>In ganz Deutschland bis an die Haustür geliefert.<\/p>"
+          }
+        },
+        "cce883a8-8db5-492b-8efc-476791039b8e": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Umfangreicher Käuferschutz",
+            "text": "<p>Beste Qualität aus Holland, schonend verpackt und Unterstützung und Beratung auch nach dem Kauf.<\/p>"
+          }
+        },
+        "10204865-3d13-4214-bacb-ca54a72bfe88": {
+          "type": "mob_info",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Kontakt",
+            "text": "<p>Benötigen Sie Hilfe? Telefonischer Kontakt (Mo - Fr 09:00 - 17:00). Kontakt per Chat. Während der Bürozeiten. Kontakt per E-Mail. Antwort innerhalb eines Werktag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ea490bcc-4100-41dc-af19-89aaa8833100",
+        "1975a19a-f84a-42ba-83b0-5661d52f65ac",
+        "7c5e24de-4820-48b4-844e-f6f14fc68570",
+        "0dd175ac-de4b-4957-9831-28abb586ac8b",
+        "template--15760788390068__c98a9e16-53f7-4c4f-bde3-90d383a71cc6-1666785370c7b94189-0",
+        "1153ec66-65aa-4c07-aaa1-518d6c0dbebe",
+        "cce883a8-8db5-492b-8efc-476791039b8e",
+        "10204865-3d13-4214-bacb-ca54a72bfe88"
+      ],
+      "settings": {
+        "mobile-heading": "Pflanzen, Bäume & mehr mit schneller Lieferung"
+      }
+    },
+    "16636997769ffcaf8a": {
+      "type": "breadcrumbs",
+      "blocks": {
+        "0a3f02e8-64f6-48d7-b370-a1216ddb657a": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
+          }
+        },
+        "5860303b-bd94-4b42-b3a3-de28689f954c": {
+          "type": "breadcrumb_link",
+          "settings": {
+            "breadcrumb_text": "Bambus",
+            "breadcrumb_link": "shopify:\/\/collections\/bambus"
+          }
+        }
+      },
+      "block_order": [
+        "0a3f02e8-64f6-48d7-b370-a1216ddb657a",
+        "5860303b-bd94-4b42-b3a3-de28689f954c"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_home_link": true,
+        "show_tagged_link": true,
+        "show_non_link": true,
+        "hide_on_mobile": false,
+        "alignment": "left"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "top_sellers": "Topseller winterharter Bambus",
+        "featured_product_one": "nicht-wuchernder-bambus-moontears",
+        "featured_product_two": "nicht-wuchernder-bambus-obelisk",
+        "featured_product_three": "wuchernder-schwarzer-bambus",
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "collection_columns_desktop": 6,
+        "show_usp": true,
+        "usp_1": "Kein dreckiges Auto",
+        "usp_2": "Hilfe vor und nach dem Kauf",
+        "usp_3": "Lieferung deutschlandweit",
+        "show_sale_banner": false,
+        "sale_banner_location": 6,
+        "bg_color": "brand-1",
+        "url_banner": "",
+        "banner_text": "",
+        "color": "black",
+        "image_ratio": "adapt",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "bc080dc3-9863-4e3d-9768-adc671b36512": {
+      "type": "faq",
+      "blocks": {
+        "template--20140849430877__bc080dc3-9863-4e3d-9768-adc671b36512-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Bambuspflanze ist winterhart?",
+            "custom_liquid_1": "",
+            "content": "<p>Unsere Bambusarten sind alle gut winterhart. Die meisten Bambuspflanzen überleben Temperaturen bis weit unter -20 °C. Bei strengen Frösten können sich die Blätter vorübergehend einrollen und verfärben. Keine Sorge, die Pflanze erholt sich im Frühjahr und treibt wieder grün aus.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "658352a4-19a5-4efa-9d83-df4c39c55877": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welcher Bambus bleibt im Winter grün?",
+            "custom_liquid_1": "",
+            "content": "<p>Alle unsere Bambuspflanzen bleiben im Winter grün. Bei strengen Frösten können sich die Blätter leicht einrollen und verfärben. Auf diese Weise schützt sich die Pflanze vor dem Austrocknen, verliert aber vorübergehend die Schönheit. Zum Glück erholt sich die Pflanze im Frühjahr und wird dann wieder schön grün.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "5f4c2eea-489a-4cbc-87c2-ca7d326d5f64": {
+          "type": "faq",
+          "settings": {
+            "heading": "Winterharter Bambus in Kübeln oder in der Gartenerde?",
+            "custom_liquid_1": "",
+            "content": "<p>Winterharter Bambus kann sowohl in Pflanzgefäßen als auch im Freien gepflanzt werden. Denken Sie daran, dass bei sehr strengem Frost die Wurzeln eines <a href=\"\/collections\/bambus-im-pflanzkuebel\" title=\"Bambus im Pflanzkübel\">Kübelbambus<\/a> schneller erfrieren. In diesem Fall kann der Bambus kein Wasser mehr aufnehmen, wodurch die Pflanze austrocknet. Packen Sie den Bambus gegebenenfalls bei sehr niedrigen Temperaturen ein oder stellen Sie ihn vorübergehend an einen geschützteren Platz.<\/p>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20140849430877__bc080dc3-9863-4e3d-9768-adc671b36512-faq-1",
+        "658352a4-19a5-4efa-9d83-df4c39c55877",
+        "5f4c2eea-489a-4cbc-87c2-ca7d326d5f64"
+      ],
+      "settings": {
+        "heading": "Die am häufigsten gestellten Fragen über winterharten Bambus"
+      }
+    },
+    "c8df7a65-9100-4311-8253-7ce30c68a111": {
+      "type": "rich-text",
+      "blocks": {
+        "161d578b-4796-4ef4-84c2-2ae39b91cc05": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/bambus-gruen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "template--20140849430877__c8df7a65-9100-4311-8253-7ce30c68a111-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pflege für winterharten Bambus"
+          }
+        },
+        "template--20140849430877__c8df7a65-9100-4311-8253-7ce30c68a111-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bambus ist blatthaltend und daher immergrün. Ideal für das gewisse Extra an Grün in Ihrem winterlichen Garten. Bambus ist außerdem sehr robust und widerstandsfähig gegenüber den Temperaturen in unseren 'gemäßigten' Wintern. Temperaturen zwischen -15 °C und -20 °C sind völlig ausreichend. Allerdings ist Bambus etwas empfindlich gegenüber Frostschäden. Das ist kein Grund zur Beunruhigung, aber die Blätter rollen sich leicht ein und verfärben sich bei stärkerem Frost. Um ein unansehnliches Laub zu vermeiden, sollten Sie den Bambus bei Frost und eisigem Wind in ein Winterschutzvlies einpacken.<\/p><p>Hat Ihr Bambus nach dem Winter trotz Vorsorge einige Schäden davongetragen? Sind beispielsweise einige Blätter verloren gegangen und\/oder sind die Halme verdorrt? Dann <a href=\"\/blogs\/ratgeber\/bambusschnitt-9-tipps-fuer-den-bambusschnitt-und-die-bambuspflege\" title=\"Bambusschnitt: 9 Tipps für den Bambusschnitt und die Bambuspflege\">schneiden Sie die Bambuspflanze<\/a> bis zum Boden zurück und im Frühjahr treibt sie dann wieder aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "161d578b-4796-4ef4-84c2-2ae39b91cc05",
+        "template--20140849430877__c8df7a65-9100-4311-8253-7ce30c68a111-heading-1",
+        "template--20140849430877__c8df7a65-9100-4311-8253-7ce30c68a111-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "302359b2-e1c6-430f-9e5a-7d68bf48cb7d": {
+      "type": "product-bestsellers",
+      "blocks": {
+        "template--20140849430877__302359b2-e1c6-430f-9e5a-7d68bf48cb7d-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "Bambus direkt aus der Gärtnerei"
+          }
+        },
+        "445defed-3687-4614-a639-29cee5ecfd1c": {
+          "type": "usp",
+          "settings": {
+            "usp": "Sichere Bezahlung, auch nach dem Kauf"
+          }
+        },
+        "7b4178e3-cb86-41c0-bda4-43eddcf91dd4": {
+          "type": "usp",
+          "settings": {
+            "usp": "Lieferung in ganz Deutschland"
+          }
+        },
+        "template--20140849430877__302359b2-e1c6-430f-9e5a-7d68bf48cb7d-product_selection-1": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-rufa",
+            "enable_quick_add": true
+          }
+        },
+        "3929f9e6-49a3-428e-8ee1-0abe65e8d38c": {
+          "type": "product_selection",
+          "settings": {
+            "product": "nicht-wuchernder-bambus-jiuzhaigou",
+            "enable_quick_add": true
+          }
+        },
+        "ccbc0b7e-6b06-4f72-91fd-574e699c8d3b": {
+          "type": "product_selection",
+          "settings": {
+            "product": "wuchernder-schwarzer-bambus",
+            "enable_quick_add": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20140849430877__302359b2-e1c6-430f-9e5a-7d68bf48cb7d-usp-1",
+        "445defed-3687-4614-a639-29cee5ecfd1c",
+        "7b4178e3-cb86-41c0-bda4-43eddcf91dd4",
+        "template--20140849430877__302359b2-e1c6-430f-9e5a-7d68bf48cb7d-product_selection-1",
+        "3929f9e6-49a3-428e-8ee1-0abe65e8d38c",
+        "ccbc0b7e-6b06-4f72-91fd-574e699c8d3b"
+      ],
+      "settings": {
+        "heading": "Winterharte Bambus-Bestseller",
+        "text": ""
+      }
+    },
+    "a3fead0d-f86e-4b12-b2ad-04105b757c11": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20140849430877__a3fead0d-f86e-4b12-b2ad-04105b757c11-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ihren winterharten Bambus düngen"
+          }
+        },
+        "template--20140849430877__a3fead0d-f86e-4b12-b2ad-04105b757c11-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Damit die Pflanze gut gedeiht und den kalten Winter übersteht, empfehlen wir den <a href=\"\/products\/compo-bambus-ziergraeser-langzeit-duenger\" title=\"COMPO Bambus & Ziergräser Langzeit-Dünger\">COMPO Bambus und Ziergräser Langzeit-Dünger<\/a>. Geben Sie Ihren Bambus zweimal im Jahr Dünger (im zeitigen Frühjahr und im Sommer), um ein optimales Wachstum zu erzielen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20140849430877__a3fead0d-f86e-4b12-b2ad-04105b757c11-heading-1",
+        "template--20140849430877__a3fead0d-f86e-4b12-b2ad-04105b757c11-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
+      "type": "rating",
+      "settings": {
+      }
+    },
+    "65e6bb14-9d81-47ff-894a-fb634c9b2619": {
+      "type": "services",
+      "blocks": {
+        "template--15760788390068__65e6bb14-9d81-47ff-894a-fb634c9b2619-1666858280be667ffe-0": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kleine-box-gartencenter.png",
+            "text": "Kleine Box"
+          }
+        },
+        "71b881f3-5175-4a32-a4a5-0db25cb5a1e2": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grosse-box-gartencenter.png",
+            "text": "Große Box"
+          }
+        },
+        "febf000e-a169-4e2c-b5e2-dd549d2d7f16": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palette-bestellung-gartencenter.png",
+            "text": "Palette"
+          }
+        },
+        "9dbe42b9-12b1-40e3-a6c2-f2aa1b758228": {
+          "type": "service",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lkw-gartencenter.png",
+            "text": "LKW"
+          }
+        }
+      },
+      "block_order": [
+        "template--15760788390068__65e6bb14-9d81-47ff-894a-fb634c9b2619-1666858280be667ffe-0",
+        "71b881f3-5175-4a32-a4a5-0db25cb5a1e2",
+        "febf000e-a169-4e2c-b5e2-dd549d2d7f16",
+        "9dbe42b9-12b1-40e3-a6c2-f2aa1b758228"
+      ],
+      "settings": {
+        "heading": "So liefern wir Ihre Bestellung"
+      }
+    }
+  },
+  "order": [
+    "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
+    "16636997769ffcaf8a",
+    "banner",
+    "product-grid",
+    "bc080dc3-9863-4e3d-9768-adc671b36512",
+    "c8df7a65-9100-4311-8253-7ce30c68a111",
+    "302359b2-e1c6-430f-9e5a-7d68bf48cb7d",
+    "a3fead0d-f86e-4b12-b2ad-04105b757c11",
+    "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
+    "65e6bb14-9d81-47ff-894a-fb634c9b2619"
+  ]
+}

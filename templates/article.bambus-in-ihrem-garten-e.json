@@ -286,10 +286,10 @@
             "columns_desktop": 1
           }
         },
-        "9f03ee1b-98cf-4de2-b59e-8193855ce4a6": {
-          "type": "heading",
+        "8a0bd6c3-7bfe-4a8e-8333-11ecfdb382f5": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h2>Welche Bambusart eignet sich für Ihren Garten?<\/h2>"
+            "custom_liquid": "<h2 class=\"h3\">Welche Bambusart eignet sich für Ihren Garten?<\/h2>"
           }
         },
         "b14fb4da-7a29-49e1-b1e8-e4d8ab9d65e2": {
@@ -306,7 +306,7 @@
         "d1d3e719-9e64-4a7f-acd1-f1a7ad4366d7",
         "a6a6e765-d726-4e5e-bb74-c6a28c3fafda",
         "995f2f21-a661-4d99-a7d3-8fe98cecc10a",
-        "9f03ee1b-98cf-4de2-b59e-8193855ce4a6",
+        "8a0bd6c3-7bfe-4a8e-8333-11ecfdb382f5",
         "b14fb4da-7a29-49e1-b1e8-e4d8ab9d65e2"
       ],
       "settings": {

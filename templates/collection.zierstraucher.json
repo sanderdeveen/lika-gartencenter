@@ -159,6 +159,14 @@
             "image": "shopify:\/\/shop_images\/rosen.jpg",
             "header": "Rosen"
           }
+        },
+        "bfb8d667-9daa-427c-bc41-c330a5ed34eb": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/heidekrautgewaechse",
+            "image": "shopify:\/\/shop_images\/erica-heidekrautgewaechse.jpg",
+            "header": "Heidekraut-gewächse"
+          }
         }
       },
       "block_order": [
@@ -167,7 +175,8 @@
         "259f95d0-031b-481b-a58b-31bc94849285",
         "23c966c2-e802-465a-b22c-96c8052a3fc7",
         "d3771385-c8a6-472b-9445-1b3c10777303",
-        "89abb389-5cc7-4663-98b8-d820d1c6940c"
+        "89abb389-5cc7-4663-98b8-d820d1c6940c",
+        "bfb8d667-9daa-427c-bc41-c330a5ed34eb"
       ],
       "settings": {
         "header": "Wir beraten Sie gerne bei der Auswahl der richtigen Sträucher",

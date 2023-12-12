@@ -1,0 +1,694 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "2e34a86b-7158-460d-8ddc-a1f1aece2fa7": {
+      "type": "rich-text",
+      "blocks": {
+        "ee141654-1c57-443b-81c9-263b1e078b8a": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/das-anlegen-einer-fertighecke.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "743bf50a-d417-400a-b459-b3beceb455b0": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Der richtige Boden für Ihre Fertighecke\n<\/h>"
+          }
+        },
+        "57f68b88-6fd5-4ad3-9019-f861d0813d75": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verständlicherweise interessiert einen beim Pflanzen einer Hecke vor allem das, was sich oberhalb der Erde abspielt. Dabei ist es mindestens genauso wichtig, sich mit den Wurzeln und der Art und Weise des Pflanzens auseinanderzusetzen.<\/p><p>Was nämlich oft vergessen wird, ist, dass Pflanzen unterirdisch genauso stark wachsen wie oberirdisch. Das bedeutet,<strong> dass die Wurzeln genauso viel Platz benötigen<\/strong> wie die Hecke selbst. Deshalb ist es wichtig, den Pflanzgraben von eventuellen Hindernissen (Schutt, Beton) zu befreien, damit sich die Wurzeln ungehindert ausbreiten können. Eine Hecke, deren Wurzeln sich nicht ausbreiten können, wird in Ihrem Wachstum gehemmt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ee141654-1c57-443b-81c9-263b1e078b8a",
+        "743bf50a-d417-400a-b459-b3beceb455b0",
+        "57f68b88-6fd5-4ad3-9019-f861d0813d75"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e760cd04-0b94-4fe4-8f83-d21d75e3e7d7": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Überprüfen Sie die Pflanzstelle, bevor Sie die Fertighecke pflanzen. Achten Sie darauf, dass die Hecke nicht an der tiefsten, aber auch nicht an der höchsten Stelle im Garten gepflanzt wird. Ersteres kann für „nasse Füße“ sorgen, da sich Regenwasser immer an der tiefsten Stelle ansammelt. Wenn die Hecke an der höchsten Stelle gepflanzt wird, fließt das Wasser ab und bekommen die Wurzeln nicht genug Wasser. Die richtige Be- oder Entwässerung des Bodens ist ein entscheidender Faktor beim Pflanzen von Hecken.<\/p>"
+      }
+    },
+    "474e3ff0-4f0c-48d3-97e9-9844e8dd57d0": {
+      "type": "rich-text",
+      "blocks": {
+        "e38693dc-0a47-43e4-9b47-62805b55f722": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/gepflanzte-fertighecke.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "fc36a33b-ff64-4ffb-82ed-862bdd9a5152": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Bestimmen Sie die Länge Ihrer Fertighecke<\/h>"
+          }
+        },
+        "1dd88a9b-7f1e-4666-a958-6d7f40dc53a4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie einmal wissen, wo die Hecke gepflanzt werden soll, können Sie die exakte Länge ermitteln. Unsere Fertighecken sind 120 cm breit und (je nach Pflanzenart) in verschiedenen Höhen, von 100 bis 300 cm, erhältlich. Die angegebene Höhe ist immer die fertige Höhe nach dem Pflanzen, da der <strong>biologisch abbaubare Kokostopf<\/strong> mit eingepflanzt und im Boden versenkt wird.<\/p><p>Die Pfosten, an denen die Heckenelemente befestigt werden, werden im Abstand von 125 cm bis maximal 130 cm in den Boden geschlagen. Dabei muss selbstverständlich auch die Breite der Holzpfosten (59 mm) oder Metallpfosten (48 mm) berücksichtigt werden. Auf diese Weise können Sie selbst berechnen, wie viele Heckenelemente Sie benötigen.<\/p>"
+          }
+        },
+        "e633214a-117d-4fcf-a3cd-fef0b0e49807": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Unsere Tipps:\n<\/h>"
+          }
+        },
+        "475a150d-1211-4001-8b89-1311ecb4a39d": {
+          "type": "check_list",
+          "settings": {
+            "check_list": "<p>- Heben Sie den Pflanzgraben großzügig aus und entfernen Sie eventuelle Hindernisse, damit die Wurzeln <strong>genügend Platz<\/strong> zum Wachsen haben.*<\/p><p>- Sorgen Sie für eine gute Entwässerung des Pflanzgrabens und legen Sie eventuell eine Drainage an, falls die Hecke an der tiefsten Stelle im Garten gepflanzt werden soll.*<\/p><p>- Bei Fertighecken, die an der höchsten Stelle im Garten oder in Pflanzgefäße gepflanzt werden, trocknen die Wurzeln schneller aus und empfehlen wir Ihnen, einen Bewässerungsschlauch zu verlegen. Verlegen Sie den Bewässerungsschlauch im ersten Jahr unter der Erde (direkt auf den biologisch abbaubaren Kokostöpfen). Sobald die Heckenpflanzen gut eingewurzelt sind, kann der Bewässerungsschlauch nach oben verlegt werden.*<\/p>"
+          }
+        },
+        "20cbcd30-04c6-48e8-a4ff-a1f7817010fa": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/fertighecke-im-vorgarten.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "815626f8-cb86-4538-84cc-4d41b5d74dc3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schritt-für-Schritt-Anleitung – so pflanzen Sie Ihre Fertighecke"
+          }
+        },
+        "8627a35e-0f62-4829-ad3f-e332beef9233": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So, Sie wissen jetzt, wo die Hecke gepflanzt werden soll, haben alles bestellt und nach Hause geliefert bekommen. Es kann also losgehen! Folgen Sie einfach unserer praktischen Schritt-für-Schritt-Anleitung zum Pflanzen von Fertighecken.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "e38693dc-0a47-43e4-9b47-62805b55f722",
+        "fc36a33b-ff64-4ffb-82ed-862bdd9a5152",
+        "1dd88a9b-7f1e-4666-a958-6d7f40dc53a4",
+        "e633214a-117d-4fcf-a3cd-fef0b0e49807",
+        "475a150d-1211-4001-8b89-1311ecb4a39d",
+        "20cbcd30-04c6-48e8-a4ff-a1f7817010fa",
+        "815626f8-cb86-4538-84cc-4d41b5d74dc3",
+        "8627a35e-0f62-4829-ad3f-e332beef9233"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "c70bce9e-262a-4e91-9515-40f453897739": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__c70bce9e-262a-4e91-9515-40f453897739-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "1. Schritt: Pflanzgraben ausheben",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__c70bce9e-262a-4e91-9515-40f453897739-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heben Sie einen 40 cm breiten und 40 cm tiefen Pflanzgraben aus. Achten Sie darauf, dass die Wurzeln genügend Platz haben, sich auszubreiten. Entfernen Sie eventuelle Hindernisse wie Schutt und Steine. Lockern Sie die Erde gründlich auf.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__c70bce9e-262a-4e91-9515-40f453897739-heading-1",
+        "template--20008375746909__c70bce9e-262a-4e91-9515-40f453897739-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-schritt-pflanzgraben-ausheben.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    },
+    "587f411b-dcf4-4f70-bfbc-105013bdcd04": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__587f411b-dcf4-4f70-bfbc-105013bdcd04-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "2. Schritt: Richtschnur spannen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__587f411b-dcf4-4f70-bfbc-105013bdcd04-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stecken Sie am Anfang und Ende des Grabens eine Pfahl in den Boden und spannen Sie eine Richtschnur.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__587f411b-dcf4-4f70-bfbc-105013bdcd04-heading-1",
+        "template--20008375746909__587f411b-dcf4-4f70-bfbc-105013bdcd04-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fertighecke-pflanzen-schritt-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "fd160c31-d97f-4e1b-8655-7c43ac5e3046": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__fd160c31-d97f-4e1b-8655-7c43ac5e3046-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "3. Schritt: Pfosten einschlagen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__fd160c31-d97f-4e1b-8655-7c43ac5e3046-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jedes Heckenelement muss an zwei Pfosten befestigt werden. Schlagen Sie die Pfosten im Abstand von je 125 cm in den Boden, sodass jeweils ein Heckenelement zwischen zwei Pfosten passt.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__fd160c31-d97f-4e1b-8655-7c43ac5e3046-heading-1",
+        "template--20008375746909__fd160c31-d97f-4e1b-8655-7c43ac5e3046-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-3-pfosten-einschlagen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "67ae76fe-717c-41db-af26-15e763081b89": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__67ae76fe-717c-41db-af26-15e763081b89-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "4. Schritt: Löcher für Montagehalter vorbohren",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__67ae76fe-717c-41db-af26-15e763081b89-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bohren Sie die Löcher für die Montagehalter mit einem 6-mm-Bohrer für die M8-Sechskantschrauben vor. Die <strong>verzinkten Halter<\/strong> wurden eigens zur Montage an den Hartholz-Pfosten entwickelt. Die <strong>pulverbeschichteten grünen Halter<\/strong> sind zur Montage an den <strong>Metallpfosten<\/strong> bestimmt. Die Montagehalter dienen zur Befestigung (zum Einhängen) der Heckenelemente an den Pfosten. Der <strong>Wandhalter<\/strong> dient zur Befestigung des letzten Heckenelements an der Hauswand.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__67ae76fe-717c-41db-af26-15e763081b89-heading-1",
+        "template--20008375746909__67ae76fe-717c-41db-af26-15e763081b89-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-4-loecher-fuer-montagehalter-vorbohren.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "568b7e71-2ef8-4ef2-b56f-b4277df1ddac": {
+      "type": "tip-section",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "subheading": "Noch ein paar Tipps zu den Montagehaltern!",
+        "text": "<p><span style=\"text-decoration:underline\">Empfohlene Anzahl:<\/span><\/p><p>Hecke 120 x 180 cm: 4 Montagehalter (je 2 pro Pfosten)<\/p><p>Hecke 120 x 220 cm: 6 Montagehalter (je 3 pro Pfosten)<\/p><p><span style=\"text-decoration:underline\">Empfohlene Montagehöhe:<\/span><\/p><p>Bringen Sie den oberen Halter im Abstand von ca. 25 cm vom oberen Pfostenende (in Höhe des vorletzten Querdrahtes des Gitters) am Pfosten an. Bringen Sie den unteren Halter auf halber Höhe des Gitters am Pfosten an.<\/p>"
+      }
+    },
+    "bb57fd48-73ea-4ad8-b0a0-5395f5c89393": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__bb57fd48-73ea-4ad8-b0a0-5395f5c89393-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "5. Schritt: Montagehalter anschrauben",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__bb57fd48-73ea-4ad8-b0a0-5395f5c89393-heading-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-5-montagehalter-anschrauben.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5a7d441d-785e-409f-bb25-3d1352d52835": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__5a7d441d-785e-409f-bb25-3d1352d52835-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "6. Schritt: Achten Sie darauf, dass die Halter waagrecht (Wasserwaage) verschraubt sind",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__5a7d441d-785e-409f-bb25-3d1352d52835-heading-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-6-waagrecht.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "42df6ec8-6ea6-46d0-b503-0c464896da11": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__42df6ec8-6ea6-46d0-b503-0c464896da11-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "7. Schritt: Heckenelement zwischen die Pfosten setzen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__42df6ec8-6ea6-46d0-b503-0c464896da11-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stellen Sie das Heckenelement in den Pflanzgraben und sorgen Sie dafür, dass der biologisch abbaubare Kokostopf bündig mit der Bodenoberfläche abschließt.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__42df6ec8-6ea6-46d0-b503-0c464896da11-heading-1",
+        "template--20008375746909__42df6ec8-6ea6-46d0-b503-0c464896da11-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-7-heckenelement-zwischen-die-pfosten-setzen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2575ecf4-b2b9-46dc-8d11-72ad49f81c93": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__2575ecf4-b2b9-46dc-8d11-72ad49f81c93-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "8. Schritt: Heckenelement in die oberste Halterung einhängen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__2575ecf4-b2b9-46dc-8d11-72ad49f81c93-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Auf der Oberseite der Halterung befindet sich eine spezielle Ausnehmung, in die das Heckenelement eingehängt werden kann.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__2575ecf4-b2b9-46dc-8d11-72ad49f81c93-heading-1",
+        "template--20008375746909__2575ecf4-b2b9-46dc-8d11-72ad49f81c93-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-8-heckenelement-in-die-oberste-halterung-einhaengen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "484cedf9-409b-43c2-8257-93e0eb9e38d2": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__484cedf9-409b-43c2-8257-93e0eb9e38d2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "9. Schritt: Heckenelement mit dem unteren Halter befestigen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__484cedf9-409b-43c2-8257-93e0eb9e38d2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nachdem Sie das Heckenelement in den oberen Halter eingehängt haben, können Sie das Gitter mit der unteren Ausnehmung am unteren Halter festschrauben.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__484cedf9-409b-43c2-8257-93e0eb9e38d2-heading-1",
+        "template--20008375746909__484cedf9-409b-43c2-8257-93e0eb9e38d2-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-9-heckenelement-mit-dem-unteren-halter-befestigen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cd11bb89-f36a-40a6-be3a-12172c95211a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__cd11bb89-f36a-40a6-be3a-12172c95211a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "10. Schritt: Pflanzgraben zuschütten",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__cd11bb89-f36a-40a6-be3a-12172c95211a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mischen Sie die ausgehobene Erde im Verhältnis 2:1 mit <a href=\"\/products\/compo-sana-qualitaets-blumenerde\" title=\"COMPO SANA Qualitäts-Blumenerde\">COMPO SANA Qualitäts-Blumenerde<\/a> und füllen Sie den Pflanzgraben damit auf.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__cd11bb89-f36a-40a6-be3a-12172c95211a-heading-1",
+        "template--20008375746909__cd11bb89-f36a-40a6-be3a-12172c95211a-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-10-pflanzgraden-zuschuetten.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f21c93b4-c47b-4647-a02c-d24f14dcd266": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__f21c93b4-c47b-4647-a02c-d24f14dcd266-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "11. Schritt: Fertighecke düngen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__f21c93b4-c47b-4647-a02c-d24f14dcd266-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die COMPO SANA Qualitäts-Blumenerde enthält ausreichend Nährstoffe für die ersten 100 Tage. Wir empfehlen Ihnen, Ihre Hecke danach regelmäßig zu düngen. Weiter unten erfahren Sie mehr dazu. Wenn Sie beim Pflanzen der Hecke keine spezielle Pflanzerde verwendet haben, empfiehlt es sich, die Hecke unmittelbar nach der Pflanzung mit COMPO Heckenturbo zu düngen.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__f21c93b4-c47b-4647-a02c-d24f14dcd266-heading-1",
+        "template--20008375746909__f21c93b4-c47b-4647-a02c-d24f14dcd266-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-11-fertighecke-duengen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d068168e-b694-418b-b88d-32fd96af2760": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20008375746909__d068168e-b694-418b-b88d-32fd96af2760-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "12. Schritt: Erde festtreten und Hecke gießen",
+            "heading_size": "h2"
+          }
+        },
+        "template--20008375746909__d068168e-b694-418b-b88d-32fd96af2760-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Treten Sie die Erde danach rundum richtig fest, damit sich die Pflanzen gut im Erdreich verankern. Gießen Sie die Hecke reichlich, damit die Pflanzen richtig einwurzeln können.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__d068168e-b694-418b-b88d-32fd96af2760-heading-1",
+        "template--20008375746909__d068168e-b694-418b-b88d-32fd96af2760-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schritt-12-erde-festreten-und-hecke-giessen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "acd73aba-8b0f-46a0-a79d-6fd5fe6fcc67": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Zum Kürzen der Heckenelemente kann ein Bolzenschneider verwendet werden.<\/p>"
+      }
+    },
+    "eb7f7369-bf1e-4acf-9894-71397d58fad4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20008375746909__eb7f7369-bf1e-4acf-9894-71397d58fad4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fertighecken richtig pflegen"
+          }
+        },
+        "template--20008375746909__eb7f7369-bf1e-4acf-9894-71397d58fad4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die richtige Pflege der Fertighecke ist vor allem in den ersten beiden Jahren nach dem Pflanzen sehr wichtig. Dazu gehören das Düngen, Zurückschneiden und Bewässern der Pflanzen. Hier erfahren Sie mehr dazu.<\/p>"
+          }
+        },
+        "42b5b797-b9f2-4877-814b-e01a9c180a93": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Fertighecke gießen<\/h>"
+          }
+        },
+        "25f5a41d-699d-4938-8ce6-5dd597a128be": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ganz wichtig ist es, die Fertighecke unmittelbar nach dem Pflanzen ausgiebig zu gießen. Auch im ersten Jahr muss die Hecke regelmäßig gegossen werden. Gießen Sie die Fertighecke bei anhaltender Trockenheit etwa 3 bis 4 Mal pro Woche reichlich (ca. 10 Liter Wasser pro Heckenmeter).<\/p><p><strong>Unsere Bewässerungsempfehlung in den ersten 4 Wochen<\/strong><\/p><p>In den ersten Wochen stecken die Pflanzen ihre ganze Kraft in die Wurzelbildung. Die Wurzeln müssen die Möglichkeit erhalten, aus dem biologisch abbaubaren Kokostopf herauszuwachsen und sich in der Erde weiterzuentwickeln. Deshalb sollten Sie die aktuelle Wetterlage immer gut im Auge behalten und die Hecke gegebenenfalls zusätzlich bewässern. Beim Gießen muss darauf geachtet werden, dass das Wasser auch die tieferen Erdschichten unterhalb der Wurzelballen erreicht.<\/p><p>Vor allem in den ersten Jahren ist es wichtig, die Hecke bei Hitze und Trockenheit ausreichend zu gießen!<\/p>"
+          }
+        },
+        "8c829c2d-2ebc-4359-a5b5-4803fa6dff24": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/fertighecke-wasser-giessen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "99e9538a-40d1-49e1-8d59-c2f4cfc02402": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Fertighecke düngen<\/h>"
+          }
+        },
+        "3b78801e-58ff-4fe6-8838-45cdd9e3f460": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Fertighecke benötigt Nährstoffe aus dem Boden, um wachsen zu können. Die meisten Nährstoffe sind nach etwa 100 Tagen verbraucht. Deshalb sollte der Boden regelmäßig mit Nährstoffen angereichert werden. Der richtige Dünger fördert das Wachstum und eine gesunde Entwicklung der Heckenpflanzen. Wir empfehlen Ihnen, Ihre Fertighecke <strong>zweimal im Jahr<\/strong> zu düngen. Der beste Zeitpunkt dafür ist während der Vegetationsperiode, genauer gesagt im <strong>frühen Frühjahr und im Sommer<\/strong>. In dieser Zeit können die Pflanzen die zusätzlichen Nährstoffe gut gebrauchen, um sich optimal entwickeln zu können.<\/p>"
+          }
+        },
+        "afc501fc-b6bd-430c-9ee9-b7ad8bf38de7": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Fertighecke zurückschneiden<\/h>"
+          }
+        },
+        "38b9b249-dbcd-46fd-bc16-ea64553915dc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Im ersten Jahr muss die Fertighecke noch nicht zurückgeschnitten werden. Zu sehr in die Höhe geschossene Triebe können ins Gitter geflochten werden, um dort weiterzuwachsen. Sollte die Hecke kahle Stellen bekommen, können Sie die obersten Triebe leicht zurückschneiden, damit sich die Hecke unten besser verzweigt und neue Triebe bildet.<\/p><p>Ab dem zweiten Jahr sollte die Hecke ein- bis zweimal im Jahr (April\/Mai und September\/Oktober) zurückgeschnitten werden. So bleibt Ihre Hecke gesund und in Form!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20008375746909__eb7f7369-bf1e-4acf-9894-71397d58fad4-heading-1",
+        "template--20008375746909__eb7f7369-bf1e-4acf-9894-71397d58fad4-text-1",
+        "42b5b797-b9f2-4877-814b-e01a9c180a93",
+        "25f5a41d-699d-4938-8ce6-5dd597a128be",
+        "8c829c2d-2ebc-4359-a5b5-4803fa6dff24",
+        "99e9538a-40d1-49e1-8d59-c2f4cfc02402",
+        "3b78801e-58ff-4fe6-8838-45cdd9e3f460",
+        "afc501fc-b6bd-430c-9ee9-b7ad8bf38de7",
+        "38b9b249-dbcd-46fd-bc16-ea64553915dc"
+      ],
+      "settings": {
+        "padding_top": 25,
+        "padding_bottom": 12
+      }
+    },
+    "fad68539-ad30-4939-9f5b-968fe9232afc": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2e34a86b-7158-460d-8ddc-a1f1aece2fa7",
+    "e760cd04-0b94-4fe4-8f83-d21d75e3e7d7",
+    "474e3ff0-4f0c-48d3-97e9-9844e8dd57d0",
+    "c70bce9e-262a-4e91-9515-40f453897739",
+    "587f411b-dcf4-4f70-bfbc-105013bdcd04",
+    "fd160c31-d97f-4e1b-8655-7c43ac5e3046",
+    "67ae76fe-717c-41db-af26-15e763081b89",
+    "568b7e71-2ef8-4ef2-b56f-b4277df1ddac",
+    "bb57fd48-73ea-4ad8-b0a0-5395f5c89393",
+    "5a7d441d-785e-409f-bb25-3d1352d52835",
+    "42df6ec8-6ea6-46d0-b503-0c464896da11",
+    "2575ecf4-b2b9-46dc-8d11-72ad49f81c93",
+    "484cedf9-409b-43c2-8257-93e0eb9e38d2",
+    "cd11bb89-f36a-40a6-be3a-12172c95211a",
+    "f21c93b4-c47b-4647-a02c-d24f14dcd266",
+    "d068168e-b694-418b-b88d-32fd96af2760",
+    "acd73aba-8b0f-46a0-a79d-6fd5fe6fcc67",
+    "eb7f7369-bf1e-4acf-9894-71397d58fad4",
+    "fad68539-ad30-4939-9f5b-968fe9232afc"
+  ]
+}

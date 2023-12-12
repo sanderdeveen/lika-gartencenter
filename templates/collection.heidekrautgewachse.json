@@ -80,8 +80,8 @@
         "5860303b-bd94-4b42-b3a3-de28689f954c": {
           "type": "breadcrumb_link",
           "settings": {
-            "breadcrumb_text": "Weihnachten",
-            "breadcrumb_link": "shopify:\/\/collections\/weihnachten"
+            "breadcrumb_text": "Gartenpflanzen",
+            "breadcrumb_link": "shopify:\/\/collections\/gartenpflanzen"
           }
         }
       },
@@ -102,10 +102,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller Weihnachtsdeko",
-        "featured_product_one": "unzerbrechlicher-christbaumschmuck-gold-33-stuck",
-        "featured_product_two": "weihnachtbaumanhaenger-stern-rot",
-        "featured_product_three": "weihnachtsbaumanhaenger-tannenbaum-gold",
+        "top_sellers": "Topseller Heidekrautgewächse",
+        "featured_product_one": "besenheide-rot",
+        "featured_product_two": "heidekraut-rosa",
+        "featured_product_three": "winterbluehende-heide-weiss",
         "color_scheme": "background-1"
       }
     },
@@ -132,6 +132,56 @@
         "enable_sorting": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "b9456945-f3d3-4cf2-883e-5f7632a611af": {
+      "type": "faq",
+      "blocks": {
+        "template--20140005261661__b9456945-f3d3-4cf2-883e-5f7632a611af-faq-1": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was sind Heidekräuter und wo gedeihen sie am besten?",
+            "custom_liquid_1": "",
+            "content": "<p>Heidekräuter sind robuste Pflanzen mit kleinen Blüten, die für ihre Farbenpracht und ihren üppigen Wuchs in Heidelandschaften bekannt sind. Möchten Sie in Ihrem Garten Heidekraut pflanzen? Hier sind einige Tipps:<\/p><ul><li><strong>Wählen Sie ein Heidekraut, das zu Ihrem Garten passt: <\/strong>Es gibt verschiedene Arten von Heidekräutern, wie etwa Winterblühende Heide oder Besenheide. Wählen Sie die Pflanze, die am besten zu den Klima- und Bodenverhältnissen in ihrem Garten passt.<\/li><li><strong>Wählen Sie den richtigen Standort: <\/strong>Heidekräuter bevorzugen einen gut durchlässigen Boden und hellen Standort. Der Boden sollte leicht sauer und feucht, aber nicht zu nass sein.<\/li><li><strong>Bereiten Sie den Boden vor: <\/strong>Lockern Sie den Boden auf und reichern Sie ihn mit organischem Material an, damit das Wasser besser abfließen kann. Dafür eignet sich zum Beispiel Herbstlaub.<\/li><li><strong>Heidekraut pflanzen: <\/strong>Das Pflanzloch sollte immer etwas größer als der Wurzelballen sein. Stellen Sie die Pflanze ins Pflanzloch, füllen Sie das Loch mit Erde auf und drücken Sie diese mit den Händen vorsichtig fest. Achten Sie darauf, dass die Pflanzen genauso tief gesetzt werden wie im Topf.<\/li><li><strong>Gießen: <\/strong>Gießen Sie die Pflanzen regelmäßig, damit der Boden immer feucht bleibt. Heidekräuter mögen keinen nassen Boden und sollten daher nicht übermäßig gegossen werden.<\/li><li><strong>Pflege: <\/strong>Um ein gesundes Wachstum zu fördern und die Pflanzen in Form zu halten, sollten sie nach der Blüte leicht zurückgeschnitten werden. Entfernen Sie auch regelmäßig die verblühten Blüten, damit die Pflanzen wieder neu austreiben können.<\/li><\/ul>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a729a9f4-b6a7-43dc-a2a6-fae009ac4497": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wann sollte Winterblühende Heide gepflanzt werden?",
+            "custom_liquid_1": "",
+            "content": "<p>Winterblühende Heide sollte vorzugsweise <strong>im Herbst oder im frühen Frühjahr <\/strong>gepflanzt werden. So haben die Pflanzen genügend Zeit, gut einzuwurzeln, damit sie im Frühjahr kräftig austreiben können.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "632746d7-e575-473a-9064-046d920fe27c": {
+          "type": "faq",
+          "settings": {
+            "heading": "In welchen Farben gibt es Winterblühende Heide?",
+            "custom_liquid_1": "",
+            "content": "<p>Winterblühende Heide gibt es in verschiedenen Farben, darunter auch Rosa und Weiß. Diese Farben bringen jedes Blumenbeet zum Leuchten!<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a4b4be10-ad22-4a80-bfdb-6b5895124c4a": {
+          "type": "faq",
+          "settings": {
+            "heading": "Was ist der Unterschied zwischen Besenheide und anderen Heidekräutern?",
+            "custom_liquid_1": "",
+            "content": "<p>Besenheide unterscheidet sich vor allem durch ihre Wuchsform von anderen Heidekräutern.<\/p><ul><li><strong>Wuchs: <\/strong>Besenheide wächst als buschiger Kleinstrauch mit aufrechtstehenden dichten Trieben und Blättern. Dies im Gegensatz zum niedrigen, flächigen Wuchs vieler anderer Heidekraut-Arten.<\/li><li><strong>Blüte: <\/strong>Die Besenheide bringt kleine hülsenförmige Blüten hervor, die in einem dichten, traubigen Blütenstand wachsen. Die Farbe der Blüten kann von Weiß über Rosa bis hin zu Lila und Violett variieren.<\/li><li><strong>Blatt: <\/strong>Die Blätter der Besenheide sind klein, nadelförmig und meistens grün. Bei einigen Unterarten können sich die Blätter im Winter rötlich färben, was die Pflanzen besonders dekorativ macht. Dadurch unterschiedet sich die Besenheide ganz wesentlich von anderen Heidekrautgewächsen, die unterschiedliche Blattfarben und -strukturen haben können.<\/li><li><strong>Blütezeit: <\/strong>Besenheide blüht in der Regel ab dem Spätsommer bis in den Herbst hinein und bringt dadurch so richtig Farbe in den Garten, wenn die meisten anderen Pflanzen schon verblüht sind. Andere Heidekraut-Arten dahingegen können zu verschiedenen Jahreszeiten blühen.<\/li><\/ul>",
+            "custom_liquid_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20140005261661__b9456945-f3d3-4cf2-883e-5f7632a611af-faq-1",
+        "a729a9f4-b6a7-43dc-a2a6-fae009ac4497",
+        "632746d7-e575-473a-9064-046d920fe27c",
+        "a4b4be10-ad22-4a80-bfdb-6b5895124c4a"
+      ],
+      "settings": {
+        "heading": "Häufig gestellte Fragen zu Heidekräutern"
       }
     },
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff": {
@@ -187,6 +237,7 @@
     "16636997769ffcaf8a",
     "banner",
     "product-grid",
+    "b9456945-f3d3-4cf2-883e-5f7632a611af",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
     "65e6bb14-9d81-47ff-894a-fb634c9b2619"
   ]

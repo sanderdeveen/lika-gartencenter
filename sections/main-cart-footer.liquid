@@ -35,7 +35,7 @@
                     {% assign lower_sku = item.sku | downcase %}
                     {{ lower_sku }}
                     <br>
-                    {%- if lower_sku contains "bob" -%}
+                    {%- if lower_sku contains "tcb" -%}
                       {% assign contains_bob = true %}
                     {%- elsif lower_sku contains "mob" -%}
                       {% unless item.sku == "mob-livepicturegozwart" or item.sku == "mob-8718819890089" or item.sku == "mob-livepicturegowit" %}

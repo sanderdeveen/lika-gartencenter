@@ -130,7 +130,7 @@
         "template--19979497537885__d52bc624-c653-4b3e-bdbb-a4a8203aeb6c-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Vertragen Buchenhecken einen radikalen Rückschnitt?<\/p>"
+            "heading": "Vertragen Buchenhecken einen radikalen Rückschnitt?"
           }
         },
         "template--19979497537885__d52bc624-c653-4b3e-bdbb-a4a8203aeb6c-text-1": {
@@ -169,6 +169,64 @@
         "subheading": "Tipp:",
         "text": "<p>Tragen Sie beim Schneiden der Hecke immer Handschuhe und eine Sicherheitsbrille, um Verletzungen an Händen und Augen vorzubeugen!<\/p>"
       }
+    },
+    "7d181254-d72b-4a4a-92ba-5ad86f96d190": {
+      "type": "rich-text",
+      "blocks": {
+        "566fe561-66c5-4a3d-8e7f-4876a4e5a2bb": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/elektrische-heckenschere-fuer-groessere-flaechen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "ec2b1cd0-15fa-4be7-b596-239250938747": {
+          "type": "heading",
+          "settings": {
+            "heading": "Praktische Tipps zum Schneiden von Buchenhecken"
+          }
+        },
+        "template--19979505271133__7d181254-d72b-4a4a-92ba-5ad86f96d190-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier haben wir noch einige Tipps für Sie, die Ihnen beim Schneiden Ihrer Buchenhecke nützlich sein können.<\/p>"
+          }
+        },
+        "f8d96d34-6826-4a4f-8b66-a8fd05e49aa0": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- Verwenden Sie eine scharfe Heckenschere. Nur so ist ein sauberer Schnitt möglich. Das ist nicht nur besser für die Pflanzen, sondern sieht auch viel schöner aus.*<\/p><p>- Es ist hilfreich, die Hecke vor dem Rückschnitt nass zu machen. So nehmen die Pflanzen weniger Schaden und werden die Klingen der Heckenschere nicht so schnell stumpf.*<\/p><p>- Schneiden Sie immer von unten nach oben, damit die abgeschnitten Zweige einfach zu Boden fallen können.*<\/p><p>- Legen Sie neben der Hecke eine Plane auf, um die abgeschnittenen Zweige und Blätter aufzufangen.*<\/p><p>- Lassen Sie Ihre Buchenhecke nicht zu hoch wachsen, damit Sie die obersten Triebe noch ohne Leiter erreichen können.*<\/p><p>- Wenn Sie eine Heckenschere mit Kabel verwenden: Achten Sie immer darauf, wo sich das Kabel befindet!*<\/p><p>- Legen Sie aus den Schnittabfällen Ihren eigenen Komposthaufen an (kostenloser Dünger!) oder sammeln Sie die abgeschnittenen Zweige und Blätter in speziellen Gartenabfallsäcken. Kranke und von Schädlingen befallene Pflanzenabschnitte dürfen nicht auf den Komposthaufen und sollten immer in der Grünen Tonne entsorgt werden!?*<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "566fe561-66c5-4a3d-8e7f-4876a4e5a2bb",
+        "ec2b1cd0-15fa-4be7-b596-239250938747",
+        "template--19979505271133__7d181254-d72b-4a4a-92ba-5ad86f96d190-text-1",
+        "f8d96d34-6826-4a4f-8b66-a8fd05e49aa0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "bf98056b-3da4-48a6-a3ca-639b6317c514": {
+      "type": "collection-product-info",
+      "settings": {
+        "heading": "Das Düngen von Buchenhecken",
+        "image": "shopify:\/\/shop_images\/das-duengen-von-buchenhecken.jpg",
+        "content": "<p>Damit Ihre Buchenhecke schön und gesund bleibt, sollte sie <strong>zweimal im Jahr<\/strong> gedüngt werden. <a href=\"\/products\/compo-heckenturbo\" title=\"COMPO Heckenturbo\">COMPO Heckenturbo<\/a> ist ein Spezialdünger für <a href=\"\/collections\/heckenpflanzen\" title=\"Heckenpflanzen\">Heckenpflanzen<\/a>. Dieser Dünger enthält alle wichtigen Nährstoffe, die für ein gesundes Wachstum und eine schöne Blattfarbe erforderlich sind. Darüber hinaus sorgt der Dünger dafür, dass die Hecke widerstandsfähiger gegenüber Krankheiten und Schädlingen wird. Düngen Sie Ihre Buchenhecke zweimal im Jahr: Entweder im frühen Frühjahr und im Sommer oder nach jedem Rückschnitt. Aber bitte nicht bei Hitze oder in der prallen Sonne, da sonst die Blätter verbrennen können!<\/p>",
+        "url": "",
+        "btn_text": ""
+      }
+    },
+    "ae4f91f5-8310-4dec-8a78-b74233eab080": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
     }
   },
   "order": [
@@ -176,6 +234,9 @@
     "c64405b3-04a5-4887-aebe-31f8454cfa82",
     "b2acb02d-1680-4fc5-992e-6c6b7fd4544a",
     "d52bc624-c653-4b3e-bdbb-a4a8203aeb6c",
-    "7e263b7e-cb5d-4ec4-a054-cf70c50d8fa1"
+    "7e263b7e-cb5d-4ec4-a054-cf70c50d8fa1",
+    "7d181254-d72b-4a4a-92ba-5ad86f96d190",
+    "bf98056b-3da4-48a6-a3ca-639b6317c514",
+    "ae4f91f5-8310-4dec-8a78-b74233eab080"
   ]
 }

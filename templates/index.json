@@ -159,6 +159,14 @@
     "24506853-e956-4826-b2be-b7be1e988bb3": {
       "type": "populair-collections",
       "blocks": {
+        "0de4f66b-83fb-4f61-8dc4-e73b5fc00649": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/weihnachten",
+            "image": "shopify:\/\/shop_images\/lichterkette-warmweiss-1350-cm-180-leds-im-baum.jpg",
+            "header": "Weihnachten"
+          }
+        },
         "ff7ba78a-0ca0-4913-b9c6-fc2527773af4": {
           "type": "collection_grid_links",
           "settings": {
@@ -281,6 +289,7 @@
         }
       },
       "block_order": [
+        "0de4f66b-83fb-4f61-8dc4-e73b5fc00649",
         "ff7ba78a-0ca0-4913-b9c6-fc2527773af4",
         "87d76ac2-3211-4d62-a9b8-cdff763b7aa3",
         "f9ca82ab-e92c-4402-bcde-1b2f1286cc8d",

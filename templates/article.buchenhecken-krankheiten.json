@@ -74,7 +74,7 @@
           "type": "image",
           "settings": {
             "image_url": "",
-            "image": "shopify:\/\/shop_images\/buchenhecken-krankheiten-ratgeber.jpg",
+            "image": "shopify:\/\/shop_images\/buchenhecken-krankheiten-ratgeber-neu.jpg",
             "columns_mobile": "1",
             "columns_desktop": 1
           }
@@ -91,10 +91,10 @@
             "text": "<p>Es gibt einige <strong>Krankheiten und Schädlinge<\/strong>, die Ihre Rot- oder Blutbuchenhecke nachhaltig schädigen können. Wenn man sie nicht rechtzeitig erkennt und nicht schnell eingreift, kann sogar die gesamte Hecke absterben! Die einzelnen Krankheiten und Schädlinge sind an ihren jeweils typischen Merkmalen zu erkennen und müssen gezielt bekämpft werden.<\/p><p>Dabei sollte man wissen, dass es sich bei der <a href=\"\/products\/hainbuche\" title=\"Hainbuche\">Hainbuchenhecke<\/a> (trotz ihres Namens) um eine ganz andere Baumart handelt, als bei Rotbuchen- oder Blutbuchenhecken. Manche Krankheiten und Schädlinge kommen sowohl bei Rot- und Blutbuchen als auch bei Hainbuchen vor. Das gilt aber nicht für alle.<\/p>"
           }
         },
-        "eb123ef1-33d3-4ae8-93eb-4744266e103d": {
-          "type": "heading",
+        "d5530076-b90f-4ae4-b272-9111c76defe5": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Mehltau<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Mehltau<\/h>"
           }
         }
       },
@@ -102,7 +102,7 @@
         "b03edab6-c54d-45cf-a665-08ea32d5b256",
         "template--19972283597149__f786fc00-443a-46c0-b017-78f4fee52a90-heading-1",
         "template--19972283597149__f786fc00-443a-46c0-b017-78f4fee52a90-text-1",
-        "eb123ef1-33d3-4ae8-93eb-4744266e103d"
+        "d5530076-b90f-4ae4-b272-9111c76defe5"
       ],
       "settings": {
         "padding_top": 12,
@@ -139,10 +139,10 @@
     "2cd00d89-cd11-41d4-a92e-49ac97ecb288": {
       "type": "rich-text",
       "blocks": {
-        "template--19972283597149__2cd00d89-cd11-41d4-a92e-49ac97ecb288-heading-1": {
-          "type": "heading",
+        "a8e43879-9ace-4213-8be4-0e13a7e0a5d6": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Schädlinge an Buchenhecken: Buchenblattläuse, Spannerraupen und Spinnmilben<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Schädlinge an Buchenhecken: Buchenblattläuse, Spannerraupen und Spinnmilben<\/h>"
           }
         },
         "template--19972283597149__2cd00d89-cd11-41d4-a92e-49ac97ecb288-text-1": {
@@ -153,7 +153,7 @@
         }
       },
       "block_order": [
-        "template--19972283597149__2cd00d89-cd11-41d4-a92e-49ac97ecb288-heading-1",
+        "a8e43879-9ace-4213-8be4-0e13a7e0a5d6",
         "template--19972283597149__2cd00d89-cd11-41d4-a92e-49ac97ecb288-text-1"
       ],
       "settings": {

@@ -164,10 +164,10 @@
             "text": "<p>Buchen als Heckenpflanzen sind das ganze Jahr über erhältlich. Dennoch empfiehlt es sich, die Buchenhecke in der sogenannten Ruhephase (von Oktober bis April\/Mai) zu pflanzen. Die Pflanzen haben dann braune oder keine Blätter. In der Ruhephase speichern die Pflanzen ihre gesamte Energie in den Wurzeln, um im Frühjahr wieder neu austreiben zu können. Deshalb ist die Ruhephase der beste Zeitpunkt zum Pflanzen oder <a href=\"\/blogs\/ratgeber\/buchenhecke-umpflanzen-wann-und-wie\" title=\"Buchenhecke umpflanzen – wann und wie?\">Umpflanzen von Buchenhecken<\/a>. Pflanzen Sie die Hecke nicht bei Frost, da dies die Pflanzen schädigen kann. In den Herbst- und Wintermonaten sind die Buchen als Wurzelware (wurzelnackte Ware) erhältlich. Wurzelware ist preisgünstiger als Topf- oder Containerware.<\/p>"
           }
         },
-        "54d73e20-c514-4673-b1f1-63ec8742dc5c": {
-          "type": "heading",
+        "46988bc6-8f32-48af-beb7-845ffa8f7415": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Wurzelware<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Wurzelware<\/h>"
           }
         },
         "785fa479-676f-4a45-bbba-210e93f9d674": {
@@ -176,10 +176,10 @@
             "text": "<p>Wurzelnackte Heckenpflanzen werden auch Wurzelware genannt. Buchenpflanzen können für kurze Zeit (max. 24 Stunden) auch ohne Erde, d.h. mit kahlen Wurzeln überleben. Dieser Zeitraum sollte allerdings auf ein Minimum beschränkt werden. Je länger die Wurzeln ohne Erde sind und je höher die Temperatur ist, desto größer das Risiko, dass die Pflanzen den Transport nicht überleben.<\/p><p>Unsere Wurzelware wird auf dem schnellsten Weg direkt aus der Baumschule geliefert. Beim Kauf im Gartencenter vor Ort oder bei anderen Anbietern weiß man nicht, wie oft die Pflanzen bereits verpflanzt wurden und wie lange sie schon ohne Erde sind. Wir wissen aus eigener Erfahrung, dass der Großteil dieser Buchen nicht anwächst und das Pflanzen somit eine reine Zeit- und Geldverschwendung ist. Wurzelware ist (je nach Wetterlage) ungefähr von Oktober bis April\/Mai erhältlich.<\/p>"
           }
         },
-        "2265309f-090b-4680-a696-f996c080a0e2": {
-          "type": "heading",
+        "97e9a8f5-dec8-4bbb-a767-bd7259e8f8d6": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Topf- oder Containerware<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Topf- oder Containerware<\/h>"
           }
         },
         "c3717030-56ca-4ea1-8fc1-1c9919832533": {
@@ -202,9 +202,9 @@
         "template--19977500688733__1e8e68ad-5fcf-4ff6-b20c-01372c7b4a21-text-1",
         "9aeb1b08-fbf1-4588-a9c6-28973684fe14",
         "b03b4e27-0c0e-490c-bb1e-61494df43210",
-        "54d73e20-c514-4673-b1f1-63ec8742dc5c",
+        "46988bc6-8f32-48af-beb7-845ffa8f7415",
         "785fa479-676f-4a45-bbba-210e93f9d674",
-        "2265309f-090b-4680-a696-f996c080a0e2",
+        "97e9a8f5-dec8-4bbb-a767-bd7259e8f8d6",
         "c3717030-56ca-4ea1-8fc1-1c9919832533",
         "41598581-34d7-4c59-9223-f7416cd42efb"
       ],
@@ -322,10 +322,10 @@
             "text": "<p>Nachdem Sie inzwischen so gut wie alles über Buchenhecken wissen, kommen wir jetzt zum wichtigsten Teil, dem Pflanzen der Hecke! Eine Hecke zu pflanzen kann richtig Spaß machen und ist – mit ein wenig Planung und der richtigen Vorbereitung – gar nicht so schwer.<\/p>"
           }
         },
-        "14d74647-674a-47f6-b618-347f909796ba": {
-          "type": "heading",
+        "bb5ccfd8-a038-427e-bf8e-30c676bf4fb4": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Einreihige oder zweireihige Hecke – was ist der Unterschied?<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Einreihige oder zweireihige Hecke – was ist der Unterschied?<\/h>"
           }
         },
         "4ea1ebe3-8591-445a-97a4-b669d66bedac": {
@@ -341,7 +341,7 @@
         "a0da6cc5-29aa-4922-a7b4-8cc275e9b808",
         "d80c2023-a888-422d-b05a-2c72201012fa",
         "cf614d08-6033-4252-bcd0-323ea9bee5b1",
-        "14d74647-674a-47f6-b618-347f909796ba",
+        "bb5ccfd8-a038-427e-bf8e-30c676bf4fb4",
         "4ea1ebe3-8591-445a-97a4-b669d66bedac"
       ],
       "settings": {

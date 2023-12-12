@@ -13,7 +13,113 @@
   }
 </style>
 
+{% capture sku_list %}
+  tch-8719325725131
+  tch-8719325725155
+  tch-8719325725162
+  tch-8719325725179
+  tch-8719325725186
+  tch-8719325725193
+  tch-8719325725216
+  tch-8719325725230
+  tch-8719325725247
+  tch-8719325725254
+  ful2-Ch.l.GWo;KL;100/125
+  ful2-Ch.l.GWo;KL;125/150-S
+  ful2-Ch.l.GWo;KL;150/175
+  ful2-Ch.l.GWo;KL;175/200-S
+  ful2-Ch.l.GWo;KL;200/225-S
+  ful2-Th.o.Hol;KL;100/125
+  ful2-Th.o.Hol;KL;125/150
+  ful2-Th.o.Hol-C-150 - 175 cm
+  ful2-Th.o.Hol-C-175 - 200 cm
+  ful2-Th.o.Hol-C-200 - 225 cm
+  ful2-Th.o.Hol-C-225 - 250 cm
+  ful2-Th.o.Hol-C-250 - 300 cm
+  ful2-Ch.l.Ivo;KL;100/125
+  ful2-Ch.l.Ivo;KL;125/150
+  ful2-Ch.l.Ivo;KL;150/175
+  ful2-Ch.l.Ivo;KL;175/200
+  ful2-Ch.l.Ivo;KL;200/225
+  ful2-Ch.l.Col;KL;100/125
+  bie-Ch.l.Col;KL;125/150|bkh-S
+  ful2-Ch.l.Col;KL;150/175
+  ful2-Ch.l.Col;KL;175/200
+  ful2-Cu.l.GRi;KL;100/125
+  ful2-Cu.l.GRi;KL;125/150|bkh-S
+  ful2-Cu.l.GRi-C-150 - 175 cm
+  ful2-Cu.l.GRi-C-175 - 200 cm
+  ful2-Cu.l.GRi-C-200 - 225 cm
+  ful2-Cu.l.GRi-C-225 - 250 cm
+  tch-8720663557247
+  tch-8720663557254
+  tch-8720663557261
+  tch-8720663557278
+  tch-8720663557285
+  ful2-Ch.l.Sta;KL;100/125
+  ful2-Ch.l.Sta;KL;125/150
+  ful2-Ch.l.Sta;KL;150/175
+  ful2-Ch.l.Sta;KL;175/200
+  ful2-Ch.l.Sta;KL;200/225
+  tch-1-8720663557285
+  tch-1-8720663557278
+  tch-1-8720663557261
+  tch-1-8720663557254
+  tch-1-8720663557247
+  ful2-Ch.l.WSp;100/125
+  ful2-Ch.l.WSp;125/150
+  ful2-Ch.l.WSp;150/175-S
+  ful2-Ch.l.WSp;175/200-S
+  ful2-Ch.l.WSp;200/225-S
+  ful2-Th.o.YRi;KL;100/125
+  ful2-Th.o.YRi;KL;125/150
+  ful2-Th.o.YRi;KL;150/175
+  ful2-Th.o.YRi;KL;175/200
+  ful2-Th.o.YRi;KL;200/225
+  tch-8719325725261
+  tch-8719325725278
+  tch-8719325725285
+  ful2-Ch.l.Ilo;KL;100/125-S
+  ful2-Ch.l.Ilo;KL;125/150-S
+  ful2-Ch.l.Ilo;KL;150/175
+  ful2-Ch.l.Ilo;KL;175/200
+  ful2-Ch.l.Ilo;KL;200/225
+  ful2-Th.p.Mar;KL;100/125
+  ful2-Th.p.Mar;KL;125/150
+  ful2-Th.p.Mar;KL;150/175
+  ful2-Th.p.Mar;KL;175/200
+  ful2-Th.p.Mar;KL;200/225
+  ful2-Th.p.Atr;kl;100/125
+  ful2-Th.p.Atr;kl;125/150
+  ful2-Th.p.Atr;kl;150/175
+  ful2-Th.p.Atr;kl;175/200
+  ful2-Th.p.Atr;kl;200/225
+  ful2-Th.p.Atr;kl;225/250
+  ful2-Th.p.Atr;kl;250/300
+  ful2-Cu.l.CGo;KL;100/125
+  ful2-Cu.l.CGo;KL;125/150
+  ful2-Cu.l.CGo;KL;150/175
+  ful2-Cu.l.CGo;KL;175/200
+  ful2-Cu.l.CGo-C-200 - 225 cm
+  ful2-Cu.l.CGo-C-225 - 250 cm
+  ful2-Th.o.Fri;KL100/125
+  ful2-Th.o.Fri;KL;125/150
+  ful2-Th.o.Fri;KL;150/175
+  ful2-Th.o.Fri;KL;175/200
+  ful2-Th.o.Fri;KL;200/225
+  ful2-Th.o.Fri;KL225/250
+  ful2-Th.o.Fri;KL250/300
+  ful2-Th.p.Gel;kl;100/125
+  ful2-Th.p.Gel;kl;125/150
+  ful2-Th.p.Gel;kl;150/175
+  ful2-Th.p.Gel;kl;175/200
+  ful2-Th.p.Gel;kl;200/225
+  ful2-Th.p.Gel;kl;225/250
+  ful2-Th.p.Gel;kl;250/300
+{% endcapture %}
+
 <cart-drawer class="drawer{% if cart == empty %} is-empty{% endif %}">
+  <div class="rebuy-upsell-container" data-rebuy-id="68962"></div>
   <div id="CartDrawer" class="cart-drawer">
     <div id="CartDrawer-Overlay"class="cart-drawer__overlay"></div>
     <div class="drawer__inner" role="dialog" aria-modal="true" aria-label="{{ 'sections.cart.title' | t }}" tabindex="-1">
@@ -45,7 +151,7 @@
           {%- endif -%}
         </div>
       {%- endif -%}
-      <div class="drawer__header">
+      <div class="drawer__header shadow">
         <h2 class="drawer__heading">{{ 'sections.cart.title' | t }}</h2>
         <button class="drawer__close" type="button" onclick="this.closest('cart-drawer').close()" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
       </div>
@@ -66,7 +172,7 @@
 
                   <tbody role="rowgroup">
                     {%- for item in cart.items -%}
-                      <tr  data-hulkapps-lineitem id="CartDrawer-Item-{{ item.index | plus: 1 }}" class="cart-item" role="row">
+                      <tr  data-hulkapps-lineitem id="CartDrawer-Item-{{ item.index | plus: 1 }}" class="cart-item shadow" role="row">
                         <td class="cart-item__media" role="cell" headers="CartDrawer-ColumnProductImage">
                           {% if item.image %}
                             {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
@@ -82,45 +188,23 @@
                         </td>
 
                         <td class="cart-item__details" role="cell" headers="CartDrawer-ColumnProduct">
-                          {%- if settings.show_vendor -%}
-                            <p class="caption-with-letter-spacing light">{{ item.product.vendor }}</p>
-                          {%- endif -%}
-
+                          <span class="cart-item__details-sku hidden">{{ item.sku }}</span>
                           <a href="{{ item.url }}" class="cart-item__name h4 break">{{ item.product.title | escape }}</a>
-
-                          {%- if item.original_price != item.final_price -%}
-                            <div class="cart-item__discounted-prices">
-                              <span class="visually-hidden">
-                                {{ 'products.product.price.regular_price' | t }}
-                              </span>
-                              <s  data-hulkapps-ci-price data-key='{{item.key}}' class="cart-item__old-price product-option">
-                                {{- item.original_price | money -}}
-                              </s>
-                              <span class="visually-hidden">
-                                {{ 'products.product.price.sale_price' | t }}
-                              </span>
-                              <strong  data-hulkapps-ci-price data-key='{{item.key}}' class="cart-item__final-price product-option">
-                                {{ item.final_price | money }}
-                              </strong>
-                            </div>
-                          {%- else -%}
-                            <div  data-hulkapps-ci-price data-key='{{item.key}}' class="product-option">
-                              {{ item.original_price | money }}
-                            </div>
-                          {%- endif -%}
 
                           {%- if item.product.has_only_default_variant == false or item.properties.size != 0 or item.selling_plan_allocation != nil -%}
                             <dl>
                               {%- if item.product.has_only_default_variant == false -%}
                                 {%- for option in item.options_with_values -%}
                                   <div class="product-option">
-                                    <dt>{{ option.name }}: </dt>
                                     <dd>{{ option.value }}{% unless forloop.last %}, {% endunless %}</dd>
                                   </div>
                                 {%- endfor -%}
                               {%- endif -%}
 
-<div class='hulkapps-reminder' data-key='{{item.key}}'></div><span data-hulkapps-line-properties>
+                              {%- assign current_variant_bob_cart = item.sku | slice: 0, 3 -%}
+
+                              
+                            <span data-hulkapps-line-properties>
                               {%- for property in item.properties -%}
                                 {%- assign property_first_char = property.first | slice: 0 -%}
                                 {%- if property.last != blank and property_first_char != '_' -%}
@@ -138,8 +222,8 @@
                                   </div>
                                 {%- endif -%}
                               {%- endfor -%}
-</span>
-<button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
+                            </span>
+                            <button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
                             </dl>
 
                             <p class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</p>
@@ -155,7 +239,41 @@
                           </ul>
                         </td>
 
-                        <td class="cart-item__totals right" role="cell" headers="CartDrawer-ColumnTotal">
+                        <td class="cart-item__totals" role="cell" headers="CartDrawer-ColumnTotal">
+                          <cart-remove-button id="CartDrawer-Remove-{{ item.index | plus: 1 }}" data-index="{{ item.index | plus: 1 }}">
+                            <button class="button button--tertiary" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
+                              {%- render 'global-icon' icon: 'cross' -%}
+                            </button>
+                          </cart-remove-button>
+                          {%- if item.original_price != item.final_price -%}
+                            <div class="cart-item__discounted-prices">
+                              <span class="visually-hidden">
+                                {{ 'products.product.price.regular_price' | t }}
+                              </span>
+                              <s data-hulkapps-ci-price data-key='{{item.key}}' class="cart-item__old-price product-option">
+                                {{- item.original_price | money -}}
+                              </s>
+                              <span class="visually-hidden">
+                                {{ 'products.product.price.sale_price' | t }}
+                              </span>
+                              <strong data-hulkapps-ci-price data-key='{{item.key}}' class="cart-item__final-price product-option">
+                                {{ item.final_price | money }}
+                              </strong>
+                            </div>
+                          {%- elsif item.quantity >= 2 -%}
+                            <div class="product-option-original">
+
+                              <div data-hulkapps-ci-price data-key='{{ item.key }}' class="product-option">
+                                {{ item.original_price | money }}
+                              </div>
+                              {% comment %}
+                              <div data-key='{{ item.key }}' class="product-option">
+                                {{ item.original_price | money }}
+                              </div>
+                              {% endcomment %}
+                              <span class="product-option-original-piece">&nbsp;/ Stück </span>
+                            </div>
+                          {%- endif -%}
                           <div class="loading-overlay hidden">
                             <div class="loading-overlay__spinner">
                               <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
@@ -170,13 +288,13 @@
                                 <span class="visually-hidden">
                                   {{ 'products.product.price.regular_price' | t }}
                                 </span>
-                                <s  data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
+                                <s data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
                                   {{ item.original_line_price | money }}
                                 </s>
                                 <span class="visually-hidden">
                                   {{ 'products.product.price.sale_price' | t }}
                                 </span>
-                                <span  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
+                                <span data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                                   {{ item.final_line_price | money }}
                                 </span>
                               </div>
@@ -208,7 +326,7 @@
                                 <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: item.product.title | escape }}</span>
                                 {% render 'icon-minus' %}
                               </button>
-                              <input class="quantity__input"
+                              <input class="quantity__input cart-item__quantity-min"
                                 type="number"
                                 name="updates[]"
                                 value="{{ item.quantity }}"
@@ -222,14 +340,9 @@
                                 {% render 'icon-plus' %}
                               </button>
                             </quantity-input>
-
-                            <cart-remove-button id="CartDrawer-Remove-{{ item.index | plus: 1 }}" data-index="{{ item.index | plus: 1 }}">
-                              <button class="button button--tertiary" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
-                                {% render 'icon-remove' %}
-                              </button>
-                            </cart-remove-button>
-                          </div>
-
+                          </div>                          
+                        </td>
+                        <td class="cart-item__messages">
                           <div id="CartDrawer-LineItemError-{{ item.index | plus: 1 }}" class="cart-item__error" role="alert">
                             <small class="cart-item__error-text"></small>
                             <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 13 13">
@@ -239,8 +352,24 @@
                               <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
                             </svg>
                           </div>
+                          <div class='hulkapps-reminder' data-key='{{ item.key }}'></div>
+                          {%- if current_variant_bob_cart == "bob" or current_variant_bob_cart == "BOB" or current_variant_bob_cart == "tcb" -%}
+                            <span class="hulkapps-reminder-msg">Da Sie einen Baum hinzugefügt haben, betragen die Versandkosten 200,00.</span>
+                          {%- endif -%}
+                          {%- if current_variant_bob_cart == "mob" or current_variant_bob_cart == "MOB" -%}
+                            {%- unless item.variant.sku == "mob-livepicturegozwart" or item.variant.sku == "mob-8718819890089" or item.variant.sku == "mob-livepicturegowit" -%}
+                              <span class="hulkapps-reminder-msg">Da Sie eine Hecke hinzugefügt haben, betragen die Versandkosten 175,00.</span>
+                            {%- endunless -%}
+                          {%- endif -%}
+
+                          {% if sku_list contains item.variant.sku and item.quantity < 5 %}
+                            <span class="cart-item__messages-min-five"><figure>{%- render 'global-icon' icon: 'exclamation_mark_triangle' %}</figure>Für die gewählte Größe gilt eine Mindestbestellmenge von 5 Stück.</span>
+                          {% endif %}
+
+
                         </td>
                       </tr>
+
                     {%- endfor -%}
                   </tbody>
                 </table>
@@ -252,61 +381,53 @@
           <div id="CartDrawer-CartErrors" role="alert"></div>
         </form>
       </cart-drawer-items>
-      <div class="drawer__footer">
-        {%- if settings.show_cart_note -%}
-          <details id="Details-CartDrawer">
-            <summary>
-              <span class="summary__title">
-                {{ 'sections.cart.note' | t }}
-                {% render 'icon-caret' %}
-              </span>
-            </summary>
-            <cart-note class="cart__note field">
-              <label class="visually-hidden" for="CartDrawer-Note">{{ 'sections.cart.note' | t }}</label>
-              <textarea id="CartDrawer-Note" class="text-area text-area--resize-vertical field__input" name="note" placeholder="{{ 'sections.cart.note' | t }}">{{ cart.note }}</textarea>
-            </cart-note>
-          </details>
-        {%- endif -%}
+    </div>
+    <div id="CartDrawer" class="drawer__footer">
+      {%- if settings.show_cart_note -%}
+        <details id="Details-CartDrawer">
+          <summary>
+            <span class="summary__title">
+              {{ 'sections.cart.note' | t }}
+              {% render 'icon-caret' %}
+            </span>
+          </summary>
+          <cart-note class="cart__note field">
+            <label class="visually-hidden" for="CartDrawer-Note">{{ 'sections.cart.note' | t }}</label>
+            <textarea id="CartDrawer-Note" class="text-area text-area--resize-vertical field__input" name="note" placeholder="{{ 'sections.cart.note' | t }}">{{ cart.note }}</textarea>
+          </cart-note>
+        </details>
+      {%- endif -%}
 
-        <!-- Start blocks-->
-        <!-- Subtotals-->
+      <!-- Start blocks-->
+      <!-- Subtotals-->
 
-        <div class="cart-drawer__footer" {{ block.shopify_attributes }}>
-          <div class="totals" role="status">
-            <h2 class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}</h2>
-            <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
-          </div>
-
-          <div>
-            {%- if cart.cart_level_discount_applications.size > 0 -%}
-              <ul class="discounts list-unstyled" role="list" aria-label="{{ 'customer.order.discount' | t }}">
-                {%- for discount in cart.cart_level_discount_applications -%}
-                  <li class="discounts__discount discounts__discount--end">
-                    {%- render 'icon-discount' -%}
-                    {{ discount.title }}
-                    (-{{ discount.total_allocated_amount | money }})
-                  </li>
-                {%- endfor -%}
+      <div class="cart-drawer__footer" {{ block.shopify_attributes }}>
+        <div class="totals" role="status">
+          {% comment %}
+            {% if item.sku contains "bob" or item.sku contains "BOB" %}
+              <ul>
+                <li>Product totaal bob true  <span class="totals__subtotal h2">{{ cart.total_price | money_with_currency }}</span></li>
+                <li>verzend kosten <span>{{ 20000 | money_with_currency }}</span></li>
+                <p data-hulkapps-cart-total class="totals__subtotal-value">{{ cart.total_price | money_with_currency | plus: 20000 }}</p>
               </ul>
-            {%- endif -%}
-          </div>
+            {% else %}
+              <ul>
+                <li>Product totaal bob false  {{ cart.total_price | money_with_currency }} <span class="totals__subtotal h2">{{ 'sections.cart.subtotal' | t }} &lpar;{{ cart.item_count }} {{ 'sections.cart.total_products' | t }}&rpar;</span></li>
+                <li>verzend kosten <span>{{ '7,99' | money_with_currency }}<span></li>
+              </ul>
+            {% endif %}
+          {% endcomment %}
 
-          <small class="tax-note caption-large rte">
-            {%- if cart.taxes_included and shop.shipping_policy.body != blank -%}
-              {{ 'sections.cart.taxes_included_and_shipping_policy_html' | t: link: shop.shipping_policy.url }}
-            {%- elsif cart.taxes_included -%}
-              {{ 'sections.cart.taxes_included_but_shipping_at_checkout' | t }}
-            {%- elsif shop.shipping_policy.body != blank -%}
-              {{ 'sections.cart.taxes_and_shipping_policy_at_checkout_html' | t: link: shop.shipping_policy.url }}
-            {%- else -%}
-              {{ 'sections.cart.taxes_and_shipping_at_checkout' | t }}
-            {%- endif -%}
-          </small>
+            <span class="totals__subtotal h2">{{ 'sections.cart.subtotal' | t }} &lpar;{{ cart.item_count }} {{ 'sections.cart.total_products' | t }}&rpar;</span>
+            <p data-hulkapps-cart-total class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
+            <span class="inc-vat">incl. MwSt.</span>
         </div>
+      </div>
 
-        <!-- CTAs -->
+      <!-- CTAs -->
 
-        <div class="cart__ctas" {{ block.shopify_attributes }}>
+      <div class="cart__ctas" {{ block.shopify_attributes }}>
+        {% comment %}
           <noscript>
             <button type="submit" class="cart__update-button button button--secondary" form="CartDrawer-Form">
               {{ 'sections.cart.update' | t }}
@@ -314,13 +435,16 @@
           </noscript>
 
           <button type="submit" id="CartDrawer-Checkout" class="cart__checkout-button button" name="checkout" form="CartDrawer-Form"{% if cart == empty %} disabled{% endif %}>
-            {%- render 'global-icon' icon: 'cart-white' -%}{{ 'sections.cart.checkout' | t }} {%- render 'global-icon' icon: 'cart-white' -%}
+            {%- render 'global-icon' icon: 'cart-white' -%}{{ 'sections.cart.checkout' | t }}{%- render 'global-icon' icon: 'arrow-right' -%}
           </button>
-        </div>
+        {% endcomment %}
+        <a href="\cart" class="cart__checkout-button button">{%- render 'global-icon' icon: 'cart-white' -%}{{ 'sections.cart.checkout' | t }}{%- render 'global-icon' icon: 'arrow-right-buy-btn' -%}</a>
       </div>
     </div>
   </div>
 </cart-drawer>
+
+
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -342,3 +466,5 @@
     });
   });
 </script>
+
+

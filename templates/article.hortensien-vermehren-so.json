@@ -52,10 +52,10 @@
             "text": "<p>Hortensien können auf zwei verschiedene Arten vermehrt werden: Einerseits über <strong>Stecklinge<\/strong> im Sommer. Das ist die einfachste Methode. Oder über sogenannte <strong>Absenker<\/strong>. Das ist eine schnelle Methode, bei der es allerdings etwas länger dauert, bevor sich neue Pflanzen entwickelt haben.<\/p>"
           }
         },
-        "54acb727-2d2b-4374-af08-6525feb588d3": {
-          "type": "heading",
+        "547cace3-e7cc-4eda-b088-b3b1edb3c57a": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Das brauchen Sie zum Vermehren von Hortensien<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Das brauchen Sie zum Vermehren von Hortensien<\/h>"
           }
         },
         "dbf74ec8-115c-4b83-9e91-1aae9c0a85e3": {
@@ -64,10 +64,10 @@
             "text": "<p>Diese Dinge brauchen Sie, bevor es richtig losgehen kann: Für Stecklinge im Sommer benötigen Sie eine <strong>Stecklings- oder Gartenschere<\/strong>, ein scharfes Messer, eine Plastiktüte, Anzuchttöpfe sowie spezielle <strong>Anzuchterde<\/strong>. Um die Wurzelbildung zu beschleunigen, kann eventuell auch <strong>Stecklingspulver<\/strong> verwendet werden. Zum Vermehren über Absenker benötigen Sie einen Spaten und einen Ziegelstein.<\/p>"
           }
         },
-        "53283ad9-95ec-442f-92b7-ec3f80714e16": {
-          "type": "heading",
+        "8901ddba-e07f-43c9-a7a6-d420a3f977f9": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Stecklinge<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Stecklinge<\/h>"
           }
         },
         "e7458662-ec8e-46c9-ad9f-2cc22cd87ae9": {
@@ -91,10 +91,10 @@
             "columns_desktop": 3
           }
         },
-        "0bb6eeb7-f022-4c55-b2dd-299651b5b683": {
-          "type": "heading",
+        "69a9c973-1f0c-4a9a-8189-06e40ded16b7": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h2>Absenker<\/h2>"
+            "custom_liquid": "<h2 class=\"h3\">Absenker<\/h>"
           }
         },
         "e2769154-608a-4f9b-89e0-27fb11603147": {
@@ -165,13 +165,13 @@
       "block_order": [
         "template--19733878243677__568e36c8-6fd5-4138-a482-1d1c932c377b-heading-1",
         "template--19733878243677__568e36c8-6fd5-4138-a482-1d1c932c377b-text-1",
-        "54acb727-2d2b-4374-af08-6525feb588d3",
+        "547cace3-e7cc-4eda-b088-b3b1edb3c57a",
         "dbf74ec8-115c-4b83-9e91-1aae9c0a85e3",
-        "53283ad9-95ec-442f-92b7-ec3f80714e16",
+        "8901ddba-e07f-43c9-a7a6-d420a3f977f9",
         "e7458662-ec8e-46c9-ad9f-2cc22cd87ae9",
         "6489c6f9-7f5b-484d-b327-17de0e8d4bf4",
         "24d79865-5037-49e9-95bc-b97227d38b81",
-        "0bb6eeb7-f022-4c55-b2dd-299651b5b683",
+        "69a9c973-1f0c-4a9a-8189-06e40ded16b7",
         "e2769154-608a-4f9b-89e0-27fb11603147",
         "fd7920be-8b41-43e7-8144-41e1ed6d18b4",
         "f95b455a-4d2f-4b26-a6ae-ec7194f90d2c",

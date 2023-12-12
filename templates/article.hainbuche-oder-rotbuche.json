@@ -1,0 +1,316 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "6bb6bbdf-4b7a-4232-9a1d-be441fa6ded8": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "96838ada-b6df-4d3a-8640-9cf0d60abab4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rotbuchenhecke-blaettern.jpg",
+            "text": "Rotbuche",
+            "url": "shopify:\/\/products\/rotbuchenhecke"
+          }
+        },
+        "3249944e-a706-4a8c-aab6-da0d4fb62736": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuche-blaettern.jpg",
+            "text": "Hainbuche",
+            "url": "shopify:\/\/products\/hainbuche"
+          }
+        }
+      },
+      "block_order": [
+        "96838ada-b6df-4d3a-8640-9cf0d60abab4",
+        "3249944e-a706-4a8c-aab6-da0d4fb62736"
+      ],
+      "settings": {
+      }
+    },
+    "74fc5221-775b-4c02-b213-1267efb2e90e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20007729037661__74fc5221-775b-4c02-b213-1267efb2e90e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "1. Birken- und Buchengewächse"
+          }
+        },
+        "template--20007729037661__74fc5221-775b-4c02-b213-1267efb2e90e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hainbuchen und Rotbuchen gehören verschiedenen Pflanzenfamilien an. Die Hainbuche, mit dem botanischen Namen Carpinus betulus, zählt zur Familie der Birkengewächse (Betulaceae). Die Rotbuche, lateinisch Fagus sylvatica, gehört zur Familie der Buchengewächse (Fagaceae). Dabei unterscheidet man weiters zwischen der <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Rotbuche (Fagus sylvatica)<\/a> und der <a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Blutbuche (Fagus sylvatica atropunicea)<\/a>. Während sich Hainbuchen in Feucht- und Küstengebieten besonders wohlfühlen, gedeihen Rotbuchen am besten auf humusreichen, durchlässige Böden. Rotbuchen sind äußerst beliebte Heckenpflanzen, die man in vielen heimischen Gärten antrifft. <\/p>"
+          }
+        },
+        "09049a9b-ab6a-4ae1-a323-8aff919bde90": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/mischhecke-aus-rot-und-blutbuchen.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        },
+        "4a8580ca-f0a5-41ab-a641-b1f0ce6b1728": {
+          "type": "heading",
+          "settings": {
+            "heading": "2. Ganzjähriger Sichtschutz vs. Laubabwurf"
+          }
+        },
+        "25679e2f-5eec-4da5-b547-b8b30b7c2084": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Einer der größten Unterschiede ist wahrscheinlich die Tatsache, <strong>dass Hainbuchen im Winter ihre Blätter verlieren<\/strong>. Bei Rotbuchen ist das nicht der Fall. <strong>Rotbuchenhecken behalten auch im Winter ihre Blätter<\/strong>, die sich dann allerdings braun färben. Was den Sichtschutz betrifft, kann man also sagen, dass Rot- oder Blutbuchenhecken das ganze Jahr über relativ blickdicht bleiben und somit im Herbst und Winter einen besseren Sichtschutz bieten als Hainbuchenhecken. Hainbuchen dahingegen treiben im Frühling früher aus und sorgen somit schon früher im Jahr für eine dicht bewachsene grüne Hecke.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20007729037661__74fc5221-775b-4c02-b213-1267efb2e90e-heading-1",
+        "template--20007729037661__74fc5221-775b-4c02-b213-1267efb2e90e-text-1",
+        "09049a9b-ab6a-4ae1-a323-8aff919bde90",
+        "4a8580ca-f0a5-41ab-a641-b1f0ce6b1728",
+        "25679e2f-5eec-4da5-b547-b8b30b7c2084"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "9e407319-1f2f-4d34-b32f-103a57c8392d": {
+      "type": "tip-section",
+      "settings": {
+        "subheading": "Tipp:",
+        "text": "<p>Da Rotbuchenhecken das ganze Jahr über dicht bewachsen sind, dienen sie auch als Windschutz.<\/p>"
+      }
+    },
+    "20a4cc24-e9f8-4499-b651-676783f9e7c0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20007729037661__20a4cc24-e9f8-4499-b651-676783f9e7c0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "4. Unterschiede beim Pflanzen von Hainbuchen und Rotbuchen"
+          }
+        },
+        "template--20007729037661__20a4cc24-e9f8-4499-b651-676783f9e7c0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Hainbuche stellt beim Pflanzen wesentlich geringere Ansprüche an den Boden als die Rotbuche. So fühlen sich Hainbuchenhecken beispielsweise auch auf feuchten Böden und in Ufernähe sehr wohl. Auch lehmhaltige Böden stellen für die Hainbuche überhaupt kein Problem dar, während Rotbuchen das gar nicht mögen. Buchenhecken gedeihen am besten auf lockeren, sandhaltigen Böden, die nicht zu feucht, aber auch nicht zu trocken sind. Ausführlichere Informationen zum Pflanzen von Buchenhecken finden Sie unserem Blog-Beitrag „<a href=\"\/blogs\/ratgeber\/buchenhecke-pflanzen-wann-wie\" title=\"Buchenhecke pflanzen: Wann & wie?\">Buchenhecke pflanzen: Wann & wie?<\/a>“.<\/p>"
+          }
+        },
+        "9b7636fd-64fe-4104-9f5c-d40237d3291a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Was für das Wachstum von Buchenhecken ganz wichtig ist, sind <strong>Mykorrhiza-Kulturen<\/strong>. Diese Pilze regen das Wachstum der Pflanzen stark an. Deshalb empfiehlt es sich, beim Pflanzen einer Buchenhecke spezielle, mit diesen Kulturen angereicherte Erde zu verwenden. Die Ausfallrate der Jungpflanzen kann dadurch auf ein Minimum reduziert werden.<\/p>"
+          }
+        },
+        "5104d073-4460-4f8c-b975-aa9fbc09f73d": {
+          "type": "heading",
+          "settings": {
+            "heading": "5. Unterschiede beim Rückschnitt von Hainbuchen und Rotbuchen"
+          }
+        },
+        "2292088b-5690-4561-8c79-086cab0c9335": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Auch beim <a href=\"\/blogs\/ratgeber\/buchenhecke-zurueckschneiden-so-wird-s-gemacht\" title=\"Buchenhecke zurückschneiden: So wird‘s gemacht!\">Rückschnitt <\/a>gibt es einen ganz wesentlichen Unterschied zwischen Hainbuchen und Rotbuchenhecken. Bei <strong>Hainbuchenhecken<\/strong> sollte man mit dem ersten Rückschnitt warten, bis sich die Pflanzen optimal entwickelt haben und die Hecke die gewünschte Höhe erreicht hat. Erst dann, kann die Hainbuchenhecke zum ersten Mal zurückgeschnitten werden.<\/p><p><strong>Rotbuchenhecken<\/strong> dahingegen sollten von Anfang an regelmäßig gestutzt werden, damit sich die Pflanzen noch intensiver verzweigen können und immer dichter zusammen wachsen. Darüber hinaus stärkt der Rückschnitt die Pflanzen und sorgt somit für eine geringere Ausfallrate der Jungpflanzen.<\/p>"
+          }
+        },
+        "0491f6d6-18e9-481c-b6e3-48ce30e84327": {
+          "type": "heading",
+          "settings": {
+            "heading": "6. Die 4 Jahreszeiten der Hainbuche und Rotbuche"
+          }
+        },
+        "7c8794d3-a975-4131-bfb9-c06ac6725703": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Damit Sie sich ein noch besseres Bild davon machen können, wie sich Hainbuchen- und Rotbuchenhecken im Frühling, Sommer, Herbst und Winter unterschiedlich entwickeln, haben wir hier einige Fotos in einer kleinen Bildergalerie zusammengestellt. Dadurch wird der Unterschied noch deutlicher sichtbar und fällt Ihnen die Entscheidung vielleicht ein bisschen leichter!<\/p>"
+          }
+        },
+        "8e8234dc-2c04-45cd-8405-28d6a53f3bdc": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Foto 1: Hainbuche<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20007729037661__20a4cc24-e9f8-4499-b651-676783f9e7c0-heading-1",
+        "template--20007729037661__20a4cc24-e9f8-4499-b651-676783f9e7c0-text-1",
+        "9b7636fd-64fe-4104-9f5c-d40237d3291a",
+        "5104d073-4460-4f8c-b975-aa9fbc09f73d",
+        "2292088b-5690-4561-8c79-086cab0c9335",
+        "0491f6d6-18e9-481c-b6e3-48ce30e84327",
+        "7c8794d3-a975-4131-bfb9-c06ac6725703",
+        "8e8234dc-2c04-45cd-8405-28d6a53f3bdc"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "076ffaa2-54c4-4565-a2e2-9ce05ce5f76d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "8391e3aa-1b42-4d3e-98a2-f7ec037d660a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuchenhecke-in-voller-belaubung.jpg",
+            "text": "Hainbuchenhecke in voller Belaubung",
+            "url": ""
+          }
+        },
+        "39dd32f6-feac-4795-a78f-0f1a9f1be9a1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuche-in-herbstfaerbung.jpg",
+            "text": "Hainbuche in Herbstfärbung",
+            "url": ""
+          }
+        },
+        "bc1c5ba3-412a-4260-a62c-187de4de930e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blattfarbe-im-herbst.jpg",
+            "text": "Blattfarbe im Herbst",
+            "url": ""
+          }
+        },
+        "e8b1d78e-fdd7-4f37-9796-29c58a76d524": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuchenhecke-im-winter.jpg",
+            "text": "Hainbuchenhecke im Winter",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "8391e3aa-1b42-4d3e-98a2-f7ec037d660a",
+        "39dd32f6-feac-4795-a78f-0f1a9f1be9a1",
+        "bc1c5ba3-412a-4260-a62c-187de4de930e",
+        "e8b1d78e-fdd7-4f37-9796-29c58a76d524"
+      ],
+      "settings": {
+      }
+    },
+    "788ca5f5-2e01-4102-945c-b4b9bedf911c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20007729037661__788ca5f5-2e01-4102-945c-b4b9bedf911c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Foto 2: Rotbuche<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20007729037661__788ca5f5-2e01-4102-945c-b4b9bedf911c-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "97004cd9-0f67-47e3-a20e-6ef4938a544b": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "c6e2f254-fe44-446d-922e-b0e091d362fe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rotbuchenhecke-in-voller-belaubung.jpg",
+            "text": "Rotbuchenhecke in voller Belaubung",
+            "url": ""
+          }
+        },
+        "4ffcde30-0e35-42db-ba58-d63550330389": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rotbuche-in-herbstfaerbung.jpg",
+            "text": "Rotbuche in Herbstfärbung",
+            "url": ""
+          }
+        },
+        "ebb56610-9cde-41c0-ae67-ff0351056668": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blattfarbe-im-herbst-rotbuche.jpg",
+            "text": "Blattfarbe im Herbst",
+            "url": ""
+          }
+        },
+        "87c29170-6081-482e-a06d-c98cfcc575e6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rotbuchenhecke-im-winter_e2218a96-c162-4dcb-bcd9-9f8b071b761b.jpg",
+            "text": "Rotbuchenhecke im Winter",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "c6e2f254-fe44-446d-922e-b0e091d362fe",
+        "4ffcde30-0e35-42db-ba58-d63550330389",
+        "ebb56610-9cde-41c0-ae67-ff0351056668",
+        "87c29170-6081-482e-a06d-c98cfcc575e6"
+      ],
+      "settings": {
+      }
+    },
+    "30e25d78-dfdd-4cdb-a69d-97e390804438": {
+      "type": "author",
+      "settings": {
+        "author": "pim"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6bb6bbdf-4b7a-4232-9a1d-be441fa6ded8",
+    "74fc5221-775b-4c02-b213-1267efb2e90e",
+    "9e407319-1f2f-4d34-b32f-103a57c8392d",
+    "20a4cc24-e9f8-4499-b651-676783f9e7c0",
+    "076ffaa2-54c4-4565-a2e2-9ce05ce5f76d",
+    "788ca5f5-2e01-4102-945c-b4b9bedf911c",
+    "97004cd9-0f67-47e3-a20e-6ef4938a544b",
+    "30e25d78-dfdd-4cdb-a69d-97e390804438"
+  ]
+}

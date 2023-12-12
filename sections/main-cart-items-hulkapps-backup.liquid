@@ -6,7 +6,110 @@
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
 {{ 'section-bestsellers.css' | asset_url | stylesheet_tag }}
 {{ 'component-rebuy.css' | asset_url | stylesheet_tag }}
-
+{% capture sku_list %}
+  tch-8719325725131
+  tch-8719325725155
+  tch-8719325725162
+  tch-8719325725179
+  tch-8719325725186
+  tch-8719325725193
+  tch-8719325725216
+  tch-8719325725230
+  tch-8719325725247
+  tch-8719325725254
+  ful2-Ch.l.GWo;KL;100/125
+  ful2-Ch.l.GWo;KL;125/150-S
+  ful2-Ch.l.GWo;KL;150/175
+  ful2-Ch.l.GWo;KL;175/200-S
+  ful2-Ch.l.GWo;KL;200/225-S
+  ful2-Th.o.Hol;KL;100/125
+  ful2-Th.o.Hol;KL;125/150
+  ful2-Th.o.Hol-C-150 - 175 cm
+  ful2-Th.o.Hol-C-175 - 200 cm
+  ful2-Th.o.Hol-C-200 - 225 cm
+  ful2-Th.o.Hol-C-225 - 250 cm
+  ful2-Th.o.Hol-C-250 - 300 cm
+  ful2-Ch.l.Ivo;KL;100/125
+  ful2-Ch.l.Ivo;KL;125/150
+  ful2-Ch.l.Ivo;KL;150/175
+  ful2-Ch.l.Ivo;KL;175/200
+  ful2-Ch.l.Ivo;KL;200/225
+  ful2-Ch.l.Col;KL;100/125
+  bie-Ch.l.Col;KL;125/150|bkh-S
+  ful2-Ch.l.Col;KL;150/175
+  ful2-Ch.l.Col;KL;175/200
+  ful2-Cu.l.GRi;KL;100/125
+  ful2-Cu.l.GRi;KL;125/150|bkh-S
+  ful2-Cu.l.GRi-C-150 - 175 cm
+  ful2-Cu.l.GRi-C-175 - 200 cm
+  ful2-Cu.l.GRi-C-200 - 225 cm
+  ful2-Cu.l.GRi-C-225 - 250 cm
+  tch-8720663557247
+  tch-8720663557254
+  tch-8720663557261
+  tch-8720663557278
+  tch-8720663557285
+  ful2-Ch.l.Sta;KL;100/125
+  ful2-Ch.l.Sta;KL;125/150
+  ful2-Ch.l.Sta;KL;150/175
+  ful2-Ch.l.Sta;KL;175/200
+  ful2-Ch.l.Sta;KL;200/225
+  tch-1-8720663557285
+  tch-1-8720663557278
+  tch-1-8720663557261
+  tch-1-8720663557254
+  tch-1-8720663557247
+  ful2-Ch.l.WSp;100/125
+  ful2-Ch.l.WSp;125/150
+  ful2-Ch.l.WSp;150/175-S
+  ful2-Ch.l.WSp;175/200-S
+  ful2-Ch.l.WSp;200/225-S
+  ful2-Th.o.YRi;KL;100/125
+  ful2-Th.o.YRi;KL;125/150
+  ful2-Th.o.YRi;KL;150/175
+  ful2-Th.o.YRi;KL;175/200
+  ful2-Th.o.YRi;KL;200/225
+  tch-8719325725261
+  tch-8719325725278
+  tch-8719325725285
+  ful2-Ch.l.Ilo;KL;100/125-S
+  ful2-Ch.l.Ilo;KL;125/150-S
+  ful2-Ch.l.Ilo;KL;150/175
+  ful2-Ch.l.Ilo;KL;175/200
+  ful2-Ch.l.Ilo;KL;200/225
+  ful2-Th.p.Mar;KL;100/125
+  ful2-Th.p.Mar;KL;125/150
+  ful2-Th.p.Mar;KL;150/175
+  ful2-Th.p.Mar;KL;175/200
+  ful2-Th.p.Mar;KL;200/225
+  ful2-Th.p.Atr;kl;100/125
+  ful2-Th.p.Atr;kl;125/150
+  ful2-Th.p.Atr;kl;150/175
+  ful2-Th.p.Atr;kl;175/200
+  ful2-Th.p.Atr;kl;200/225
+  ful2-Th.p.Atr;kl;225/250
+  ful2-Th.p.Atr;kl;250/300
+  ful2-Cu.l.CGo;KL;100/125
+  ful2-Cu.l.CGo;KL;125/150
+  ful2-Cu.l.CGo;KL;150/175
+  ful2-Cu.l.CGo;KL;175/200
+  ful2-Cu.l.CGo-C-200 - 225 cm
+  ful2-Cu.l.CGo-C-225 - 250 cm
+  ful2-Th.o.Fri;KL100/125
+  ful2-Th.o.Fri;KL;125/150
+  ful2-Th.o.Fri;KL;150/175
+  ful2-Th.o.Fri;KL;175/200
+  ful2-Th.o.Fri;KL;200/225
+  ful2-Th.o.Fri;KL225/250
+  ful2-Th.o.Fri;KL250/300
+  ful2-Th.p.Gel;kl;100/125
+  ful2-Th.p.Gel;kl;125/150
+  ful2-Th.p.Gel;kl;150/175
+  ful2-Th.p.Gel;kl;175/200
+  ful2-Th.p.Gel;kl;200/225
+  ful2-Th.p.Gel;kl;225/250
+  ful2-Th.p.Gel;kl;250/300
+{% endcapture %}
 {%- unless settings.cart_type == 'drawer' -%}
   <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 {%- endunless -%}
@@ -35,12 +138,12 @@
     <div class="cart__items" id="main-cart-items" data-id="{{ section.id }}">
       <div class="js-contents">
         {%- if cart != empty -%}
-          <table class="cart-items">
+          <table class="cart-items main-cart-items">
             <caption class="visually-hidden">{{ 'sections.cart.title' | t }}</caption>
             <tbody>
               {{ item.product.vendor }}
               {%- for item in cart.items -%}
-                <tr  data-hulkapps-lineitem class="cart-item shadow" id="CartItem-{{ item.index | plus: 1 }}">
+                <tr data-hulkapps-lineitem class="cart-item shadow cart-page-item_info" id="CartItem-{{ item.index | plus: 1 }}">
                   <td class="cart-item__media">
                     {% if item.image %}
                       {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
@@ -57,6 +160,7 @@
                     {% endif %}
                   </td>
                   <td class="cart-item__details">
+                    <span class="cart-item__details-sku hidden">{{ item.sku }}</span>
                     {%- if settings.show_vendor -%}
                       <p class="caption-with-letter-spacing">{{ item.product.vendor }}</p>
                     {%- endif -%}
@@ -68,39 +172,41 @@
                         {%- if item.product.has_only_default_variant == false -%}
                           {%- for option in item.options_with_values -%}
                             <div class="product-option">
-                              <dt>{{ option.name }}: </dt>
                               <dd>{{ option.value }}</dd>
                             </div>
                             {%- assign item_sku = item.sku | slice: 0, 3 | escape | downcase | remove: "&nbsp;" -%}
 
-                            {% if item_sku == 'bob' %}
-                            <b>Versandkosten 200,00</b>
+                            {% if item_sku == 'bob' or item_sku == 'tcb' %}
+                            <span class="tooltiptext">Um Bäume ordentlich zu liefern, arbeiten wir mit einem speziellen Baumtransporter. Der Lieferzuschlag beträgt 200 Euro pro Bestellung.</span>
+                            {% endif %}
+                            {% if item_sku == 'mob' %}
+                            <span class="tooltiptext">Um Fertighecken ordentlich zu liefern, arbeiten wir mit einem speziellen Fertigenheckentransporter. Der Lieferzuschlag beträgt 175 Euro pro Bestellung.</span>
                             {% endif %}
                           {%- endfor -%}
                         {%- endif -%}
 
-<div class='hulkapps-reminder' data-key='{{item.key}}'></div><span data-hulkapps-line-properties>
-                        {%- for property in item.properties -%}
-                          {%- assign property_first_char = property.first | slice: 0 -%}
-                          {%- if property.last != blank and property_first_char != '_' -%}
-                            <div class="product-option">
-                              <dt>{{ property.first }}: </dt>
-                              <dd>
-                                {%- if property.last contains '/uploads/' -%}
-                                  <a href="{{ property.last }}" class="link" target="_blank">
-                                    {{ property.last | split: '/' | last }}
-                                  </a>
-                                {%- else -%}
-                                  {{ property.last }}
-                                {%- endif -%}
-                              </dd>
-                            </div>
-                          {%- endif -%}
-                        {%- endfor -%}
-</span>
-<button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
+                    <div class='hulkapps-reminder' data-key='{{item.key}}'></div>
+                    <span data-hulkapps-line-properties>
+                      {%- for property in item.properties -%}
+                        {%- assign property_first_char = property.first | slice: 0 -%}
+                        {%- if property.last != blank and property_first_char != '_' -%}
+                          <div class="product-option">
+                            <dt>{{ property.first }}: </dt>
+                            <dd>
+                              {%- if property.last contains '/uploads/' -%}
+                                <a href="{{ property.last }}" class="link" target="_blank">
+                                  {{ property.last | split: '/' | last }}
+                                </a>
+                              {%- else -%}
+                                {{ property.last }}
+                              {%- endif -%}
+                            </dd>
+                          </div>
+                        {%- endif -%}
+                      {%- endfor -%}
+                    </span>
+                    <button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
                       </dl>
-
                       <p class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</p>
                     {%- endif -%}
 
@@ -128,14 +234,14 @@
                             {{ 'products.product.price.regular_price' | t }}
                           </dt>
                           <dd>
-                            <s  data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
+                            <s data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
                               {{ item.original_line_price | money }}
                             </s>
                           </dd>
                           <dt class="visually-hidden">
                             {{ 'products.product.price.sale_price' | t }}
                           </dt>
-                          <dd  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
+                          <dd data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                             {{ item.final_line_price | money }}
                           </dd>
                         </dl>
@@ -169,6 +275,21 @@
                           <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: item.product.title | escape }}</span>
                           {% render 'icon-minus' %}
                         </button>
+                        {% if sku_list contains item.variant.sku  %}
+                        <input class="quantity__input cart-item__quantity-min-specific"
+                          type="number"
+                          name="updates[]"
+                          {% if item.quantity < 5 %}
+                          value="5"
+                          {% else %}
+                          value="{{ item.quantity }}"
+                          {% endif %}
+                          min="5"
+                          aria-label="{{ 'products.product.quantity.input_label' | t: product: item.product.title | escape }}"
+                          id="Quantity-{{ item.index | plus: 1 }}"
+                          data-index="{{ item.index | plus: 1 }}"
+                        >
+                        {% else %}
                         <input class="quantity__input"
                           type="number"
                           name="updates[]"
@@ -178,6 +299,7 @@
                           id="Quantity-{{ item.index | plus: 1 }}"
                           data-index="{{ item.index | plus: 1 }}"
                         >
+                        {% endif %}
                         <button class="quantity__button no-js-hidden" name="plus" type="button">
                           <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: item.product.title | escape }}</span>
                           {% render 'icon-plus' %}
@@ -201,21 +323,34 @@
                             {{ 'products.product.price.regular_price' | t }}
                           </dt>
                           <dd>
-                            <s  data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
+                            <s data-hulkapps-line-price data-key='{{item.key}}' class="cart-item__old-price price price--end">
                               {{ item.original_line_price | money }}
                             </s>
                           </dd>
                           <dt class="visually-hidden">
                             {{ 'products.product.price.sale_price' | t }}
                           </dt>
-                          <dd  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
+                          <dd data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                             {{ item.final_line_price | money }}
                           </dd>
                         </dl>
                       {%- else -%}
+
+                      {% if item.quantity >= 2 %}
+                        <div class="price-total-hulk">
+                        <div data-hulkapps-ci-price data-key='{{ item.key }}' class="product-option">
+                          {{ item.original_price | money }}
+                        </div>
+                        <span>/ Stück</span>
+                        </div>
                         <span  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
                           {{ item.original_line_price | money }}
                         </span>
+                      {% else %}
+                        <span  data-hulkapps-line-price data-key='{{item.key}}' class="price price--end">
+                          {{ item.original_line_price | money }}
+                        </span>
+                      {% endif %}  
                       {%- endif -%}
 
                       {%- if item.variant.available and item.unit_price_measurement -%}
@@ -232,15 +367,22 @@
                       {%- endif -%}
                     </div>
                   </td>
+                  <td class="cart-item__messages">
+                      {% if sku_list contains item.variant.sku %}
+                        <span class="cart-item__messages-min-five"><figure>{%- render 'global-icon' icon: 'exclamation_mark_triangle' %}</figure>Für die gewählte Größe gilt eine Mindestbestellmenge von 5 Stück.</span>
+                      {% endif %}
+                  </td>
                   <td class="cart-item__remove">
                     <cart-remove-button id="Remove-{{ item.index | plus: 1 }}" data-index="{{ item.index | plus: 1 }}">
                       <a href="{{ item.url_to_remove }}" class="button button--tertiary" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
-                        {% render 'global-icon' icon: 'cross' %}
+                        {% render 'global-icon' icon: 'close' %}
                       </a>
                     </cart-remove-button>
                   </td>
+
                 </tr>
-                <tr  data-hulkapps-lineitem class="separator" colspan="2" style="height: 10px;"></tr>
+
+                <tr data-hulkapps-lineitem class="separator" colspan="2" style="height: 10px;"></tr>
               {%- endfor -%}
             </tbody>
           </table>
@@ -253,8 +395,8 @@
   </form>
 </cart-items>
 
-<div class="page-width bestsellers cart__items-rebuy">
-  <div class="bestsellers--inner">
+<div class="page-width cart__items-rebuy">
+  <div class="cart__items-rebuy--inner">
     <div class="rebuy--upsel-cart" data-rebuy-id="68962" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
   </div>
 </div>

@@ -80,8 +80,8 @@
         "5860303b-bd94-4b42-b3a3-de28689f954c": {
           "type": "breadcrumb_link",
           "settings": {
-            "breadcrumb_text": "Weihnachten",
-            "breadcrumb_link": "shopify:\/\/collections\/weihnachten"
+            "breadcrumb_text": "",
+            "breadcrumb_link": ""
           }
         }
       },
@@ -102,15 +102,116 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller Weihnachtsdeko",
-        "featured_product_one": "unzerbrechlicher-christbaumschmuck-gold-33-stuck",
-        "featured_product_two": "weihnachtbaumanhaenger-stern-rot",
-        "featured_product_three": "weihnachtsbaumanhaenger-tannenbaum-gold",
+        "top_sellers": "Topseller Weihnachten",
+        "featured_product_one": "premium-nordmann-tanne",
+        "featured_product_two": "christbaumstaender-cinco",
+        "featured_product_three": "unzerbrechlicher-christbaumschmuck-gold-33-stuck",
         "color_scheme": "background-1"
+      }
+    },
+    "5c822a30-fb04-40aa-914d-698ef28d482f": {
+      "type": "populair-collections",
+      "blocks": {
+        "template--20058127139165__5c822a30-fb04-40aa-914d-698ef28d482f-collection_grid_links-1": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/echte-weihnachtsbaeume",
+            "image": "shopify:\/\/shop_images\/echte-weihnachtsbaeume.png",
+            "header": "Echte Weihnachts-bäume"
+          }
+        },
+        "34f0f4c7-344a-4381-a30e-c1adaa81f191": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/kuenstliche-weihnachtsbaeume",
+            "image": "shopify:\/\/shop_images\/kuenstliche-weihnachstbaeume.jpg",
+            "header": "Künstliche Weihnachtsbäume"
+          }
+        },
+        "aebc5a65-df4e-4285-99bd-293818b15d7e": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/christbaumstaender",
+            "image": "shopify:\/\/shop_images\/Bitmap.png",
+            "header": "Christbaum-ständer"
+          }
+        },
+        "b9d62eca-6dcc-4441-81c3-cba3cd1ca3f7": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/weihnachtskraenze",
+            "image": "shopify:\/\/shop_images\/weihnachtskranz-warth-60-cm.jpg",
+            "header": "Weihnachtskränze"
+          }
+        },
+        "e03aa20a-61f4-4437-9e68-b1776c448510": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/weihnachtsdeko",
+            "image": "shopify:\/\/shop_images\/christbaumschmuck-rot.jpg",
+            "header": "Weihnachtsdeko"
+          }
+        },
+        "9fa69a64-b48f-4393-8b23-eb63613403bc": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/weihnachtsbeleuchtung",
+            "image": "shopify:\/\/shop_images\/lichterkette-warmweiss-1350-cm-180-leds-im-baum.jpg",
+            "header": "Weihnachts- beleuchtung"
+          }
+        }
+      },
+      "block_order": [
+        "template--20058127139165__5c822a30-fb04-40aa-914d-698ef28d482f-collection_grid_links-1",
+        "34f0f4c7-344a-4381-a30e-c1adaa81f191",
+        "aebc5a65-df4e-4285-99bd-293818b15d7e",
+        "b9d62eca-6dcc-4441-81c3-cba3cd1ca3f7",
+        "e03aa20a-61f4-4437-9e68-b1776c448510",
+        "9fa69a64-b48f-4393-8b23-eb63613403bc"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "header": "Unsere belieptesten Kategorien",
+        "text": "",
+        "mobile_swipe": false
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "blocks": {
+        "d9da9353-889b-405e-9e0b-1e6ca54006e1": {
+          "type": "collection_grid_links",
+          "disabled": true,
+          "settings": {
+            "url": "shopify:\/\/collections\/echte-weihnachtsbaeume",
+            "header": "Echte Weihnachtsbäume"
+          }
+        },
+        "63a66e06-2f80-47a7-a59e-8f1b9528da9a": {
+          "type": "collection_grid_links",
+          "disabled": true,
+          "settings": {
+            "url": "shopify:\/\/collections\/christbaumstaender",
+            "header": "Christbaumständer"
+          }
+        },
+        "919654ff-8f5b-42b9-9fff-501992966b55": {
+          "type": "collection_grid_links",
+          "disabled": true,
+          "settings": {
+            "url": "shopify:\/\/collections\/weihnachtsdeko",
+            "image": "shopify:\/\/shop_images\/weihnachtskugeln-gold-verpackt.jpg",
+            "header": "Weihnachtsdeko"
+          }
+        }
+      },
+      "block_order": [
+        "d9da9353-889b-405e-9e0b-1e6ca54006e1",
+        "63a66e06-2f80-47a7-a59e-8f1b9528da9a",
+        "919654ff-8f5b-42b9-9fff-501992966b55"
+      ],
       "settings": {
         "collection_columns_desktop": 6,
         "show_usp": true,
@@ -186,6 +287,7 @@
     "c98a9e16-53f7-4c4f-bde3-90d383a71cc6",
     "16636997769ffcaf8a",
     "banner",
+    "5c822a30-fb04-40aa-914d-698ef28d482f",
     "product-grid",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff",
     "65e6bb14-9d81-47ff-894a-fb634c9b2619"

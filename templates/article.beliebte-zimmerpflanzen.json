@@ -55,10 +55,10 @@
             "heading": "<h2>Das sind die beliebtesten Zimmerpflanzen<\/h2>"
           }
         },
-        "ff02a29e-83d6-404e-8b51-c4370d9824fb": {
-          "type": "heading",
+        "0b0b1bed-454d-4561-855c-39cf23d45e9f": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Drachenbaum <\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Drachenbaum<\/h>"
           }
         },
         "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-text-1": {
@@ -67,10 +67,10 @@
             "text": "<p>Unsere Liste der beliebtesten Zimmerpflanzen wird von dem <a href=\"\/products\/junger-drachenbaum\" title=\"Junger Drachenbaum\">Drachenbaum<\/a> angeführt.  Wie erklärt sich die Beliebtheit des Drachenbaums? Wie <strong>exotische Bäumchen<\/strong> sehen diese Zimmerpflanzen aus. Sie erinnern an einen Urlaub auf den Kanarischen Inseln. Die Drachenbaumarten, die wir als Zimmerpflanzen verwenden, sind in ihrem Aussehen sehr unterschiedlich ausgeprägt. Sie haben glänzende, spitz zulaufende Blätter, die entweder dunkelgrün, gestreift oder gepunktet sind. <\/p><p>Der dichte Blattschopf sitzt aufrecht oder übergeneigt auf den Stämmchen. Bei Gartencenter.de haben Sie die Wahl zwischen verschiedenen Wuchshöhen. Eine beliebte Solitärpflanze im Kübel ist der hohe, mehrstämmige <a href=\"\/products\/drachenbaum-1\" title=\"Drachenbaum 'Marginata'\">Drachenbaum 'Marginata'<\/a>.<\/p>"
           }
         },
-        "a47e4d61-0719-4720-95a6-adea270307b2": {
-          "type": "heading",
+        "7ddcafdf-a669-4055-9cd7-41ecfb8446fd": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Bogenhanf<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Bogenhanf<\/h>"
           }
         },
         "bd0559d5-49d9-46a6-9357-a67ed4b8f7fe": {
@@ -83,9 +83,9 @@
       "block_order": [
         "238f5af5-2c7d-4b17-b38a-512cad7c7639",
         "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-heading-1",
-        "ff02a29e-83d6-404e-8b51-c4370d9824fb",
+        "0b0b1bed-454d-4561-855c-39cf23d45e9f",
         "template--19901302178141__e6085cae-d5fb-4668-bbc7-64e5bd2a7391-text-1",
-        "a47e4d61-0719-4720-95a6-adea270307b2",
+        "7ddcafdf-a669-4055-9cd7-41ecfb8446fd",
         "bd0559d5-49d9-46a6-9357-a67ed4b8f7fe"
       ],
       "settings": {
@@ -123,10 +123,10 @@
     "cadf981e-1d8b-4a00-aa39-3030ea472ff9": {
       "type": "rich-text",
       "blocks": {
-        "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-heading-1": {
-          "type": "heading",
+        "d3b68555-b684-42ca-b2de-919fe33f7dd3": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Kolbenfaden<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Kolbenfaden<\/h>"
           }
         },
         "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-text-1": {
@@ -135,10 +135,10 @@
             "text": "<p>Zu den beliebten Blattpflanzen, für die man keinen grünen Daumen braucht, gehört auch der <a href=\"\/products\/kolbenfaden\" title=\"Kolbenfaden\">Kolbenfaden<\/a>. Die Grünpflanze mit den auffälligen Blättern in Silber, Grau und Grün  braucht keinen Platz an der Sonne. Sie kann in den hinteren Bereichen von Büro- und Wohnräumen stehen. Die Standortvielfalt und die Pflegeleichtigkeit erklären den dritten Platz unter den beliebtesten Zimmerpflanzen.<\/p>"
           }
         },
-        "74036db3-98f5-4069-921c-10e48049c1d8": {
-          "type": "heading",
+        "42c07833-504f-4363-8ee3-d6602b5d00aa": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Kentiapalme<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Kentiapalme<\/h>"
           }
         },
         "473bce26-0652-47ef-ae47-72dcd2d7ccb0": {
@@ -149,9 +149,9 @@
         }
       },
       "block_order": [
-        "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-heading-1",
+        "d3b68555-b684-42ca-b2de-919fe33f7dd3",
         "template--19901302178141__cadf981e-1d8b-4a00-aa39-3030ea472ff9-text-1",
-        "74036db3-98f5-4069-921c-10e48049c1d8",
+        "42c07833-504f-4363-8ee3-d6602b5d00aa",
         "473bce26-0652-47ef-ae47-72dcd2d7ccb0"
       ],
       "settings": {
@@ -189,10 +189,10 @@
     "bde33166-360a-4fef-b6e9-4bf2c54e166a": {
       "type": "rich-text",
       "blocks": {
-        "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-heading-1": {
-          "type": "heading",
+        "025c6b77-85e5-4444-8387-0660830efac3": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Geigenfeige<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Geigenfeige<\/h>"
           }
         },
         "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-text-1": {
@@ -201,10 +201,10 @@
             "text": "<p>Die <a href=\"\/products\/geigenfeige\" title=\"Geigenfeige\">Geigenfeige<\/a> ist eine besondere Ficus-Art. Sie ist wegen ihrer sehr <strong>dekorativen dunkelgrünen Blätter<\/strong>, die dem Korpus einer Geige ähneln, sehr beliebt. Charakteristisch ist der schlanke, aufrechte Wuchs. Daher benötigt diese Grünpflanze nur wenig Platz in der Breite. Ideal sind absonnige Standorte. Geigenfeigen können hoch wachsen. Sie vertragen einen Rückschnitt, wenn man sie nicht so hoch wachsen lassen möchte.<br\/><\/p>"
           }
         },
-        "ea3f5340-1127-481b-a2b7-15511795b746": {
-          "type": "heading",
+        "222c3684-80c3-4bc1-89b9-0eb35a0dc77a": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Elefantenfuß<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Elefantenfuß<\/h>"
           }
         },
         "f120e63e-b81a-4d40-a858-23712239862e": {
@@ -215,9 +215,9 @@
         }
       },
       "block_order": [
-        "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-heading-1",
+        "025c6b77-85e5-4444-8387-0660830efac3",
         "template--19901302178141__bde33166-360a-4fef-b6e9-4bf2c54e166a-text-1",
-        "ea3f5340-1127-481b-a2b7-15511795b746",
+        "222c3684-80c3-4bc1-89b9-0eb35a0dc77a",
         "f120e63e-b81a-4d40-a858-23712239862e"
       ],
       "settings": {
@@ -255,10 +255,10 @@
     "6141966c-855e-4f23-be72-a4b9ff5807bc": {
       "type": "rich-text",
       "blocks": {
-        "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-heading-1": {
-          "type": "heading",
+        "a70720bf-bcf0-4955-a0d8-425be5461123": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Fensterblatt<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Fensterblatt<\/h>"
           }
         },
         "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-text-1": {
@@ -267,10 +267,10 @@
             "text": "<p>Ein Klassiker unter den beliebten Zimmerpflanzen, der sich als Grünpflanze schon seit Jahrzehnten großer Beliebtheit erfreut, ist das <a href=\"\/products\/fensterblatt\" title=\"Fensterblatt\">Fensterblatt<\/a>. Die Form der großen, ledrigen Blätter ist einzigartig. Das <strong>unregelmäßig gezackte Blatt <\/strong>wird als Motiv für Kissen, Wandsticker und andere Dekorationsgegenstände verwendet. Auch das trägt zur Beliebtheit der pflegeleichten Zimmerpflanze bei.<\/p>"
           }
         },
-        "df5b0676-0e61-44a3-bc54-625779a60489": {
-          "type": "heading",
+        "62d6f610-9828-4dcb-aeca-59df2cf4d63d": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Einblatt<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Einblatt<\/h>"
           }
         },
         "a881ac5a-4de6-4d15-a61c-17b318ac1b49": {
@@ -281,9 +281,9 @@
         }
       },
       "block_order": [
-        "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-heading-1",
+        "a70720bf-bcf0-4955-a0d8-425be5461123",
         "template--19901302178141__6141966c-855e-4f23-be72-a4b9ff5807bc-text-1",
-        "df5b0676-0e61-44a3-bc54-625779a60489",
+        "62d6f610-9828-4dcb-aeca-59df2cf4d63d",
         "a881ac5a-4de6-4d15-a61c-17b318ac1b49"
       ],
       "settings": {
@@ -321,10 +321,10 @@
     "fa432e22-dd6c-4546-b811-48cd5addb297": {
       "type": "rich-text",
       "blocks": {
-        "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-heading-1": {
-          "type": "heading",
+        "4fc429e9-3a37-47f4-90d2-182561ac0c44": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Gummibaum<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Gummibaum<\/h>"
           }
         },
         "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-text-1": {
@@ -333,10 +333,10 @@
             "text": "<p>In den 60er und 70er Jahren war der <a href=\"\/products\/gummibaum\" title=\"Gummibaum\">Gummibaum<\/a> sehr beliebt. Er durfte in keinem Wohnzimmer fehlen. Das Comeback als Raumbegrüner und die aktuelle Beliebtheit hat sicherlich auch mit dem Retro-Trend zu tun. Der Gummibaum Ficus elastica hat dunkelgrüne, <strong>glänzende Blätter<\/strong> mit kurzen Blattstielen. Diese Baumart aus dem Nordosten Indiens kann im Wohnzimmer sehr groß werden. Sollte er zu viel Platz beanspruchen, kann er eingekürzt werden. <\/p>"
           }
         },
-        "e6a5f792-571c-4ec9-ab97-0d2e80eeb5ae": {
-          "type": "heading",
+        "a82c7491-d340-4ad3-a1f6-06a743a2ab2f": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Pfauen-Korbmarante<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Pfauen-Korbmarante<\/h>"
           }
         },
         "9e178804-9ce6-49e1-abc0-fe0a42376cec": {
@@ -347,9 +347,9 @@
         }
       },
       "block_order": [
-        "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-heading-1",
+        "4fc429e9-3a37-47f4-90d2-182561ac0c44",
         "template--19901302178141__fa432e22-dd6c-4546-b811-48cd5addb297-text-1",
-        "e6a5f792-571c-4ec9-ab97-0d2e80eeb5ae",
+        "a82c7491-d340-4ad3-a1f6-06a743a2ab2f",
         "9e178804-9ce6-49e1-abc0-fe0a42376cec"
       ],
       "settings": {
@@ -387,10 +387,10 @@
     "49480b67-a281-4bd4-b5cf-c835b2712509": {
       "type": "rich-text",
       "blocks": {
-        "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-heading-1": {
-          "type": "heading",
+        "98a37a2f-c6ee-44e1-a45a-2b5166927328": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Grünlilie<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Grünlilie<\/h>"
           }
         },
         "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-text-1": {
@@ -399,10 +399,10 @@
             "text": "<p>Besser bekannt ist die <a href=\"\/products\/gruenlilie\" title=\"Grünlilie\">Grünlilie<\/a> unter dem Trivialnamen Graslilie. Seit dem 19. Jahrhundert schmückt sie unsere Wohnräume und gedeiht auch bei wenig Licht. Die beliebte Zimmerpflanze mit den langen, <strong>grasartigen Blättern<\/strong> und den zarten, weißen Blüten eignet sich für Ampeln und Fensterbänke. Eine Graslilie „verzeiht“ Ihnen, wenn Sie mal das Gießen vergessen haben.<\/p>"
           }
         },
-        "78e24d1b-4d4d-4a6e-9e24-0fa2408335d7": {
-          "type": "heading",
+        "02944fff-adbd-40d4-85e2-23873fa681b7": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Birkenfeige<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Birkenfeige<\/h>"
           }
         },
         "a1e8db14-74f8-4659-b41e-b4b0b5a02430": {
@@ -411,10 +411,10 @@
             "text": "<p>Strauch oder Baum? Diese <a href=\"\/products\/birkenfeige\" title=\"Birkenfeige\">Birkenfeige<\/a> (Ficus benjamina) wird als Strauch geliefert. Die Blätter sind oval und glänzend hellgrün, wenn sie jung sind. Im Alter werden sie dunkelgrün. Bei guter Pflege und optimalem Standort ohne direkte Sonne kann der Benjamini sehr alt werden.<\/p>"
           }
         },
-        "bfc458ad-20cd-4432-8973-3de7ff355a56": {
-          "type": "heading",
+        "c2b01b23-c83d-4ada-bacc-ae5283fd89a4": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Glücksfeder<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Glücksfeder<\/h>"
           }
         },
         "5fadb9ae-5b79-4382-aee7-5f637c6d769c": {
@@ -425,11 +425,11 @@
         }
       },
       "block_order": [
-        "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-heading-1",
+        "98a37a2f-c6ee-44e1-a45a-2b5166927328",
         "template--19901302178141__49480b67-a281-4bd4-b5cf-c835b2712509-text-1",
-        "78e24d1b-4d4d-4a6e-9e24-0fa2408335d7",
+        "02944fff-adbd-40d4-85e2-23873fa681b7",
         "a1e8db14-74f8-4659-b41e-b4b0b5a02430",
-        "bfc458ad-20cd-4432-8973-3de7ff355a56",
+        "c2b01b23-c83d-4ada-bacc-ae5283fd89a4",
         "5fadb9ae-5b79-4382-aee7-5f637c6d769c"
       ],
       "settings": {

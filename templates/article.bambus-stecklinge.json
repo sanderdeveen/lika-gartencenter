@@ -96,10 +96,10 @@
             "text": "<p>Es gibt nicht nur eine Art, Bambus zu vermehren. Es gibt sogar drei verschiedene Möglichkeiten, für die vegetative Vermehrung. Sie können einen Bambus teilen oder mit einem scharfen Messer einen Steckling abschneiden. Der Steckling kann dann entweder in die Erde oder in Wasser gesetzt werden. Wenn Sie dies sorgfältig tun, wird der Steckling schnell zu einer starken neuen Bambuspflanze heranwachsen. Für das Stecken des Bambus spielt es keine Rolle, welche Bambusart Sie vermehren möchten. Es geht also hauptsächlich darum, was Sie vorteilhaft finden und was für Sie funktioniert.<\/p>"
           }
         },
-        "4b24a00f-2e03-4476-b98b-2e952a681e74": {
-          "type": "heading",
+        "7f34e582-a4f2-46f0-ba1d-fe28ccf18dbe": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Stecklingsschnitt: wurzellose Stecklinge in Erde oder Wasser<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Stecklingsschnitt: wurzellose Stecklinge in Erde oder Wasser<\/h>"
           }
         },
         "a7a755c9-ab5f-4aad-b396-eef0c6538519": {
@@ -128,7 +128,7 @@
         "48d2a6df-37ab-4acc-8036-580dff1122a3",
         "964d025e-d2f2-420e-8e62-16299e6282e6",
         "7ed84641-1f52-4c56-bb79-975942979a9c",
-        "4b24a00f-2e03-4476-b98b-2e952a681e74",
+        "7f34e582-a4f2-46f0-ba1d-fe28ccf18dbe",
         "a7a755c9-ab5f-4aad-b396-eef0c6538519",
         "048ad7ed-305b-4b54-9336-78f1e5574aaa"
       ],
@@ -140,10 +140,10 @@
     "e248e135-d816-4f95-94b1-817efda631cd": {
       "type": "rich-text",
       "blocks": {
-        "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-heading-1": {
-          "type": "heading",
+        "223fac84-8dee-4bce-a707-b79124b4b83f": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Stecklinge in der Erde anwurzeln lassen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Stecklinge in der Erde anwurzeln lassen<\/h>"
           }
         },
         "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-text-1": {
@@ -168,10 +168,10 @@
             "columns_desktop": 1
           }
         },
-        "6e5e7607-186a-46f6-9ea3-4540d4fbc47c": {
-          "type": "heading",
+        "e2a73c78-74bb-4a1e-a490-9921fb4540cf": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Bambus-Stecklinge im Wasser vermehren<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Bambus-Stecklinge im Wasser vermehren<\/h>"
           }
         },
         "3888d5be-ae5f-479f-be71-7996e9a2f1bb": {
@@ -189,10 +189,10 @@
             "columns_desktop": 1
           }
         },
-        "1be834fe-43c6-43c7-8d2e-440419c307eb": {
-          "type": "heading",
+        "78880f51-4fea-4bac-bcda-8cf3079357d9": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Mit Wurzeln: Bambus teilen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Mit Wurzeln: Bambus teilen<\/h>"
           }
         },
         "f6ca7c20-29a4-4c82-b328-ade61e4a7a71": {
@@ -222,14 +222,14 @@
         }
       },
       "block_order": [
-        "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-heading-1",
+        "223fac84-8dee-4bce-a707-b79124b4b83f",
         "template--19944361918813__e248e135-d816-4f95-94b1-817efda631cd-text-1",
         "9848d276-8a97-47c3-a3e2-b22d9bfb7284",
         "d0cb6bc2-20e1-4c32-baa9-b72fa30daf8f",
-        "6e5e7607-186a-46f6-9ea3-4540d4fbc47c",
+        "e2a73c78-74bb-4a1e-a490-9921fb4540cf",
         "3888d5be-ae5f-479f-be71-7996e9a2f1bb",
         "7500d271-98c8-4042-afae-eb180c25cf19",
-        "1be834fe-43c6-43c7-8d2e-440419c307eb",
+        "78880f51-4fea-4bac-bcda-8cf3079357d9",
         "f6ca7c20-29a4-4c82-b328-ade61e4a7a71",
         "cac5cdd9-6afd-49ea-9711-7b34f3540697",
         "14a0bd17-e377-47f6-8e7f-43f82e3eaf2c",

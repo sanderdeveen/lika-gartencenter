@@ -30,10 +30,20 @@
   padding: 0 !important;
 }
 
+.rich-text__checklist a {
+  color: #7bba59;
+  text-decoration: none;
+}
+
 .rich-text__checklist li {
   display: flex;
   align-items: center;
   gap: 4px;
+  margin-bottom: 10px;
+}
+
+.rich-text__checklist li::before {
+ content: '✔';
 }
 
 .rich-text__checklist .icon {
@@ -352,6 +362,14 @@
   }
 }
 
+.rich-text__orderedlist {
+  padding-left: 25px;
+}
+
+.rich-text__orderedlist li {
+  margin-bottom: 10px;
+}
+
 .rich-text__orderedlist-fat {
   list-style: none;
   counter-reset: item;
@@ -360,8 +378,6 @@
 
 .rich-text__orderedlist-fat li {
   counter-increment: item;
-  display: flex;
-  align-items: center;
   line-height: 200%;
   position: relative;
   margin-bottom: 10px;

@@ -94,10 +94,10 @@
             "text": "<p>Wenn Sie die geeigneten Blüten abgeschnitten haben, wird es Zeit, sie zu trocknen. Dazu gibt es mehrere Möglichkeiten. Für alle Methoden gilt jedoch, dass die Blätter abgeschnitten werden sollten, da die Blüten dann am schönsten trocknen.<\/p>"
           }
         },
-        "76fd738b-c21b-4d2c-b185-f31c02710db5": {
-          "type": "heading",
+        "9e871f5f-f94e-4e9b-b65f-32a7d344ccb8": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Hortensien in der Vase trocknen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Hortensien in der Vase trocknen<\/h>"
           }
         },
         "1c59aefd-09bd-4201-a92c-27d1cce99588": {
@@ -106,10 +106,10 @@
             "text": "<p>Die einfachste Methode ist, die Hortensienblüten mit wenig Wasser in der Vase trocknen zu lassen. Stellen Sie die abgeschnittenen Hortensien in ein Gefäß, das circa zwei bis drei Zentimeter mit Wasser gefüllt ist und platzieren Sie es an einem kühlen, dunklen Ort. Durch das Wasser trocknen die Hortensien ganz langsam und behalten dabei größtenteils ihre ursprüngliche Farbe. Diese Art der Trocknung gelingt ohne viel Aufwand, dauert aber eine gewisse Zeit.<\/p>"
           }
         },
-        "95d2b5b9-88f3-4e94-b0f1-c559dc46c4ed": {
-          "type": "heading",
+        "94b45e98-9c86-46b7-a9cd-b024b31b5db7": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Hortensien hängend trocknen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Hortensien hängend trocknen<\/h>"
           }
         },
         "d2af8cc5-7602-45b2-83de-9bfce104a94d": {
@@ -127,10 +127,10 @@
             "columns_desktop": 1
           }
         },
-        "5c2664aa-03f9-40df-98ef-70203963a7cd": {
-          "type": "heading",
+        "45b0d7dd-0a0d-4f51-9ee4-e548633dc9ea": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Sand, Katzenstreu oder Silica-Gel<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Sand, Katzenstreu oder Silica-Gel<\/h>"
           }
         },
         "87de0fd3-d5a9-40e8-9d50-57bc4542056a": {
@@ -139,10 +139,10 @@
             "text": "<p>Die ersten beiden Methoden sind die einfachsten, weil man dazu nichts benötigt, was nicht ohnehin in jedem Haushalt vorhanden ist. Das Trocknen mit Sand, Katzenstreu oder Silica-Gel ist vielleicht etwas aufwendiger, aber die beste Konservierungsmethode, bei der die natürlichen Farben der Hortensienblüten noch besser erhalten bleiben.<\/p><p>Schneiden Sie die Blütenstängel so kurz wie möglich ab. Legen Sie je eine Blüte in einen mit Sand, Katzenstreu oder Silica-Gel gefüllten, luftdicht verschließbaren Behälter. Füllen Sie den Behälter vorsichtig mit demselben Material auf und verschließen Sie ihn. Nach ungefähr einer Woche können die getrockneten Hortensien aus dem Behälter genommen werden. Die Blüten sind dann perfekt getrocknet, ohne ihre ursprüngliche Farbe verloren zu haben.<\/p>"
           }
         },
-        "df998463-e108-47de-8b59-1a5c1d40d124": {
-          "type": "heading",
+        "27020238-b5e0-4353-aac0-381af9469bf8": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Nicht trocknen, sondern mit Glycerin haltbar machen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Nicht trocknen, sondern mit Glycerin haltbar machen<\/h>"
           }
         },
         "712c8005-b4cf-4c54-9758-e1b2d7bc45fb": {
@@ -161,14 +161,14 @@
         "0b217147-9ca8-4908-86be-ab7ea8666ef6",
         "b97c4f8b-419b-47ac-8cf4-503797c00c8b",
         "0b2e1292-299f-479d-8f88-e5f8db45dc4d",
-        "76fd738b-c21b-4d2c-b185-f31c02710db5",
+        "9e871f5f-f94e-4e9b-b65f-32a7d344ccb8",
         "1c59aefd-09bd-4201-a92c-27d1cce99588",
-        "95d2b5b9-88f3-4e94-b0f1-c559dc46c4ed",
+        "94b45e98-9c86-46b7-a9cd-b024b31b5db7",
         "d2af8cc5-7602-45b2-83de-9bfce104a94d",
         "02ec9b8f-36b4-4649-aa75-65401afa4580",
-        "5c2664aa-03f9-40df-98ef-70203963a7cd",
+        "45b0d7dd-0a0d-4f51-9ee4-e548633dc9ea",
         "87de0fd3-d5a9-40e8-9d50-57bc4542056a",
-        "df998463-e108-47de-8b59-1a5c1d40d124",
+        "27020238-b5e0-4353-aac0-381af9469bf8",
         "712c8005-b4cf-4c54-9758-e1b2d7bc45fb"
       ],
       "settings": {

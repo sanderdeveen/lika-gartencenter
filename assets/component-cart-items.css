@@ -301,6 +301,16 @@ cart-remove-button .icon-remove {
   margin-top: 0.4rem;
 }
 
+.cart-page-item_info .cart-item__remove {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.cart-item__remove .icon {
+  width: 18px;
+  height: 18px;
+}
+
 @media screen and (min-width: 740px) {
   .cart-page-item_info .cart-item__quantity {
     margin-left: auto;

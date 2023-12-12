@@ -80,8 +80,8 @@
         "5860303b-bd94-4b42-b3a3-de28689f954c": {
           "type": "breadcrumb_link",
           "settings": {
-            "breadcrumb_text": "Weihnachten",
-            "breadcrumb_link": "shopify:\/\/collections\/weihnachten"
+            "breadcrumb_text": "Dünger",
+            "breadcrumb_link": "shopify:\/\/collections\/duenger"
           }
         }
       },
@@ -102,10 +102,10 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "top_sellers": "Topseller Weihnachtsdeko",
-        "featured_product_one": "unzerbrechlicher-christbaumschmuck-gold-33-stuck",
-        "featured_product_two": "weihnachtbaumanhaenger-stern-rot",
-        "featured_product_three": "weihnachtsbaumanhaenger-tannenbaum-gold",
+        "top_sellers": "Topseller Gartendünger",
+        "featured_product_one": "compo-bambus-ziergraeser-langzeit-duenger",
+        "featured_product_two": "compo-stauden-langzeit-duenger",
+        "featured_product_three": "compo-mediterrane-pflanzen-langzeit-duenger",
         "color_scheme": "background-1"
       }
     },

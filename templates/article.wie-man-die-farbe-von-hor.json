@@ -176,10 +176,10 @@
             "text": "<p>Wenn Sie aus einer <a href=\"\/collections\/rosa-hortensien\" title=\"Rosa Hortensien\">rosa Hortensie<\/a> eine blaue machen wollen (oder umgekehrt), müssen Sie den pH-Wert des Bodens ändern. Das ist aber noch nicht alles. Manchmal reicht diese Maßnahme alleine nicht aus. Wir erklären Ihnen Schritt für Schritt, was zu tun ist. Bitte beachten Sie auch, dass die Pflanze ihre Farbe nicht von einem auf den anderen Tag wechselt und auch der Farbton eine wichtige Rolle spielt. Eine hellrosa Hortensie kann niemals dunkelblau werden. Das helle Rosa wird sich mit viel Geduld und den entsprechenden Substraten allmählich in Richtung Hellblau verändern.<\/p>"
           }
         },
-        "9971479b-cb11-4084-bdd1-19a2df380dd5": {
-          "type": "heading",
+        "588e0330-c90b-4563-9acf-5a957a0166ad": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Aus Blau wird Rosa<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Aus Blau wird Rosa<\/h>"
           }
         },
         "e72b37b0-0d0d-4af6-8a6f-79fc279e0626": {
@@ -197,10 +197,10 @@
             "columns_desktop": 1
           }
         },
-        "8c80e1ab-77a0-45a7-8cae-2956c31eecb5": {
-          "type": "heading",
+        "c9ee80f9-eda9-4cc0-8e11-f32cd9c1eebd": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Aus Rosa wird Blau<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Aus Rosa wird Blau<\/h>"
           }
         },
         "b4f8ba0f-3314-475c-8274-fb1092cacaee": {
@@ -234,10 +234,10 @@
       "block_order": [
         "template--19733878440285__e174c934-6404-4e81-a6e1-302b4b3e0d24-heading-1",
         "template--19733878440285__e174c934-6404-4e81-a6e1-302b4b3e0d24-text-1",
-        "9971479b-cb11-4084-bdd1-19a2df380dd5",
+        "588e0330-c90b-4563-9acf-5a957a0166ad",
         "e72b37b0-0d0d-4af6-8a6f-79fc279e0626",
         "34005cc1-3e91-4090-97fc-34546fe77d56",
-        "8c80e1ab-77a0-45a7-8cae-2956c31eecb5",
+        "c9ee80f9-eda9-4cc0-8e11-f32cd9c1eebd",
         "b4f8ba0f-3314-475c-8274-fb1092cacaee",
         "5eb3f539-223f-4c56-b1a7-9f3ff2855bf8",
         "8b56c7ce-46e4-4e27-82b6-de22684053c1",

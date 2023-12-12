@@ -61,10 +61,10 @@
             "text": "<p>Das Umpflanzen einer Buchenhecke ist ein heikles Unterfangen, da die einzelnen Pflanzen ein dicht verzweigtes Wurzelsystem haben. Vor allem ältere Buchenhecken bilden ein komplexes Wurzelgeflecht, das die einzelnen Pflanzen unter der Erde zu einem großen Wurzelgebilde verbindet. Das Umsetzen der Buchenhecke muss sorgfältig geplant werden. Dadurch können unnötige Schäden an der Pflanze vermieden werden und erhält die Hecke genügend Zeit, sich an die neue Umgebung zu gewöhnen und sich vom Umsetzen zu erholen.<\/p><p>Das Umsetzen der Buchenhecke sollte vorzugsweise während der Ruhephase der Pflanzen (etwa von <strong>Ende Oktober bis Ende März<\/strong>) erfolgen. Zwischen April und Mitte Oktober ist von einem Umpflanzen der Buchenhecke abzuraten, da die Aussichten auf einen erfolgreichen Umzug in dieser Jahreszeit deutlich schlechter sind.<\/p><p>Das Umsetzen der Buchenhecke gelingt am ehesten in der <strong>Ruhephase<\/strong>. In der Ruhephase kommen die Pflanzen mit sehr wenig Wasser aus, sodass sie sich voll und ganz auf die Regeneration des Wurzelsystems und die Wurzelbildung konzentrieren können. Dadurch erhöhen sich die Chancen auf einen erfolgreichen Umzug der Hecke.<\/p><p>Zum Umsetzen der Buchenhecke sollte <strong>ein nicht zu kalter, niederschlagsfreier Tag<\/strong> gewählt werden. Ein sonniger Herbsttag im Oktober oder November bietet die idealen Voraussetzungen! Die Pflanzen befinden sich dann bereits in ihrer Ruhephase, während die Erde noch relativ warm ist. Dadurch erhalten sie die Gelegenheit, noch vor dem Winter wieder neu einzuwurzeln. Pflanzen Sie die Buchenhecke auf keinen Fall bei Temperaturen unter 0 °C um, und auch nicht, wenn für die kommende Woche Frost angesagt ist.<\/p>"
           }
         },
-        "c2856c41-6b4a-40b4-8fcb-e77851662cff": {
-          "type": "heading",
+        "b253baa0-277d-4580-a9ab-0936fc5d7737": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h2>Wie pflanzt man eine Buchenhecke um?<\/h2>"
+            "custom_liquid": "<h2 class=\"h3\">Wie pflanzt man eine Buchenhecke um?<\/h>"
           }
         },
         "e0bab333-9146-4bae-aad4-a369730fd60d": {
@@ -78,7 +78,7 @@
         "0d687b78-f5c2-4c24-aa18-bd0235057f8f",
         "template--19971462267229__e86b73c8-7245-4acc-9fed-2e130ac60d10-heading-1",
         "template--19971462267229__e86b73c8-7245-4acc-9fed-2e130ac60d10-text-1",
-        "c2856c41-6b4a-40b4-8fcb-e77851662cff",
+        "b253baa0-277d-4580-a9ab-0936fc5d7737",
         "e0bab333-9146-4bae-aad4-a369730fd60d"
       ],
       "settings": {

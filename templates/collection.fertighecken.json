@@ -261,10 +261,10 @@
             "heading": "<p>Das benötigt man für eine Fertighecke:<\/p>"
           }
         },
-        "a7136af9-d8de-48ee-aa2a-266f43001994": {
-          "type": "text",
+        "4470eefd-644c-41ea-9544-93c615b818f8": {
+          "type": "check_list",
           "settings": {
-            "text": "<ul><li>Heckenelement<\/li><li><a href=\"\/products\/hartholzpfosten-fuer-fertighecken\" title=\"Hartholzpfosten für Fertighecken\">Hartholz-Pfosten<\/a><\/li><li><a href=\"\/products\/montagehalter-mittelpfosten-gruen-2-stueck\" title=\"Montagehalter für Mittelpfosten grün - 2 Stück\">Montagehalter<\/a><\/li><li><a href=\"\/products\/wandhalter-verzinkt\" title=\"Wandhalter verzinkt\">Wandhalter<\/a><\/li><\/ul>"
+            "check_list": "<p>- Heckenelement*<\/p><p>- <a href=\"\/products\/hartholzpfosten-fuer-fertighecken\" title=\"Hartholzpfosten für Fertighecken\">Hartholz–Pfosten*<\/a><\/p><p>- <a href=\"\/products\/montagehalter-mittelpfosten-gruen-2-stueck\" title=\"Montagehalter für Mittelpfosten grün - 2 Stück\">Montagehalter*<\/a><\/p><p>- <a href=\"\/products\/wandhalter-verzinkt\" title=\"Wandhalter verzinkt\">Wandhalter<\/a>*<\/p>"
           }
         },
         "8317d8fd-df5f-445e-935f-f93538a72623": {
@@ -407,7 +407,7 @@
         "template--19236606837085__fe39a953-6bbd-4c53-abdb-35f7bc5191b8-heading-1",
         "template--19236606837085__fe39a953-6bbd-4c53-abdb-35f7bc5191b8-text-1",
         "5904cc2b-6763-4871-b9d0-5050ea649f56",
-        "a7136af9-d8de-48ee-aa2a-266f43001994",
+        "4470eefd-644c-41ea-9544-93c615b818f8",
         "8317d8fd-df5f-445e-935f-f93538a72623",
         "0f2bc4a1-46e2-4a0d-9152-fef10ea45caa",
         "d410e739-9397-4065-b319-961b74f66301",

@@ -67,10 +67,10 @@
             "columns_desktop": 1
           }
         },
-        "c4d5f302-9801-4a9c-b781-61c77abeb6b3": {
-          "type": "heading",
+        "63dbd9fe-7bad-499c-bb63-6ab128aca59b": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Pflegeleichte Stauden<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Pflegeleichte Stauden<\/h>"
           }
         },
         "3ae4faf5-8b12-430e-87ac-72b54ebbe8ef": {
@@ -85,7 +85,7 @@
         "template--19891822395741__ba201da5-7a73-42f4-813e-af5f3504a0f5-text-1",
         "45016a49-f6dd-4011-a1c4-2c73914af788",
         "e3df975a-a844-4b9f-b173-b6d0d084fb60",
-        "c4d5f302-9801-4a9c-b781-61c77abeb6b3",
+        "63dbd9fe-7bad-499c-bb63-6ab128aca59b",
         "3ae4faf5-8b12-430e-87ac-72b54ebbe8ef"
       ],
       "settings": {
@@ -123,10 +123,10 @@
     "1fee5313-86f7-431d-87dd-34e3ce999475": {
       "type": "rich-text",
       "blocks": {
-        "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-heading-1": {
-          "type": "heading",
+        "250aa2a0-701a-4c4d-93d1-3c80531d1d7c": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Pflegeleichte Bodendecker<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Pflegeleichte Bodendecker<\/h>"
           }
         },
         "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-text-1": {
@@ -135,10 +135,10 @@
             "text": "<ul><li><a href=\"\/products\/storschnabel-rozanne\" title=\"Storschnabel 'Rozanne'\">Storschnabel 'Rozanne' (Geranium wallichianum)<\/a><\/li><\/ul><p>Der Storschnabel bildet an sonnigen Standorten eine dichte Pflanzendecke und setzt mit seinen kissenartigen Wuchs und den vielen violett-blauen Blüten einen echten Blickfang. Als Bodendecker eignet sich 'Rozanne' perfekt zum Unterpflanzen von Bäumen und Sträuchern.<\/p>"
           }
         },
-        "3ec5700f-0974-4f34-8e6d-b99889b44d65": {
-          "type": "heading",
+        "1590178d-03c3-4adf-a4ae-9468c50d974f": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Pflegeleichte Kletterpflanzen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Pflegeleichte Kletterpflanzen<\/h>"
           }
         },
         "b35100fa-f377-4f3c-b72e-6c92f1806e05": {
@@ -149,9 +149,9 @@
         }
       },
       "block_order": [
-        "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-heading-1",
+        "250aa2a0-701a-4c4d-93d1-3c80531d1d7c",
         "template--19891822395741__1fee5313-86f7-431d-87dd-34e3ce999475-text-1",
-        "3ec5700f-0974-4f34-8e6d-b99889b44d65",
+        "1590178d-03c3-4adf-a4ae-9468c50d974f",
         "b35100fa-f377-4f3c-b72e-6c92f1806e05"
       ],
       "settings": {
@@ -189,10 +189,10 @@
     "42c6ccb1-9d78-40f7-8059-daa08a710e9d": {
       "type": "rich-text",
       "blocks": {
-        "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-heading-1": {
-          "type": "heading",
+        "dcc7b1de-e5f0-4ffb-8633-020985f60683": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Pflegeleichte Gräser<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Pflegeleichte Gräser<\/h>"
           }
         },
         "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-text-1": {
@@ -210,10 +210,10 @@
             "columns_desktop": 1
           }
         },
-        "6dbdfb75-36c4-4132-b148-be7310e027e8": {
-          "type": "heading",
+        "8bc766e3-cbd2-4070-a2ec-5f4606aef0d5": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Pflegeleichte Gehölze<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Pflegeleichte Gehölze<\/h>"
           }
         },
         "be97fe8f-59bd-491c-8206-cdc62cd2022c": {
@@ -224,10 +224,10 @@
         }
       },
       "block_order": [
-        "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-heading-1",
+        "dcc7b1de-e5f0-4ffb-8633-020985f60683",
         "template--19891822395741__42c6ccb1-9d78-40f7-8059-daa08a710e9d-text-1",
         "37ca4d07-a4de-4c8b-b9fc-3548b34f10cc",
-        "6dbdfb75-36c4-4132-b148-be7310e027e8",
+        "8bc766e3-cbd2-4070-a2ec-5f4606aef0d5",
         "be97fe8f-59bd-491c-8206-cdc62cd2022c"
       ],
       "settings": {

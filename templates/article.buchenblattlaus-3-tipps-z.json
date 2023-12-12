@@ -128,10 +128,10 @@
             "text": "<p>Ein weiteres typisches Merkmal der Buchenblattlaus ist das Ausscheiden von Wachswolle, die meist an den Insekten selbst haften bleibt. Die Läuse befinden sich hauptsächlich an der Blattunterseite. Die betroffenen Blätter entwickeln zuerst <strong>gelbe Flecken<\/strong>, rollen sich von den Rändern her ein und verkümmern schließlich.<\/p>"
           }
         },
-        "d5bff100-927b-420f-99f4-3f475e0be58a": {
-          "type": "heading",
+        "cd8cdb39-73ec-4d39-8b7d-aec48471e9ed": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Weiße Fliegen & Buchenblattläuse bekämpfen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Weiße Fliegen & Buchenblattläuse bekämpfen<\/h>"
           }
         },
         "f0b8eb60-9149-46d4-b4a5-300ea893b5c8": {
@@ -171,7 +171,7 @@
       },
       "block_order": [
         "template--19971620143453__72b70b66-b932-4fec-88d5-3f292d2a7e4e-text-1",
-        "d5bff100-927b-420f-99f4-3f475e0be58a",
+        "cd8cdb39-73ec-4d39-8b7d-aec48471e9ed",
         "f0b8eb60-9149-46d4-b4a5-300ea893b5c8",
         "2fd982c5-3182-4381-8b4b-c037f2512277",
         "6b6b0250-db29-4da2-8c2e-a3305f235113",

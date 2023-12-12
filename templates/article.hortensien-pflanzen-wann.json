@@ -61,10 +61,10 @@
             "columns_desktop": 1
           }
         },
-        "369c3ba5-9bbc-40c1-8c01-6bb359849b1b": {
-          "type": "heading",
+        "caa65004-6325-48e8-8819-c37aa10604bc": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Der perfekte Standort für Ihre Hortensie<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Der perfekte Standort für Ihre Hortensie<\/h>"
           }
         },
         "27c87dfd-71b3-4980-a3e0-32b4996421b8": {
@@ -73,10 +73,10 @@
             "text": "<p>Egal, ob Sie schon vor dem Kauf den perfekten Standort ausgewählt haben oder erst danach entscheiden, wo Ihre Hortensie am besten zur Geltung kommt, eines sollten Sie in jedem Fall berücksichtigen: Hortensien lieben die Sonne, brauchen aber sehr viel Wasser, wenn sie den ganzen Tag in der vollen Sonne stehen.<\/p><p>Obwohl die verschiedenen Hortensienarten unterschiedliche Lichtansprüche haben, sollte man vorzugsweise einen <strong>halbschattigen Standort<\/strong> wählen. Das bedeutet, dass die Pflanzen tagsüber <strong>höchstens 4 Stunden in der Sonne stehen<\/strong>. Pflanzen Sie Ihre Hortensie also so, dass sie die restliche Zeit von Sträuchern oder Baumkronen beschattet wird. <\/p><p>Sollte das nicht möglich sein und die Hortensie einen sonnigen Standort erhalten, können Sie am besten eine <a href=\"\/collections\/hortensien-fuer-sonnige-standorte\" title=\"Hortensien für sonnige Standorte\">Hortensie für sonnige Standorte<\/a> wählen. Diese Hortensienarten vertragen mehr Sonne als andere, vorausgesetzt, sie werden viel und regelmäßig gegossen. Hortensien brauchen grundsätzlich sehr viel Wasser, und wenn sie lange in der Sonne stehen, entsprechend mehr. In der prallen Sonne verdunstet das Wasser nämlich noch schneller. Deshalb sollten Hortensien vor allem in den Sommermonaten (Mitte Mai bis Ende August) <strong>sehr stark gegossen<\/strong> werden.<\/p>"
           }
         },
-        "7283aff8-0470-4dd9-b349-e94ccc52e37b": {
-          "type": "heading",
+        "d3bc4f14-41cc-47e9-8d81-fbc19e8a414d": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Welche Erde benötigen Hortensien?<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Welche Erde benötigen Hortensien?<\/h>"
           }
         },
         "a4d8f014-9b5b-4451-9cf6-9bd1e77cc361": {
@@ -97,10 +97,10 @@
             "text": "<p>Sie wissen jetzt ja schon, wann, wo und in welche Erde man Hortensien pflanzt. Fehlt nur noch das „Wie“. Keine Angst, auch das ist ganz einfach! Möchten Sie Ihre Hortensie(n) ins Beet pflanzen? Zum Glück sind alle Hortensienarten dafür geeignet, wie etwa die <a href=\"\/collections\/rispenhortensien\" title=\"Rispenhortensien\">Rispenhortensie<\/a> oder die <a href=\"\/collections\/schneeballhortensien\" title=\"Schneeballhortensien\">Schneeballhortensie<\/a>.<\/p>"
           }
         },
-        "30f58ee8-664b-4b55-ac1f-9d4fe2a76cc8": {
-          "type": "heading",
+        "29ad6100-90bf-49e2-a21e-b9de02cc7f02": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Der richtige Pflanzabstand<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Der richtige Pflanzabstand<\/h>"
           }
         },
         "d3f4b3b0-c786-4b39-b56f-47cc08675316": {
@@ -170,13 +170,13 @@
         "template--15922757402804__7631d4a4-c464-4bc4-bb48-fbadf07d579e-16760400561dc9bbf6-0",
         "template--15922757402804__7631d4a4-c464-4bc4-bb48-fbadf07d579e-16760400561dc9bbf6-1",
         "7363c29d-c34a-4412-a78b-bfa4cc0d5486",
-        "369c3ba5-9bbc-40c1-8c01-6bb359849b1b",
+        "caa65004-6325-48e8-8819-c37aa10604bc",
         "27c87dfd-71b3-4980-a3e0-32b4996421b8",
-        "7283aff8-0470-4dd9-b349-e94ccc52e37b",
+        "d3bc4f14-41cc-47e9-8d81-fbc19e8a414d",
         "a4d8f014-9b5b-4451-9cf6-9bd1e77cc361",
         "06c10d57-fcf5-4c8c-8fcf-729fb265d933",
         "a45310f2-8461-4ecb-a213-4fdcfd44c0c4",
-        "30f58ee8-664b-4b55-ac1f-9d4fe2a76cc8",
+        "29ad6100-90bf-49e2-a21e-b9de02cc7f02",
         "d3f4b3b0-c786-4b39-b56f-47cc08675316",
         "ac8a1164-7da4-43db-9459-c9e8644fa38a",
         "4c5b41fe-119d-4a3a-98a4-9146f9a336ee",

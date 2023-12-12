@@ -114,6 +114,14 @@
       "header": {
         "type": "header",
         "blocks": {
+          "59c642dd-ba2f-420b-af2c-65ae50951df2": {
+            "type": "menu_blumenzwiebeln",
+            "settings": {
+              "url": "shopify:\/\/collections\/blumenzwiebeln",
+              "url_text": "Alles entdecken",
+              "menu_img": "shopify:\/\/shop_images\/blumenzwiebeln-menu.png"
+            }
+          },
           "e14c9c38-82a0-42c3-b7a7-4bf02f3f5a20": {
             "type": "menu_gartenpflanzen",
             "settings": {
@@ -490,16 +498,41 @@
               "menu_img": "shopify:\/\/shop_images\/Gartenzubehoer-alles-entdecken.jpg"
             }
           },
-          "59c642dd-ba2f-420b-af2c-65ae50951df2": {
-            "type": "menu_blumenzwiebeln",
+          "5e6b8a3a-9cd5-4d0a-a6c6-f5bae7454e05": {
+            "type": "menu_christmass",
             "settings": {
-              "url": "shopify:\/\/collections\/blumenzwiebeln",
+              "url": "shopify:\/\/collections\/weihnachten",
               "url_text": "Alles entdecken",
-              "menu_img": "shopify:\/\/shop_images\/blumenzwiebeln-menu.png"
+              "menu_img": "shopify:\/\/shop_images\/lichterkette-warmweiss-1350-cm-180-leds-im-baum.jpg"
+            }
+          },
+          "37888a51-3f1c-47d2-ae92-f63230d12f2f": {
+            "type": "menu_christmass",
+            "settings": {
+              "url": "shopify:\/\/collections\/echte-weihnachtsbaeume",
+              "url_text": "Echte Weihnachtsbäume",
+              "menu_img": "shopify:\/\/shop_images\/echte-weihnachtsbaeume.png"
+            }
+          },
+          "a6b2fd9f-6c6d-4c4a-991e-3937a221e0be": {
+            "type": "menu_christmass",
+            "settings": {
+              "url": "shopify:\/\/collections\/christbaumstaender",
+              "url_text": "Christbaumständer",
+              "menu_img": "shopify:\/\/shop_images\/menu-supergrip_adf00054-8a71-41da-8b5c-73ca5089fdc6.png"
+            }
+          },
+          "995cbb73-10e7-49c8-9fdc-75286be902d7": {
+            "type": "menu_christmass",
+            "settings": {
+              "url": "shopify:\/\/collections\/weihnachtsdeko",
+              "url_text": "Weihnachtsdeko",
+              "menu_img": "shopify:\/\/shop_images\/lichterkette-warmweiss-1350-cm-180-leds-produkt.jpg"
             }
           }
         },
         "block_order": [
+          "59c642dd-ba2f-420b-af2c-65ae50951df2",
           "e14c9c38-82a0-42c3-b7a7-4bf02f3f5a20",
           "b147acaf-55fc-433b-809b-782ed5f9e0a0",
           "69ee2ddd-7145-46da-b03a-7cee5fe378eb",
@@ -547,7 +580,10 @@
           "39152a8c-fa51-46bb-b1f4-3d08cc3c1bb7",
           "1875891c-7a8c-4946-bbb6-396cd92b74bb",
           "70241251-3358-4963-abe3-62c8ba785525",
-          "59c642dd-ba2f-420b-af2c-65ae50951df2"
+          "5e6b8a3a-9cd5-4d0a-a6c6-f5bae7454e05",
+          "37888a51-3f1c-47d2-ae92-f63230d12f2f",
+          "a6b2fd9f-6c6d-4c4a-991e-3937a221e0be",
+          "995cbb73-10e7-49c8-9fdc-75286be902d7"
         ],
         "settings": {
           "color_scheme": "background-1",

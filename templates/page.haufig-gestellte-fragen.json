@@ -25,15 +25,155 @@
         "template--15880091140276__43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f-1669381324c4db337e-0": {
           "type": "faq",
           "settings": {
-            "heading": "Wie steht es mit der Garantie?",
+            "heading": "Ich würde mich gerne beraten lassen. Wie kann ich Kontakt aufnehmen?",
             "custom_liquid_1": "",
-            "content": "<p>Bei der Gewährleistung unterscheiden wir zwischen lebenden und nicht lebenden Produkten.<br\/><br\/>Für alle lebenden Produkte (Pflanzen usw.) gilt unser Garantiesystem \"PlantGarant\":<br\/><br\/>1 Monat PlantGarant auf Zimmerpflanzen ab dem Zeitpunkt des Eingangs in gutem Zustand.<br\/>1 Monat PlantGarant auf Gartenpflanzen ab dem Zeitpunkt des Eingangs in gutem Zustand.<br\/>6 Monate PlantGarant auf bewurzelte Hecken ab dem Zeitpunkt des Erhalts in gutem Zustand.<br\/>2 Monate PlantGarant auf Bäumen aus der Wachstumsperiode (Mai\/Juni).<br\/>Für unsere nicht lebenden Produkte (z.B. Wasserdekorationen und Feuerschalen) gilt die Herstellergarantie. Die Garantiebedingungen können für jede Produktgruppe unterschiedlich sein. Weitere Informationen finden Sie auf unserer Kontaktseite unter Garantie oder Sie können sich jederzeit an unseren Kundendienst wenden.<\/p>",
+            "content": "<p>Für eine schnelle Antwort auf Ihre Fragen, allgemeine Informationen sowie Pflanz- und Pflegetipps können Sie Ihre Fragen gerne per E-Mail an hallo@gartencenter.de an uns richten. Unsere kompetenten Mitarbeiter*innen sind von Montag bis Freitag von 9 bis 17 Uhr für Sie da und helfen Ihnen gerne weiter.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "dede84fb-3972-4f60-a9db-5f26f102f9ce": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie kann ich eine Bestellung aufgeben?",
+            "custom_liquid_1": "",
+            "content": "<p>Bei Gartencenter.de können Sie schnell und einfach online bestellen. Sie können Ihre Bestellung aber auch per E-Mail über unseren Kundenservice aufgeben. Diese E-Mail sollte die folgenden Angaben enthalten:<\/p><ul><li>Vor- und Nachname<\/li><li>Adresse<\/li><li>E-Mail-Adresse<\/li><li>Telefonnummer<\/li><li>Artikelbezeichnung, Größe und Stückzahl<\/li><\/ul>",
+            "custom_liquid_2": ""
+          }
+        },
+        "9a96021e-68cd-4cd1-a8c6-d4abd90ba235": {
+          "type": "faq",
+          "settings": {
+            "heading": "Kann ich die bestellten Pflanzen\/Bäume selbst auswählen?",
+            "custom_liquid_1": "",
+            "content": "<p>Nein, das ist leider nicht möglich, da wir unsere Produkte ausschließlich online anbieten und keinen Verkaufsraum haben. Alle Pflanzen und anderen Artikel werden direkt zu Ihnen nach Hause geliefert.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "253e1b52-1dc8-4f8d-bafc-8c0b98f932f6": {
+          "type": "faq",
+          "settings": {
+            "heading": "In welche Länder liefert ihr?",
+            "custom_liquid_1": "",
+            "content": "<p>Wir liefern derzeit in die folgenden Länder: Niederlande, Belgien, Deutschland.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "a0b09a9e-ed65-4f34-9f41-cd0862d2b624": {
+          "type": "faq",
+          "settings": {
+            "heading": "An welchen Wochentagen erfolgt die Lieferung?",
+            "custom_liquid_1": "",
+            "content": "<p>Wir liefern unsere Ware auf drei Arten: Kleinere Bestellungen werden in einem oder mehreren Kartons über DHL zu Ihnen nach Hause geliefert (Montag bis Samstag). Größere Bestellungen werden auf einer oder mehreren Paletten durch eine Spedition per LKW geliefert (Montag bis Freitag). Sehr große Bestellungen werden von Montag bis Freitag mit einem großen LKW geliefert. Sie erhalten von uns in jedem Fall eine Sendungsnummer, damit Sie Ihre Bestellung verfolgen können.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "d419971a-60fc-4c26-be24-255d448dfeb8": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie hoch sind die Versandkosten?",
+            "custom_liquid_1": "",
+            "content": "<p>Die Versandkosten betragen 7,99 € pro Bestellung. Bestellungen ab 100 Euro Warenwert werden versandkostenfrei geliefert. Für einige Artikelgruppen (z. B. Holz, Gartenbaustoffe oder Rollrasen) gilt jedoch ein Versandkostenzuschlag. Dies wird bei den betreffenden Artikeln deutlich angegeben.<\/p><p><strong>* Inselzuschlag Deutschland<\/strong><\/p><p>Beim Versand von Waren mit einem Gesamtgewicht von über 30 kg oder einer Länge von über 125 cm auf eine der niederländischen Nordseeinseln werden die Transportkosten des ortsansässigen Spediteurs in Rechnung gestellt. Diese Transportkosten werden im Nachhinein an den Kunden weiterverrechnet. Wir informieren Sie zuvor über die entstehenden Mehrkosten.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "fc8cf9e7-0c89-46d1-8fa2-a8ded91d265c": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie lange dauert es, bis meine Bestellung ankommt?",
+            "custom_liquid_1": "",
+            "content": "<p>Die meisten Bestellungen werden innerhalb von 2 Werktagen versandt. Sobald die Bestellung unser Lager verlassen hat, erhalten Sie von uns eine E-Mail mit allen Lieferinformationen und einem Link zur Sendungsverfolgung. Wann die Bestellung bei Ihnen eintrifft, hängt vom jeweiligen Zustelldienst oder Spediteur ab. Die Lieferzeit beträgt je nach Entfernung etwa 1 bis 3 Werktage.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "e7ad1d8c-e622-40ec-a751-8387b4e9b10c": {
+          "type": "faq",
+          "settings": {
+            "heading": "Kann ich meine Bestellung auch selbst abholen?",
+            "custom_liquid_1": "",
+            "content": "<p>Nein, das ist leider nicht möglich, da wir unsere Produkte ausschließlich online anbieten und keinen Verkaufsraum haben. Alle Pflanzen und anderen Artikel werden direkt zu Ihnen nach Hause geliefert.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "53662957-52fe-4b66-86ea-7a7972928552": {
+          "type": "faq",
+          "settings": {
+            "heading": "Welche Zahlungsmöglichkeiten gibt es?",
+            "custom_liquid_1": "",
+            "content": "<p>Sie können bei uns einfach und sicher per Sofortüberweisung, Klarna, PayPal, GiroPay, Kreditkarte (Mastercard\/Visa) sowie Apple & Google Pay bezahlen. Sie können während des Bestellvorgangs die gewünschte Zahlungsart wählen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "c5045991-5067-482b-89e7-d8bd1d9ce722": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie kann ich eine Bestellung stornieren?",
+            "custom_liquid_1": "",
+            "content": "<p>Senden Sie eine E-Mail an hallo@gartencenter.de und geben Sie darin die Bestellnummer, Ihre Anschrift und den Grund der Stornierung an. Bei Stornierungen unterscheiden wir zwischen lebender und nicht lebender Ware und ob die Bestellung bereits bearbeitet wurde oder nicht.<\/p><p><strong>Lebende Ware<\/strong><\/p><p>Bestellungen von lebender Ware (Pflanzen) können innerhalb von 6 Stunden nach Aufgabe der Bestellung storniert werden, sofern Sie noch keine Versandbestätigung erhalten haben. Bereits versandte Bestellungen können leider nicht mehr storniert werden.<\/p><p><strong>Nicht lebende Ware<\/strong><\/p><p>Zur sogenannten nicht lebenden Ware zählen unter anderem Pflanzgefäße, Gartengeräte und Pflanzerde. Wir bitten Sie, uns eventuelle Stornierungen immer so schnell wie möglich unter Angabe der Bestellnummer per E-Mail mitzuteilen. Bestellungen von nicht lebender Ware können nur storniert werden, solange Sie noch keine Versandbestätigung erhalten haben. Wenn Sie eine Versandbestätigung erhalten haben, bedeutet dies, dass die Bestellung bereits bearbeitet wurde und nicht mehr ohne Rücksendekosten storniert werden kann.<\/p><p><strong>Bäume<\/strong><\/p><p>Bestellungen von Bäumen können bis zu einem Tag vor der geplanten Lieferung storniert werden. Dabei können Stornierungskosten anfallen. Die Stornierungskosten können von Fall zu Fall variieren.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "3e8d3bb5-ea15-4911-8285-094fb9145783": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie kann ich eine Bestellung zurücksenden?",
+            "custom_liquid_1": "",
+            "content": "<p>Wenn Sie einen Artikel in einwandfreiem Zustand erhalten haben, aber dennoch nicht zufrieden damit sind, können Sie Ihre Bestellung selbstverständlich an uns zurücksenden. Die Rücksendekosten sind vom Käufer zu tragen. Senden Sie bitte eine E-Mail mit der Bestellnummer, einer kurzen schriftlichen Begründung und einem Foto des betreffenden Artikels an unseren Kundenservice (hallo@gartencenter.de). Unsere Kundenservice-Mitarbeiter werden Ihre Rücksendeanfrage schnellstmöglich bearbeiten und sich bei Ihnen melden. Die zugesandten Fotos sollten den folgenden Anforderungen entsprechen:<\/p><ul><li>Scharf\/gute Qualität<\/li><li>Eine Nahaufnahme der eventuellen Beschädigung<\/li><li>Eine Gesamtaufnahme des betreffenden Artikels<\/li><li>Bei einem fehlenden Artikel: Ein Foto aller erhaltenen Artikel<\/li><li>Auf dem Foto sollte ein Maßband oder Lineal zu sehen sein, um den Maßstab besser einschätzen zu können.<\/li><\/ul><p><strong>Bitte beachten Sie, dass bei Rücksendungen zwischen lebender Ware und nicht lebender Ware unterschieden wird.<\/strong><\/p><p><strong>Lebende Ware<\/strong><\/p><p>Lebende Ware wie Pflanzen und Bäume müssen innerhalb von 2 Tagen nach Erhalt per E-Mail an unseren Kundenservice als Rücksendung angemeldet werden.<\/p><p>HINWEIS: Lebende Ware ist vom 14-tägigen Widerrufsrecht ausgenommen, da diese Artikel während der Liefer- und Rückgabefrist altern oder an Qualität einbüßen können.<\/p><p><strong>Nicht lebende Ware<\/strong><\/p><p>Nicht lebende Ware wie Pflanzgefäße oder Pflanzerde müssen innerhalb von 14 Tagen nach Erhalt per E-Mail an unseren Kundenservice als Rücksendung angemeldet werden.<\/p><p>Bei defekter oder falsch gelieferter Ware bitten wir Sie, dies unserem Kundenservice umgehend mitzuteilen.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "dae16654-82d0-4f31-830b-67adfe1fdced": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie hoch sind die Rücksendekosten?",
+            "custom_liquid_1": "",
+            "content": "<p>Bei Rücksendung von bestellter Ware werden die folgenden Rücksendekosten in Rechnung gestellt:<\/p><p>Paketsendungen: 7,99 € pro Paket. Drucken Sie das mitgelieferte Rücksendeetikett aus und kleben Sie es auf die Verpackung. Geben Sie das Paket bei einer DHL-Paketannahmestelle ab. Ihre Rücksendung sollte innerhalb weniger Tage bei uns eintreffen.<\/p><p>Palettenlieferungen: 99,- € pro Palette, sofern Sie mit unserem Kundenservice nichts anderes vereinbart haben. Zur Abholung wird ein Abholtermin vereinbart.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "cc212316-f0cc-4c88-8921-53ac60628ff3": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie lange ist die Rückgabefrist?",
+            "custom_liquid_1": "",
+            "content": "<p>Wenn Sie einen Artikel zurückschicken möchten, beachten Sie bitte die folgenden Rückgabefristen für lebende und nicht lebende Ware:<\/p><p><strong>Rücksendung von Postpaketen<\/strong><\/p><p>Lebende Ware muss innerhalb von 2 Tagen nach Erhalt des per E-Mail angeforderten Rücksendeetiketts zurückgeschickt werden.<\/p><p>Nicht lebende Ware muss innerhalb von 14 Tagen nach Erhalt des per E-Mail angeforderten Rücksendeetiketts zurückgeschickt werden.<\/p><p><strong>Rücksendung von Palettenware<\/strong><\/p><p>Bei Rücksendung von Palettenware wird von unserem Kundenservice ein Abholauftrag erstellt. Nachdem der Abholauftrag an den Spediteur weitergeleitet worden ist, dauert es ungefähr 1 bis 2 Werktage bis zur Abholung der Palette. Bitte beachten Sie, dass die Abholung in Deutschland etwas länger dauern kann.<\/p><p>Wie bei der Lieferung erhalten Sie auch für die Abholung der Palette eine E-Mail mit einem Link, über den Sie den geplanten Abholtermin einsehen können. Bitte berücksichtigen Sie, dass sich der genaue Zeitpunkt im Laufe des Tages noch ändern kann.<\/p><p>HINWEIS: Falls nur ein Teil der auf der Palette gelieferten Ware zurückgesendet werden soll, können Sie bei unserem Kundenservice nachfragen, ob der betreffende Artikel eventuell auch als Postpaket zurückgesendet werden kann.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "85df3202-1a0a-493d-b9e8-ce6d95d83f3b": {
+          "type": "faq",
+          "settings": {
+            "heading": "Wie sieht es mit der Garantie aus?",
+            "custom_liquid_1": "",
+            "content": "<p>Was Garantie und Gewährleistung betrifft, unterscheiden wir zwischen lebender und nicht lebender Ware.<\/p><p>Für lebende Ware (Pflanzen) gilt unser Garantiesystem „PflanzGarant“:<\/p><ul><li>Zimmerpflanzen: 1 Monat PlantGarant ab Erhalt der Ware in einwandfreiem Zustand<\/li><li>Gartenpflanzen: 1 Monat PlantGarant ab Erhalt der Ware in einwandfreiem Zustand<\/li><li>Heckenpflanzen als Wurzelware: 6 Monate PlantGarant ab Erhalt der Ware in einwandfreiem Zustand<\/li><li>Bäume: 2 Monate PlantGarant ab der Hauptwachstumsphase (Mai\/Juni)<\/li><\/ul><p>Für nicht lebende Ware (Gartengeräte, Gartenbrunnen, Feuerschalen etc.) gilt die übliche Herstellergarantie. Die Garantiebedingungen können je nach Produktgruppe variieren. Weitere Informationen finden Sie in den allgemeinen Geschäftsbedingungen auf unserer Website oder können bei unserem Kundenservice eingeholt werden.<\/p>",
+            "custom_liquid_2": ""
+          }
+        },
+        "98d39a50-d5cd-49a2-bd1c-2f2880f56609": {
+          "type": "faq",
+          "settings": {
+            "heading": "An wen kann ich mich mit einer Reklamation wenden?",
+            "custom_liquid_1": "",
+            "content": "<p>Reklamationen oder Anmerkungen in Bezug auf Ihre Bestellung oder unseren Service können per E-Mail an hallo@gartencenter.de gerichtet werden. Bitte geben Sie dabei immer Ihren Namen, Ihre Anschrift und die Bestellnummer an. Unsere Kundenservice-Mitarbeiter werden Ihre Reklamation schnellstmöglich bearbeiten und versuchen, eine passende Lösung zu finden.<\/p><p>Sollte die gelieferte Ware nicht Ihren Vorstellungen entsprechen, senden Sie uns bitte Fotos des\/der betreffenden Artikel(s). Sollte Ihre Bestellung nicht vollständig sein, senden Sie uns bitte Fotos der erhaltenen Artikel. Um den Sachverhalt prüfen zu können, bitten wir Sie, uns eine kurze schriftliche Erläuterung und einige Fotos zukommen zu lassen. Die Fotos sollten den folgenden Anforderungen entsprechen:<\/p><ul><li>Scharf\/gute Qualität<\/li><li>Eine Nahaufnahme der eventuellen Beschädigung<\/li><li>Eine Gesamtaufnahme des betreffenden Artikels<\/li><li>Bei einem fehlenden Artikel: Ein Foto aller erhaltenen Artikel<\/li><li>Auf dem Foto sollte ein Maßband oder Lineal zu sehen sein, um den Maßstab besser einschätzen zu können.<\/li><li>Ein Foto der Erde, in die die Pflanze gepflanzt wurde.<\/li><\/ul>",
             "custom_liquid_2": ""
           }
         }
       },
       "block_order": [
-        "template--15880091140276__43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f-1669381324c4db337e-0"
+        "template--15880091140276__43e6d5ff-c7cb-4e05-8bdd-53b6c3e5268f-1669381324c4db337e-0",
+        "dede84fb-3972-4f60-a9db-5f26f102f9ce",
+        "9a96021e-68cd-4cd1-a8c6-d4abd90ba235",
+        "253e1b52-1dc8-4f8d-bafc-8c0b98f932f6",
+        "a0b09a9e-ed65-4f34-9f41-cd0862d2b624",
+        "d419971a-60fc-4c26-be24-255d448dfeb8",
+        "fc8cf9e7-0c89-46d1-8fa2-a8ded91d265c",
+        "e7ad1d8c-e622-40ec-a751-8387b4e9b10c",
+        "53662957-52fe-4b66-86ea-7a7972928552",
+        "c5045991-5067-482b-89e7-d8bd1d9ce722",
+        "3e8d3bb5-ea15-4911-8285-094fb9145783",
+        "dae16654-82d0-4f31-830b-67adfe1fdced",
+        "cc212316-f0cc-4c88-8921-53ac60628ff3",
+        "85df3202-1a0a-493d-b9e8-ce6d95d83f3b",
+        "98d39a50-d5cd-49a2-bd1c-2f2880f56609"
       ],
       "settings": {
         "heading": "Häufig gestellte Fragen"

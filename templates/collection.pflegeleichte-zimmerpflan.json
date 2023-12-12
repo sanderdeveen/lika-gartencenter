@@ -330,7 +330,7 @@
         "template--19236607983965__b7ad6425-f8a5-45fc-a938-b0b5d885589f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Welche Zimmerpflanzen sind pflegeleicht?<\/h2>"
+            "heading": "Welche Zimmerpflanzen sind pflegeleicht?"
           }
         },
         "template--19236607983965__b7ad6425-f8a5-45fc-a938-b0b5d885589f-text-1": {
@@ -344,141 +344,309 @@
           "settings": {
             "text": "<p>Auch das Zurückschneiden vertrockneter Pflanzenteile, häufiges Umtopfen und Düngen sind bei den pflegeleichten Zimmerpflanzen nicht so oft notwendig. Ein Rückschnitt alle zwei Jahre und ein Umtopfen in einen größeren Kübel oder Blumentopf reichen manchmal aus. Die Düngung beschränkt sich auf ein bis zwei Gaben pro Jahr, insbesondere wenn ein Langzeitdünger verwendet wird, der die Nährstoffe zeitverzögert freisetzt.<br\/><\/p>"
           }
+        },
+        "f802b659-ff5e-4ae8-8862-9d7025a55e62": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welche Zimmerpflanzenarten sind pflegeleicht?"
+          }
+        },
+        "ed6e868b-9abf-41fd-9c48-6975573b2d96": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine große Auswahl an Pflanzen mit geringem Pflegeaufwand finden Sie in der Webshop-Kategorie „Pflegeleichte Zimmerpflanzen“ bei Gartencenter.de.<\/p>"
+          }
+        },
+        "8acf3352-27e9-4432-be3b-bbc958489487": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Kentiapalme<\/h>"
+          }
+        },
+        "d1b55d15-a5ea-4a38-bddd-788ca76a14ad": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Kentiapalme<\/a> Howea forsteriana stammt von einer Insel östlich von Australien und gehört zu den pflegeleichten Zimmerpflanzen. Wichtig ist, dass die Topferde stets feucht bleibt, wobei Staunässe unbedingt zu vermeiden ist. Gießen Sie nach Bedarf oder verwenden Sie einen praktischen Wasserspender für den Blumentopf. Da Howea forsteriana relativ langsam wächst, ist ein Umtopfen nur notwendig, wenn der Wurzelballen zu groß wird. Diese <strong>schattenverträgliche pflegeleichte Palmenart<\/strong> kann auch an einem dunkleren Standort im Wohnzimmer oder Büro gut gedeihen.<\/p>"
+          }
+        },
+        "287abfbd-9776-4342-9082-bb63c69d0054": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Goldfruchtpalme<\/h>"
+          }
+        },
+        "8927bab8-f0fc-452b-af84-a9a3fdfd5898": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <strong>schnell wachsende<\/strong> <a href=\"\/products\/goldfruchtpalme\" title=\"Goldfruchtpalme\">Goldfruchtpalme<\/a> Areca lutescens aus den Regenwäldern Madagaskars benötigt kaum Pflege. Die Areca lutescens gedeiht gut, wenn sie ein- bis zweimal pro Woche mit lauwarmem Wasser gegossen wird. Wenn die Erde nach einigen Tagen noch sehr feucht ist, gießen Sie weniger.<\/p>"
+          }
+        },
+        "3707dce9-1c7d-4c8b-bdc9-7e56ecdab810": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Steckenpalme<\/h>"
+          }
+        },
+        "19e58564-0f5d-49e5-80ad-d5109c672bbb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <strong>robuste<\/strong> <a href=\"\/products\/steckenpalme\" title=\"Steckenpalme\">Steckenpalme<\/a> Rhapis excelsa verträgt kein direktes Licht. Rhapis excelsa eignet sich für die dunkleren Bereiche des Zimmers. Die Steckenpalme bevorzugt einen leicht feuchten Boden, aber keine Staunässe. Im Sommer kann häufig gedüngt werden.<\/p>"
+          }
+        },
+        "6862f9d3-9c67-4af0-aec1-6a073773ae35": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Bogenhanf<\/h>"
+          }
+        },
+        "932c5824-3914-4c06-b27a-82cf5ecdbb53": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der <a href=\"\/products\/bogenhanf-cylindrica\" title=\"Bogenhanf 'Cylindrica'\">Bogenhanf Sansevieria cylindrica<\/a> in Hydrogranulat ist der <strong>Klassiker<\/strong> unter den pflegeleichten Zimmerpflanzen der 60er- und 70er-Jahre. Wohl auch deshalb feiert er sein Comeback in deutschen Wohnzimmern. Im Prinzip ist die Sansevieria eine „Anfängerpflanze“, weil man bei der Pflege nicht falsch machen kann.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--19236607983965__b7ad6425-f8a5-45fc-a938-b0b5d885589f-heading-1",
         "template--19236607983965__b7ad6425-f8a5-45fc-a938-b0b5d885589f-text-1",
-        "8abe9cf3-9526-4e74-9493-0369ecf265af"
+        "8abe9cf3-9526-4e74-9493-0369ecf265af",
+        "f802b659-ff5e-4ae8-8862-9d7025a55e62",
+        "ed6e868b-9abf-41fd-9c48-6975573b2d96",
+        "8acf3352-27e9-4432-be3b-bbc958489487",
+        "d1b55d15-a5ea-4a38-bddd-788ca76a14ad",
+        "287abfbd-9776-4342-9082-bb63c69d0054",
+        "8927bab8-f0fc-452b-af84-a9a3fdfd5898",
+        "3707dce9-1c7d-4c8b-bdc9-7e56ecdab810",
+        "19e58564-0f5d-49e5-80ad-d5109c672bbb",
+        "6862f9d3-9c67-4af0-aec1-6a073773ae35",
+        "932c5824-3914-4c06-b27a-82cf5ecdbb53"
       ],
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
       }
     },
-    "35633e9d-60e7-46cb-9247-9a1c17dd3950": {
-      "type": "rich-text",
+    "30b73858-481c-425c-b523-7a059efdd78f": {
+      "type": "inspiration-photo-block",
       "blocks": {
-        "template--19236607983965__35633e9d-60e7-46cb-9247-9a1c17dd3950-heading-1": {
-          "type": "heading",
+        "96a80863-9094-4335-a307-7da05b85eada": {
+          "type": "image",
           "settings": {
-            "heading": "<h2>Welche Zimmerpflanzenarten sind pflegeleicht?<\/h2>"
+            "image": "shopify:\/\/shop_images\/kentiapalme-blaettern-ratgeber.jpg",
+            "text": "",
+            "url": ""
           }
         },
-        "template--19236607983965__35633e9d-60e7-46cb-9247-9a1c17dd3950-text-1": {
-          "type": "text",
+        "c124d4c3-8124-4bd0-a253-6f6a47e65b34": {
+          "type": "image",
           "settings": {
-            "text": "<p>Eine große Auswahl an Pflanzen mit geringem Pflegeaufwand finden Sie in der Webshop-Kategorie „Pflegeleichte Zimmerpflanzen“ bei Gartencenter.de.<\/p>"
+            "image": "shopify:\/\/shop_images\/areca-blaettern-gruene-zimmerpflanzen.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "ac120fb9-64ec-4e4e-90b5-468ab03e4130": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rhapis-excelsa-steckenpalme-gruene-zimmerpflanzen.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "6948787f-5ab1-4e55-a036-9493e41684b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sansevieria-cylindrica-blaettern.jpg",
+            "text": "",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "template--19236607983965__35633e9d-60e7-46cb-9247-9a1c17dd3950-heading-1",
-        "template--19236607983965__35633e9d-60e7-46cb-9247-9a1c17dd3950-text-1"
+        "96a80863-9094-4335-a307-7da05b85eada",
+        "c124d4c3-8124-4bd0-a253-6f6a47e65b34",
+        "ac120fb9-64ec-4e4e-90b5-468ab03e4130",
+        "6948787f-5ab1-4e55-a036-9493e41684b9"
       ],
       "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
-    "52010041-04f4-4824-9fd1-8323e3b74a6a": {
-      "type": "collection-product-info",
+    "8a0b6200-38db-40a9-a650-e80fb8215a81": {
+      "type": "rich-text",
+      "blocks": {
+        "5210bfb6-1fb9-4f5d-a395-6c8a21c9b0ae": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Elefantenfuß<\/h>"
+          }
+        },
+        "template--19050676748637__8a0b6200-38db-40a9-a650-e80fb8215a81-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der <strong>kräftige<\/strong> <a href=\"\/products\/elefantenfuss\" title=\"Elefantenfuß\">Elefantenfuß Beaucarnea recurvata<\/a> ist eigentlich ein sukkulenter Baum. An der Basis ist das Stämmchen verdickt, was auch den Namen der Pflanze erklärt. Der aus den tropischen Wäldern stammende Elefantenfuß ist an Trockenheit gewöhnt. Sie sollten also nicht zu oft Wasser geben und sich diese Pflege sparen.<\/p>"
+          }
+        },
+        "52a70563-d1c1-417d-9bda-24a96da7181c": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Elefantenohr<\/h>"
+          }
+        },
+        "863f6be7-60a6-4962-a94f-a448e77bd84a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das pflegeleichte <a href=\"\/products\/elefantenohr-1\" title=\"Elefantenohr\">Elefantenohr Alocasia macrorrhiza<\/a> hat, wie der Name es vermuten lässt, auffallend große Blätter. Diese können bis zu 60 cm lang werden. Die pflegeleichte Grünpflanze gedeiht am besten an einem <strong>sonnigen Standort<\/strong>. Ständig feuchte Blumenerde durch kleine Wassergaben und ausreichende Luftfeuchtigkeit durch regelmäßiges Besprühen mit Wasser sind vor allem bei warmem, trockenem Wetter notwendig.<\/p>"
+          }
+        },
+        "48f7e6a1-dfc5-4bbe-b63b-bb03538a718c": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Fensterblatt (Monstera deliciosa)<\/h>"
+          }
+        },
+        "c96d6124-4b62-42c5-80af-cf76f51ab0ad": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Diese <strong>pflegeleichte<\/strong>, große Zimmerpflanze <a href=\"\/products\/fensterblatt-mit-kokosstab\" title=\"Fensterblatt mit Kokosstab\">Fensterblatt mit Kokosstab Monstera deliciosa<\/a> ist eine Kletterpflanze mit geringem Wasserbedarf. Im Sommer sollten Sie neben dem Gießen die neu gebildeten Pflanzenteile an dem Kokosstab befestigen. Wenn die Monstera zu groß geworden ist, sollte sie in einen größeren Topf umgepflanzt und an einen längeren Kokosstab befestigt werden.<\/p>"
+          }
+        },
+        "ea1adcad-5368-49a5-af47-2b098d91e19c": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Yucca<\/h>"
+          }
+        },
+        "d90f4633-3181-4dd0-8251-563cadcb6894": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <strong>exotisch anmutende<\/strong>, pflegeleichte Yucca elephantipes, auch Palmlilie genannt, kommt mit wenig Wasser aus und schmückt Fensterbänke und Sideboards. Diese anspruchslose Zimmerpflanze mit dem geringen Pflegebedarf bieten wir <a href=\"\/products\/palmlilie-3-staemmig\" title=\"Palmlilie 3-stämmig\">3-stämmig<\/a>, <a href=\"\/products\/palmlilie-2-staemmig\" title=\"Palmlilie 2-stämmig\">2-stämmig<\/a> und <a href=\"\/products\/palmlilie-1-staemmig\" title=\"Palmlilie 1-stämmig\">1-stämmig<\/a> an. Die Palmlilie hat botanisch weder mit Palmen noch mit Lilien etwas zu tun und gehört zur Unterfamilie der Agavengewächse.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5210bfb6-1fb9-4f5d-a395-6c8a21c9b0ae",
+        "template--19050676748637__8a0b6200-38db-40a9-a650-e80fb8215a81-text-1",
+        "52a70563-d1c1-417d-9bda-24a96da7181c",
+        "863f6be7-60a6-4962-a94f-a448e77bd84a",
+        "48f7e6a1-dfc5-4bbe-b63b-bb03538a718c",
+        "c96d6124-4b62-42c5-80af-cf76f51ab0ad",
+        "ea1adcad-5368-49a5-af47-2b098d91e19c",
+        "d90f4633-3181-4dd0-8251-563cadcb6894"
+      ],
       "settings": {
-        "heading": "Kentiapalme",
-        "image": "shopify:\/\/shop_images\/kentiapalme-howea-forsteriana-im-wohnzimmer.jpg",
-        "content": "<p>Die <a href=\"\/products\/kentiapalme\" title=\"Kentiapalme\">Kentiapalme<\/a> Howea forsteriana stammt von einer Insel östlich von Australien und gehört zu den pflegeleichten Zimmerpflanzen. Wichtig ist, dass die Topferde stets feucht bleibt, wobei Staunässe unbedingt zu vermeiden ist. Gießen Sie nach Bedarf oder verwenden Sie einen praktischen Wasserspender für den Blumentopf. Da Howea forsteriana relativ langsam wächst, ist ein Umtopfen nur notwendig, wenn der Wurzelballen zu groß wird. Diese <strong>schattenverträgliche<\/strong> pflegeleichte Palmenart kann auch an einem dunkleren Standort im Wohnzimmer oder Büro gut gedeihen.<br\/><\/p>",
-        "url": "shopify:\/\/products\/kentiapalme",
-        "btn_text": "Artikel ansehen"
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
-    "81096c48-6589-4eb4-9c82-94dc24edf1c4": {
-      "type": "collection-product-info",
+    "2473cc2f-ea76-4d4a-8ee1-5a2bd0ba08e9": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "db360044-ec9f-4bf5-805b-1a87fb45c61f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elefantenfuss-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "e02c4e62-244c-477b-8224-11628ae85107": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alocasia-macrorrhiza-elefantenohr-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "633ec887-8b09-4a31-aa7f-eb93233b216a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/philodendron-monstera-fensterblatt-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "48808f47-2cce-4bc9-8f42-be5d0fe2ffc3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yucca-elephantipes-blaetter-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "db360044-ec9f-4bf5-805b-1a87fb45c61f",
+        "e02c4e62-244c-477b-8224-11628ae85107",
+        "633ec887-8b09-4a31-aa7f-eb93233b216a",
+        "48808f47-2cce-4bc9-8f42-be5d0fe2ffc3"
+      ],
       "settings": {
-        "heading": "Goldfruchtpalme",
-        "image": "shopify:\/\/shop_images\/Goldfruchtpalme-im-wohnzimmer.jpg",
-        "content": "<p>Die <strong>schnell wachsende<\/strong> <a href=\"\/products\/goldfruchtpalme\" title=\"Goldfruchtpalme\">Goldfruchtpalme<\/a> Areca lutescens aus den Regenwäldern Madagaskars benötigt kaum Pflege. Die Areca lutescens gedeiht gut, wenn sie ein- bis zweimal pro Woche mit lauwarmem Wasser gegossen wird. Wenn die Erde nach einigen Tagen noch sehr feucht ist, gießen Sie weniger.<\/p>",
-        "url": "shopify:\/\/products\/goldfruchtpalme",
-        "btn_text": "Artikel ansehen"
       }
     },
-    "77099d1b-500f-4d16-8055-58098379c03b": {
-      "type": "collection-product-info",
+    "da76847f-3fa5-424c-987d-580d9b28561c": {
+      "type": "rich-text",
+      "blocks": {
+        "a09980bb-c435-40f9-91bf-947334db1543": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Gummibaum<\/h>"
+          }
+        },
+        "template--19050676748637__da76847f-3fa5-424c-987d-580d9b28561c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der <a href=\"\/products\/gummibaum\" title=\"Gummibaum\">Gummibaum Ficus elastica 'Robusta'<\/a> ist an Trockenphasen gewöhnt. Im Sommer, also zur Hauptwachstumszeit, sollten Sie etwas öfter Wasser geben. Gummibäume können sehr hoch werden. Planen Sie den Platz ein, den die <strong>pflegeleichte Zimmerpflanze<\/strong> in Zukunft benötigen wird.<\/p>"
+          }
+        },
+        "717f1203-5d53-4aa3-ad39-170604ac23fc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Drachenbaum<\/h>"
+          }
+        },
+        "ed9a24eb-1d49-47f1-a0ed-e776cfdd8b88": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Drachenbaum stammt ursprünglich aus dem tropischen Afrika, wo sich die Pflanzen an das trockene Klima angepasst haben. Der pflegeleichte <a href=\"\/products\/drachenbaum\" title=\"Drachenbaum 'Lemon Lime'\">Drachenbaum 'Lemon Lime' Dracaena deremensis<\/a> bevorzugt sonnige aber auch <strong>halbschattige Standorte<\/strong>. Der robuste Drachenbaum benötigt kaum Wasser und Dünger und muss nur selten umgetopft werden.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a09980bb-c435-40f9-91bf-947334db1543",
+        "template--19050676748637__da76847f-3fa5-424c-987d-580d9b28561c-text-1",
+        "717f1203-5d53-4aa3-ad39-170604ac23fc",
+        "ed9a24eb-1d49-47f1-a0ed-e776cfdd8b88"
+      ],
       "settings": {
-        "heading": "Steckenpalme",
-        "image": "shopify:\/\/shop_images\/steckenpalme-rhapis-excelsa-im-wohnzimmmer.jpg",
-        "content": "<p>Die <strong>robuste<\/strong> <a href=\"\/products\/steckenpalme\" title=\"Steckenpalme\">Steckenpalme<\/a> Rhapis excelsa verträgt kein direktes Licht. Rhapis excelsa eignet sich für die dunkleren Bereiche des Zimmers. Die Steckenpalme bevorzugt einen leicht feuchten Boden, aber keine Staunässe. Im Sommer kann häufig gedüngt werden.<\/p>",
-        "url": "shopify:\/\/products\/steckenpalme",
-        "btn_text": "Artikel ansehen"
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
-    "8310c594-a22a-48b0-998d-546ade49bf21": {
-      "type": "collection-product-info",
+    "f9d30889-54df-4147-9aa7-ce1cdc78a6b2": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "af62a1d9-4075-45af-982d-4635ea8222eb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ficus-elastica-robusta-gummibaum.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "1b8fc4a6-24cf-4eec-bdb2-50c980ad7bf7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/drachenbaum-lemon-lime-blatt.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "af62a1d9-4075-45af-982d-4635ea8222eb",
+        "1b8fc4a6-24cf-4eec-bdb2-50c980ad7bf7"
+      ],
       "settings": {
-        "heading": "Bogenhanf",
-        "image": "shopify:\/\/shop_images\/bogenhanf-cylindrica-wohnzimmer.jpg",
-        "content": "<p>Der <a href=\"\/products\/bogenhanf-cylindrica\" title=\"Bogenhanf 'Cylindrica'\">Bogenhanf Sansevieria cylindrica<\/a> in Hydrogranulat ist der <strong>Klassiker<\/strong> unter den pflegeleichten Zimmerpflanzen der 60er- und 70er-Jahre. Wohl auch deshalb feiert er sein Comeback in deutschen Wohnzimmern. Im Prinzip ist die Sansevieria eine „Anfängerpflanze“, weil man bei der Pflege nicht falsch machen kann.<\/p>",
-        "url": "shopify:\/\/products\/bogenhanf-cylindrica",
-        "btn_text": "Artikel ansehen"
-      }
-    },
-    "0a925b14-4602-4707-9147-7be5fd890491": {
-      "type": "collection-product-info",
-      "settings": {
-        "heading": "Elefantenfuß",
-        "image": "shopify:\/\/shop_images\/elefantenfuss-zimmerpflanze-blatt-wohnzimmer.jpg",
-        "content": "<p>Der <strong>kräftige<\/strong> <a href=\"\/products\/elefantenfuss\" title=\"Elefantenfuß\">Elefantenfuß Beaucarnea recurvata<\/a> ist eigentlich ein sukkulenter Baum. An der Basis ist das Stämmchen verdickt, was auch den Namen der Pflanze erklärt. Der aus den tropischen Wäldern stammende Elefantenfuß ist an Trockenheit gewöhnt. Sie sollten also nicht zu oft Wasser geben und sich diese Pflege sparen.<\/p>",
-        "url": "shopify:\/\/products\/elefantenfuss",
-        "btn_text": "Artikel ansehen"
-      }
-    },
-    "60860248-6fa6-48ca-8170-94323013158b": {
-      "type": "collection-product-info",
-      "settings": {
-        "heading": "Elefantenohr",
-        "image": "shopify:\/\/shop_images\/elefantenohr-pfeilblatt-wohnzimmer.jpg",
-        "content": "<p>Das pflegeleichte <a href=\"\/products\/elefantenohr-1\" title=\"Elefantenohr\">Elefantenohr Alocasia macrorrhiza<\/a> hat, wie der Name es vermuten lässt, auffallend große Blätter. Diese können bis zu 60 cm lang werden. Die pflegeleichte Grünpflanze gedeiht am besten an einem <strong>sonnigen Standort<\/strong>. Ständig feuchte Blumenerde durch kleine Wassergaben und ausreichende Luftfeuchtigkeit durch regelmäßiges Besprühen mit Wasser sind vor allem bei warmem, trockenem Wetter notwendig.<\/p>",
-        "url": "shopify:\/\/products\/elefantenohr-1",
-        "btn_text": "Artikel ansehen"
-      }
-    },
-    "c5e9bbc1-6771-4219-9b52-d4b0d8196fda": {
-      "type": "collection-product-info",
-      "settings": {
-        "heading": "Fensterblatt (Monstera deliciosa)",
-        "image": "shopify:\/\/shop_images\/fensterblatt-kokosstab-blatt-wohnzimmer.jpg",
-        "content": "<p>Diese <strong>pflegeleichte<\/strong>, große Zimmerpflanze <a href=\"\/products\/fensterblatt-mit-kokosstab\" title=\"Fensterblatt mit Kokosstab\">Fensterblatt mit Kokosstab Monstera deliciosa<\/a> ist eine Kletterpflanze mit geringem Wasserbedarf. Im Sommer sollten Sie neben dem Gießen die neu gebildeten Pflanzenteile an dem Kokosstab befestigen. Wenn die Monstera zu groß geworden ist, sollte sie in einen größeren Topf umgepflanzt und an einen längeren Kokosstab befestigt werden.<br\/><\/p>",
-        "url": "shopify:\/\/products\/fensterblatt",
-        "btn_text": "Artikel ansehen"
-      }
-    },
-    "6bd0fb99-2d73-46c3-ba9b-06382961e835": {
-      "type": "collection-product-info",
-      "settings": {
-        "heading": "Yucca",
-        "image": "shopify:\/\/shop_images\/palmlilie-3-stammig-yucca-elephantipes-im-wohnzimmer.jpg",
-        "content": "<p>Die e<strong>xotisch anmutende<\/strong>, pflegeleichte Yucca elephantipes, auch Palmlilie genannt, kommt mit wenig Wasser aus und schmückt Fensterbänke und Sideboards. Diese anspruchslose Zimmerpflanze mit dem geringen Pflegebedarf bieten wir <a href=\"\/products\/palmlilie-3-staemmig\" title=\"Palmlilie 3-stämmig\">3-stämmig<\/a>, <a href=\"\/products\/palmlilie-2-staemmig\" title=\"Palmlilie 2-stämmig\">2-stämmig<\/a> und <a href=\"\/products\/palmlilie-1-staemmig\" title=\"Palmlilie 1-stämmig\">1-stämmig<\/a> an. Die Palmlilie hat botanisch weder mit Palmen noch mit Lilien etwas zu tun und gehört zur Unterfamilie der Agavengewächse.<br\/><\/p>",
-        "url": "shopify:\/\/products\/palmlilie-3-staemmig",
-        "btn_text": "Artikel ansehen"
-      }
-    },
-    "7cda55d3-d324-4fe2-8bba-f52f0199b72b": {
-      "type": "collection-product-info",
-      "settings": {
-        "heading": "Gummibaum",
-        "image": "shopify:\/\/shop_images\/gummibaum-ficus-elastica-robusta-wohnzimmer.jpg",
-        "content": "<p>Der <a href=\"\/products\/gummibaum\" title=\"Gummibaum\">Gummibaum Ficus elastica 'Robusta'<\/a> ist an Trockenphasen gewöhnt. Im Sommer, also zur Hauptwachstumszeit, sollten Sie etwas öfter Wasser geben. Gummibäume können sehr hoch werden. Planen Sie den Platz ein, den die <strong>pflegeleichte Zimmerpflanze<\/strong> in Zukunft benötigen wird.<\/p>",
-        "url": "shopify:\/\/products\/gummibaum",
-        "btn_text": "Artikel ansehen"
-      }
-    },
-    "99c0bfe3-cc64-4135-abd4-30d8938e3d87": {
-      "type": "collection-product-info",
-      "settings": {
-        "heading": "Drachenbaum",
-        "image": "shopify:\/\/shop_images\/drachenbaum-dracaena-deremensis-_Lemon-Lime_-im-wohnzimmer.jpg",
-        "content": "<p>Der Drachenbaum stammt ursprünglich aus dem tropischen Afrika, wo sich die Pflanzen an das trockene Klima angepasst haben. Der pflegeleichte <a href=\"\/products\/drachenbaum\" title=\"Drachenbaum 'Lemon Lime'\">Drachenbaum 'Lemon Lime' Dracaena deremensis <\/a>bevorzugt sonnige aber auch <strong>halbschattige Standorte<\/strong>. Der robuste Drachenbaum benötigt kaum Wasser und Dünger und muss nur selten umgetopft werden.<\/p>",
-        "url": "shopify:\/\/products\/drachenbaum",
-        "btn_text": "Artikel ansehen"
       }
     },
     "3fe4fa9a-a1d1-4f72-a6bc-bcb8822c6985": {
@@ -540,11 +708,140 @@
           "settings": {
             "text": "<p>Blattpflanzen ziehen immer die Blicke auf sich. Mit ihren kräftigen Grüntönen und großen Blättern sind sie in Innenräumen nicht zu übersehen. Zu den pflegeleichten Zimmerpflanzen mit großen Blättern gehören neben dem bereits erwähnten Fensterblatt noch weitere Arten:<\/p>"
           }
+        },
+        "f42d27d0-ddc1-4e29-8654-6dac72596080": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Pfauen-Korbmarante<\/h>"
+          }
+        },
+        "7bb2bc14-19e7-4fcd-80bd-ad8da59f8cfc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/korbmarante-orbifolia\" title=\"Pfauen-Korbmarante\">Pfauen-Korbmarante Calathea orbifolia<\/a> hat hübsche, große, runde Blätter, die abwechselnd <strong>olivgrün und hellgrün<\/strong> gestreift sind. Neben dem dekorativen Blattschmuck sind die halbschattigen Standortansprüche von Vorteil. Die pflegeleichte Korbmarante gedeiht auch in nicht so hellen Räumen und ist ein echter Blickfang.<\/p>"
+          }
+        },
+        "3d43af7d-5c37-4f4b-8f92-9dd5b7d14d5b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Glückskastanie<\/h>"
+          }
+        },
+        "87753bb5-2103-4372-acaf-40cdeb50ca08": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die <a href=\"\/products\/glueckskastanie\" title=\"Glückskastanie\">Glückskastanie Pachira<\/a> hat ein langgestieltes, zusammengesetztes <strong>handförmiges Blatt<\/strong>, genau wie die Kastanie. Durch die fünf miteinander verbundenen Blattsegmente wirken die ledrigen Blätter sehr groß. Die Pachira hat sich an die Trockenheit Mexikos angepasst, sodass man sie nur alle zwei Wochen zu gießen braucht.<br\/><\/p>"
+          }
+        },
+        "e2051317-e2f9-4446-b28f-5ff9d239a4e6": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Geigenfeige<\/h>"
+          }
+        },
+        "df92eb98-27a0-410d-bf91-14557a8b7b2e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Name der <a href=\"\/products\/geigenfeige\" title=\"Geigenfeige\">Geigenfeige Ficus lyrata<\/a> verdankt ihren Namen den großen grünen Blättern, die wie eine Geige aussehen. Die dekorativen, wechselständig angeordneten Blätter wachsen dicht am Stamm und an den Trieben. Sie können bis zu 50 cm lang werden. Die Geigenfeige wird zu den <strong>großblättrigen Zimmerpflanzen<\/strong> gezählt, die pflegeleicht sind.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--19236607983965__02709da8-0d27-45a3-a2bd-d1deaf7cd969-heading-1",
-        "template--19236607983965__02709da8-0d27-45a3-a2bd-d1deaf7cd969-text-1"
+        "template--19236607983965__02709da8-0d27-45a3-a2bd-d1deaf7cd969-text-1",
+        "f42d27d0-ddc1-4e29-8654-6dac72596080",
+        "7bb2bc14-19e7-4fcd-80bd-ad8da59f8cfc",
+        "3d43af7d-5c37-4f4b-8f92-9dd5b7d14d5b",
+        "87753bb5-2103-4372-acaf-40cdeb50ca08",
+        "e2051317-e2f9-4446-b28f-5ff9d239a4e6",
+        "df92eb98-27a0-410d-bf91-14557a8b7b2e"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "98d8d920-2e5f-43c7-b53f-5c1043bb88cd": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "686cd32f-5a86-4f9b-93d5-7d479498f257": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calathea-orbifolia-pfauen-korbmarante-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "6c4d6c2d-aa23-475b-bca8-cf08e34bb8b3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/geigenfeige-ficus-lyrata-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "686cd32f-5a86-4f9b-93d5-7d479498f257",
+        "6c4d6c2d-aa23-475b-bca8-cf08e34bb8b3"
+      ],
+      "settings": {
+      }
+    },
+    "a332a0c0-d47c-4d1a-8280-c138ee4a944d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19050676748637__a332a0c0-d47c-4d1a-8280-c138ee4a944d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Was Sie bei pflegeleichten Zimmerpflanzen beachten sollten"
+          }
+        },
+        "template--19050676748637__a332a0c0-d47c-4d1a-8280-c138ee4a944d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Wichtigste bei der Pflege von Zimmerpflanzen ist, dass Staunässe auf jeden Fall vermieden wird. Wie eingangs erwähnt, sind diese Pflanzenarten angepasst, um unter trockenen Bedingungen zu wachsen. Zu viel Feuchtigkeit kann nicht aufgenommen und gespeichert werden. Die Wurzeln faulen durch die Nässe und die ganze Zimmerpflanze stirbt ab.<br\/><\/p>"
+          }
+        },
+        "78ef1480-2827-4a39-8c5c-9ebba681de37": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2 class=\"h3\">Zimmerpflanzen-Tipps: \n<\/h>"
+          }
+        },
+        "b459db40-3fcc-4813-8275-467963063ef4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Haben Sie bereits einige Grünpflanzen zu Hause und möchten Ihre Raumbegrünung auf „pflegeleicht“ umstellen? Mit diesen Tipps können Sie Ihre Zimmerpflanzen pflegeleicht machen. <\/p>"
+          }
+        },
+        "d7aea094-6743-466d-95bd-c694f893808d": {
+          "type": "unordered_list",
+          "settings": {
+            "unordered_list": "<p>- Mit dem Elho Aqua Care können Sie noch mehr Zeit sparen oder für eine Weile verreisen. Der gefüllte <a href=\"\/products\/aqua-care-transparent\" title=\"Elho Aqua Care\">Wasserspender <\/a>wird in die Blumenerde gesteckt. Durch die Kapillarwirkung gibt er nach und nach Wasser an den Wurzelballen ab. Der Aqua Care von Elho ist auch dann eine große Hilfe, wenn man Pflanzen liebt und manchmal vergisst, sie nach Bedarf zu gießen. Er sorgt dafür, dass Ihre Zimmerpflanze immer genau so viel Wasser bekommt, wie sie braucht. So bekommen die Grünpflanzen weder zu viel noch zu wenig Wasser.*<\/p><p>- Alternativ können viele pflegeleichte Zimmerpflanzenarten in Tongranulat umgetopft werden. Das Tongranulat speichert das Gießwasser. Ein Wasserstandsanzeiger zeigt Ihnen an, wann und wie viel gegossen werden muss.<\/p>"
+          }
+        },
+        "64c22d26-44a7-442c-87b1-6a64e5421b65": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pflegeleichte Zimmerpflanzen online kaufen auf Gartencenter.de"
+          }
+        },
+        "4b44b716-29ac-4bff-93d9-49c3acbcd61b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Zimmerpflanzen pflegeleicht sind, erspart man sich regelmäßiges Gießen sowie das häufige Zurückschneiden und Düngen. Ganz gleich, ob Sie eine üppige Blattpflanze für Ihr Wohn- oder Arbeitszimmer suchen oder sich für eine Sammlung kleiner Kakteen in hübschen Blumentöpfen interessieren, bei Gartencenter.de finden Sie ein gut sortiertes Angebot an Zimmerpflanzen mit geringem Pflegebedarf. <\/p><p>Im Sortiment von Gartencenter.de können Sie pflegeleichte Zimmerpflanzen online kaufen, die Ihre Innenräume wunderbar begrünen werden. Bestellen Sie Zimmerpflanzen im Online-Shop und lassen Sie sich alles nach Hause liefern. Das spart Ihnen auf jeden Fall wieder etwas Zeit!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19050676748637__a332a0c0-d47c-4d1a-8280-c138ee4a944d-heading-1",
+        "template--19050676748637__a332a0c0-d47c-4d1a-8280-c138ee4a944d-text-1",
+        "78ef1480-2827-4a39-8c5c-9ebba681de37",
+        "b459db40-3fcc-4813-8275-467963063ef4",
+        "d7aea094-6743-466d-95bd-c694f893808d",
+        "64c22d26-44a7-442c-87b1-6a64e5421b65",
+        "4b44b716-29ac-4bff-93d9-49c3acbcd61b"
       ],
       "settings": {
         "padding_top": 12,
@@ -608,21 +905,17 @@
     "63f32f95-dde4-49e7-bc58-32c9cef87283",
     "30e646ab-2b8a-480f-9f93-d6ff5f19bf99",
     "b7ad6425-f8a5-45fc-a938-b0b5d885589f",
-    "35633e9d-60e7-46cb-9247-9a1c17dd3950",
-    "52010041-04f4-4824-9fd1-8323e3b74a6a",
-    "81096c48-6589-4eb4-9c82-94dc24edf1c4",
-    "77099d1b-500f-4d16-8055-58098379c03b",
-    "8310c594-a22a-48b0-998d-546ade49bf21",
-    "0a925b14-4602-4707-9147-7be5fd890491",
-    "60860248-6fa6-48ca-8170-94323013158b",
-    "c5e9bbc1-6771-4219-9b52-d4b0d8196fda",
-    "6bd0fb99-2d73-46c3-ba9b-06382961e835",
-    "7cda55d3-d324-4fe2-8bba-f52f0199b72b",
-    "99c0bfe3-cc64-4135-abd4-30d8938e3d87",
+    "30b73858-481c-425c-b523-7a059efdd78f",
+    "8a0b6200-38db-40a9-a650-e80fb8215a81",
+    "2473cc2f-ea76-4d4a-8ee1-5a2bd0ba08e9",
+    "da76847f-3fa5-424c-987d-580d9b28561c",
+    "f9d30889-54df-4147-9aa7-ce1cdc78a6b2",
     "3fe4fa9a-a1d1-4f72-a6bc-bcb8822c6985",
     "0296f157-525c-4c56-8ea8-0ad8b8025e79",
     "a71dadd1-a089-4af2-9869-87cec5d8c2bb",
     "02709da8-0d27-45a3-a2bd-d1deaf7cd969",
+    "98d8d920-2e5f-43c7-b53f-5c1043bb88cd",
+    "a332a0c0-d47c-4d1a-8280-c138ee4a944d",
     "51f5e1f3-16a0-481d-a69e-f38506219494",
     "1d5a98cf-1cc6-4f19-8240-9cf3cd0a5eff"
   ]

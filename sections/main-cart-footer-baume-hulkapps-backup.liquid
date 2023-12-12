@@ -22,11 +22,11 @@
               <div class="js-contents" {{ block.shopify_attributes }}>
                 <div class="totals">
                   <ul class="list-unstyled totals">
-                    <li>Gesamtbetrag des Produkts <span class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</span></li>
+                    <li>Gesamtbetrag des Produkts <span  data-hulkapps-cart-total class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</span></li>
                     <li class="totals-postage-costs">Versandkosten <span class="{%- if cart.total_price >= 10000 -%}totals__subtotal-freeshipping{%- endif -%}">{%- if cart.total_price >= 10000 -%}Kostenlos{%- else -%}7,99{%- endif -%}</span></li>
                     <li class="totals-postage-costs_has_bob">Versandkosten <span>200,00</span></li>
-                    <li class="totals-total">Gesamtbetrag<span>{%- if cart.total_price >= 10000 -%}{{ cart.total_price | money_with_currency }}{%- else -%}{{ cart.total_price | money_with_currency | plus: 7.99 }}{%- endif -%}</span></li>
-                    <li class="totals-total totals-total_has_bob">Gesamtbetrag<span>{{ cart.total_price | money_with_currency }}</span></li>
+                    <li  data-hulkapps-cart-total class="totals-total">Gesamtbetrag<span>{%- if cart.total_price >= 10000 -%}{{ cart.total_price | money_with_currency }}{%- else -%}{{ cart.total_price | money_with_currency | plus: 7.99 }}{%- endif -%}</span></li>
+                    <li  data-hulkapps-cart-total class="totals-total totals-total_has_bob">Gesamtbetrag<span>{{ cart.total_price | money_with_currency }}</span></li>
                     <li>
                       <div class="tax-note rte">
                         {%- if cart.taxes_included and shop.shipping_policy.body != blank -%}

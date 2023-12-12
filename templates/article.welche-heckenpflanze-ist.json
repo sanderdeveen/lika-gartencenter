@@ -1,0 +1,582 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "related_title": "Lieferungen"
+      }
+    },
+    "a7847f8b-4aa5-48fd-8cf8-1eae6f800ba3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__a7847f8b-4aa5-48fd-8cf8-1eae6f800ba3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "1. Ich möchte eine buntlaubige Hecke"
+          }
+        },
+        "template--20105624846685__a7847f8b-4aa5-48fd-8cf8-1eae6f800ba3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ist Ihnen eine grüne Hecke zu langweilig und mögen Sie es lieber etwas bunter? Buntlaubige Heckenpflanzen bringen Abwechslung und Farbe in den Garten. Da wäre zum Beispiel der <a href=\"\/products\/kirschlorbeer-etna\" title=\"Kirschlorbeer 'Etna'\">Kirschlorbeer (Prunus laurocerasus) ‘Etna’<\/a>, der durch seine frischgrünen Blätter mit bronzefarbenem Austrieb bezaubert. Noch eindrucksvoller ist eine <a href=\"\/products\/glanzmispelhecke\" title=\"Glanzmispelhecke\">Glanzmispelhecke<\/a>. Ihre leuchtend roten Blätter sorgen das ganze Jahr über für ein einzigartiges Farbenspiel im Garten. Aber auch die <a href=\"\/products\/blutbuchenhecke\" title=\"Blutbuchenhecke\">Blutbuchenhecke<\/a> macht mit ihrem dunkelroten Laub ganz schön was her. Blutbuchen sind zudem robuste, pflegeleichte Pflanzen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__a7847f8b-4aa5-48fd-8cf8-1eae6f800ba3-heading-1",
+        "template--20105624846685__a7847f8b-4aa5-48fd-8cf8-1eae6f800ba3-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "6564b7c7-8290-4fb0-9f46-0a14d261d2cd": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "6a4a50c4-ba51-4d5c-89d9-197142e0700c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kirschlorbeer-prunus-laurocerasus-etna-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "cfb28560-4566-431e-be07-03eef8b363e4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blutbuchenhecke-100-125-cm.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "6a4a50c4-ba51-4d5c-89d9-197142e0700c",
+        "cfb28560-4566-431e-be07-03eef8b363e4"
+      ],
+      "settings": {
+      }
+    },
+    "68e052e2-4db9-46be-9e0b-64fb9f88261f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__68e052e2-4db9-46be-9e0b-64fb9f88261f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "2. Ich möchte eine Hecke mit essbaren Früchten"
+          }
+        },
+        "template--20105624846685__68e052e2-4db9-46be-9e0b-64fb9f88261f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Für alle, die sich eine schöne Hecke wünschen und gerne mit frischen Zutaten aus dem eigenen Garten kochen, gibt es auch Heckenpflanzen mit essbare Früchten. Zwei gute Beispiele dafür sind die <a href=\"\/products\/kupfer-felsenbirne\" title=\"Kupfer-Felsenbirne\">Kupfer-Felsenbirne<\/a> und die <a href=\"\/products\/oelweide\" title=\"Ölweide\">Ölweidenhecke<\/a>. Die süß-sauren Früchte dieser Heckenpflanzen können entweder frisch verzehrt oder zu Marmelade eingekocht werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__68e052e2-4db9-46be-9e0b-64fb9f88261f-heading-1",
+        "template--20105624846685__68e052e2-4db9-46be-9e0b-64fb9f88261f-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "a9f9b6cf-e516-4fea-9711-02009c8f5ef1": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "04272f78-f290-45f9-b7e8-da9a863cb526": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amelanchier-lamarckii-kupfer-felsenbirne.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "3ab412d6-473a-417e-990c-8aef046a8ff6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elaeagnus-ebbingei-oelweide.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "04272f78-f290-45f9-b7e8-da9a863cb526",
+        "3ab412d6-473a-417e-990c-8aef046a8ff6"
+      ],
+      "settings": {
+      }
+    },
+    "9e969c97-3f7d-4145-a05d-ed602d50b3e2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__9e969c97-3f7d-4145-a05d-ed602d50b3e2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "3. Ich möchte eine Hecke, die Vögel anlockt"
+          }
+        },
+        "template--20105624846685__9e969c97-3f7d-4145-a05d-ed602d50b3e2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie sich fröhliches Vogelgezwitscher im Garten wünschen, sollten Sie sich unsere „vogelfreundlichen“ Hecken ansehen. Ein gutes Beispiel dafür ist die <a href=\"\/products\/eingriffeliger-weissdorn\" title=\"Eingriffeliger Weißdorn\">Weißdornhecke<\/a>. Der dornige Strauch bietet den Vögeln Schutz und Unterschlupf. Weißdornhecken werden auch gerne in Kombination mit Feldahorn gepflanzt. Diese attraktiven Mischhecken sind sehr blickdicht und nahezu undurchdringlich. Aber auch Stechpalmenhecken sind bei Vögeln äußerst beliebt und liefern mit ihren weißen Blüten und roten Beeren eine willkommene Winternahrung.<\/p>"
+          }
+        },
+        "635a028d-51f8-47a8-8369-61b58de04c10": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/crataegus-monogyna-eingriffeliger-weissdorn.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__9e969c97-3f7d-4145-a05d-ed602d50b3e2-heading-1",
+        "template--20105624846685__9e969c97-3f7d-4145-a05d-ed602d50b3e2-text-1",
+        "635a028d-51f8-47a8-8369-61b58de04c10"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "a5529801-88ef-4e8b-aac8-d5441517a698": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__a5529801-88ef-4e8b-aac8-d5441517a698-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "4. Ich möchte Katzen und Hunde aus meinem Garten fernhalten"
+          }
+        },
+        "template--20105624846685__a5529801-88ef-4e8b-aac8-d5441517a698-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie keinen Wert auf unerwünschten Besuch von Hunden und Katzen aus der Nachbarschaft legen, ist eine Dornenhecke genau das Richtige für Sie! Wie wäre es mit einer <a href=\"\/products\/grossblattrige-berberitze\" title=\"Großblättrige Berberitze\">Berberitzenhecke<\/a>, Weißdornhecke oder <a href=\"\/products\/ahornhecke\" title=\"Ahornhecke\">Feldahornhecke<\/a>? Diese Heckenpflanzen zeichnen ich durch ihre spitze Dornen bzw. ihren undurchdringlichen Wuchs aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__a5529801-88ef-4e8b-aac8-d5441517a698-heading-1",
+        "template--20105624846685__a5529801-88ef-4e8b-aac8-d5441517a698-text-1"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "d68fa73f-19b5-47a0-9f6b-42381abf0b7a": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "e55a8d0d-b4e1-40a2-885a-3b9352c77fe0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/berberis-julianae-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "b7a13d14-c4a3-45b4-b6c7-343ae56832ff": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/acer-campestre-ahornhecke.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e55a8d0d-b4e1-40a2-885a-3b9352c77fe0",
+        "b7a13d14-c4a3-45b4-b6c7-343ae56832ff"
+      ],
+      "settings": {
+      }
+    },
+    "43b2e963-9a00-429c-bc2c-4eb72f27dd86": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__43b2e963-9a00-429c-bc2c-4eb72f27dd86-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "5. Ich möchte eine Hecke mit fernöstlichem Flair"
+          }
+        },
+        "template--20105624846685__43b2e963-9a00-429c-bc2c-4eb72f27dd86-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Möchten Sie eine besonders entspannte Atmosphäre in Ihrem Garten schaffen? Eine grüne Oase mit fernöstlichem Flair und dem sanften Rauschen der Blätter als Geräuschkulisse? Dann sollten Sie sich unsere <a href=\"\/collections\/bambuspflanzen-als-hecke\" title=\"Bambuspflanzen als Hecke\">Bambushecken<\/a> ansehen!<\/p>"
+          }
+        },
+        "03d49477-9aef-4813-8e55-543bf4554f22": {
+          "type": "image",
+          "settings": {
+            "image_url": "shopify:\/\/products\/nicht-wuchernder-bambus-rufa",
+            "image": "shopify:\/\/shop_images\/bambushecke-fargesia-rufa-neu.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__43b2e963-9a00-429c-bc2c-4eb72f27dd86-heading-1",
+        "template--20105624846685__43b2e963-9a00-429c-bc2c-4eb72f27dd86-text-1",
+        "03d49477-9aef-4813-8e55-543bf4554f22"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "30264fb0-ad1c-4bf4-ac36-c5deed586da3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__30264fb0-ad1c-4bf4-ac36-c5deed586da3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "6. Ich möchte eine klassische Hecke mit Stil"
+          }
+        },
+        "template--20105624846685__30264fb0-ad1c-4bf4-ac36-c5deed586da3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bevorzugen Sie eine elegante Gartengestaltung im klassischen Stil? Dann ist eine <a href=\"\/collections\/buchsbaumhecke\" title=\"Buchsbaumhecke\">Buchsbaumhecke<\/a> genau das Richtige für Sie! Buchsbaumhecken sind ein wahrer Klassiker. Sie lassen sich in jede gewünschte Form schneiden und eignen sich ganz hervorragend als Beet-, Rasen- oder Wegeinfassung. Eine ähnlich stilvolle Variante ist die <a href=\"\/collections\/eibe\" title=\"Eibe\">Eibenhecke<\/a>, die mit ihren dunkelgrünen Nadeln auch im Winter einen sehr dekorativen Anblick bietet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__30264fb0-ad1c-4bf4-ac36-c5deed586da3-heading-1",
+        "template--20105624846685__30264fb0-ad1c-4bf4-ac36-c5deed586da3-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e3e5426c-2256-47b9-bc2d-9dc43d9dd5b8": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "21590818-4c04-4d05-96f6-c6edf66c9c62": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buchshecke-blaettern.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "c18a7e80-c222-43ca-a677-014ed87bcc6c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/taxus-baccata-eibenhecke.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "21590818-4c04-4d05-96f6-c6edf66c9c62",
+        "c18a7e80-c222-43ca-a677-014ed87bcc6c"
+      ],
+      "settings": {
+      }
+    },
+    "dc5e9844-b9cf-4833-927a-8cdc0bad3987": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__dc5e9844-b9cf-4833-927a-8cdc0bad3987-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "7. Ich möchte einen pflegeleichten grünen Sichtschutz"
+          }
+        },
+        "template--20105624846685__dc5e9844-b9cf-4833-927a-8cdc0bad3987-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Suchen Sie eine pflegeleichte Hecke, die schnell wächst und einen guten Sichtschutz bietet? Dann empfehlen wir Ihnen, eine Koniferenhecke zu pflanzen. <a href=\"\/collections\/koniferen\" title=\"Koniferen\">Koniferen<\/a>, auch Thujen oder Lebensbaum genannt, sind sehr robuste, schnellwüchsige Heckenpflanzen. Das gilt übrigens auch für die preisgünstige Rotbuchenhecke. <a href=\"\/products\/rotbuchenhecke\" title=\"Rotbuchenhecke\">Rotbuchenhecken<\/a> sind vielseitig, pflegeleicht und der perfekte Sichtschutz!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__dc5e9844-b9cf-4833-927a-8cdc0bad3987-heading-1",
+        "template--20105624846685__dc5e9844-b9cf-4833-927a-8cdc0bad3987-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "bbe1f4b8-a416-4c7c-b577-7619ab37b107": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "e498e8e0-f9bf-46cb-9cad-27da6537376a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/koniferen-hecke-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "b7d9cdb4-e36f-420c-bd4c-ff451d9a2819": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rotbuchenhecke-ratgeber.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e498e8e0-f9bf-46cb-9cad-27da6537376a",
+        "b7d9cdb4-e36f-420c-bd4c-ff451d9a2819"
+      ],
+      "settings": {
+      }
+    },
+    "1e2c0c4f-efc0-4a76-8014-9412f455f890": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__1e2c0c4f-efc0-4a76-8014-9412f455f890-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "8. Ich möchte eine Hecke, die auch im Winter grün bleibt"
+          }
+        },
+        "template--20105624846685__1e2c0c4f-efc0-4a76-8014-9412f455f890-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie sich eine Hecke wünschen, die nicht nur ihre Blätter behält, sondern auch ganzjährig grün bleibt, sollten Sie sich für eine immergrüne Hecke entscheiden. Wie wär‘s mit einer <a href=\"\/collections\/stechpalme\" title=\"Stechpalme\">Stechpalmenhecke<\/a>? Die Stechpalme ist sehr robust, langlebig und bezaubert auch im Winter mit ihren schönen dunkelgrünen Blättern. Auch Eibenhecken, Kirschlorbeerhecken und Koniferenhecken bleiben das ganze Jahr über grün.<\/p>"
+          }
+        },
+        "4b8d6e37-0c31-43bc-941a-f3a394f67cd6": {
+          "type": "image",
+          "settings": {
+            "image_url": "",
+            "image": "shopify:\/\/shop_images\/stechpalme-ratgeber-neu.jpg",
+            "columns_mobile": "1",
+            "columns_desktop": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__1e2c0c4f-efc0-4a76-8014-9412f455f890-heading-1",
+        "template--20105624846685__1e2c0c4f-efc0-4a76-8014-9412f455f890-text-1",
+        "4b8d6e37-0c31-43bc-941a-f3a394f67cd6"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "fc735ee9-ad57-4c7a-ab59-101163a51e78": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__fc735ee9-ad57-4c7a-ab59-101163a51e78-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "9. Ich möchte eine niedrige Hecke"
+          }
+        },
+        "template--20105624846685__fc735ee9-ad57-4c7a-ab59-101163a51e78-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Suchen Sie eine klein bleibende Heckenpflanze, die auch als Bodendecker gepflanzt werden kann? Dann könnte Ihnen eine <a href=\"\/collections\/kirschlorbeer\" title=\"Kirschlorbeer\">Kirschlorbeerhecke<\/a> oder die Heckenmyrte 'Maigrün' gefallen. Soll die Hecke nicht höher als 50 cm werden, empfehlen wir Ihnen den Kirschlorbeer ‘Mount Vernon’. Diese Sorte, auch Zwerg-Kirschlorbeer genannt, eignet sich hervorragend als Bodendecker und für kleinere Gärten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__fc735ee9-ad57-4c7a-ab59-101163a51e78-heading-1",
+        "template--20105624846685__fc735ee9-ad57-4c7a-ab59-101163a51e78-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e974310f-2bcb-4459-aeab-b91582a5a0c9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__e974310f-2bcb-4459-aeab-b91582a5a0c9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "10. Ich wohne in Küstennähe – welche Hecke ist dafür geeignet?"
+          }
+        },
+        "template--20105624846685__e974310f-2bcb-4459-aeab-b91582a5a0c9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie einen Garten in Küstennähe haben, ist es gar nicht so einfach, eine geeignete Heckenpflanze zu finden. Zum Glück gibt es auch Heckenpflanzen, wie beispielsweise die Schnellwüchsige <a href=\"\/products\/schnellwuchsige-leyland-zypresse-2001\" title=\"Schnellwüchsige Leyland-Zypresse '2001'\">Leyland-Zypresse '2001‘<\/a> oder den <a href=\"\/products\/lebensbaum-holmstrup\" title=\"Lebensbaum 'Holmstrup'\">Lebensbaum 'Holmstrup'<\/a>, die sich dort sehr wohl fühlen. Diese beiden Koniferen-Arten sind sehr windbeständig. Auch Ölweidenhecken vertragen salzige Luft und starken Wind.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__e974310f-2bcb-4459-aeab-b91582a5a0c9-heading-1",
+        "template--20105624846685__e974310f-2bcb-4459-aeab-b91582a5a0c9-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "b8afb4cf-5e62-46cf-9d58-de9bb4a5928d": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "c9f64606-7c29-4cce-9518-f49bed5656d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leyland-zypresse-2001.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "4aa874a4-43ed-4c4a-9277-7286f5d0eafc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lebensbaum-holmstrup-thuja.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "c9f64606-7c29-4cce-9518-f49bed5656d4",
+        "4aa874a4-43ed-4c4a-9277-7286f5d0eafc"
+      ],
+      "settings": {
+      }
+    },
+    "2b268f15-d3fd-424c-ab26-7e24a6bfe451": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__2b268f15-d3fd-424c-ab26-7e24a6bfe451-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "11. Ich möchte sofort eine perfekte grüne Hecke"
+          }
+        },
+        "template--20105624846685__2b268f15-d3fd-424c-ab26-7e24a6bfe451-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn Sie sich eine „schnelle“ Hecke mit sofortigem Sichtschutz wünschen, sollten Sie sich unsere <a href=\"\/collections\/fertighecken\" title=\"Fertighecken\">Fertighecken<\/a> ansehen. Fertighecken bestehen aus einem oder mehreren bereits vollständig bewachsenen Gittern, die an Pfosten befestigt werden. Die Pflanzen werden an den Gittern herangezogen und sind bereits beim Kauf blickdicht verwachsen. Unsere Fertighecken sind mit verschiedenen Pflanzenarten, wie zum Beispiel Efeu, Feuerdorn, Sternjasmin oder Hainbuchen erhältlich.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__2b268f15-d3fd-424c-ab26-7e24a6bfe451-heading-1",
+        "template--20105624846685__2b268f15-d3fd-424c-ab26-7e24a6bfe451-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f1fb9ee0-bd2b-430b-b3b8-166063b2b6c6": {
+      "type": "inspiration-photo-block",
+      "blocks": {
+        "0a64f4dd-1394-4450-9afa-450d52aa55b3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hainbuchen-garten-fertighecken-untergrundes.jpg",
+            "text": "",
+            "url": ""
+          }
+        },
+        "a6b9e307-ef77-4821-ac9d-0d7192ef9049": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hedera-helix-woerner-fertighecke-immergrun.jpg",
+            "text": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "0a64f4dd-1394-4450-9afa-450d52aa55b3",
+        "a6b9e307-ef77-4821-ac9d-0d7192ef9049"
+      ],
+      "settings": {
+      }
+    },
+    "86172cbc-f4dc-4003-a870-7afd21e51131": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20105624846685__86172cbc-f4dc-4003-a870-7afd21e51131-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie Sie sehen, ist unser Angebot an Heckenpflanzen sehr umfangreich. Wir hoffen, dass wir Ihnen mit unserem Beitrag geholfen haben, die richtige Wahl zu treffen. Sollten Sie dennoch Fragen haben oder weitere Informationen wünschen, nehmen Sie bitte Kontakt mit unserem Kundenservice auf.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20105624846685__86172cbc-f4dc-4003-a870-7afd21e51131-text-1"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e9cefc43-0579-4356-839d-a37212000bbb": {
+      "type": "author",
+      "settings": {
+        "author": "arnout"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a7847f8b-4aa5-48fd-8cf8-1eae6f800ba3",
+    "6564b7c7-8290-4fb0-9f46-0a14d261d2cd",
+    "68e052e2-4db9-46be-9e0b-64fb9f88261f",
+    "a9f9b6cf-e516-4fea-9711-02009c8f5ef1",
+    "9e969c97-3f7d-4145-a05d-ed602d50b3e2",
+    "a5529801-88ef-4e8b-aac8-d5441517a698",
+    "d68fa73f-19b5-47a0-9f6b-42381abf0b7a",
+    "43b2e963-9a00-429c-bc2c-4eb72f27dd86",
+    "30264fb0-ad1c-4bf4-ac36-c5deed586da3",
+    "e3e5426c-2256-47b9-bc2d-9dc43d9dd5b8",
+    "dc5e9844-b9cf-4833-927a-8cdc0bad3987",
+    "bbe1f4b8-a416-4c7c-b577-7619ab37b107",
+    "1e2c0c4f-efc0-4a76-8014-9412f455f890",
+    "fc735ee9-ad57-4c7a-ab59-101163a51e78",
+    "e974310f-2bcb-4459-aeab-b91582a5a0c9",
+    "b8afb4cf-5e62-46cf-9d58-de9bb4a5928d",
+    "2b268f15-d3fd-424c-ab26-7e24a6bfe451",
+    "f1fb9ee0-bd2b-430b-b3b8-166063b2b6c6",
+    "86172cbc-f4dc-4003-a870-7afd21e51131",
+    "e9cefc43-0579-4356-839d-a37212000bbb"
+  ]
+}

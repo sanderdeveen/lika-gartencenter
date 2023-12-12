@@ -203,6 +203,14 @@
             "image": "shopify:\/\/shop_images\/zierstammchen.jpg",
             "header": "Zierstämmchen"
           }
+        },
+        "81157d66-197e-4480-beb6-28db4ff32e88": {
+          "type": "collection_grid_links",
+          "settings": {
+            "url": "shopify:\/\/collections\/balkon-und-terrassen",
+            "image": "shopify:\/\/shop_images\/balkon-und-terasse-pflanzen-gartenpflanzen.jpg",
+            "header": "Balkon & Terasse"
+          }
         }
       },
       "block_order": [
@@ -218,7 +226,8 @@
         "50551bf3-9155-4d8c-a14a-2cbd4e051bdd",
         "30bebbc6-1a35-4e0a-8aee-aeede53a4143",
         "94d6c5e9-f070-4075-acd4-5042c6b456cf",
-        "ebf48185-0101-411f-80f1-af9eed808262"
+        "ebf48185-0101-411f-80f1-af9eed808262",
+        "81157d66-197e-4480-beb6-28db4ff32e88"
       ],
       "settings": {
         "header": "",

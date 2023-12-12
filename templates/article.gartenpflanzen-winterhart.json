@@ -94,10 +94,10 @@
             "columns_desktop": 1
           }
         },
-        "d1183f3a-cbff-4acf-b8a7-7a807e7961a2": {
-          "type": "heading",
+        "c7777e35-8954-4719-9711-6a9a5f20d016": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Winterharte Stauden<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Winterharte stauden<\/h>"
           }
         },
         "3bfb3693-f147-4371-b75f-f918b30410a5": {
@@ -116,7 +116,7 @@
         "e28c7b9f-2ff9-4b08-b2b6-cc5d0187c8bb",
         "ed9a44c7-01ff-49b2-8968-3ef3bc1251e0",
         "c3e1c154-6bbd-4f7b-bac0-c397eaaabe99",
-        "d1183f3a-cbff-4acf-b8a7-7a807e7961a2",
+        "c7777e35-8954-4719-9711-6a9a5f20d016",
         "3bfb3693-f147-4371-b75f-f918b30410a5"
       ],
       "settings": {
@@ -154,10 +154,10 @@
     "97da6225-98c4-4cbf-926c-14af2904d722": {
       "type": "rich-text",
       "blocks": {
-        "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-heading-1": {
-          "type": "heading",
+        "60229473-3cda-4491-a163-516ca35d8284": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Winterharte Gehölze<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Winterharte Gehölze<\/h>"
           }
         },
         "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-text-1": {
@@ -168,7 +168,7 @@
         }
       },
       "block_order": [
-        "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-heading-1",
+        "60229473-3cda-4491-a163-516ca35d8284",
         "template--19863902781789__97da6225-98c4-4cbf-926c-14af2904d722-text-1"
       ],
       "settings": {
@@ -206,10 +206,10 @@
     "8491f930-2dc4-456b-9751-797eef810dd1": {
       "type": "rich-text",
       "blocks": {
-        "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-heading-1": {
-          "type": "heading",
+        "a35b043c-990c-40c1-a9b1-10d4215d3ac3": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Winterharte Gräser<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Winterharte Gräser<\/h>"
           }
         },
         "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-text-1": {
@@ -218,10 +218,10 @@
             "text": "<ul><li><a href=\"\/products\/pampasgras-rosa\" title=\"Pampasgras rosa\">Pampasgras rosa (Cortaderia selloana 'Rosea')<\/a><\/li><\/ul><p>Die Winterhärte dieser Ziergrasart wird mit -20 °C angegeben. Diese Widerstandsfähigkeit reicht für die Winterhärtezone 6b, die beispielsweise im Nationalpark Harz am Brocken vorherrscht.<\/p><ul><li><a href=\"\/products\/lampenputzergras\" title=\"Lampenputzergras\">Lampenputzergras (Pennisetum alopecuroides 'Hameln')<\/a><\/li><\/ul><p>Dieses wunderschön <strong>blühende Schmuckgra<\/strong>s ist bis -27 °C frostsicher und ziert mit dem Grashalmbüschel und den Bürstenblüten auch im Winter Gartenbeete und Rabatten.<\/p><ul><li><a href=\"\/products\/blauschwingel\" title=\"Blauschwingel\">Blauschwingel Festuca glauca 'Elijah Blue'<\/a><\/li><\/ul><p>Das winterharte Ziergras bildet schöne runde Grasbüschel und fällt mit den <strong>bläulichen Halmen<\/strong> auch im Winter auf. Die Frosthärte beträgt bis zu -22 °C.<\/p>"
           }
         },
-        "f65bc32f-d765-4e34-b7a4-0c926aba443d": {
-          "type": "heading",
+        "7a7e4ee2-180f-46b3-b6e5-22fcc5a0bfae": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Winterharte Zwiebelblumen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Winterharte Zwiebelblumen<\/h>"
           }
         },
         "818f8dee-43f4-4907-ad2e-02ba0d8b1dc1": {
@@ -232,9 +232,9 @@
         }
       },
       "block_order": [
-        "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-heading-1",
+        "a35b043c-990c-40c1-a9b1-10d4215d3ac3",
         "template--19863902781789__8491f930-2dc4-456b-9751-797eef810dd1-text-1",
-        "f65bc32f-d765-4e34-b7a4-0c926aba443d",
+        "7a7e4ee2-180f-46b3-b6e5-22fcc5a0bfae",
         "818f8dee-43f4-4907-ad2e-02ba0d8b1dc1"
       ],
       "settings": {
@@ -309,7 +309,6 @@
         "cc120513-500b-4aab-a117-6933d7ada921",
         "2bd54bf5-4ae5-4e0c-af6e-846284a4fb24"
       ],
-      "disabled": true,
       "settings": {
         "heading": "Topseller winterharte Zwiebelblumen",
         "text": ""
@@ -318,10 +317,10 @@
     "a8da2152-a323-4178-b66f-ba3c3a6ebef1": {
       "type": "rich-text",
       "blocks": {
-        "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-heading-1": {
-          "type": "heading",
+        "fc546c7f-adc9-4f73-8605-517972ec5c1d": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "<h3>Winterharte Kübelpflanzen<\/h3>"
+            "custom_liquid": "<h2 class=\"h3\">Winterharte Kübelpflanzen<\/h>"
           }
         },
         "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-text-1": {
@@ -371,7 +370,7 @@
         }
       },
       "block_order": [
-        "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-heading-1",
+        "fc546c7f-adc9-4f73-8605-517972ec5c1d",
         "template--19863902781789__a8da2152-a323-4178-b66f-ba3c3a6ebef1-text-1",
         "c052f63e-4880-4231-a9b7-9ce8486cef05",
         "a92c88e5-c94a-4aac-b99d-4bab15c24a9e",
